@@ -1,0 +1,47 @@
+name: "Submit Preprint (Phase 1 Diamond OA)"
+description: "Submit a scientific preprint for instant automated screening and Zenodo DOI minting."
+title: "[PREPRINT]: "
+labels: ["preprint", "screening-pending"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### EdiTxt Preprints Submission (iMedPub)
+        Free Diamond Open Access (0€ APC). Preprints passing screening receive an official Zenodo DOI and Merkle audit receipt.
+  - type: input
+    id: preprint_title
+    attributes:
+      label: Preprint Title
+      description: "Must describe the scientific findings without citing journal names, years, or authors."
+      placeholder: "e.g. In Silico Saturation Mutagenesis of Non-Coding Enhancers"
+    validations:
+      required: true
+  - type: textarea
+    id: authors
+    attributes:
+      label: Authors & ORCIDs
+      placeholder: "Dr. Jane Doe (University X, ORCID: 0000-0002-...)"
+    validations:
+      required: true
+  - type: textarea
+    id: abstract
+    attributes:
+      label: Abstract
+    validations:
+      required: true
+  - type: input
+    id: public_repo
+    attributes:
+      label: Public Data / Code Repository (HTTP 200)
+      placeholder: "https://github.com/organization/reproducible-code"
+    validations:
+      required: true
+  - type: checkboxes
+    id: declarations
+    attributes:
+      label: Declarations
+      options:
+        - label: "All code and data repositories cited are publicly accessible without authentication."
+          required: true
+        - label: "I license this work under Creative Commons Attribution 4.0 International (CC BY 4.0)."
+          required: true
