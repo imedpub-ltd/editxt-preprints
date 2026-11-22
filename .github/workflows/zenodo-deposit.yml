@@ -1,0 +1,58 @@
+name: "Zenodo Deposition Gateway (Phase 1)"
+
+on:
+  workflow_dispatch:
+    inputs:
+      manuscript_path:
+        description: 'Path to manuscript file (e.g. draft.md or manuscripts/bin1/manuscript.md)'
+        required: true
+        default: 'draft.md'
+      mode:
+        description: 'Deposition mode (Default: dry-run)'
+        required: true
+        type: choice
+        default: 'dry-run'
+        options:
+          - 'dry-run'
+          - 'draft'
+          - 'publish'
+      confirm_live_publish:
+        description: 'Type "CONFIRM" if mode is publish (Strict Safety Gate)'
+        required: false
+        default: ''
+
+permissions:
+  contents: read
+
+jobs:
+  deposit:
+    name: Execute Zenodo Deposition
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Run Zenodo Deposit Script
+        env:
+          ZENODO_TOKEN: ${{ secrets.ZENODO_TOKEN }}
+        run: |
+          MODE="${{ github.event.inputs.mode }}"
+          CONFIRM="${{ github.event.inputs.confirm_live_publish }}"
+          FLAG="--dry-run"
+
+          if [ "$MODE" = "draft" ]; then
+            FLAG="--draft"
+          elif [ "$MODE" = "publish" ]; then
+            if [ "$CONFIRM" != "CONFIRM" ]; then
+              echo "::error ::Safety Guard: To publish live, you must set confirm_live_publish to 'CONFIRM'."
+              exit 1
+            fi
+            FLAG="--publish"
+          fi
+
+          node bin/zenodo-deposit.cjs "${{ github.event.inputs.manuscript_path }}" $FLAG

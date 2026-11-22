@@ -1,0 +1,57 @@
+name: "Preprint Screening Gate (Phase 1)"
+
+on:
+  pull_request:
+    paths:
+      - 'draft.md'
+      - 'manuscripts/**'
+      - 'submissions/**'
+  workflow_dispatch:
+    inputs:
+      manuscript_path:
+        description: 'Path to manuscript file to screen'
+        required: true
+        default: 'draft.md'
+      strict_mode:
+        description: 'Enforce strict mode (fail on Major Concerns)'
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  screen-manuscript:
+    name: Phase 1 AI & Reproducibility Screening
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Run Phase 1 Screening Gate
+        id: screening
+        run: |
+          TARGET="${{ github.event.inputs.manuscript_path || 'draft.md' }}"
+          STRICT_FLAG=""
+          if [ "${{ github.event.inputs.strict_mode }}" = "true" ]; then
+            STRICT_FLAG="--strict"
+          fi
+
+          if [ -f "$TARGET" ]; then
+            node bin/screening-cli.cjs "$TARGET" --github-summary $STRICT_FLAG
+          else
+            # Look for manuscripts in PR
+            FOUND=$(find manuscripts/ submissions/ -type f \( -name "*.md" -o -name "*.json" \) 2>/dev/null | head -n 1)
+            if [ -n "$FOUND" ]; then
+              node bin/screening-cli.cjs "$FOUND" --github-summary $STRICT_FLAG
+            else
+              echo "::warning ::No manuscript found to screen at $TARGET or under manuscripts/."
+              echo "Place manuscript in draft.md or manuscripts/<slug>/manuscript.md."
+            fi
+          fi
