@@ -6,8 +6,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        ### EdiTxt Preprints Submission (iMedPub)
-        Free Diamond Open Access (0€ APC). Preprints passing screening receive an official Zenodo DOI and Merkle audit receipt.
+        ### EdiTxt Preprints Submission
+        Diamond Open Access (0€ APC). Preprints passing screening receive an official Zenodo DOI and Merkle audit receipt.
   - type: input
     id: preprint_title
     attributes:
@@ -33,7 +33,7 @@ body:
     id: manuscript_body
     attributes:
       label: Full Manuscript Content (Markdown or Text)
-      description: "Paste your manuscript sections (Introduction, Methods, Results, Discussion) or drag-and-drop your full text file here."
+      description: "Paste your manuscript sections (Introduction, Methods, Results, Discussion) or drag-and-drop your text file here."
       placeholder: |
         ## Introduction
         ...
@@ -43,6 +43,16 @@ body:
         ...
         ## Discussion
         ...
+    validations:
+      required: true
+  - type: textarea
+    id: references
+    attributes:
+      label: References / Bibliography
+      description: "List citations with DOIs, PMIDs, or formatted bibliography (one per line). Automated citation screening will verify these sources against Crossref and PubMed."
+      placeholder: |
+        - Author et al. Title. Journal Year; DOI: 10.xxxx/...
+        - PMID: 12345678
     validations:
       required: true
   - type: input

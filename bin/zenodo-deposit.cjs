@@ -202,7 +202,7 @@ async function main() {
     process.exit(1);
   }
   console.log("======================================================");
-  console.log("EdiTxt Sovereign Zenodo Deposition Gateway");
+  console.log("EdiTxt Zenodo Deposition Gateway");
   console.log(`Target:    ${fileArg}`);
   console.log(`Mode:      ${isPublish ? "\u{1F6A8} LIVE PUBLICATION (PERMANENT)" : isDraftOnly ? "\u{1F4DD} DRAFT CREATION ONLY" : "\u{1F50D} DRY-RUN (METADATA VALIDATION ONLY)"}`);
   console.log("======================================================");

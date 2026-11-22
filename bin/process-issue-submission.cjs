@@ -45,6 +45,7 @@ function main() {
   const authors = sections['Authors & ORCIDs'] || 'Anonymous Author';
   const abstract = sections['Abstract'] || '';
   const manuscriptBody = sections['Full Manuscript Content (Markdown or Text)'] || '';
+  const references = sections['References / Bibliography'] || '';
   const publicRepo = sections['Public Data / Code Repository (HTTP 200)'] || '';
 
   const slug = slugify(title) || `preprint-${issue.number}`;
@@ -61,9 +62,12 @@ function main() {
   }
   fullMarkdown += `## Abstract\n${abstract}\n\n`;
   if (manuscriptBody) {
-    fullMarkdown += `${manuscriptBody}\n`;
+    fullMarkdown += `${manuscriptBody}\n\n`;
   } else {
-    fullMarkdown += `## Note\nManuscript abstract submitted via EdiTxt Preprints Issue #${issue.number}.\n`;
+    fullMarkdown += `## Note\nManuscript abstract submitted via EdiTxt Preprints Issue #${issue.number}.\n\n`;
+  }
+  if (references) {
+    fullMarkdown += `## References\n${references}\n`;
   }
 
   fs.writeFileSync(manuscriptPath, fullMarkdown, 'utf8');
