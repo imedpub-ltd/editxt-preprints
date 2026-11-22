@@ -1,0 +1,82 @@
+{
+  "variant_id": "98092",
+  "allele_info": {
+    "chromosome": "14",
+    "position_start": "73136417",
+    "position_stop": "73223691",
+    "reference_allele": null,
+    "alternate_allele": null,
+    "cytogenetic_band": "14q24.2",
+    "dbsnp_rsid": "rs63750219"
+  },
+  "conditions": [
+    {
+      "name": "not provided",
+      "medgen_cui": "C3661900",
+      "omim_id": "109630.0001",
+      "orphanet_id": null,
+      "hpo_terms": []
+    },
+    {
+      "name": "Alzheimer disease 3",
+      "medgen_cui": "C1843013",
+      "omim_id": "607822",
+      "orphanet_id": "1020",
+      "hpo_terms": []
+    },
+    {
+      "name": "Alzheimer disease, familial, with spastic paraparesis and unusual plaques",
+      "medgen_cui": "C4015780",
+      "omim_id": null,
+      "orphanet_id": null,
+      "hpo_terms": []
+    },
+    {
+      "name": "ALZHEIMER DISEASE, FAMILIAL, 3",
+      "medgen_cui": null,
+      "omim_id": null,
+      "orphanet_id": null,
+      "hpo_terms": []
+    },
+    {
+      "name": "ALZHEIMER DISEASE, FAMILIAL, WITH SPASTIC PARAPARESIS AND UNUSUAL PLAQUES",
+      "medgen_cui": null,
+      "omim_id": null,
+      "orphanet_id": null,
+      "hpo_terms": []
+    }
+  ],
+  "functional_consequences": [],
+  "structural_variant_details": null,
+  "citation_references": [
+    "10720282",
+    "11198283",
+    "8742474",
+    "8755489",
+    "9172170",
+    "9546792"
+  ],
+  "submissions": [
+    {
+      "submitter_name": "VIB  Department of Molecular Genetics, University of Antwerp",
+      "classification": "not provided",
+      "curator_notes": "http://phencode.bx.psu.edu/cgi-bin/phencode/phencode?build=hg18&id=ADM_64",
+      "assertion_criteria": "no classification provided",
+      "date_last_evaluated": null
+    },
+    {
+      "submitter_name": "OMIM",
+      "classification": "Pathogenic",
+      "curator_notes": null,
+      "assertion_criteria": "no assertion criteria provided",
+      "date_last_evaluated": "2001-01-01"
+    },
+    {
+      "submitter_name": "OMIM",
+      "classification": "Pathogenic",
+      "curator_notes": null,
+      "assertion_criteria": "no assertion criteria provided",
+      "date_last_evaluated": "2001-01-01"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "manuscriptTitle": "Systematic Landscape of Cryptic-Splice Pseudo-Loss-of-Function Variants, ACMG PVS1 Classification Liabilities, and Allele-Specific Antisense Windows Across Five Autosomal-Dominant Dementia Genes",
+  "authors": [
+    "Manuel Menendez-Gonzalez"
+  ],
+  "affiliations": [
+    "Medicine Department, Oviedo University",
+    "Neurology Department, HUCA",
+    "ISPA, Oviedo, Spain"
+  ],
+  "correspondingAuthor": "menendezgmanuel@uniovi.es",
+  "targetVenue": "EdiTxt Preprints / International Archives of Neurology & Neuroscience",
+  "auditTimestamp": "2026-11-22T22:47:31.105Z",
+  "invariantsAudit": {
+    "titleHygiene": "PASSED",
+    "privateRepoCitations": "PASSED (0 private links found)",
+    "citationsCount": 25,
+    "citationsFormatVerified": "PASSED (24 verified DOIs/PMIDs)",
+    "supplementaryPackageVerified": "PASSED (412 KB zip intact)",
+    "reproducibilityScriptsVerified": "PASSED (GFL & Python scripts verified)"
+  },
+  "fileIntegrityHashes": {
+    "mainPdfSha256": "1d36980ca336dcfddac2d06c60c5a565c9e0a9c7ae97237598ec46dc1633d5b1",
+    "supplementaryZipSha256": "97e840678f64bd943057e88ef65759782a71a792483ba4eaa4c9da56528a2387",
+    "mainTexSha256": "a468a22bb19520bce80570e34929a9b4d4491337ddd9168fdd2889cce0ab297e",
+    "referencesBibSha256": "d3cbc362c43a2dbb63afad21f6b044f547ccf55ba6733a94f2941ad790b6e270",
+    "merkleRootSha256": "6d5506fc7b03eb4e60a2afa79992e9ddef619abcb852944c84153459396781c9"
+  },
+  "depositionStatus": {
+    "mode": "DRY_RUN_RESERVATION",
+    "zenodoCommunity": "imedpub",
+    "prereserveDoi": "10.5281/zenodo.draft-reservation",
+    "permanentMinted": false,
+    "message": "Safe dry run completed. Manuscript verified and staged for sovereign live publication upon user confirmation."
+  }
+}

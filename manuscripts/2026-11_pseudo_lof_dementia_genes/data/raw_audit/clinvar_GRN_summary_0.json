@@ -1,0 +1,7417 @@
+[
+  {
+    "variant_id": "4992056",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2026/09/26 00:00",
+    "phenotypes": [
+      "GRN-related disorder"
+    ],
+    "title": "NM_002087.4(GRN):c.835+8A>C",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4982691",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2026/02/26 00:00",
+    "phenotypes": [
+      "GRN-related disorder"
+    ],
+    "title": "NM_002087.4(GRN):c.518T>G (p.Leu173Arg)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4975491",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2026/01/22 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_002087.4(GRN):c.1442G>A (p.Cys481Tyr)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4935467",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/11/10 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_002087.4(GRN):c.1672T>G (p.Cys558Gly)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4935466",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/10/25 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_002087.4(GRN):c.1619G>T (p.Gly540Val)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4935465",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/01/13 00:00",
+    "phenotypes": [
+      "not specified"
+    ],
+    "title": "NM_002087.4(GRN):c.1413+13C>G",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4935463",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/08/30 00:00",
+    "phenotypes": [
+      "not specified"
+    ],
+    "title": "NM_002087.4(GRN):c.1224C>T (p.Tyr408=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "4935462",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/10/30 00:00",
+    "phenotypes": [
+      "not specified"
+    ],
+    "title": "NM_002087.4(GRN):c.933+19T>G",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4935461",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/10/24 00:00",
+    "phenotypes": [
+      "not specified"
+    ],
+    "title": "NM_002087.4(GRN):c.933+15C>G",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4935460",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/09/24 00:00",
+    "phenotypes": [
+      "not specified"
+    ],
+    "title": "NM_002087.4(GRN):c.933+12T>G",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4935459",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/09/05 00:00",
+    "phenotypes": [
+      "not specified"
+    ],
+    "title": "NM_002087.4(GRN):c.933+7A>G",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4935457",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2019/12/16 00:00",
+    "phenotypes": [
+      "not specified"
+    ],
+    "title": "NM_002087.4(GRN):c.609C>T (p.Ser203=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "4935456",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/08/15 00:00",
+    "phenotypes": [
+      "not specified"
+    ],
+    "title": "NM_002087.4(GRN):c.592A>G (p.Arg198Gly)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4935455",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2021/08/27 00:00",
+    "phenotypes": [
+      "not specified"
+    ],
+    "title": "NM_002087.4(GRN):c.462+20G>T",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4935454",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/09/12 00:00",
+    "phenotypes": [
+      "not specified"
+    ],
+    "title": "NM_002087.4(GRN):c.350-16G>A",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4935453",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/09/26 00:00",
+    "phenotypes": [
+      "not specified"
+    ],
+    "title": "NM_002087.4(GRN):c.265-19G>T",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4935452",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/03/07 00:00",
+    "phenotypes": [
+      "not specified"
+    ],
+    "title": "NM_002087.4(GRN):c.177C>T (p.Gly59=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "4935451",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/02/16 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_002087.4(GRN):c.77G>T (p.Cys26Phe)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4935450",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/03/11 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_002087.4(GRN):c.38G>A (p.Gly13Glu)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4935449",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/07/19 00:00",
+    "phenotypes": [
+      "GRN-related disorder"
+    ],
+    "title": "NM_002087.4(GRN):c.20G>A (p.Trp7Ter)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "nonsense"
+    ]
+  },
+  {
+    "variant_id": "4935448",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/05/02 00:00",
+    "phenotypes": [
+      "not specified"
+    ],
+    "title": "NM_002087.4(GRN):c.-8+16C>T",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4935447",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/11/27 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_002087.4(GRN):c.-18G>A",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "5 prime UTR variant"
+    ]
+  },
+  {
+    "variant_id": "4887238",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2026/06/15 00:00",
+    "phenotypes": [
+      "not specified"
+    ],
+    "title": "NM_002087.4(GRN):c.1436A>G (p.Gln479Arg)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4874130",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2026/05/01 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_002087.4(GRN):c.687T>G (p.Tyr229Ter)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "nonsense"
+    ]
+  },
+  {
+    "variant_id": "4858230",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2026/05/18 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.1216C>G (p.Gln406Glu)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4858229",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2026/04/14 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.707A>G (p.Asn236Ser)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      },
+      {
+        "gene_id": "125177489",
+        "symbol": "LOC125177489",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4858228",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2026/04/30 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.1726G>A (p.Glu576Lys)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4853297",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2026/05/28 00:00",
+    "phenotypes": [
+      "not specified"
+    ],
+    "title": "NM_002087.4(GRN):c.1251G>T (p.Gln417His)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4845849",
+    "clinical_significance": "Likely pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/03/28 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1406del (p.Leu469fs)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Deletion",
+    "molecular_consequences": [
+      "frameshift variant"
+    ]
+  },
+  {
+    "variant_id": "4841126",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2026/03/12 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.43G>A (p.Val15Met)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4840988",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2026/03/06 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.749A>C (p.Asp250Ala)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4840898",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2026/03/03 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.352A>G (p.Asn118Asp)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4839741",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2026/01/26 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.25G>A (p.Ala9Thr)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4839555",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2026/01/21 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.608C>G (p.Ser203Cys)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4839206",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2026/01/09 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.668A>G (p.Glu223Gly)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4795052",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/06/10 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1089T>C (p.Asp363=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "4795010",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/11/01 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1663C>G (p.Arg555Gly)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4794444",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/07/08 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1454G>A (p.Gly485Asp)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4793756",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2025/03/11 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11",
+      "not provided"
+    ],
+    "title": "NM_002087.4(GRN):c.778T>C (p.Cys260Arg)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4793748",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/11/10 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1281G>A (p.Glu427=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "4793527",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/09/22 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1645-8C>T",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4793348",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/03/13 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.885C>G (p.Thr295=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "4792634",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/09/15 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.946G>A (p.Glu316Lys)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4792581",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/08/11 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1377C>T (p.Ser459=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "4792387",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/07/27 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1645-13T>C",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4791721",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/12/19 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.981G>C (p.Thr327=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "4791558",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/11/03 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.617T>C (p.Val206Ala)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4791050",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/02/26 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.245G>T (p.Ser82Ile)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4790578",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/05/13 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.490T>C (p.Cys164Arg)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4790437",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/04/23 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.439T>C (p.Trp147Arg)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4790425",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/01/28 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1439A>G (p.His480Arg)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4789156",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/10/29 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.463-8T>A",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4789027",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/10/26 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1661A>G (p.Asp554Gly)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4788982",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/10/26 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1324A>G (p.Ile442Val)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4788804",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/07/24 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.735C>T (p.His245=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      },
+      {
+        "gene_id": "125177489",
+        "symbol": "LOC125177489",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "4788736",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/09/19 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1450G>A (p.Ala484Thr)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4788381",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/03/03 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.934-4C>T",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4788044",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/05/22 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.210C>G (p.Gly70=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "4788021",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/10/06 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.709-17C>T",
+    "genes": [
+      {
+        "gene_id": "125177489",
+        "symbol": "LOC125177489",
+        "strand": "+"
+      },
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4788003",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/06/15 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.934-11A>T",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4787545",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2026/02/01 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.708+8A>C",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      },
+      {
+        "gene_id": "125177489",
+        "symbol": "LOC125177489",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4787538",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/09/14 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.264+12A>G",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4786875",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/12/01 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.784_785del (p.Ser262fs)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Microsatellite",
+    "molecular_consequences": [
+      "frameshift variant"
+    ]
+  },
+  {
+    "variant_id": "4785639",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/07/21 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1761A>C (p.Pro587=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "4784053",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/02/24 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.835+9G>A",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4783301",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/09/24 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.114C>G (p.Ser38Arg)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4783250",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/12/03 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1645-4C>T",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4783237",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2026/01/13 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.752C>T (p.Thr251Ile)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4783123",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/12/28 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.141C>T (p.Asp47=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "4783064",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/03/26 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1133G>C (p.Cys378Ser)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4782523",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/12/23 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.813C>T (p.Leu271=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "4688626",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/12/30 00:00",
+    "phenotypes": [
+      "not specified"
+    ],
+    "title": "NM_002087.4(GRN):c.747A>G (p.Gln249=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      },
+      {
+        "gene_id": "125177489",
+        "symbol": "LOC125177489",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "4685376",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/07/10 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_002087.4(GRN):c.1724G>C (p.Arg575Thr)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4684225",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/11/12 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_002087.3:c.-45C>G",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": []
+  },
+  {
+    "variant_id": "4684224",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/11/07 00:00",
+    "phenotypes": [
+      "not specified"
+    ],
+    "title": "NM_002087.3:c.-72G>T",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": []
+  },
+  {
+    "variant_id": "4682311",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/01/31 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_002087.4(GRN):c.1471A>C (p.Lys491Gln)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4681541",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2026/05/01 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_002087.4(GRN):c.1170A>C (p.Pro390=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "4621192",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/11/12 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.1738T>G (p.Trp580Gly)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4621191",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/10/28 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.997G>A (p.Gly333Ser)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4542183",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/10/31 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_002087.4(GRN):c.1169C>T (p.Pro390Leu)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4542182",
+    "clinical_significance": "Likely pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/09/19 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_002087.4(GRN):c.1156_1157del (p.Trp386fs)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Deletion",
+    "molecular_consequences": [
+      "frameshift variant"
+    ]
+  },
+  {
+    "variant_id": "4542181",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/10/22 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_002087.4(GRN):c.1129A>G (p.Thr377Ala)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4534902",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/09/01 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_002087.4(GRN):c.1530T>C (p.Arg510=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "4534901",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/09/01 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_002087.4(GRN):c.1530T>A (p.Arg510=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "4533744",
+    "clinical_significance": "Likely pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/11/01 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_002087.4(GRN):c.264+2T>C",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "splice donor variant"
+    ]
+  },
+  {
+    "variant_id": "4531656",
+    "clinical_significance": "Likely pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2026/02/20 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.29T>C (p.Leu10Ser)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4422495",
+    "clinical_significance": "Unknown",
+    "review_status": "Unknown",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [],
+    "title": "NM_002087.4(GRN):c.1644+28G>A",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4422494",
+    "clinical_significance": "Unknown",
+    "review_status": "Unknown",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [],
+    "title": "NM_002087.4(GRN):c.1179G>T (p.Glu393Asp)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4422493",
+    "clinical_significance": "Unknown",
+    "review_status": "Unknown",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [],
+    "title": "NM_002087.4(GRN):c.934-1G>T",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "splice acceptor variant"
+    ]
+  },
+  {
+    "variant_id": "4422492",
+    "clinical_significance": "Unknown",
+    "review_status": "Unknown",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [],
+    "title": "NM_002087.4(GRN):c.600G>A (p.Val200=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "4422491",
+    "clinical_significance": "Unknown",
+    "review_status": "Unknown",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [],
+    "title": "NM_002087.4(GRN):c.473G>T (p.Cys158Phe)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4422489",
+    "clinical_significance": "Unknown",
+    "review_status": "Unknown",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [],
+    "title": "NM_002087.4(GRN):c.463-33G>T",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4422488",
+    "clinical_significance": "Unknown",
+    "review_status": "Unknown",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [],
+    "title": "NM_002087.4(GRN):c.462+2T>C",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "splice donor variant"
+    ]
+  },
+  {
+    "variant_id": "4422487",
+    "clinical_significance": "Unknown",
+    "review_status": "Unknown",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [],
+    "title": "NM_002087.4(GRN):c.441G>T (p.Trp147Cys)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4422486",
+    "clinical_significance": "Unknown",
+    "review_status": "Unknown",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [],
+    "title": "NM_002087.4(GRN):c.429C>A (p.Val143=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "4422485",
+    "clinical_significance": "Unknown",
+    "review_status": "Unknown",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [],
+    "title": "NM_002087.4(GRN):c.384T>A (p.Asp128Glu)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4422484",
+    "clinical_significance": "Unknown",
+    "review_status": "Unknown",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [],
+    "title": "NM_002087.4(GRN):c.350-1G>T",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "splice acceptor variant"
+    ]
+  },
+  {
+    "variant_id": "4422483",
+    "clinical_significance": "Unknown",
+    "review_status": "Unknown",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [],
+    "title": "NM_002087.4(GRN):c.350-1G>A",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "splice acceptor variant"
+    ]
+  },
+  {
+    "variant_id": "4422482",
+    "clinical_significance": "Unknown",
+    "review_status": "Unknown",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [],
+    "title": "NM_002087.4(GRN):c.350-11C>G",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4422480",
+    "clinical_significance": "Unknown",
+    "review_status": "Unknown",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [],
+    "title": "NM_002087.4(GRN):c.350-182G>T",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4422479",
+    "clinical_significance": "Unknown",
+    "review_status": "Unknown",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [],
+    "title": "NM_002087.4(GRN):c.265-6C>A",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4422478",
+    "clinical_significance": "Unknown",
+    "review_status": "Unknown",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [],
+    "title": "NM_002087.4(GRN):c.264+4A>G",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4422477",
+    "clinical_significance": "Unknown",
+    "review_status": "Unknown",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [],
+    "title": "NM_002087.4(GRN):c.138+7G>T",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4422476",
+    "clinical_significance": "Unknown",
+    "review_status": "Unknown",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [],
+    "title": "NM_002087.4(GRN):c.-7-3C>T",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4422475",
+    "clinical_significance": "Unknown",
+    "review_status": "Unknown",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [],
+    "title": "NM_002087.4(GRN):c.-7-3C>A",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4279220",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [
+      "not specified"
+    ],
+    "title": "GRCh37/hg19 17q21.31(chr17:42372068-42535002)x1",
+    "genes": [
+      {
+        "gene_id": "284069",
+        "symbol": "FAM171A2",
+        "strand": "-"
+      },
+      {
+        "gene_id": "23131",
+        "symbol": "GPATCH8",
+        "strand": "-"
+      },
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      },
+      {
+        "gene_id": "3674",
+        "symbol": "ITGA2B",
+        "strand": "-"
+      },
+      {
+        "gene_id": "10900",
+        "symbol": "RUNDC3A",
+        "strand": "+"
+      },
+      {
+        "gene_id": "51629",
+        "symbol": "SLC25A39",
+        "strand": "-"
+      }
+    ],
+    "variation_type": "copy number loss",
+    "molecular_consequences": []
+  },
+  {
+    "variant_id": "4267338",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/07/01 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.1703G>A (p.Arg568Lys)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4267337",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/08/26 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.1261G>C (p.Glu421Gln)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4267336",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/06/22 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.1673G>A (p.Cys558Tyr)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4267335",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/08/22 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.209G>C (p.Gly70Ala)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4032648",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/03/28 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.541C>T (p.Pro181Ser)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "3899953",
+    "clinical_significance": "Pathogenic",
+    "review_status": "no assertion criteria provided",
+    "last_evaluated": "2025/05/23 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.709-3C>G",
+    "genes": [
+      {
+        "gene_id": "125177489",
+        "symbol": "LOC125177489",
+        "strand": "+"
+      },
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3899952",
+    "clinical_significance": "Pathogenic",
+    "review_status": "no assertion criteria provided",
+    "last_evaluated": "2025/05/23 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1A>T (p.Met1Leu)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "initiator_codon_variant"
+    ]
+  },
+  {
+    "variant_id": "3899950",
+    "clinical_significance": "Pathogenic",
+    "review_status": "no assertion criteria provided",
+    "last_evaluated": "2025/05/23 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "GRN, TRP304TER",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": []
+  },
+  {
+    "variant_id": "3899949",
+    "clinical_significance": "Pathogenic",
+    "review_status": "no assertion criteria provided",
+    "last_evaluated": "2025/05/23 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "GRN, 2-BP DEL, NT443",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Deletion",
+    "molecular_consequences": []
+  },
+  {
+    "variant_id": "3855969",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/03/03 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.913G>C (p.Gly305Arg)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "3855967",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/01/18 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.844G>A (p.Val282Met)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "3855966",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/01/17 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.830A>T (p.His277Leu)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "3855965",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/12/25 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.1741G>A (p.Asp581Asn)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "3855964",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/12/17 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.385A>G (p.Ser129Gly)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "3855963",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/12/16 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.1239G>C (p.Glu413Asp)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "3778832",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/04/22 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_002087.4(GRN):c.464_465insGGAA (p.Ser156fs)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Insertion",
+    "molecular_consequences": [
+      "frameshift variant"
+    ]
+  },
+  {
+    "variant_id": "3764017",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/08/17 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.540A>T (p.Thr180=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "3763918",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2024/09/29 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11",
+      "not provided"
+    ],
+    "title": "NM_002087.4(GRN):c.1337A>G (p.Gln446Arg)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "3763853",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/06/12 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1192T>C (p.Ser398Pro)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "3763364",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/10/30 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.744C>T (p.Pro248=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      },
+      {
+        "gene_id": "125177489",
+        "symbol": "LOC125177489",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "3762911",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/12/12 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.237G>A (p.Gly79=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "3762051",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2025/10/22 00:00",
+    "phenotypes": [
+      "not provided",
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.116A>T (p.Tyr39Phe)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "3762043",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/04/20 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.751A>G (p.Thr251Ala)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "3761034",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/11/16 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1774C>G (p.Leu592Val)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "3760599",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/07/15 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.139-20C>A",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3760332",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/01/16 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.835G>T (p.Val279Leu)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "3759447",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2025/12/17 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1414-1G>T",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "splice acceptor variant"
+    ]
+  },
+  {
+    "variant_id": "3759194",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/09/22 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1458C>A (p.Tyr486Ter)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "nonsense"
+    ]
+  },
+  {
+    "variant_id": "3758792",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/07/30 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1035G>A (p.Met345Ile)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "3758553",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2024/03/01 00:00",
+    "phenotypes": [
+      "not provided",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.202T>C (p.Ser68Pro)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "3757638",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2026/08/12 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.1671C>G (p.His557Gln)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "3757533",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/08/10 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1156_1179del (p.Trp386_Glu393del)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Deletion",
+    "molecular_consequences": [
+      "inframe_deletion"
+    ]
+  },
+  {
+    "variant_id": "3757118",
+    "clinical_significance": "Pathogenic/Likely pathogenic",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2024/07/02 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related disorder"
+    ],
+    "title": "NM_002087.4(GRN):c.657del (p.Thr220fs)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Deletion",
+    "molecular_consequences": [
+      "frameshift variant"
+    ]
+  },
+  {
+    "variant_id": "3756813",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/06/20 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.480C>T (p.Asp160=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "3756487",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/05/28 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.878G>A (p.Gly293Asp)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "3756294",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/06/05 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1281G>T (p.Glu427Asp)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "3755367",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/11/11 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1413+8C>T",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3754749",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/02/20 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.78C>T (p.Cys26=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "3754432",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/02/02 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1010A>G (p.Gln337Arg)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "3753790",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/06/15 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.139-7T>G",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3753432",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/09/22 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.834A>T (p.Thr278=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "3753416",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2024/03/12 00:00",
+    "phenotypes": [
+      "not specified",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.463-17G>C",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3752996",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/07/19 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.934-12dup",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Duplication",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3752866",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/01/12 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.463-11T>C",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3751473",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/10/16 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1081A>G (p.Lys361Glu)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "3751296",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/04/18 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1180-9A>C",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3750748",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/10/30 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1414-5G>T",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3750565",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/02/24 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.558C>T (p.Pro186=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "3750133",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/02/16 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.519G>C (p.Leu173=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "3750070",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2024/10/23 00:00",
+    "phenotypes": [
+      "GRN-related disorder",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.774dup (p.Lys259Ter)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Duplication",
+    "molecular_consequences": [
+      "nonsense"
+    ]
+  },
+  {
+    "variant_id": "3749845",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/07/12 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.816T>C (p.Thr272=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "3749808",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/06/13 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.581A>G (p.Gln194Arg)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "3749463",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/10/06 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1171A>G (p.Ile391Val)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "3747938",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/05/24 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.709-5C>T",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      },
+      {
+        "gene_id": "125177489",
+        "symbol": "LOC125177489",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3730926",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/08/12 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_002087.4(GRN):c.1629C>G (p.Cys543Trp)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "3582139",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/01/23 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1564G>A (p.Gly522Arg)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "3571961",
+    "clinical_significance": "Conflicting classifications of pathogenicity",
+    "review_status": "criteria provided, conflicting classifications",
+    "last_evaluated": "2025/03/03 00:00",
+    "phenotypes": [
+      "not provided",
+      "not specified",
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.1414-5G>A",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3522917",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/12/10 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.1408C>A (p.Pro470Thr)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "3522915",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/12/04 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.584G>A (p.Arg195Lys)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "3522914",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/10/01 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.382G>C (p.Asp128His)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "3522913",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/09/09 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.997G>C (p.Gly333Arg)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "3390851",
+    "clinical_significance": "Likely pathogenic",
+    "review_status": "no assertion criteria provided",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1088_1112del (p.Asp363fs)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Deletion",
+    "molecular_consequences": [
+      "frameshift variant"
+    ]
+  },
+  {
+    "variant_id": "3389822",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/07/01 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_002087.4(GRN):c.888_889del (p.Cys296fs)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Deletion",
+    "molecular_consequences": [
+      "frameshift variant"
+    ]
+  },
+  {
+    "variant_id": "3389591",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/09/01 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_002087.4(GRN):c.884C>A (p.Thr295Asn)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "3383451",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/05/13 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_002087.4(GRN):c.1498G>A (p.Val500Ile)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "3377827",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/05/14 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_002087.4(GRN):c.1030T>C (p.Trp344Arg)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "3365609",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/01/04 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_002087.4(GRN):c.1274G>A (p.Gly425Glu)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "3355919",
+    "clinical_significance": "Pathogenic",
+    "review_status": "no assertion criteria provided",
+    "last_evaluated": "2024/04/01 00:00",
+    "phenotypes": [
+      "GRN-related disorder"
+    ],
+    "title": "NM_002087.4(GRN):c.1535del (p.Pro512fs)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Deletion",
+    "molecular_consequences": [
+      "frameshift variant"
+    ]
+  },
+  {
+    "variant_id": "3346594",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/04/26 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1166_1167del (p.Cys389fs)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Deletion",
+    "molecular_consequences": [
+      "frameshift variant"
+    ]
+  },
+  {
+    "variant_id": "3343681",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/05/27 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_002087.4(GRN):c.1345_1365del (p.Ser449_Thr455del)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Deletion",
+    "molecular_consequences": [
+      "inframe_indel",
+      "inframe_deletion"
+    ]
+  },
+  {
+    "variant_id": "3342439",
+    "clinical_significance": "Likely pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/03/25 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_002087.4(GRN):c.596C>T (p.Ala199Val)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "3340778",
+    "clinical_significance": "Likely pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/04/12 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_002087.4(GRN):c.1317del (p.Arg440fs)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Deletion",
+    "molecular_consequences": [
+      "frameshift variant"
+    ]
+  },
+  {
+    "variant_id": "3242218",
+    "clinical_significance": "Pathogenic",
+    "review_status": "no assertion criteria provided",
+    "last_evaluated": "2021/05/24 00:00",
+    "phenotypes": [
+      "Breast-ovarian cancer, familial, susceptibility to, 1"
+    ],
+    "title": "Single allele",
+    "genes": [
+      {
+        "gene_id": "8714",
+        "symbol": "ABCC3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "51225",
+        "symbol": "ABI3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "79777",
+        "symbol": "ACBD4",
+        "strand": "+"
+      },
+      {
+        "gene_id": "80221",
+        "symbol": "ACSF2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "4185",
+        "symbol": "ADAM11",
+        "strand": "+"
+      },
+      {
+        "gene_id": "8165",
+        "symbol": "AKAP1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "162282",
+        "symbol": "ANKFN1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "91369",
+        "symbol": "ANKRD40",
+        "strand": "-"
+      },
+      {
+        "gene_id": "201176",
+        "symbol": "ARHGAP27",
+        "strand": "-"
+      },
+      {
+        "gene_id": "51326",
+        "symbol": "ARL17A",
+        "strand": "-"
+      },
+      {
+        "gene_id": "100506084",
+        "symbol": "ARL17B",
+        "strand": "-"
+      },
+      {
+        "gene_id": "379",
+        "symbol": "ARL4D",
+        "strand": "+"
+      },
+      {
+        "gene_id": "92591",
+        "symbol": "ASB16",
+        "strand": "+"
+      },
+      {
+        "gene_id": "516",
+        "symbol": "ATP5MC1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "56970",
+        "symbol": "ATXN7L3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "124872",
+        "symbol": "B4GALNT2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "672",
+        "symbol": "BRCA1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "284083",
+        "symbol": "C17orf47",
+        "strand": "-"
+      },
+      {
+        "gene_id": "339210",
+        "symbol": "C17orf67",
+        "strand": "-"
+      },
+      {
+        "gene_id": "10882",
+        "symbol": "C1QL1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "56934",
+        "symbol": "CA10",
+        "strand": "-"
+      },
+      {
+        "gene_id": "8913",
+        "symbol": "CACNA1G",
+        "strand": "+"
+      },
+      {
+        "gene_id": "10241",
+        "symbol": "CALCOCO2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "10951",
+        "symbol": "CBX1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "124808",
+        "symbol": "CCDC43",
+        "strand": "-"
+      },
+      {
+        "gene_id": "146894",
+        "symbol": "CD300LG",
+        "strand": "+"
+      },
+      {
+        "gene_id": "996",
+        "symbol": "CDC27",
+        "strand": "-"
+      },
+      {
+        "gene_id": "80279",
+        "symbol": "CDK5RAP3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "284067",
+        "symbol": "CFAP97D1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "1101",
+        "symbol": "CHAD",
+        "strand": "-"
+      },
+      {
+        "gene_id": "8161",
+        "symbol": "COIL",
+        "strand": "-"
+      },
+      {
+        "gene_id": "1277",
+        "symbol": "COL1A1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "51226",
+        "symbol": "COPZ2",
+        "strand": "-"
+      },
+      {
+        "gene_id": "1353",
+        "symbol": "COX11",
+        "strand": "-"
+      },
+      {
+        "gene_id": "1394",
+        "symbol": "CRHR1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "404093",
+        "symbol": "CUEDC1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "80174",
+        "symbol": "DBF4B",
+        "strand": "+"
+      },
+      {
+        "gene_id": "79877",
+        "symbol": "DCAKD",
+        "strand": "-"
+      },
+      {
+        "gene_id": "8526",
+        "symbol": "DGKE",
+        "strand": "+"
+      },
+      {
+        "gene_id": "1659",
+        "symbol": "DHX8",
+        "strand": "+"
+      },
+      {
+        "gene_id": "1747",
+        "symbol": "DLX3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "1748",
+        "symbol": "DLX4",
+        "strand": "+"
+      },
+      {
+        "gene_id": "388389",
+        "symbol": "DNAAF19",
+        "strand": "+"
+      },
+      {
+        "gene_id": "1845",
+        "symbol": "DUSP3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "140735",
+        "symbol": "DYNLL2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "101927666",
+        "symbol": "DYNLL2-DT",
+        "strand": "-"
+      },
+      {
+        "gene_id": "124989",
+        "symbol": "EFCAB13",
+        "strand": "+"
+      },
+      {
+        "gene_id": "9343",
+        "symbol": "EFTUD2",
+        "strand": "-"
+      },
+      {
+        "gene_id": "146956",
+        "symbol": "EME1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "55040",
+        "symbol": "EPN3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "8288",
+        "symbol": "EPX",
+        "strand": "+"
+      },
+      {
+        "gene_id": "2118",
+        "symbol": "ETV4",
+        "strand": "-"
+      },
+      {
+        "gene_id": "81558",
+        "symbol": "FAM117A",
+        "strand": "-"
+      },
+      {
+        "gene_id": "284069",
+        "symbol": "FAM171A2",
+        "strand": "-"
+      },
+      {
+        "gene_id": "752",
+        "symbol": "FMNL1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "2535",
+        "symbol": "FZD2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "92579",
+        "symbol": "G6PC3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "2670",
+        "symbol": "GFAP",
+        "strand": "-"
+      },
+      {
+        "gene_id": "2695",
+        "symbol": "GIP",
+        "strand": "-"
+      },
+      {
+        "gene_id": "10052",
+        "symbol": "GJC1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "2793",
+        "symbol": "GNGT2",
+        "strand": "-"
+      },
+      {
+        "gene_id": "9570",
+        "symbol": "GOSR2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "23131",
+        "symbol": "GPATCH8",
+        "strand": "-"
+      },
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      },
+      {
+        "gene_id": "10014",
+        "symbol": "HDAC5",
+        "strand": "-"
+      },
+      {
+        "gene_id": "10614",
+        "symbol": "HEXIM1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "124790",
+        "symbol": "HEXIM2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "51751",
+        "symbol": "HIGD1B",
+        "strand": "+"
+      },
+      {
+        "gene_id": "3131",
+        "symbol": "HLF",
+        "strand": "+"
+      },
+      {
+        "gene_id": "3211",
+        "symbol": "HOXB1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "10481",
+        "symbol": "HOXB13",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3212",
+        "symbol": "HOXB2",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3213",
+        "symbol": "HOXB3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3214",
+        "symbol": "HOXB4",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3215",
+        "symbol": "HOXB5",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3216",
+        "symbol": "HOXB6",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3217",
+        "symbol": "HOXB7",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3218",
+        "symbol": "HOXB8",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3219",
+        "symbol": "HOXB9",
+        "strand": "-"
+      },
+      {
+        "gene_id": "78995",
+        "symbol": "HROB",
+        "strand": "+"
+      },
+      {
+        "gene_id": "124535",
+        "symbol": "HSF5",
+        "strand": "-"
+      },
+      {
+        "gene_id": "10642",
+        "symbol": "IGF2BP1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "3674",
+        "symbol": "ITGA2B",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3675",
+        "symbol": "ITGA3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "3690",
+        "symbol": "ITGB3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "284058",
+        "symbol": "KANSL1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "11143",
+        "symbol": "KAT7",
+        "strand": "+"
+      },
+      {
+        "gene_id": "146909",
+        "symbol": "KIF18B",
+        "strand": "-"
+      },
+      {
+        "gene_id": "84643",
+        "symbol": "KIF2B",
+        "strand": "+"
+      },
+      {
+        "gene_id": "3837",
+        "symbol": "KPNB1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "100506650",
+        "symbol": "LINC02876",
+        "strand": "+"
+      },
+      {
+        "gene_id": "4025",
+        "symbol": "LPO",
+        "strand": "+"
+      },
+      {
+        "gene_id": "9884",
+        "symbol": "LRRC37A",
+        "strand": "+"
+      },
+      {
+        "gene_id": "474170",
+        "symbol": "LRRC37A2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "90506",
+        "symbol": "LRRC46",
+        "strand": "+"
+      },
+      {
+        "gene_id": "55379",
+        "symbol": "LRRC59",
+        "strand": "-"
+      },
+      {
+        "gene_id": "124801",
+        "symbol": "LSM12",
+        "strand": "-"
+      },
+      {
+        "gene_id": "51747",
+        "symbol": "LUC7L3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "9020",
+        "symbol": "MAP3K14",
+        "strand": "-"
+      },
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      },
+      {
+        "gene_id": "54799",
+        "symbol": "MBTD1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "284071",
+        "symbol": "MEIOC",
+        "strand": "+"
+      },
+      {
+        "gene_id": "4222",
+        "symbol": "MEOX1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "406902",
+        "symbol": "MIR10A",
+        "strand": "-"
+      },
+      {
+        "gene_id": "406943",
+        "symbol": "MIR152",
+        "strand": "-"
+      },
+      {
+        "gene_id": "406972",
+        "symbol": "MIR196A1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "54903",
+        "symbol": "MKS1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "23531",
+        "symbol": "MMD",
+        "strand": "-"
+      },
+      {
+        "gene_id": "4353",
+        "symbol": "MPO",
+        "strand": "-"
+      },
+      {
+        "gene_id": "4355",
+        "symbol": "MPP2",
+        "strand": "-"
+      },
+      {
+        "gene_id": "4356",
+        "symbol": "MPP3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "124995",
+        "symbol": "MRPL10",
+        "strand": "-"
+      },
+      {
+        "gene_id": "51264",
+        "symbol": "MRPL27",
+        "strand": "-"
+      },
+      {
+        "gene_id": "51649",
+        "symbol": "MRPS23",
+        "strand": "-"
+      },
+      {
+        "gene_id": "124540",
+        "symbol": "MSI2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "9110",
+        "symbol": "MTMR4",
+        "strand": "-"
+      },
+      {
+        "gene_id": "84073",
+        "symbol": "MYCBPAP",
+        "strand": "+"
+      },
+      {
+        "gene_id": "4635",
+        "symbol": "MYL4",
+        "strand": "+"
+      },
+      {
+        "gene_id": "162417",
+        "symbol": "NAGS",
+        "strand": "+"
+      },
+      {
+        "gene_id": "4077",
+        "symbol": "NBR1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "10230",
+        "symbol": "NBR2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "4779",
+        "symbol": "NFE2L1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "4804",
+        "symbol": "NGFR",
+        "strand": "+"
+      },
+      {
+        "gene_id": "4830",
+        "symbol": "NME1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "654364",
+        "symbol": "NME1-NME2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "4831",
+        "symbol": "NME2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "4836",
+        "symbol": "NMT1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "9241",
+        "symbol": "NOG",
+        "strand": "+"
+      },
+      {
+        "gene_id": "9520",
+        "symbol": "NPEPPS",
+        "strand": "+"
+      },
+      {
+        "gene_id": "4905",
+        "symbol": "NSF",
+        "strand": "+"
+      },
+      {
+        "gene_id": "11248",
+        "symbol": "NXPH3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "26689",
+        "symbol": "OR4D1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "124538",
+        "symbol": "OR4D2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "114881",
+        "symbol": "OSBPL7",
+        "strand": "-"
+      },
+      {
+        "gene_id": "58488",
+        "symbol": "PCTP",
+        "strand": "+"
+      },
+      {
+        "gene_id": "5164",
+        "symbol": "PDK2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "5245",
+        "symbol": "PHB1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "162466",
+        "symbol": "PHOSPHO1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "113026",
+        "symbol": "PLCD3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "9842",
+        "symbol": "PLEKHM1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "55163",
+        "symbol": "PNPO",
+        "strand": "+"
+      },
+      {
+        "gene_id": "84687",
+        "symbol": "PPP1R9B",
+        "strand": "-"
+      },
+      {
+        "gene_id": "5539",
+        "symbol": "PPY",
+        "strand": "-"
+      },
+      {
+        "gene_id": "84366",
+        "symbol": "PRAC1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "360205",
+        "symbol": "PRAC2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "79170",
+        "symbol": "PRR15L",
+        "strand": "-"
+      },
+      {
+        "gene_id": "5697",
+        "symbol": "PYY",
+        "strand": "-"
+      },
+      {
+        "gene_id": "54894",
+        "symbol": "RNF43",
+        "strand": "-"
+      },
+      {
+        "gene_id": "388394",
+        "symbol": "RPRML",
+        "strand": "-"
+      },
+      {
+        "gene_id": "55316",
+        "symbol": "RSAD1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "10900",
+        "symbol": "RUNDC3A",
+        "strand": "+"
+      },
+      {
+        "gene_id": "201191",
+        "symbol": "SAMD14",
+        "strand": "-"
+      },
+      {
+        "gene_id": "59342",
+        "symbol": "SCPEP1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "90507",
+        "symbol": "SCRN2",
+        "strand": "-"
+      },
+      {
+        "gene_id": "5414",
+        "symbol": "SEPTIN4",
+        "strand": "-"
+      },
+      {
+        "gene_id": "6442",
+        "symbol": "SGCA",
+        "strand": "+"
+      },
+      {
+        "gene_id": "8631",
+        "symbol": "SKAP1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "51629",
+        "symbol": "SLC25A39",
+        "strand": "-"
+      },
+      {
+        "gene_id": "10237",
+        "symbol": "SLC35B1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "6521",
+        "symbol": "SLC4A1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "11267",
+        "symbol": "SNF8",
+        "strand": "-"
+      },
+      {
+        "gene_id": "29916",
+        "symbol": "SNX11",
+        "strand": "+"
+      },
+      {
+        "gene_id": "50964",
+        "symbol": "SOST",
+        "strand": "-"
+      },
+      {
+        "gene_id": "6668",
+        "symbol": "SP2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "80320",
+        "symbol": "SP6",
+        "strand": "-"
+      },
+      {
+        "gene_id": "9043",
+        "symbol": "SPAG9",
+        "strand": "-"
+      },
+      {
+        "gene_id": "64847",
+        "symbol": "SPATA20",
+        "strand": "+"
+      },
+      {
+        "gene_id": "124783",
+        "symbol": "SPATA32",
+        "strand": "-"
+      },
+      {
+        "gene_id": "8405",
+        "symbol": "SPOP",
+        "strand": "-"
+      },
+      {
+        "gene_id": "162540",
+        "symbol": "SPPL2C",
+        "strand": "+"
+      },
+      {
+        "gene_id": "6426",
+        "symbol": "SRSF1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "246744",
+        "symbol": "STH",
+        "strand": "+"
+      },
+      {
+        "gene_id": "252983",
+        "symbol": "STXBP4",
+        "strand": "+"
+      },
+      {
+        "gene_id": "6827",
+        "symbol": "SUPT4H1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "255061",
+        "symbol": "TAC4",
+        "strand": "-"
+      },
+      {
+        "gene_id": "9755",
+        "symbol": "TBKBP1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "30009",
+        "symbol": "TBX21",
+        "strand": "+"
+      },
+      {
+        "gene_id": "56155",
+        "symbol": "TEX14",
+        "strand": "-"
+      },
+      {
+        "gene_id": "55273",
+        "symbol": "TMEM100",
+        "strand": "-"
+      },
+      {
+        "gene_id": "84336",
+        "symbol": "TMEM101",
+        "strand": "-"
+      },
+      {
+        "gene_id": "113277",
+        "symbol": "TMEM106A",
+        "strand": "+"
+      },
+      {
+        "gene_id": "162461",
+        "symbol": "TMEM92",
+        "strand": "+"
+      },
+      {
+        "gene_id": "79089",
+        "symbol": "TMUB2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "10140",
+        "symbol": "TOB1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "10040",
+        "symbol": "TOM1L1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "7706",
+        "symbol": "TRIM25",
+        "strand": "-"
+      },
+      {
+        "gene_id": "7229",
+        "symbol": "TRQ-TTG1-1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "9256",
+        "symbol": "TSPOAP1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "284076",
+        "symbol": "TTLL6",
+        "strand": "-"
+      },
+      {
+        "gene_id": "65264",
+        "symbol": "UBE2Z",
+        "strand": "+"
+      },
+      {
+        "gene_id": "7343",
+        "symbol": "UBTF",
+        "strand": "-"
+      },
+      {
+        "gene_id": "51096",
+        "symbol": "UTP18",
+        "strand": "+"
+      },
+      {
+        "gene_id": "7716",
+        "symbol": "VEZF1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "124857",
+        "symbol": "WFIKKN2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "7473",
+        "symbol": "WNT3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "7484",
+        "symbol": "WNT9B",
+        "strand": "+"
+      },
+      {
+        "gene_id": "64132",
+        "symbol": "XYLT2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "22834",
+        "symbol": "ZNF652",
+        "strand": "-"
+      }
+    ],
+    "variation_type": "Deletion",
+    "molecular_consequences": []
+  },
+  {
+    "variant_id": "3242217",
+    "clinical_significance": "Pathogenic",
+    "review_status": "no assertion criteria provided",
+    "last_evaluated": "2021/05/24 00:00",
+    "phenotypes": [
+      "Breast-ovarian cancer, familial, susceptibility to, 1"
+    ],
+    "title": "GRCh37/hg19 17q12-22(chr17:41196270-41277589)",
+    "genes": [
+      {
+        "gene_id": "256957",
+        "symbol": "HEATR9",
+        "strand": "-"
+      },
+      {
+        "gene_id": "10614",
+        "symbol": "HEXIM1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "124790",
+        "symbol": "HEXIM2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "51751",
+        "symbol": "HIGD1B",
+        "strand": "+"
+      },
+      {
+        "gene_id": "3131",
+        "symbol": "HLF",
+        "strand": "+"
+      },
+      {
+        "gene_id": "6928",
+        "symbol": "HNF1B",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3211",
+        "symbol": "HOXB1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "10481",
+        "symbol": "HOXB13",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3212",
+        "symbol": "HOXB2",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3213",
+        "symbol": "HOXB3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3214",
+        "symbol": "HOXB4",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3215",
+        "symbol": "HOXB5",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3216",
+        "symbol": "HOXB6",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3217",
+        "symbol": "HOXB7",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3218",
+        "symbol": "HOXB8",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3219",
+        "symbol": "HOXB9",
+        "strand": "-"
+      },
+      {
+        "gene_id": "78995",
+        "symbol": "HROB",
+        "strand": "+"
+      },
+      {
+        "gene_id": "3292",
+        "symbol": "HSD17B1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "124535",
+        "symbol": "HSF5",
+        "strand": "-"
+      },
+      {
+        "gene_id": "94086",
+        "symbol": "HSPB9",
+        "strand": "+"
+      },
+      {
+        "gene_id": "3430",
+        "symbol": "IFI35",
+        "strand": "+"
+      },
+      {
+        "gene_id": "10642",
+        "symbol": "IGF2BP1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "3487",
+        "symbol": "IGFBP4",
+        "strand": "+"
+      },
+      {
+        "gene_id": "22806",
+        "symbol": "IKZF3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3674",
+        "symbol": "ITGA2B",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3675",
+        "symbol": "ITGA3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "3690",
+        "symbol": "ITGB3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "3728",
+        "symbol": "JUP",
+        "strand": "-"
+      },
+      {
+        "gene_id": "284058",
+        "symbol": "KANSL1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "2648",
+        "symbol": "KAT2A",
+        "strand": "-"
+      },
+      {
+        "gene_id": "11143",
+        "symbol": "KAT7",
+        "strand": "+"
+      },
+      {
+        "gene_id": "23415",
+        "symbol": "KCNH4",
+        "strand": "-"
+      },
+      {
+        "gene_id": "146909",
+        "symbol": "KIF18B",
+        "strand": "-"
+      },
+      {
+        "gene_id": "84643",
+        "symbol": "KIF2B",
+        "strand": "+"
+      },
+      {
+        "gene_id": "317719",
+        "symbol": "KLHL10",
+        "strand": "+"
+      },
+      {
+        "gene_id": "55175",
+        "symbol": "KLHL11",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3837",
+        "symbol": "KPNB1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "3858",
+        "symbol": "KRT10",
+        "strand": "-"
+      },
+      {
+        "gene_id": "147184",
+        "symbol": "KRT10-AS1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "3859",
+        "symbol": "KRT12",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3860",
+        "symbol": "KRT13",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3861",
+        "symbol": "KRT14",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3866",
+        "symbol": "KRT15",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3868",
+        "symbol": "KRT16",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3872",
+        "symbol": "KRT17",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3880",
+        "symbol": "KRT19",
+        "strand": "-"
+      },
+      {
+        "gene_id": "54474",
+        "symbol": "KRT20",
+        "strand": "-"
+      },
+      {
+        "gene_id": "125113",
+        "symbol": "KRT222",
+        "strand": "-"
+      },
+      {
+        "gene_id": "25984",
+        "symbol": "KRT23",
+        "strand": "-"
+      },
+      {
+        "gene_id": "192666",
+        "symbol": "KRT24",
+        "strand": "-"
+      },
+      {
+        "gene_id": "147183",
+        "symbol": "KRT25",
+        "strand": "-"
+      },
+      {
+        "gene_id": "353288",
+        "symbol": "KRT26",
+        "strand": "-"
+      },
+      {
+        "gene_id": "342574",
+        "symbol": "KRT27",
+        "strand": "-"
+      },
+      {
+        "gene_id": "162605",
+        "symbol": "KRT28",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3881",
+        "symbol": "KRT31",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3882",
+        "symbol": "KRT32",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3883",
+        "symbol": "KRT33A",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3884",
+        "symbol": "KRT33B",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3885",
+        "symbol": "KRT34",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3886",
+        "symbol": "KRT35",
+        "strand": "-"
+      },
+      {
+        "gene_id": "8689",
+        "symbol": "KRT36",
+        "strand": "-"
+      },
+      {
+        "gene_id": "8688",
+        "symbol": "KRT37",
+        "strand": "-"
+      },
+      {
+        "gene_id": "8687",
+        "symbol": "KRT38",
+        "strand": "-"
+      },
+      {
+        "gene_id": "390792",
+        "symbol": "KRT39",
+        "strand": "-"
+      },
+      {
+        "gene_id": "125115",
+        "symbol": "KRT40",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3857",
+        "symbol": "KRT9",
+        "strand": "-"
+      },
+      {
+        "gene_id": "81851",
+        "symbol": "KRTAP1-1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "81850",
+        "symbol": "KRTAP1-3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "728255",
+        "symbol": "KRTAP1-4",
+        "strand": "-"
+      },
+      {
+        "gene_id": "83895",
+        "symbol": "KRTAP1-5",
+        "strand": "-"
+      },
+      {
+        "gene_id": "100505753",
+        "symbol": "KRTAP16-1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "83902",
+        "symbol": "KRTAP17-1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "81872",
+        "symbol": "KRTAP2-1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "728279",
+        "symbol": "KRTAP2-2",
+        "strand": "-"
+      },
+      {
+        "gene_id": "730755",
+        "symbol": "KRTAP2-3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "85294",
+        "symbol": "KRTAP2-4",
+        "strand": "-"
+      },
+      {
+        "gene_id": "83896",
+        "symbol": "KRTAP3-1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "83897",
+        "symbol": "KRTAP3-2",
+        "strand": "-"
+      },
+      {
+        "gene_id": "85293",
+        "symbol": "KRTAP3-3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "85285",
+        "symbol": "KRTAP4-1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "653240",
+        "symbol": "KRTAP4-11",
+        "strand": "-"
+      },
+      {
+        "gene_id": "83755",
+        "symbol": "KRTAP4-12",
+        "strand": "-"
+      },
+      {
+        "gene_id": "85291",
+        "symbol": "KRTAP4-2",
+        "strand": "-"
+      },
+      {
+        "gene_id": "85290",
+        "symbol": "KRTAP4-3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "84616",
+        "symbol": "KRTAP4-4",
+        "strand": "-"
+      },
+      {
+        "gene_id": "85289",
+        "symbol": "KRTAP4-5",
+        "strand": "-"
+      },
+      {
+        "gene_id": "81871",
+        "symbol": "KRTAP4-6",
+        "strand": "-"
+      },
+      {
+        "gene_id": "100132476",
+        "symbol": "KRTAP4-7",
+        "strand": "+"
+      },
+      {
+        "gene_id": "728224",
+        "symbol": "KRTAP4-8",
+        "strand": "-"
+      },
+      {
+        "gene_id": "100132386",
+        "symbol": "KRTAP4-9",
+        "strand": "+"
+      },
+      {
+        "gene_id": "728318",
+        "symbol": "KRTAP9-1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "83899",
+        "symbol": "KRTAP9-2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "83900",
+        "symbol": "KRTAP9-3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "85280",
+        "symbol": "KRTAP9-4",
+        "strand": "+"
+      },
+      {
+        "gene_id": "100507608",
+        "symbol": "KRTAP9-6",
+        "strand": "+"
+      },
+      {
+        "gene_id": "100505724",
+        "symbol": "KRTAP9-7",
+        "strand": "+"
+      },
+      {
+        "gene_id": "83901",
+        "symbol": "KRTAP9-8",
+        "strand": "+"
+      },
+      {
+        "gene_id": "81870",
+        "symbol": "KRTAP9-9",
+        "strand": "+"
+      },
+      {
+        "gene_id": "3927",
+        "symbol": "LASP1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "3975",
+        "symbol": "LHX1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "100506650",
+        "symbol": "LINC02876",
+        "strand": "+"
+      },
+      {
+        "gene_id": "4025",
+        "symbol": "LPO",
+        "strand": "+"
+      },
+      {
+        "gene_id": "9884",
+        "symbol": "LRRC37A",
+        "strand": "+"
+      },
+      {
+        "gene_id": "474170",
+        "symbol": "LRRC37A2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "100505591",
+        "symbol": "LRRC3C",
+        "strand": "+"
+      },
+      {
+        "gene_id": "90506",
+        "symbol": "LRRC46",
+        "strand": "+"
+      },
+      {
+        "gene_id": "55379",
+        "symbol": "LRRC59",
+        "strand": "-"
+      },
+      {
+        "gene_id": "124801",
+        "symbol": "LSM12",
+        "strand": "-"
+      },
+      {
+        "gene_id": "51747",
+        "symbol": "LUC7L3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "57151",
+        "symbol": "LYZL6",
+        "strand": "-"
+      },
+      {
+        "gene_id": "9020",
+        "symbol": "MAP3K14",
+        "strand": "-"
+      },
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      },
+      {
+        "gene_id": "54799",
+        "symbol": "MBTD1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "5469",
+        "symbol": "MED1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "9862",
+        "symbol": "MED24",
+        "strand": "-"
+      },
+      {
+        "gene_id": "284071",
+        "symbol": "MEIOC",
+        "strand": "+"
+      },
+      {
+        "gene_id": "4222",
+        "symbol": "MEOX1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "84299",
+        "symbol": "MIEN1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "406902",
+        "symbol": "MIR10A",
+        "strand": "-"
+      },
+      {
+        "gene_id": "406943",
+        "symbol": "MIR152",
+        "strand": "-"
+      },
+      {
+        "gene_id": "406972",
+        "symbol": "MIR196A1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "54903",
+        "symbol": "MKS1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "4302",
+        "symbol": "MLLT6",
+        "strand": "+"
+      },
+      {
+        "gene_id": "6945",
+        "symbol": "MLX",
+        "strand": "+"
+      },
+      {
+        "gene_id": "23531",
+        "symbol": "MMD",
+        "strand": "-"
+      },
+      {
+        "gene_id": "79148",
+        "symbol": "MMP28",
+        "strand": "-"
+      },
+      {
+        "gene_id": "4353",
+        "symbol": "MPO",
+        "strand": "-"
+      },
+      {
+        "gene_id": "4355",
+        "symbol": "MPP2",
+        "strand": "-"
+      },
+      {
+        "gene_id": "4356",
+        "symbol": "MPP3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "79922",
+        "symbol": "MRM1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "124995",
+        "symbol": "MRPL10",
+        "strand": "-"
+      },
+      {
+        "gene_id": "51264",
+        "symbol": "MRPL27",
+        "strand": "-"
+      },
+      {
+        "gene_id": "84311",
+        "symbol": "MRPL45",
+        "strand": "+"
+      },
+      {
+        "gene_id": "51649",
+        "symbol": "MRPS23",
+        "strand": "-"
+      },
+      {
+        "gene_id": "124540",
+        "symbol": "MSI2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "339287",
+        "symbol": "MSL1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "9110",
+        "symbol": "MTMR4",
+        "strand": "-"
+      },
+      {
+        "gene_id": "84073",
+        "symbol": "MYCBPAP",
+        "strand": "+"
+      },
+      {
+        "gene_id": "4635",
+        "symbol": "MYL4",
+        "strand": "+"
+      },
+      {
+        "gene_id": "80179",
+        "symbol": "MYO19",
+        "strand": "-"
+      },
+      {
+        "gene_id": "4669",
+        "symbol": "NAGLU",
+        "strand": "+"
+      },
+      {
+        "gene_id": "162417",
+        "symbol": "NAGS",
+        "strand": "+"
+      },
+      {
+        "gene_id": "4077",
+        "symbol": "NBR1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "10230",
+        "symbol": "NBR2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "4761",
+        "symbol": "NEUROD2",
+        "strand": "-"
+      },
+      {
+        "gene_id": "4779",
+        "symbol": "NFE2L1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "4804",
+        "symbol": "NGFR",
+        "strand": "+"
+      },
+      {
+        "gene_id": "28511",
+        "symbol": "NKIRAS2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "54475",
+        "symbol": "NLE1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "4830",
+        "symbol": "NME1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "654364",
+        "symbol": "NME1-NME2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "4831",
+        "symbol": "NME2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "4836",
+        "symbol": "NMT1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "9241",
+        "symbol": "NOG",
+        "strand": "+"
+      },
+      {
+        "gene_id": "9520",
+        "symbol": "NPEPPS",
+        "strand": "+"
+      },
+      {
+        "gene_id": "9572",
+        "symbol": "NR1D1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "4905",
+        "symbol": "NSF",
+        "strand": "+"
+      },
+      {
+        "gene_id": "115024",
+        "symbol": "NT5C3B",
+        "strand": "-"
+      },
+      {
+        "gene_id": "11248",
+        "symbol": "NXPH3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "83538",
+        "symbol": "ODAD4",
+        "strand": "+"
+      },
+      {
+        "gene_id": "26689",
+        "symbol": "OR4D1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "124538",
+        "symbol": "OR4D2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "94103",
+        "symbol": "ORMDL3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "114881",
+        "symbol": "OSBPL7",
+        "strand": "-"
+      },
+      {
+        "gene_id": "10609",
+        "symbol": "P3H4",
+        "strand": "-"
+      },
+      {
+        "gene_id": "7703",
+        "symbol": "PCGF2",
+        "strand": "-"
+      },
+      {
+        "gene_id": "58488",
+        "symbol": "PCTP",
+        "strand": "+"
+      },
+      {
+        "gene_id": "5164",
+        "symbol": "PDK2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "5193",
+        "symbol": "PEX12",
+        "strand": "-"
+      },
+      {
+        "gene_id": "93210",
+        "symbol": "PGAP3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "146853",
+        "symbol": "PGBDF",
+        "strand": "+"
+      },
+      {
+        "gene_id": "5245",
+        "symbol": "PHB1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "162466",
+        "symbol": "PHOSPHO1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "284098",
+        "symbol": "PIGW",
+        "strand": "+"
+      },
+      {
+        "gene_id": "8396",
+        "symbol": "PIP4K2B",
+        "strand": "-"
+      },
+      {
+        "gene_id": "113026",
+        "symbol": "PLCD3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "79990",
+        "symbol": "PLEKHH3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "9842",
+        "symbol": "PLEKHM1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "57125",
+        "symbol": "PLXDC1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "5409",
+        "symbol": "PNMT",
+        "strand": "+"
+      },
+      {
+        "gene_id": "55163",
+        "symbol": "PNPO",
+        "strand": "+"
+      },
+      {
+        "gene_id": "84152",
+        "symbol": "PPP1R1B",
+        "strand": "+"
+      },
+      {
+        "gene_id": "84687",
+        "symbol": "PPP1R9B",
+        "strand": "-"
+      },
+      {
+        "gene_id": "5539",
+        "symbol": "PPY",
+        "strand": "-"
+      },
+      {
+        "gene_id": "84366",
+        "symbol": "PRAC1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "360205",
+        "symbol": "PRAC2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "79170",
+        "symbol": "PRR15L",
+        "strand": "-"
+      },
+      {
+        "gene_id": "5691",
+        "symbol": "PSMB3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "29893",
+        "symbol": "PSMC3IP",
+        "strand": "-"
+      },
+      {
+        "gene_id": "5709",
+        "symbol": "PSMD3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "10197",
+        "symbol": "PSME3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "100885848",
+        "symbol": "PTGES3L",
+        "strand": "-"
+      },
+      {
+        "gene_id": "100885850",
+        "symbol": "PTGES3L-AARSD1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "5697",
+        "symbol": "PYY",
+        "strand": "-"
+      },
+      {
+        "gene_id": "5878",
+        "symbol": "RAB5C",
+        "strand": "-"
+      },
+      {
+        "gene_id": "10266",
+        "symbol": "RAMP2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "51195",
+        "symbol": "RAPGEFL1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "5914",
+        "symbol": "RARA",
+        "strand": "+"
+      },
+      {
+        "gene_id": "91608",
+        "symbol": "RASL10B",
+        "strand": "+"
+      },
+      {
+        "gene_id": "201299",
+        "symbol": "RDM1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "162427",
+        "symbol": "RETREG3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "8153",
+        "symbol": "RND2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "54894",
+        "symbol": "RNF43",
+        "strand": "-"
+      },
+      {
+        "gene_id": "6143",
+        "symbol": "RPL19",
+        "strand": "+"
+      },
+      {
+        "gene_id": "9349",
+        "symbol": "RPL23",
+        "strand": "-"
+      },
+      {
+        "gene_id": "6155",
+        "symbol": "RPL27",
+        "strand": "+"
+      },
+      {
+        "gene_id": "388394",
+        "symbol": "RPRML",
+        "strand": "-"
+      },
+      {
+        "gene_id": "55316",
+        "symbol": "RSAD1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "146923",
+        "symbol": "RUNDC1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "10900",
+        "symbol": "RUNDC3A",
+        "strand": "+"
+      },
+      {
+        "gene_id": "201191",
+        "symbol": "SAMD14",
+        "strand": "-"
+      },
+      {
+        "gene_id": "59342",
+        "symbol": "SCPEP1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "90507",
+        "symbol": "SCRN2",
+        "strand": "-"
+      },
+      {
+        "gene_id": "5414",
+        "symbol": "SEPTIN4",
+        "strand": "-"
+      },
+      {
+        "gene_id": "6442",
+        "symbol": "SGCA",
+        "strand": "+"
+      },
+      {
+        "gene_id": "8631",
+        "symbol": "SKAP1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "51629",
+        "symbol": "SLC25A39",
+        "strand": "-"
+      },
+      {
+        "gene_id": "10237",
+        "symbol": "SLC35B1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "146861",
+        "symbol": "SLC35G3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "6521",
+        "symbol": "SLC4A1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "91607",
+        "symbol": "SLFN11",
+        "strand": "-"
+      },
+      {
+        "gene_id": "55106",
+        "symbol": "SLFN12",
+        "strand": "-"
+      },
+      {
+        "gene_id": "100506736",
+        "symbol": "SLFN12L",
+        "strand": "-"
+      },
+      {
+        "gene_id": "146857",
+        "symbol": "SLFN13",
+        "strand": "-"
+      },
+      {
+        "gene_id": "342618",
+        "symbol": "SLFN14",
+        "strand": "-"
+      },
+      {
+        "gene_id": "162394",
+        "symbol": "SLFN5",
+        "strand": "+"
+      },
+      {
+        "gene_id": "6605",
+        "symbol": "SMARCE1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "11267",
+        "symbol": "SNF8",
+        "strand": "-"
+      },
+      {
+        "gene_id": "29916",
+        "symbol": "SNX11",
+        "strand": "+"
+      },
+      {
+        "gene_id": "30837",
+        "symbol": "SOCS7",
+        "strand": "+"
+      },
+      {
+        "gene_id": "50964",
+        "symbol": "SOST",
+        "strand": "-"
+      },
+      {
+        "gene_id": "6668",
+        "symbol": "SP2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "80320",
+        "symbol": "SP6",
+        "strand": "-"
+      },
+      {
+        "gene_id": "9043",
+        "symbol": "SPAG9",
+        "strand": "-"
+      },
+      {
+        "gene_id": "64847",
+        "symbol": "SPATA20",
+        "strand": "+"
+      },
+      {
+        "gene_id": "124783",
+        "symbol": "SPATA32",
+        "strand": "-"
+      },
+      {
+        "gene_id": "388381",
+        "symbol": "SPMAP1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "8405",
+        "symbol": "SPOP",
+        "strand": "-"
+      },
+      {
+        "gene_id": "162540",
+        "symbol": "SPPL2C",
+        "strand": "+"
+      },
+      {
+        "gene_id": "80725",
+        "symbol": "SRCIN1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "6426",
+        "symbol": "SRSF1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "342667",
+        "symbol": "STAC2",
+        "strand": "-"
+      },
+      {
+        "gene_id": "10948",
+        "symbol": "STARD3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "6774",
+        "symbol": "STAT3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "6776",
+        "symbol": "STAT5A",
+        "strand": "+"
+      },
+      {
+        "gene_id": "6777",
+        "symbol": "STAT5B",
+        "strand": "-"
+      },
+      {
+        "gene_id": "246744",
+        "symbol": "STH",
+        "strand": "+"
+      },
+      {
+        "gene_id": "252983",
+        "symbol": "STXBP4",
+        "strand": "+"
+      },
+      {
+        "gene_id": "6827",
+        "symbol": "SUPT4H1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "11276",
+        "symbol": "SYNRG",
+        "strand": "-"
+      },
+      {
+        "gene_id": "255061",
+        "symbol": "TAC4",
+        "strand": "-"
+      },
+      {
+        "gene_id": "6871",
+        "symbol": "TADA2A",
+        "strand": "+"
+      },
+      {
+        "gene_id": "8148",
+        "symbol": "TAF15",
+        "strand": "+"
+      },
+      {
+        "gene_id": "729873",
+        "symbol": "TBC1D3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "414059",
+        "symbol": "TBC1D3B",
+        "strand": "-"
+      },
+      {
+        "gene_id": "414060",
+        "symbol": "TBC1D3C",
+        "strand": "-"
+      },
+      {
+        "gene_id": "84218",
+        "symbol": "TBC1D3F",
+        "strand": "-"
+      },
+      {
+        "gene_id": "729877",
+        "symbol": "TBC1D3H",
+        "strand": "-"
+      },
+      {
+        "gene_id": "9755",
+        "symbol": "TBKBP1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "30009",
+        "symbol": "TBX21",
+        "strand": "+"
+      },
+      {
+        "gene_id": "8557",
+        "symbol": "TCAP",
+        "strand": "+"
+      },
+      {
+        "gene_id": "56155",
+        "symbol": "TEX14",
+        "strand": "-"
+      },
+      {
+        "gene_id": "7067",
+        "symbol": "THRA",
+        "strand": "+"
+      },
+      {
+        "gene_id": "55273",
+        "symbol": "TMEM100",
+        "strand": "-"
+      },
+      {
+        "gene_id": "84336",
+        "symbol": "TMEM101",
+        "strand": "-"
+      },
+      {
+        "gene_id": "113277",
+        "symbol": "TMEM106A",
+        "strand": "+"
+      },
+      {
+        "gene_id": "162461",
+        "symbol": "TMEM92",
+        "strand": "+"
+      },
+      {
+        "gene_id": "79089",
+        "symbol": "TMUB2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "84951",
+        "symbol": "TNS4",
+        "strand": "-"
+      },
+      {
+        "gene_id": "10140",
+        "symbol": "TOB1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "10040",
+        "symbol": "TOM1L1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "7153",
+        "symbol": "TOP2A",
+        "strand": "-"
+      },
+      {
+        "gene_id": "7706",
+        "symbol": "TRIM25",
+        "strand": "-"
+      },
+      {
+        "gene_id": "7229",
+        "symbol": "TRQ-TTG1-1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "9256",
+        "symbol": "TSPOAP1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "284076",
+        "symbol": "TTLL6",
+        "strand": "-"
+      },
+      {
+        "gene_id": "7283",
+        "symbol": "TUBG1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "27175",
+        "symbol": "TUBG2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "65264",
+        "symbol": "UBE2Z",
+        "strand": "+"
+      },
+      {
+        "gene_id": "7343",
+        "symbol": "UBTF",
+        "strand": "-"
+      },
+      {
+        "gene_id": "146862",
+        "symbol": "UNC45B",
+        "strand": "+"
+      },
+      {
+        "gene_id": "51096",
+        "symbol": "UTP18",
+        "strand": "+"
+      },
+      {
+        "gene_id": "10493",
+        "symbol": "VAT1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "7716",
+        "symbol": "VEZF1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "84313",
+        "symbol": "VPS25",
+        "strand": "+"
+      },
+      {
+        "gene_id": "124857",
+        "symbol": "WFIKKN2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "147179",
+        "symbol": "WIPF2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "65266",
+        "symbol": "WNK4",
+        "strand": "+"
+      },
+      {
+        "gene_id": "7473",
+        "symbol": "WNT3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "7484",
+        "symbol": "WNT9B",
+        "strand": "+"
+      },
+      {
+        "gene_id": "64132",
+        "symbol": "XYLT2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "201181",
+        "symbol": "ZNF385C",
+        "strand": "-"
+      },
+      {
+        "gene_id": "22834",
+        "symbol": "ZNF652",
+        "strand": "-"
+      },
+      {
+        "gene_id": "9326",
+        "symbol": "ZNHIT3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "124626",
+        "symbol": "ZPBP2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "80755",
+        "symbol": "AARSD1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "26574",
+        "symbol": "AATF",
+        "strand": "+"
+      },
+      {
+        "gene_id": "8714",
+        "symbol": "ABCC3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "51225",
+        "symbol": "ABI3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "31",
+        "symbol": "ACACA",
+        "strand": "-"
+      },
+      {
+        "gene_id": "79777",
+        "symbol": "ACBD4",
+        "strand": "+"
+      },
+      {
+        "gene_id": "47",
+        "symbol": "ACLY",
+        "strand": "-"
+      },
+      {
+        "gene_id": "80221",
+        "symbol": "ACSF2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "4185",
+        "symbol": "ADAM11",
+        "strand": "+"
+      },
+      {
+        "gene_id": "8165",
+        "symbol": "AKAP1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "162282",
+        "symbol": "ANKFN1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "91369",
+        "symbol": "ANKRD40",
+        "strand": "-"
+      },
+      {
+        "gene_id": "314",
+        "symbol": "AOC2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "8639",
+        "symbol": "AOC3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "163",
+        "symbol": "AP2B1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "57636",
+        "symbol": "ARHGAP23",
+        "strand": "+"
+      },
+      {
+        "gene_id": "201176",
+        "symbol": "ARHGAP27",
+        "strand": "-"
+      },
+      {
+        "gene_id": "51326",
+        "symbol": "ARL17A",
+        "strand": "-"
+      },
+      {
+        "gene_id": "100506084",
+        "symbol": "ARL17B",
+        "strand": "-"
+      },
+      {
+        "gene_id": "379",
+        "symbol": "ARL4D",
+        "strand": "+"
+      },
+      {
+        "gene_id": "390790",
+        "symbol": "ARL5C",
+        "strand": "-"
+      },
+      {
+        "gene_id": "92591",
+        "symbol": "ASB16",
+        "strand": "+"
+      },
+      {
+        "gene_id": "516",
+        "symbol": "ATP5MC1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "535",
+        "symbol": "ATP6V0A1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "56970",
+        "symbol": "ATXN7L3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "124872",
+        "symbol": "B4GALNT2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "8678",
+        "symbol": "BECN1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "672",
+        "symbol": "BRCA1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "284083",
+        "symbol": "C17orf47",
+        "strand": "-"
+      },
+      {
+        "gene_id": "339210",
+        "symbol": "C17orf67",
+        "strand": "-"
+      },
+      {
+        "gene_id": "284099",
+        "symbol": "C17orf78",
+        "strand": "+"
+      },
+      {
+        "gene_id": "10882",
+        "symbol": "C1QL1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "56934",
+        "symbol": "CA10",
+        "strand": "-"
+      },
+      {
+        "gene_id": "8913",
+        "symbol": "CACNA1G",
+        "strand": "+"
+      },
+      {
+        "gene_id": "782",
+        "symbol": "CACNB1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "10241",
+        "symbol": "CALCOCO2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "22794",
+        "symbol": "CASC3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "284119",
+        "symbol": "CAVIN1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "10951",
+        "symbol": "CBX1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "124808",
+        "symbol": "CCDC43",
+        "strand": "-"
+      },
+      {
+        "gene_id": "6358",
+        "symbol": "CCL14",
+        "strand": "-"
+      },
+      {
+        "gene_id": "6359",
+        "symbol": "CCL15",
+        "strand": "-"
+      },
+      {
+        "gene_id": "6360",
+        "symbol": "CCL16",
+        "strand": "-"
+      },
+      {
+        "gene_id": "6362",
+        "symbol": "CCL18",
+        "strand": "+"
+      },
+      {
+        "gene_id": "6368",
+        "symbol": "CCL23",
+        "strand": "-"
+      },
+      {
+        "gene_id": "6348",
+        "symbol": "CCL3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "6349",
+        "symbol": "CCL3L1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "414062",
+        "symbol": "CCL3L3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "6351",
+        "symbol": "CCL4",
+        "strand": "+"
+      },
+      {
+        "gene_id": "388372",
+        "symbol": "CCL4L1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "9560",
+        "symbol": "CCL4L2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "6352",
+        "symbol": "CCL5",
+        "strand": "-"
+      },
+      {
+        "gene_id": "2826",
+        "symbol": "CCR10",
+        "strand": "-"
+      },
+      {
+        "gene_id": "1236",
+        "symbol": "CCR7",
+        "strand": "-"
+      },
+      {
+        "gene_id": "146894",
+        "symbol": "CD300LG",
+        "strand": "+"
+      },
+      {
+        "gene_id": "996",
+        "symbol": "CDC27",
+        "strand": "-"
+      },
+      {
+        "gene_id": "990",
+        "symbol": "CDC6",
+        "strand": "+"
+      },
+      {
+        "gene_id": "51755",
+        "symbol": "CDK12",
+        "strand": "+"
+      },
+      {
+        "gene_id": "80279",
+        "symbol": "CDK5RAP3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "284067",
+        "symbol": "CFAP97D1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "1101",
+        "symbol": "CHAD",
+        "strand": "-"
+      },
+      {
+        "gene_id": "284106",
+        "symbol": "CISD3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "1267",
+        "symbol": "CNP",
+        "strand": "+"
+      },
+      {
+        "gene_id": "124817",
+        "symbol": "CNTD1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "8506",
+        "symbol": "CNTNAP1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "28958",
+        "symbol": "COA3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "80347",
+        "symbol": "COASY",
+        "strand": "+"
+      },
+      {
+        "gene_id": "8161",
+        "symbol": "COIL",
+        "strand": "-"
+      },
+      {
+        "gene_id": "1277",
+        "symbol": "COL1A1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "51226",
+        "symbol": "COPZ2",
+        "strand": "-"
+      },
+      {
+        "gene_id": "1353",
+        "symbol": "COX11",
+        "strand": "-"
+      },
+      {
+        "gene_id": "1394",
+        "symbol": "CRHR1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "1440",
+        "symbol": "CSF3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "404093",
+        "symbol": "CUEDC1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "54883",
+        "symbol": "CWC25",
+        "strand": "-"
+      },
+      {
+        "gene_id": "80174",
+        "symbol": "DBF4B",
+        "strand": "+"
+      },
+      {
+        "gene_id": "79877",
+        "symbol": "DCAKD",
+        "strand": "-"
+      },
+      {
+        "gene_id": "11056",
+        "symbol": "DDX52",
+        "strand": "-"
+      },
+      {
+        "gene_id": "8526",
+        "symbol": "DGKE",
+        "strand": "+"
+      },
+      {
+        "gene_id": "79154",
+        "symbol": "DHRS11",
+        "strand": "+"
+      },
+      {
+        "gene_id": "79132",
+        "symbol": "DHX58",
+        "strand": "-"
+      },
+      {
+        "gene_id": "1659",
+        "symbol": "DHX8",
+        "strand": "+"
+      },
+      {
+        "gene_id": "1747",
+        "symbol": "DLX3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "1748",
+        "symbol": "DLX4",
+        "strand": "+"
+      },
+      {
+        "gene_id": "388389",
+        "symbol": "DNAAF19",
+        "strand": "+"
+      },
+      {
+        "gene_id": "7266",
+        "symbol": "DNAJC7",
+        "strand": "-"
+      },
+      {
+        "gene_id": "11072",
+        "symbol": "DUSP14",
+        "strand": "+"
+      },
+      {
+        "gene_id": "1845",
+        "symbol": "DUSP3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "140735",
+        "symbol": "DYNLL2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "101927666",
+        "symbol": "DYNLL2-DT",
+        "strand": "-"
+      },
+      {
+        "gene_id": "124989",
+        "symbol": "EFCAB13",
+        "strand": "+"
+      },
+      {
+        "gene_id": "9343",
+        "symbol": "EFTUD2",
+        "strand": "-"
+      },
+      {
+        "gene_id": "10209",
+        "symbol": "EIF1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "146956",
+        "symbol": "EME1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "55040",
+        "symbol": "EPN3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "100170841",
+        "symbol": "EPOP",
+        "strand": "-"
+      },
+      {
+        "gene_id": "8288",
+        "symbol": "EPX",
+        "strand": "+"
+      },
+      {
+        "gene_id": "2064",
+        "symbol": "ERBB2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "2118",
+        "symbol": "ETV4",
+        "strand": "-"
+      },
+      {
+        "gene_id": "2145",
+        "symbol": "EZH1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "81558",
+        "symbol": "FAM117A",
+        "strand": "-"
+      },
+      {
+        "gene_id": "284069",
+        "symbol": "FAM171A2",
+        "strand": "-"
+      },
+      {
+        "gene_id": "84961",
+        "symbol": "FBXL20",
+        "strand": "-"
+      },
+      {
+        "gene_id": "494188",
+        "symbol": "FBXO47",
+        "strand": "-"
+      },
+      {
+        "gene_id": "60681",
+        "symbol": "FKBP10",
+        "strand": "+"
+      },
+      {
+        "gene_id": "752",
+        "symbol": "FMNL1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "54752",
+        "symbol": "FNDC8",
+        "strand": "+"
+      },
+      {
+        "gene_id": "2535",
+        "symbol": "FZD2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "2538",
+        "symbol": "G6PC1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "92579",
+        "symbol": "G6PC3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "246176",
+        "symbol": "GAS2L2",
+        "strand": "-"
+      },
+      {
+        "gene_id": "2520",
+        "symbol": "GAST",
+        "strand": "+"
+      },
+      {
+        "gene_id": "2670",
+        "symbol": "GFAP",
+        "strand": "-"
+      },
+      {
+        "gene_id": "79893",
+        "symbol": "GGNBP2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "84514",
+        "symbol": "GHDC",
+        "strand": "-"
+      },
+      {
+        "gene_id": "2695",
+        "symbol": "GIP",
+        "strand": "-"
+      },
+      {
+        "gene_id": "10052",
+        "symbol": "GJC1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "125111",
+        "symbol": "GJD3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "2793",
+        "symbol": "GNGT2",
+        "strand": "-"
+      },
+      {
+        "gene_id": "9570",
+        "symbol": "GOSR2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "23131",
+        "symbol": "GPATCH8",
+        "strand": "-"
+      },
+      {
+        "gene_id": "440435",
+        "symbol": "GPR179",
+        "strand": "-"
+      },
+      {
+        "gene_id": "2886",
+        "symbol": "GRB7",
+        "strand": "+"
+      },
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      },
+      {
+        "gene_id": "284110",
+        "symbol": "GSDMA",
+        "strand": "+"
+      },
+      {
+        "gene_id": "55876",
+        "symbol": "GSDMB",
+        "strand": "-"
+      },
+      {
+        "gene_id": "9001",
+        "symbol": "HAP1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3060",
+        "symbol": "HCRT",
+        "strand": "-"
+      },
+      {
+        "gene_id": "10014",
+        "symbol": "HDAC5",
+        "strand": "-"
+      }
+    ],
+    "variation_type": "copy number loss",
+    "molecular_consequences": []
+  },
+  {
+    "variant_id": "3242000",
+    "clinical_significance": "Likely pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.138+2T>C",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "splice donor variant"
+    ]
+  },
+  {
+    "variant_id": "3239636",
+    "clinical_significance": "Likely pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/06/08 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1435C>T (p.Gln479Ter)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "nonsense"
+    ]
+  },
+  {
+    "variant_id": "3239548",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/05/01 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_002087.4(GRN):c.1722C>T (p.Arg574=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "3102719",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/02/13 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.574C>T (p.Pro192Ser)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "3102718",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2023/12/18 00:00",
+    "phenotypes": [
+      "not provided",
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.1327G>A (p.Gly443Ser)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "3102716",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/01/22 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.1124C>G (p.Ser375Cys)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "3067998",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/04/04 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.124T>G (p.Cys42Gly)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "3067343",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2024/09/10 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11",
+      "not provided"
+    ],
+    "title": "NM_002087.4(GRN):c.1760del (p.Pro587fs)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Deletion",
+    "molecular_consequences": [
+      "frameshift variant"
+    ]
+  },
+  {
+    "variant_id": "3046828",
+    "clinical_significance": "Likely benign",
+    "review_status": "no assertion criteria provided",
+    "last_evaluated": "2019/04/15 00:00",
+    "phenotypes": [
+      "GRN-related disorder"
+    ],
+    "title": "NM_002087.4(GRN):c.-8+13C>A",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3031059",
+    "clinical_significance": "Likely pathogenic",
+    "review_status": "no assertion criteria provided",
+    "last_evaluated": "2024/02/13 00:00",
+    "phenotypes": [
+      "GRN-related disorder"
+    ],
+    "title": "NM_002087.4(GRN):c.900_901dup (p.Ser301fs)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Duplication",
+    "molecular_consequences": [
+      "frameshift variant"
+    ]
+  },
+  {
+    "variant_id": "3028956",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "no assertion criteria provided",
+    "last_evaluated": "2024/05/21 00:00",
+    "phenotypes": [
+      "GRN-related disorder"
+    ],
+    "title": "NM_002087.4(GRN):c.1618G>C (p.Gly540Arg)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "3024992",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/01/01 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_002087.4(GRN):c.204T>C (p.Ser68=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2954533",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/12/09 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1179G>C (p.Glu393Asp)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2954230",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/11/25 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.797C>T (p.Ala266Val)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2953006",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2025/10/03 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1355T>C (p.Val452Ala)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2951651",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/11/18 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1259G>A (p.Ser420Asn)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2950116",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/03/31 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.599-8T>C",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2949696",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/11/07 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.599-11T>A",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2949432",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/10/16 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1102_1104del (p.Asn368del)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Deletion",
+    "molecular_consequences": [
+      "inframe_deletion"
+    ]
+  },
+  {
+    "variant_id": "2948899",
+    "clinical_significance": "Conflicting classifications of pathogenicity",
+    "review_status": "criteria provided, conflicting classifications",
+    "last_evaluated": "2023/02/26 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1603C>T (p.Arg535Ter)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "nonsense"
+    ]
+  }
+]

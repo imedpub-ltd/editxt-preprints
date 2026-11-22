@@ -1,0 +1,4462 @@
+[
+  {
+    "variant_id": "2946601",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/04/18 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.138+13C>G",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2946110",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/04/03 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.108A>T (p.Gly36=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2946036",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/07/12 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.393C>A (p.Phe131Leu)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2945710",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/11/08 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1240G>A (p.Gly414Arg)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2944000",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/02/06 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.935C>T (p.Ala312Val)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2943825",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/02/06 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.147G>C (p.Trp49Cys)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2943042",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/01/09 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.265-13C>G",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2942778",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/12/29 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1004G>A (p.Cys335Tyr)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2942159",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/12/08 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1227del (p.Cys410fs)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Deletion",
+    "molecular_consequences": [
+      "frameshift variant"
+    ]
+  },
+  {
+    "variant_id": "2942052",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/12/04 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.128_129insCC (p.Pro44fs)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Insertion",
+    "molecular_consequences": [
+      "frameshift variant"
+    ]
+  },
+  {
+    "variant_id": "2941844",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/12/03 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1011G>C (p.Gln337His)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2941451",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/01/01 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.101C>A (p.Pro34His)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2941350",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/11/15 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.657T>C (p.Ser219=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2940672",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/10/01 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1434C>T (p.Arg478=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2940195",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/02/23 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1213C>T (p.Pro405Ser)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2938949",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/07/01 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1149T>A (p.Ser383=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2938303",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2024/11/10 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11",
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.1204C>G (p.His402Asp)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2937040",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/11/14 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1664G>A (p.Arg555Gln)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2937028",
+    "clinical_significance": "Conflicting classifications of pathogenicity",
+    "review_status": "criteria provided, conflicting classifications",
+    "last_evaluated": "2025/10/06 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related disorder"
+    ],
+    "title": "NM_002087.4(GRN):c.933+5C>G",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2937002",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/01/14 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.724G>C (p.Asp242His)",
+    "genes": [
+      {
+        "gene_id": "125177489",
+        "symbol": "LOC125177489",
+        "strand": "+"
+      },
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2936710",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/09/17 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1482C>T (p.Ser494=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2935447",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/09/09 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1683T>C (p.Ala561=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2935223",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/11/27 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1337A>T (p.Gln446Leu)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2935139",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/06/02 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1344C>G (p.Thr448=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2935055",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/01/17 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.264+13T>C",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2934588",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/09/23 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.176G>C (p.Gly59Ala)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2934562",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/02/14 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1708A>G (p.Thr570Ala)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2934133",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/12/07 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1606G>A (p.Asp536Asn)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2933798",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/10/18 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.933+10G>A",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2933459",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/12/19 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.836-19CT[2]",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Microsatellite",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2933013",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2025/01/08 00:00",
+    "phenotypes": [
+      "not provided",
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.752C>G (p.Thr251Ser)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2932785",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/06/25 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.836-5C>G",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2932702",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/02/14 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1731C>T (p.Ala577=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2932669",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/07/30 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.873A>G (p.Pro291=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2932583",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/06/03 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.599-10C>T",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2932432",
+    "clinical_significance": "Likely pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/10/06 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.265-2A>T",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "splice acceptor variant"
+    ]
+  },
+  {
+    "variant_id": "2932167",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/12/17 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.265-7T>C",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2931901",
+    "clinical_significance": "Conflicting classifications of pathogenicity",
+    "review_status": "criteria provided, conflicting classifications",
+    "last_evaluated": "2024/08/21 00:00",
+    "phenotypes": [
+      "not provided",
+      "not specified",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1353G>A (p.Pro451=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2931870",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/10/23 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1076C>T (p.Ala359Val)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2931298",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/05/19 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.139-18T>C",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2930629",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/11/07 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1260C>G (p.Ser420Arg)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2930565",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/02/28 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.339C>T (p.Phe113=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2929632",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/11/01 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1707T>C (p.Gly569=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2929601",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/03/18 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1006G>C (p.Glu336Gln)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2929514",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2022/12/06 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "not specified"
+    ],
+    "title": "NM_002087.4(GRN):c.1467C>T (p.Asn489=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2928811",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/11/01 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.5G>A (p.Trp2Ter)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "nonsense"
+    ]
+  },
+  {
+    "variant_id": "2927943",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/12/31 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1571G>T (p.Gly524Val)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2927804",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/04/25 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.149C>T (p.Pro50Leu)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2927281",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/12/30 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.87C>A (p.Ala29=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2927226",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/11/26 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1179+3A>G",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2926271",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/11/09 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1642C>T (p.Gln548Ter)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "nonsense"
+    ]
+  },
+  {
+    "variant_id": "2925727",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2025/04/08 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11",
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.716G>T (p.Cys239Phe)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      },
+      {
+        "gene_id": "125177489",
+        "symbol": "LOC125177489",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2925625",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/03/05 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1317_1318del (p.Asp441fs)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Deletion",
+    "molecular_consequences": [
+      "frameshift variant"
+    ]
+  },
+  {
+    "variant_id": "2925624",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/07/28 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.388C>T (p.Gln130Ter)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "nonsense"
+    ]
+  },
+  {
+    "variant_id": "2925623",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/05/03 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.348A>C (p.Ser116=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2925241",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/08/08 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1770A>G (p.Arg590=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2925230",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2025/12/04 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11",
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.487C>T (p.His163Tyr)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2925036",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/11/06 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1561T>G (p.Cys521Gly)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2924712",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/02/01 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.301C>A (p.Arg101=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2924552",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/12/06 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1180-4C>A",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2924498",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/03/10 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1645-17C>T",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2924467",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/09/25 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.349+12G>C",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2924395",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/11/25 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.139-13C>T",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2924389",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/07/14 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1423T>C (p.Cys475Arg)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2924078",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/11/24 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.18C>T (p.Ser6=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2923848",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/11/09 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.934-9C>T",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2923646",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/10/02 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1092C>T (p.Val364=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2923224",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/09/30 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1570G>C (p.Gly524Arg)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2923091",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/11/15 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1665G>T (p.Arg555=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2922564",
+    "clinical_significance": "Conflicting classifications of pathogenicity",
+    "review_status": "criteria provided, conflicting classifications",
+    "last_evaluated": "2026/07/27 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1413T>C (p.His471=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2922494",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/01/16 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.665G>A (p.Cys222Tyr)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2922295",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/01/29 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.685T>C (p.Tyr229His)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2921658",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/03/26 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.980C>T (p.Thr327Met)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2921581",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/12/20 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.694T>C (p.Cys232Arg)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      },
+      {
+        "gene_id": "125177489",
+        "symbol": "LOC125177489",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2684293",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/03/27 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_002087.4(GRN):c.837G>A (p.Val279=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2683429",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/02/25 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_002087.4(GRN):c.1015C>G (p.Pro339Ala)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2682215",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/11/21 00:00",
+    "phenotypes": [
+      "not specified"
+    ],
+    "title": "NM_002087.4:c.(?_-41)_(-8+1_-7-1)del",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Deletion",
+    "molecular_consequences": []
+  },
+  {
+    "variant_id": "2664516",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "no assertion criteria provided",
+    "last_evaluated": "2021/03/20 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_002087.4(GRN):c.1628G>A (p.Cys543Tyr)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2647834",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/03/01 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_002087.4(GRN):c.1585_1587del (p.Asp529del)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Deletion",
+    "molecular_consequences": [
+      "inframe_deletion"
+    ]
+  },
+  {
+    "variant_id": "2647833",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/10/01 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_002087.4(GRN):c.293G>A (p.Cys98Tyr)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2636477",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2025/05/04 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "GRN-related disorder"
+    ],
+    "title": "NM_002087.4(GRN):c.971C>T (p.Ala324Val)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2633502",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/03/13 00:00",
+    "phenotypes": [
+      "GRN-related disorder"
+    ],
+    "title": "NM_002087.4(GRN):c.347C>A (p.Ser116Ter)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "nonsense"
+    ]
+  },
+  {
+    "variant_id": "2633357",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/03/16 00:00",
+    "phenotypes": [
+      "GRN-related disorder"
+    ],
+    "title": "NM_002087.4(GRN):c.1429_1430dup (p.Asp477fs)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Duplication",
+    "molecular_consequences": [
+      "frameshift variant"
+    ]
+  },
+  {
+    "variant_id": "2632289",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2025/05/08 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "GRN-related disorder"
+    ],
+    "title": "NM_002087.4(GRN):c.1682_1683delinsGG (p.Ala561Gly)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Indel",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2622166",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/08/28 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.1025T>C (p.Val342Ala)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2580517",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/03/24 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_002087.4(GRN):c.1330T>C (p.Cys444Arg)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2522313",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2023/03/27 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases",
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.8C>T (p.Thr3Ile)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2492400",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/03/01 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.857T>G (p.Met286Arg)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2491036",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/04/04 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.823C>T (p.Pro275Ser)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2475395",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/01/10 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.1729G>T (p.Ala577Ser)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2468572",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/02/22 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.762C>A (p.Asp254Glu)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2430617",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2026/07/06 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_002087.4(GRN):c.530_543del (p.Arg177fs)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Deletion",
+    "molecular_consequences": [
+      "frameshift variant"
+    ]
+  },
+  {
+    "variant_id": "2421896",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2025/10/21 00:00",
+    "phenotypes": [
+      "not specified",
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.795C>T (p.Asn265=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2421214",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2026/05/06 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.784T>C (p.Ser262Pro)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2421213",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/08/04 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.741C>T (p.Cys247=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      },
+      {
+        "gene_id": "125177489",
+        "symbol": "LOC125177489",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2421105",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/04/22 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1344C>T (p.Thr448=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2419137",
+    "clinical_significance": "Likely pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/11/29 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1414-15_1591del",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Deletion",
+    "molecular_consequences": [
+      "splice acceptor variant"
+    ]
+  },
+  {
+    "variant_id": "2418453",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2020/02/03 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1674C>T (p.Cys558=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2417606",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/04/01 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.349+19T>C",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2407986",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2021/10/22 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.824C>A (p.Pro275His)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2397854",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2026/01/15 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.933G>A (p.Gln311=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2307510",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/08/16 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.1493A>G (p.Glu498Gly)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2293461",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/06/08 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.595G>A (p.Ala199Thr)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2285440",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/04/28 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.724G>A (p.Asp242Asn)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      },
+      {
+        "gene_id": "125177489",
+        "symbol": "LOC125177489",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2283735",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2020/10/30 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.274T>C (p.Cys92Arg)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2279608",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/03/23 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.1023G>T (p.Gln341His)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2278094",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2025/12/30 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.1759C>T (p.Pro587Ser)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2262853",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2024/06/02 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.1295G>A (p.Arg432His)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2201802",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2022/10/15 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1690C>T (p.Arg564Cys)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2200465",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2025/08/18 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "not specified"
+    ],
+    "title": "NM_002087.4(GRN):c.1554C>T (p.Asp518=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2200034",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2025/01/16 00:00",
+    "phenotypes": [
+      "not specified",
+      "Inborn genetic diseases",
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1696G>A (p.Ala566Thr)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2199836",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/08/24 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1316C>G (p.Pro439Arg)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2198134",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/09/06 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1327G>C (p.Gly443Arg)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2197511",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/07/15 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1529G>A (p.Arg510His)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2197187",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/05/10 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.186G>A (p.Gln62=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2197061",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/08/21 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1706G>A (p.Gly569Asp)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2195761",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2024/02/16 00:00",
+    "phenotypes": [
+      "not provided",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.554A>G (p.His185Arg)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2194481",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/07/15 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.264+7G>C",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2194185",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/08/25 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.932A>T (p.Gln311Leu)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2194075",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/10/15 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.857T>C (p.Met286Thr)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2193636",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/07/05 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1613G>A (p.Arg538Gln)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2193378",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/08/24 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1059C>G (p.Ser353Arg)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2189757",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/03/01 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.86C>T (p.Ala29Val)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2187565",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/08/24 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.998G>T (p.Gly333Val)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2185495",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/04/02 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1179+15del",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Deletion",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2175081",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2026/04/20 00:00",
+    "phenotypes": [
+      "not provided",
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.910_911dup (p.Trp304fs)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Duplication",
+    "molecular_consequences": [
+      "frameshift variant"
+    ]
+  },
+  {
+    "variant_id": "2173949",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/03/09 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1117C>A (p.Pro373Thr)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2171904",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/09/14 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.423T>G (p.Val141=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2168427",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/09/25 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1253G>C (p.Arg418Pro)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2166026",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2022/06/14 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases",
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.258C>G (p.Phe86Leu)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2164316",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/07/12 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1725_1726delinsAA (p.Glu576Lys)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Indel",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2163574",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/11/27 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.591C>G (p.Asn197Lys)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2162242",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/08/24 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1347C>G (p.Ser449Arg)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2161973",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/11/27 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1630T>C (p.Cys544Arg)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2159537",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/06/20 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.350-9T>C",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2152416",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/12/22 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.264+6C>T",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2150000",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/07/09 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1426G>A (p.Glu476Lys)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2149038",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2022/11/01 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "not provided"
+    ],
+    "title": "NM_002087.4(GRN):c.1060C>T (p.Leu354=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2148688",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/12/19 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.47C>T (p.Ala16Val)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2148671",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/07/26 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.462+16A>G",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2148556",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/04/08 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.708+20C>T",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      },
+      {
+        "gene_id": "125177489",
+        "symbol": "LOC125177489",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2146805",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2021/12/23 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.198C>T (p.His66=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2143181",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/06/27 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.640C>T (p.Arg214Trp)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2141664",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/11/25 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.828G>A (p.Ala276=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2140721",
+    "clinical_significance": "Conflicting classifications of pathogenicity",
+    "review_status": "criteria provided, conflicting classifications",
+    "last_evaluated": "2025/08/30 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases",
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1733C>T (p.Pro578Leu)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2138929",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/01/18 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.139-12C>G",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2138293",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2026/01/21 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1644+10A>T",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2138056",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/09/05 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1639C>T (p.Arg547Cys)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2138054",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/08/25 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.295_308del (p.Cys99fs)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Deletion",
+    "molecular_consequences": [
+      "frameshift variant"
+    ]
+  },
+  {
+    "variant_id": "2138053",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/07/11 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.265-2del",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Deletion",
+    "molecular_consequences": [
+      "splice acceptor variant"
+    ]
+  },
+  {
+    "variant_id": "2137052",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2024/11/25 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "not provided"
+    ],
+    "title": "NM_002087.4(GRN):c.406T>G (p.Phe136Val)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2134602",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/05/06 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1413+20C>T",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2128680",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/04/21 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.263A>C (p.Glu88Ala)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2127919",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/04/19 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.711del (p.Thr238fs)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      },
+      {
+        "gene_id": "125177489",
+        "symbol": "LOC125177489",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Deletion",
+    "molecular_consequences": [
+      "frameshift variant"
+    ]
+  },
+  {
+    "variant_id": "2127749",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/04/18 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1158G>A (p.Trp386Ter)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "nonsense"
+    ]
+  },
+  {
+    "variant_id": "2123451",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/05/31 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.650A>T (p.Asp217Val)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2119142",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/03/29 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.784_787del (p.Ser262fs)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Deletion",
+    "molecular_consequences": [
+      "frameshift variant"
+    ]
+  },
+  {
+    "variant_id": "2119074",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/03/28 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1775T>C (p.Leu592Pro)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2115857",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/10/07 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.836-14T>G",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2110555",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/03/13 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.562G>A (p.Ala188Thr)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2107676",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/10/02 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1180-12C>T",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2105943",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/06/18 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1645-20G>T",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2100475",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/03/28 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.30A>C (p.Leu10Phe)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2099089",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/08/09 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.19T>G (p.Trp7Gly)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2092824",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/07/25 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.182G>A (p.Cys61Tyr)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2088714",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/04/15 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.206C>A (p.Ala69Asp)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2085617",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2024/11/10 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11",
+      "not provided"
+    ],
+    "title": "NM_002087.4(GRN):c.413C>T (p.Thr138Met)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2083348",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/12/20 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1374G>A (p.Pro458=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2082349",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2026/01/26 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.895C>T (p.Leu299=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2080355",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/08/24 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.243C>T (p.Ser81=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2078851",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2025/07/03 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases",
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "not provided"
+    ],
+    "title": "NM_002087.4(GRN):c.691T>C (p.Cys231Arg)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      },
+      {
+        "gene_id": "125177489",
+        "symbol": "LOC125177489",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2077657",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/04/19 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.349+11G>A",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2074271",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/08/24 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.50G>C (p.Gly17Ala)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2072556",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/10/21 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1354_1374del (p.Val452_Pro458del)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Deletion",
+    "molecular_consequences": [
+      "inframe_deletion"
+    ]
+  },
+  {
+    "variant_id": "2071765",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/04/04 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.632C>T (p.Ala211Val)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2067960",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/12/15 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.378C>T (p.Cys126=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2065662",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/07/11 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.26C>T (p.Ala9Val)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2064782",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2025/09/23 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11",
+      "not specified"
+    ],
+    "title": "NM_002087.4(GRN):c.207C>T (p.Ala69=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2063300",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/03/30 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.474T>C (p.Cys158=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2061690",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/11/28 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.264+3G>T",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2061645",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/08/30 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1180-3del",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Deletion",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2060706",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2025/03/17 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11",
+      "not provided",
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_002087.4(GRN):c.781C>T (p.Leu261Phe)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2060467",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/09/08 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.744C>G (p.Pro248=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      },
+      {
+        "gene_id": "125177489",
+        "symbol": "LOC125177489",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2059996",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/03/13 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1600T>A (p.Cys534Ser)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2057663",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2025/12/21 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.893G>A (p.Arg298His)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2055788",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/05/23 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.824C>T (p.Pro275Leu)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2055496",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/11/03 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.462+13G>A",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2052903",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2025/08/15 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11",
+      "not provided"
+    ],
+    "title": "NM_002087.4(GRN):c.277G>A (p.Gly93Arg)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2052679",
+    "clinical_significance": "Benign/Likely benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2024/08/14 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11",
+      "not specified"
+    ],
+    "title": "NM_002087.4(GRN):c.933+11del",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Deletion",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2052328",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/02/08 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.349+15T>A",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2048541",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/09/06 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1041G>A (p.Lys347=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2048452",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2025/09/08 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "not provided"
+    ],
+    "title": "NM_002087.4(GRN):c.1575C>T (p.His525=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2045644",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/09/13 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1326C>G (p.Ile442Met)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2041723",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2026/01/08 00:00",
+    "phenotypes": [
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1267G>A (p.Val423Met)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2040957",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/11/01 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.599-18C>T",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2040841",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/06/08 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.1560G>A (p.Glu520=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2040155",
+    "clinical_significance": "Conflicting classifications of pathogenicity",
+    "review_status": "criteria provided, conflicting classifications",
+    "last_evaluated": "2024/12/06 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases",
+      "Frontotemporal dementia and/or amyotrophic lateral sclerosis",
+      "not specified",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions",
+      "Neuronal ceroid lipofuscinosis 11"
+    ],
+    "title": "NM_002087.4(GRN):c.1720C>T (p.Arg574Cys)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2037400",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/08/23 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.753T>C (p.Thr251=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2036688",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/10/30 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.636G>A (p.Arg212=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2035460",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/10/20 00:00",
+    "phenotypes": [
+      "Neuronal ceroid lipofuscinosis 11",
+      "GRN-related frontotemporal lobar degeneration with Tdp43 inclusions"
+    ],
+    "title": "NM_002087.4(GRN):c.96G>C (p.Leu32=)",
+    "genes": [
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  }
+]

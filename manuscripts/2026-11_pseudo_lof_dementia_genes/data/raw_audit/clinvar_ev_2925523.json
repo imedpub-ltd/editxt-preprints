@@ -1,0 +1,69 @@
+{
+  "variant_id": "2925523",
+  "allele_info": {
+    "chromosome": "14",
+    "position_start": "73136417",
+    "position_stop": "73223691",
+    "reference_allele": null,
+    "alternate_allele": null,
+    "cytogenetic_band": "14q24.2",
+    "dbsnp_rsid": "rs1566650594"
+  },
+  "conditions": [
+    {
+      "name": "Alzheimer disease 3",
+      "medgen_cui": "C1843013",
+      "omim_id": "607822",
+      "orphanet_id": "1020",
+      "hpo_terms": []
+    },
+    {
+      "name": "Frontotemporal dementia",
+      "medgen_cui": "C0338451",
+      "omim_id": "600274",
+      "orphanet_id": "282",
+      "hpo_terms": [
+        "HP:0002145",
+        "HP:0002145"
+      ]
+    },
+    {
+      "name": "Pick disease",
+      "medgen_cui": "C0236642",
+      "omim_id": "172700",
+      "orphanet_id": "282",
+      "hpo_terms": []
+    },
+    {
+      "name": "Acne inversa, familial, 3",
+      "medgen_cui": "C3151038",
+      "omim_id": "613737",
+      "orphanet_id": null,
+      "hpo_terms": []
+    },
+    {
+      "name": "Unknown",
+      "medgen_cui": "C1843013",
+      "omim_id": null,
+      "orphanet_id": null,
+      "hpo_terms": []
+    }
+  ],
+  "functional_consequences": [],
+  "structural_variant_details": null,
+  "citation_references": [
+    "16199547",
+    "26194182",
+    "28749476",
+    "32579498"
+  ],
+  "submissions": [
+    {
+      "submitter_name": "Labcorp Genetics (formerly Invitae), Labcorp",
+      "classification": "Pathogenic",
+      "curator_notes": "This sequence change affects an acceptor splice site in intron 8 of the PSEN1 gene. It is expected to disrupt RNA splicing. Variants that disrupt the donor or acceptor splice site typically lead to a loss of protein function (PMID: 16199547), however the current clinical and genetic evidence is not sufficient to establish whether loss-of-function variants in PSEN1 cause disease. This variant is not present in population databases (gnomAD no frequency). Disruption of this splice site has been observed in individual(s) with clinical features of PSEN1-related conditions (PMID: 26194182, 28749476, 32579498). In at least one individual the variant was observed to be de novo. Algorithms developed to predict the effect of sequence changes on RNA splicing suggest that this variant may disrupt the consensus splice site. For these reasons, this variant has been classified as Pathogenic.",
+      "assertion_criteria": "Invitae Variant Classification Sherloc (09022015)",
+      "date_last_evaluated": "2022-12-21"
+    }
+  ]
+}

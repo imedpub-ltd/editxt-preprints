@@ -1,0 +1,663 @@
+{
+  "2925523": {
+    "variant_id": "2925523",
+    "allele_info": {
+      "chromosome": "14",
+      "position_start": "73136417",
+      "position_stop": "73223691",
+      "reference_allele": null,
+      "alternate_allele": null,
+      "cytogenetic_band": "14q24.2",
+      "dbsnp_rsid": "rs1566650594"
+    },
+    "conditions": [
+      {
+        "name": "Alzheimer disease 3",
+        "medgen_cui": "C1843013",
+        "omim_id": "607822",
+        "orphanet_id": "1020",
+        "hpo_terms": []
+      },
+      {
+        "name": "Frontotemporal dementia",
+        "medgen_cui": "C0338451",
+        "omim_id": "600274",
+        "orphanet_id": "282",
+        "hpo_terms": [
+          "HP:0002145",
+          "HP:0002145"
+        ]
+      },
+      {
+        "name": "Pick disease",
+        "medgen_cui": "C0236642",
+        "omim_id": "172700",
+        "orphanet_id": "282",
+        "hpo_terms": []
+      },
+      {
+        "name": "Acne inversa, familial, 3",
+        "medgen_cui": "C3151038",
+        "omim_id": "613737",
+        "orphanet_id": null,
+        "hpo_terms": []
+      },
+      {
+        "name": "Unknown",
+        "medgen_cui": "C1843013",
+        "omim_id": null,
+        "orphanet_id": null,
+        "hpo_terms": []
+      }
+    ],
+    "functional_consequences": [],
+    "structural_variant_details": null,
+    "citation_references": [
+      "16199547",
+      "26194182",
+      "28749476",
+      "32579498"
+    ],
+    "submissions": [
+      {
+        "submitter_name": "Labcorp Genetics (formerly Invitae), Labcorp",
+        "classification": "Pathogenic",
+        "curator_notes": "This sequence change affects an acceptor splice site in intron 8 of the PSEN1 gene. It is expected to disrupt RNA splicing. Variants that disrupt the donor or acceptor splice site typically lead to a loss of protein function (PMID: 16199547), however the current clinical and genetic evidence is not sufficient to establish whether loss-of-function variants in PSEN1 cause disease. This variant is not present in population databases (gnomAD no frequency). Disruption of this splice site has been observed in individual(s) with clinical features of PSEN1-related conditions (PMID: 26194182, 28749476, 32579498). In at least one individual the variant was observed to be de novo. Algorithms developed to predict the effect of sequence changes on RNA splicing suggest that this variant may disrupt the consensus splice site. For these reasons, this variant has been classified as Pathogenic.",
+        "assertion_criteria": "Invitae Variant Classification Sherloc (09022015)",
+        "date_last_evaluated": "2022-12-21"
+      }
+    ]
+  },
+  "1027511": {
+    "variant_id": "1027511",
+    "allele_info": {
+      "chromosome": "14",
+      "position_start": "73136417",
+      "position_stop": "73223691",
+      "reference_allele": null,
+      "alternate_allele": null,
+      "cytogenetic_band": "14q24.2",
+      "dbsnp_rsid": "rs2140037322"
+    },
+    "conditions": [
+      {
+        "name": "Alzheimer disease 3",
+        "medgen_cui": "C1843013",
+        "omim_id": "607822",
+        "orphanet_id": "1020",
+        "hpo_terms": []
+      },
+      {
+        "name": "Unknown",
+        "medgen_cui": null,
+        "omim_id": "607822",
+        "orphanet_id": null,
+        "hpo_terms": []
+      }
+    ],
+    "functional_consequences": [],
+    "structural_variant_details": null,
+    "citation_references": [],
+    "submissions": [
+      {
+        "submitter_name": "Molecular Medicine for Neurodegenerative and Neuromuscular Diseases Unit, IRCCS Fondazione Stella Maris",
+        "classification": "Pathogenic",
+        "curator_notes": null,
+        "assertion_criteria": "ACMG Guidelines, 2015",
+        "date_last_evaluated": "2021-01-04"
+      }
+    ]
+  },
+  "599622": {
+    "variant_id": "599622",
+    "allele_info": {
+      "chromosome": "14",
+      "position_start": "73136417",
+      "position_stop": "73223691",
+      "reference_allele": null,
+      "alternate_allele": null,
+      "cytogenetic_band": "14q24.2",
+      "dbsnp_rsid": "rs63750219"
+    },
+    "conditions": [
+      {
+        "name": "Frontotemporal dementia",
+        "medgen_cui": "C0338451",
+        "omim_id": "600274",
+        "orphanet_id": "282",
+        "hpo_terms": [
+          "HP:0002145",
+          "HP:0002145"
+        ]
+      },
+      {
+        "name": "Pick disease",
+        "medgen_cui": "C0236642",
+        "omim_id": "172700",
+        "orphanet_id": "282",
+        "hpo_terms": []
+      },
+      {
+        "name": "Alzheimer disease 3",
+        "medgen_cui": "C1843013",
+        "omim_id": "607822",
+        "orphanet_id": "1020",
+        "hpo_terms": []
+      },
+      {
+        "name": "Acne inversa, familial, 3",
+        "medgen_cui": "C3151038",
+        "omim_id": "613737",
+        "orphanet_id": null,
+        "hpo_terms": []
+      },
+      {
+        "name": "Alzheimer disease",
+        "medgen_cui": "C0002395",
+        "omim_id": null,
+        "orphanet_id": "1020",
+        "hpo_terms": [
+          "HP:0002511",
+          "HP:0002511",
+          "HP:0006878",
+          "HP:0007213"
+        ]
+      },
+      {
+        "name": "Unknown",
+        "medgen_cui": null,
+        "omim_id": "104300",
+        "orphanet_id": null,
+        "hpo_terms": []
+      }
+    ],
+    "functional_consequences": [],
+    "structural_variant_details": null,
+    "citation_references": [
+      "10075646",
+      "11198283",
+      "12615638",
+      "26194182",
+      "27777022",
+      "28350801",
+      "28749476",
+      "29142009",
+      "30090657",
+      "30279455",
+      "9452052"
+    ],
+    "submissions": [
+      {
+        "submitter_name": "Human Genetics Group at Institute of Prion Diseases London, University College London",
+        "classification": "Likely pathogenic",
+        "curator_notes": "CADD score 26.7, not on exac, intronic mutation. Human Splice Finder predicts a broken WT site and Alteration of the WT acceptor site, most probably affecting splicing.; Confirmed by Sanger sequencing",
+        "assertion_criteria": "Koriath et al. 2018",
+        "date_last_evaluated": "2017-02-01"
+      },
+      {
+        "submitter_name": "Victorian Clinical Genetics Services, Murdoch Childrens Research Institute",
+        "classification": "Pathogenic",
+        "curator_notes": "Based on the classification scheme VCGS_Germline_v1.3.4, this variant is classified as Pathogenic. Following criteria are met: 0104 - Dominant negative is a likely mechanism of disease in this gene and is associated with PSEN1-related disease (PMID: 29142009). (I) 0107 - This gene is associated with autosomal dominant disease. (I) 0210 - Splice site variant proven to affect splicing of the transcript with a known effect on protein sequence. This variant has been functionally proven to result in exon 9 skipping, and the formation of a cysteine residue at position 290 (p.Ser290_Ser319delinsCys). Furthermore, it was has been demonstrated that the missense variant, rather than the exon deletion, is responsible for causing protein misfunction (PMID: 9452052, PMID: 10075646). (I) 0251 - This variant is heterozygous. (I) 0301 - Variant is absent from gnomAD (both v2 and v3). (SP) 0600 - Variant affects the annotated cleavage site (UniProt). (I) 0703 - Other canonical splice variants comparable to the one identified in this case have moderate previous evidence for pathogenicity. These variants (c.869-1G>T, c.869-2A>T), have been reported as pathogenic and de novo, or observed in a family with Alzheimer\u2019s disease (ClinVar, LOVD, PMID: 27777022). (SP) 0801 - This variant has strong previous evidence of pathogenicity in unrelated individuals. There are multiple alternative genomic changes reported (c.869-2A>G, exon 9 deletion) that have been functional proven to result in the same protein outcome (p.Ser290_Ser319delinsCys). This variant has been reported in multiple families with Alzheimer\u2019s disease, dementia and/or spastic paraparesis (ClinVar, LOVD, PMID: 9452052, PMID: 30279455, PMID: 26194182, PMID: 28350801, PMID: 28749476, PMID: 11198283). (SP) 1002 - This variant has moderate functional evidence supporting abnormal protein function. This variant has been shown to result in defects in proteolytic processing, resulting in accumulation of uncleaved protein (PMID: 10075646). (SP) 1205 - This variant has been shown to be maternally inherited by a peer-reviewed study, where this individual's family was assessed (EOFAD-2; PMID: 12615638). (I) Legend: (SP) - Supporting pathogenic, (I) - Information, (SB) - Supporting benign",
+        "assertion_criteria": "ACMG Guidelines, 2015",
+        "date_last_evaluated": "2022-02-02"
+      },
+      {
+        "submitter_name": "Suna and Inan Kirac Foundation Neurodegeneration Research Laboratory, Koc University",
+        "classification": "Pathogenic",
+        "curator_notes": "This case has this variant as heterozygous",
+        "assertion_criteria": "ACMG Guidelines, 2015",
+        "date_last_evaluated": "2023-03-21"
+      },
+      {
+        "submitter_name": "Labcorp Genetics (formerly Invitae), Labcorp",
+        "classification": "Pathogenic",
+        "curator_notes": "This sequence change affects an acceptor splice site in intron 8 of the PSEN1 gene. RNA analysis indicates that disruption of this splice site induces altered splicing and likely results in a shortened protein product. This variant is not present in population databases (gnomAD no frequency). Disruption of this splice site has been observed in individuals with Alzheimer disease (PMID: 9452052, 12615638, 30090657). It has also been observed to segregate with disease in related individuals. This variant is also known as c.857-1G>A or AG > AA substitution at the acceptor site of intron 9 . ClinVar contains an entry for this variant (Variation ID: 599622). Studies have shown that disruption of this splice site results in skipping of exon 9, but is expected to preserve the integrity of the reading-frame (PMID: 9452052, 12615638). For these reasons, this variant has been classified as Pathogenic.",
+        "assertion_criteria": "Invitae Variant Classification Sherloc (09022015)",
+        "date_last_evaluated": "2022-08-10"
+      }
+    ]
+  },
+  "579680": {
+    "variant_id": "579680",
+    "allele_info": {
+      "chromosome": "14",
+      "position_start": "73136417",
+      "position_stop": "73223691",
+      "reference_allele": null,
+      "alternate_allele": null,
+      "cytogenetic_band": "14q24.2",
+      "dbsnp_rsid": "rs1566650594"
+    },
+    "conditions": [
+      {
+        "name": "Alzheimer disease 3",
+        "medgen_cui": "C1843013",
+        "omim_id": "607822",
+        "orphanet_id": "1020",
+        "hpo_terms": []
+      },
+      {
+        "name": "Frontotemporal dementia",
+        "medgen_cui": "C0338451",
+        "omim_id": "600274",
+        "orphanet_id": "282",
+        "hpo_terms": [
+          "HP:0002145",
+          "HP:0002145"
+        ]
+      },
+      {
+        "name": "Acne inversa, familial, 3",
+        "medgen_cui": "C3151038",
+        "omim_id": "613737",
+        "orphanet_id": null,
+        "hpo_terms": []
+      },
+      {
+        "name": "Pick disease",
+        "medgen_cui": "C0236642",
+        "omim_id": "172700",
+        "orphanet_id": "282",
+        "hpo_terms": []
+      },
+      {
+        "name": "Unknown",
+        "medgen_cui": "C1843013",
+        "omim_id": null,
+        "orphanet_id": null,
+        "hpo_terms": []
+      }
+    ],
+    "functional_consequences": [],
+    "structural_variant_details": null,
+    "citation_references": [
+      "20634584",
+      "26194182",
+      "28350801"
+    ],
+    "submissions": [
+      {
+        "submitter_name": "Labcorp Genetics (formerly Invitae), Labcorp",
+        "classification": "Pathogenic",
+        "curator_notes": "This sequence change affects an acceptor splice site in intron 8 of the PSEN1 gene. It is expected to disrupt RNA splicing and likely results in an absent or disrupted protein product. For these reasons, this variant has been classified as Pathogenic. A different variant affecting this nucleotide (c.c.869-2A>G) has been determined to be pathogenic (PMID: 20634584, 26194182, 28350801). This suggests that this nucleotide is important for normal RNA splicing, and that other variants at this position may also be pathogenic. Algorithms developed to predict the effect of sequence changes on RNA splicing suggest that this variant may disrupt the consensus splice site, but this prediction has not been confirmed by published transcriptional studies. This variant has been observed to be de novo in an individual with clinical features of PSEN1-related conditions (Invitae). This variant is not present in population databases (ExAC no frequency).",
+        "assertion_criteria": "Invitae Variant Classification Sherloc (09022015)",
+        "date_last_evaluated": "2018-03-20"
+      }
+    ]
+  },
+  "98092": {
+    "variant_id": "98092",
+    "allele_info": {
+      "chromosome": "14",
+      "position_start": "73136417",
+      "position_stop": "73223691",
+      "reference_allele": null,
+      "alternate_allele": null,
+      "cytogenetic_band": "14q24.2",
+      "dbsnp_rsid": "rs63750219"
+    },
+    "conditions": [
+      {
+        "name": "not provided",
+        "medgen_cui": "C3661900",
+        "omim_id": "109630.0001",
+        "orphanet_id": null,
+        "hpo_terms": []
+      },
+      {
+        "name": "Alzheimer disease 3",
+        "medgen_cui": "C1843013",
+        "omim_id": "607822",
+        "orphanet_id": "1020",
+        "hpo_terms": []
+      },
+      {
+        "name": "Alzheimer disease, familial, with spastic paraparesis and unusual plaques",
+        "medgen_cui": "C4015780",
+        "omim_id": null,
+        "orphanet_id": null,
+        "hpo_terms": []
+      },
+      {
+        "name": "ALZHEIMER DISEASE, FAMILIAL, 3",
+        "medgen_cui": null,
+        "omim_id": null,
+        "orphanet_id": null,
+        "hpo_terms": []
+      },
+      {
+        "name": "ALZHEIMER DISEASE, FAMILIAL, WITH SPASTIC PARAPARESIS AND UNUSUAL PLAQUES",
+        "medgen_cui": null,
+        "omim_id": null,
+        "orphanet_id": null,
+        "hpo_terms": []
+      }
+    ],
+    "functional_consequences": [],
+    "structural_variant_details": null,
+    "citation_references": [
+      "10720282",
+      "11198283",
+      "8742474",
+      "8755489",
+      "9172170",
+      "9546792"
+    ],
+    "submissions": [
+      {
+        "submitter_name": "VIB  Department of Molecular Genetics, University of Antwerp",
+        "classification": "not provided",
+        "curator_notes": "http://phencode.bx.psu.edu/cgi-bin/phencode/phencode?build=hg18&id=ADM_64",
+        "assertion_criteria": "no classification provided",
+        "date_last_evaluated": null
+      },
+      {
+        "submitter_name": "OMIM",
+        "classification": "Pathogenic",
+        "curator_notes": null,
+        "assertion_criteria": "no assertion criteria provided",
+        "date_last_evaluated": "2001-01-01"
+      },
+      {
+        "submitter_name": "OMIM",
+        "classification": "Pathogenic",
+        "curator_notes": null,
+        "assertion_criteria": "no assertion criteria provided",
+        "date_last_evaluated": "2001-01-01"
+      }
+    ]
+  },
+  "98013": {
+    "variant_id": "98013",
+    "allele_info": {
+      "chromosome": "14",
+      "position_start": "73136417",
+      "position_stop": "73223691",
+      "reference_allele": null,
+      "alternate_allele": null,
+      "cytogenetic_band": "14q24.2",
+      "dbsnp_rsid": "rs63751475"
+    },
+    "conditions": [
+      {
+        "name": "not provided",
+        "medgen_cui": "C3661900",
+        "omim_id": "109630.0001",
+        "orphanet_id": null,
+        "hpo_terms": []
+      },
+      {
+        "name": "Alzheimer disease 3",
+        "medgen_cui": "C1843013",
+        "omim_id": "607822",
+        "orphanet_id": "1020",
+        "hpo_terms": []
+      },
+      {
+        "name": "ALZHEIMER DISEASE, FAMILIAL, 3",
+        "medgen_cui": null,
+        "omim_id": null,
+        "orphanet_id": null,
+        "hpo_terms": []
+      }
+    ],
+    "functional_consequences": [],
+    "structural_variant_details": null,
+    "citation_references": [
+      "10401002",
+      "10775535",
+      "11524469",
+      "12552037",
+      "24880964",
+      "26481686",
+      "27777022",
+      "30590039",
+      "32395715",
+      "34319632",
+      "9443865"
+    ],
+    "submissions": [
+      {
+        "submitter_name": "VIB  Department of Molecular Genetics, University of Antwerp",
+        "classification": "not provided",
+        "curator_notes": "http://phencode.bx.psu.edu/cgi-bin/phencode/phencode?build=hg18&id=ADM_6",
+        "assertion_criteria": "no classification provided",
+        "date_last_evaluated": null
+      },
+      {
+        "submitter_name": "OMIM",
+        "classification": "Pathogenic",
+        "curator_notes": null,
+        "assertion_criteria": "no assertion criteria provided",
+        "date_last_evaluated": "1999-08-01"
+      },
+      {
+        "submitter_name": "Athena Diagnostics",
+        "classification": "Pathogenic",
+        "curator_notes": "This variant is expected to severely impact normal RNA splicing, and consequently, protein structure and/or function. This variant has not been reported in large, multi-ethnic general populations (http://gnomad.broadinstitute.org). Assessment of experimental evidence suggests this variant results in abnormal RNA splicing, and subsequent abnormal protein function. Studies show the altered protein results in increased amyloid-beta-42 secretion, and overall reduced gamma-secretase activity (PMID: 10401002, 26481686, 32395715). This variant has been identified in multiple unrelated individuals with clinical features associated with this gene. This variant appears to be associated with disease in at least one family.",
+        "assertion_criteria": "Athena Diagnostics Criteria",
+        "date_last_evaluated": "2021-08-11"
+      }
+    ]
+  },
+  "38296": {
+    "variant_id": "38296",
+    "allele_info": {
+      "chromosome": "14",
+      "position_start": "73136417",
+      "position_stop": "73223691",
+      "reference_allele": null,
+      "alternate_allele": null,
+      "cytogenetic_band": "14q24.2",
+      "dbsnp_rsid": null
+    },
+    "conditions": [
+      {
+        "name": "Alzheimer disease 4",
+        "medgen_cui": "C1847200",
+        "omim_id": "606889",
+        "orphanet_id": "1020",
+        "hpo_terms": []
+      },
+      {
+        "name": "Early-Onset Familial Alzheimer Disease",
+        "medgen_cui": null,
+        "omim_id": "606889",
+        "orphanet_id": null,
+        "hpo_terms": []
+      }
+    ],
+    "functional_consequences": [],
+    "structural_variant_details": null,
+    "citation_references": [
+      "10502791",
+      "20301414"
+    ],
+    "submissions": [
+      {
+        "submitter_name": "GeneReviews",
+        "classification": "Pathogenic",
+        "curator_notes": "Converted during submission from pathologic to Pathogenic.",
+        "assertion_criteria": "no assertion criteria provided",
+        "date_last_evaluated": "2010-12-23"
+      }
+    ]
+  },
+  "29606": {
+    "variant_id": "29606",
+    "allele_info": {
+      "chromosome": "14",
+      "position_start": "73136417",
+      "position_stop": "73223691",
+      "reference_allele": null,
+      "alternate_allele": null,
+      "cytogenetic_band": "14q24.2",
+      "dbsnp_rsid": "rs1595035030"
+    },
+    "conditions": [
+      {
+        "name": "Acne inversa, familial, 3",
+        "medgen_cui": "C3151038",
+        "omim_id": "613737",
+        "orphanet_id": null,
+        "hpo_terms": []
+      },
+      {
+        "name": "ACNE INVERSA, FAMILIAL, 3 (1 family)",
+        "medgen_cui": null,
+        "omim_id": null,
+        "orphanet_id": null,
+        "hpo_terms": []
+      }
+    ],
+    "functional_consequences": [],
+    "structural_variant_details": null,
+    "citation_references": [
+      "20929727"
+    ],
+    "submissions": [
+      {
+        "submitter_name": "OMIM",
+        "classification": "Pathogenic",
+        "curator_notes": null,
+        "assertion_criteria": "no assertion criteria provided",
+        "date_last_evaluated": "2010-11-19"
+      }
+    ]
+  },
+  "4726843": {
+    "variant_id": "4726843",
+    "allele_info": {
+      "chromosome": "1",
+      "position_start": "226870616",
+      "position_stop": "226903668",
+      "reference_allele": null,
+      "alternate_allele": null,
+      "cytogenetic_band": "1q42.13",
+      "dbsnp_rsid": null
+    },
+    "conditions": [
+      {
+        "name": "Alzheimer disease 4",
+        "medgen_cui": "C1847200",
+        "omim_id": "606889",
+        "orphanet_id": "1020",
+        "hpo_terms": []
+      },
+      {
+        "name": "Unknown",
+        "medgen_cui": "C1847200",
+        "omim_id": null,
+        "orphanet_id": null,
+        "hpo_terms": []
+      }
+    ],
+    "functional_consequences": [],
+    "structural_variant_details": null,
+    "citation_references": [
+      "16199547",
+      "18834536",
+      "20375137",
+      "24704512"
+    ],
+    "submissions": [
+      {
+        "submitter_name": "Labcorp Genetics (formerly Invitae), Labcorp",
+        "classification": "Likely pathogenic",
+        "curator_notes": "This sequence change affects a donor splice site in intron 5 of the PSEN2 gene. It is expected to disrupt RNA splicing. Variants that disrupt the donor or acceptor splice site typically lead to a loss of protein function (PMID: 16199547), and loss-of-function variants in PSEN2 are known to be pathogenic (PMID: 18834536, 20375137, 24704512). This variant is not present in population databases (gnomAD no frequency). This variant has not been reported in the literature in individuals affected with PSEN2-related conditions. Algorithms developed to predict the effect of sequence changes on RNA splicing suggest that this variant may disrupt the consensus splice site. In summary, the currently available evidence indicates that the variant is pathogenic, but additional data are needed to prove that conclusively. Therefore, this variant has been classified as Likely Pathogenic.",
+        "assertion_criteria": "Invitae Variant Classification Sherloc (09022015)",
+        "date_last_evaluated": "2025-09-16"
+      }
+    ]
+  },
+  "3720283": {
+    "variant_id": "3720283",
+    "allele_info": {
+      "chromosome": "1",
+      "position_start": "226870616",
+      "position_stop": "226903668",
+      "reference_allele": null,
+      "alternate_allele": null,
+      "cytogenetic_band": "1q42.13",
+      "dbsnp_rsid": null
+    },
+    "conditions": [
+      {
+        "name": "Alzheimer disease 4",
+        "medgen_cui": "C1847200",
+        "omim_id": "606889",
+        "orphanet_id": "1020",
+        "hpo_terms": []
+      },
+      {
+        "name": "Unknown",
+        "medgen_cui": "C1847200",
+        "omim_id": null,
+        "orphanet_id": null,
+        "hpo_terms": []
+      }
+    ],
+    "functional_consequences": [],
+    "structural_variant_details": null,
+    "citation_references": [
+      "18834536",
+      "20375137",
+      "24704512",
+      "31978074"
+    ],
+    "submissions": [
+      {
+        "submitter_name": "Labcorp Genetics (formerly Invitae), Labcorp",
+        "classification": "Pathogenic",
+        "curator_notes": "This sequence change creates a premature translational stop signal (p.Lys115Glufs*11) in the PSEN2 gene. It is expected to result in an absent or disrupted protein product. Loss-of-function variants in PSEN2 are known to be pathogenic (PMID: 18834536, 20375137, 24704512). This variant is present in population databases (no rsID available, gnomAD 0.002%). This premature translational stop signal has been observed in individual(s) with clinical features of dementia (PMID: 20375137). Algorithms developed to predict the effect of variants on gene product structure and function are not available or were not evaluated for this variant. Experimental studies have shown that this premature translational stop signal affects PSEN2 function (PMID: 31978074). For these reasons, this variant has been classified as Pathogenic.",
+        "assertion_criteria": "Invitae Variant Classification Sherloc (09022015)",
+        "date_last_evaluated": "2024-07-27"
+      }
+    ]
+  },
+  "465218": {
+    "variant_id": "465218",
+    "allele_info": {
+      "chromosome": "1",
+      "position_start": "226870616",
+      "position_stop": "226903668",
+      "reference_allele": null,
+      "alternate_allele": null,
+      "cytogenetic_band": "1q42.13",
+      "dbsnp_rsid": "rs1553268799"
+    },
+    "conditions": [
+      {
+        "name": "Alzheimer disease 4",
+        "medgen_cui": "C1847200",
+        "omim_id": "606889",
+        "orphanet_id": "1020",
+        "hpo_terms": []
+      },
+      {
+        "name": "Unknown",
+        "medgen_cui": "C1847200",
+        "omim_id": null,
+        "orphanet_id": null,
+        "hpo_terms": []
+      }
+    ],
+    "functional_consequences": [],
+    "structural_variant_details": null,
+    "citation_references": [
+      "16199547",
+      "18834536",
+      "20375137",
+      "24704512"
+    ],
+    "submissions": [
+      {
+        "submitter_name": "Labcorp Genetics (formerly Invitae), Labcorp",
+        "classification": "Likely pathogenic",
+        "curator_notes": "In summary, the currently available evidence indicates that the variant is pathogenic, but additional data are needed to prove that conclusively. Therefore, this variant has been classified as Likely Pathogenic. Donor and acceptor splice site variants typically lead to a loss of protein function (PMID: 16199547), and loss-of-function variants in PSEN2 are known to be pathogenic (PMID: 18834536, 20375137, 24704512). This variant has not been reported in the literature in individuals with PSEN2-related disease. This variant is not present in population databases (ExAC no frequency). This sequence change affects a donor splice site in intron 9 of the PSEN2 gene. It is expected to disrupt RNA splicing and likely results in an absent or disrupted protein product.",
+        "assertion_criteria": "Invitae Variant Classification Sherloc (09022015)",
+        "date_last_evaluated": "2017-09-01"
+      }
+    ]
+  }
+}

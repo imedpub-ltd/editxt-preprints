@@ -1,0 +1,12 @@
+{
+  "gfl_file": "gfl/five_gene_pseudolof_aso_catalog.gfl",
+  "parsed": true,
+  "ast_keys": [
+    "metadata",
+    "design",
+    "experiment",
+    "analyze"
+  ],
+  "validation_errors": [],
+  "is_valid": true
+}

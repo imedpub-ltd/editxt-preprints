@@ -1,0 +1,45 @@
+{
+  "variant_id": "3720283",
+  "allele_info": {
+    "chromosome": "1",
+    "position_start": "226870616",
+    "position_stop": "226903668",
+    "reference_allele": null,
+    "alternate_allele": null,
+    "cytogenetic_band": "1q42.13",
+    "dbsnp_rsid": null
+  },
+  "conditions": [
+    {
+      "name": "Alzheimer disease 4",
+      "medgen_cui": "C1847200",
+      "omim_id": "606889",
+      "orphanet_id": "1020",
+      "hpo_terms": []
+    },
+    {
+      "name": "Unknown",
+      "medgen_cui": "C1847200",
+      "omim_id": null,
+      "orphanet_id": null,
+      "hpo_terms": []
+    }
+  ],
+  "functional_consequences": [],
+  "structural_variant_details": null,
+  "citation_references": [
+    "18834536",
+    "20375137",
+    "24704512",
+    "31978074"
+  ],
+  "submissions": [
+    {
+      "submitter_name": "Labcorp Genetics (formerly Invitae), Labcorp",
+      "classification": "Pathogenic",
+      "curator_notes": "This sequence change creates a premature translational stop signal (p.Lys115Glufs*11) in the PSEN2 gene. It is expected to result in an absent or disrupted protein product. Loss-of-function variants in PSEN2 are known to be pathogenic (PMID: 18834536, 20375137, 24704512). This variant is present in population databases (no rsID available, gnomAD 0.002%). This premature translational stop signal has been observed in individual(s) with clinical features of dementia (PMID: 20375137). Algorithms developed to predict the effect of variants on gene product structure and function are not available or were not evaluated for this variant. Experimental studies have shown that this premature translational stop signal affects PSEN2 function (PMID: 31978074). For these reasons, this variant has been classified as Pathogenic.",
+      "assertion_criteria": "Invitae Variant Classification Sherloc (09022015)",
+      "date_last_evaluated": "2024-07-27"
+    }
+  ]
+}

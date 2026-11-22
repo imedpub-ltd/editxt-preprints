@@ -1,0 +1,45 @@
+{
+  "variant_id": "465218",
+  "allele_info": {
+    "chromosome": "1",
+    "position_start": "226870616",
+    "position_stop": "226903668",
+    "reference_allele": null,
+    "alternate_allele": null,
+    "cytogenetic_band": "1q42.13",
+    "dbsnp_rsid": "rs1553268799"
+  },
+  "conditions": [
+    {
+      "name": "Alzheimer disease 4",
+      "medgen_cui": "C1847200",
+      "omim_id": "606889",
+      "orphanet_id": "1020",
+      "hpo_terms": []
+    },
+    {
+      "name": "Unknown",
+      "medgen_cui": "C1847200",
+      "omim_id": null,
+      "orphanet_id": null,
+      "hpo_terms": []
+    }
+  ],
+  "functional_consequences": [],
+  "structural_variant_details": null,
+  "citation_references": [
+    "16199547",
+    "18834536",
+    "20375137",
+    "24704512"
+  ],
+  "submissions": [
+    {
+      "submitter_name": "Labcorp Genetics (formerly Invitae), Labcorp",
+      "classification": "Likely pathogenic",
+      "curator_notes": "In summary, the currently available evidence indicates that the variant is pathogenic, but additional data are needed to prove that conclusively. Therefore, this variant has been classified as Likely Pathogenic. Donor and acceptor splice site variants typically lead to a loss of protein function (PMID: 16199547), and loss-of-function variants in PSEN2 are known to be pathogenic (PMID: 18834536, 20375137, 24704512). This variant has not been reported in the literature in individuals with PSEN2-related disease. This variant is not present in population databases (ExAC no frequency). This sequence change affects a donor splice site in intron 9 of the PSEN2 gene. It is expected to disrupt RNA splicing and likely results in an absent or disrupted protein product.",
+      "assertion_criteria": "Invitae Variant Classification Sherloc (09022015)",
+      "date_last_evaluated": "2017-09-01"
+    }
+  ]
+}

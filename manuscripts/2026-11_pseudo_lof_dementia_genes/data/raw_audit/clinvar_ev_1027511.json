@@ -1,0 +1,40 @@
+{
+  "variant_id": "1027511",
+  "allele_info": {
+    "chromosome": "14",
+    "position_start": "73136417",
+    "position_stop": "73223691",
+    "reference_allele": null,
+    "alternate_allele": null,
+    "cytogenetic_band": "14q24.2",
+    "dbsnp_rsid": "rs2140037322"
+  },
+  "conditions": [
+    {
+      "name": "Alzheimer disease 3",
+      "medgen_cui": "C1843013",
+      "omim_id": "607822",
+      "orphanet_id": "1020",
+      "hpo_terms": []
+    },
+    {
+      "name": "Unknown",
+      "medgen_cui": null,
+      "omim_id": "607822",
+      "orphanet_id": null,
+      "hpo_terms": []
+    }
+  ],
+  "functional_consequences": [],
+  "structural_variant_details": null,
+  "citation_references": [],
+  "submissions": [
+    {
+      "submitter_name": "Molecular Medicine for Neurodegenerative and Neuromuscular Diseases Unit, IRCCS Fondazione Stella Maris",
+      "classification": "Pathogenic",
+      "curator_notes": null,
+      "assertion_criteria": "ACMG Guidelines, 2015",
+      "date_last_evaluated": "2021-01-04"
+    }
+  ]
+}

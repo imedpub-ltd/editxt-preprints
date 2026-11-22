@@ -1,0 +1,88 @@
+{
+  "mane_total_stop_snvs": 1092,
+  "per_gene": {
+    "PSEN1": {
+      "n_stop_snvs": 184,
+      "n_scored": 184,
+      "median_splicing_fi": 0.0388,
+      "iqr_splicing_fi": 0.0604,
+      "max_splicing_fi": 1.1523,
+      "mean_avi_phred": 38.39,
+      "n_ge_0_25": 9,
+      "pct_ge_0_25": 4.89,
+      "n_ge_0_50": 6,
+      "n_structural_pseudo_lof": 86
+    },
+    "PSEN2": {
+      "n_stop_snvs": 151,
+      "n_scored": 151,
+      "median_splicing_fi": 0.0454,
+      "iqr_splicing_fi": 0.1001,
+      "max_splicing_fi": 1.0947,
+      "mean_avi_phred": 37.14,
+      "n_ge_0_25": 13,
+      "pct_ge_0_25": 8.61,
+      "n_ge_0_50": 7,
+      "n_structural_pseudo_lof": 63
+    },
+    "APP": {
+      "n_stop_snvs": 295,
+      "n_scored": 295,
+      "median_splicing_fi": 0.0343,
+      "iqr_splicing_fi": 0.0462,
+      "max_splicing_fi": 1.1596,
+      "mean_avi_phred": 38.6,
+      "n_ge_0_25": 18,
+      "pct_ge_0_25": 6.1,
+      "n_ge_0_50": 3,
+      "n_structural_pseudo_lof": 170
+    },
+    "MAPT": {
+      "n_stop_snvs": 245,
+      "n_scored": 245,
+      "median_splicing_fi": 0.0496,
+      "iqr_splicing_fi": 0.0956,
+      "max_splicing_fi": 1.2237,
+      "mean_avi_phred": 34.92,
+      "n_ge_0_25": 25,
+      "pct_ge_0_25": 10.2,
+      "n_ge_0_50": 10,
+      "n_structural_pseudo_lof": 177
+    },
+    "GRN": {
+      "n_stop_snvs": 217,
+      "n_scored": 217,
+      "median_splicing_fi": 0.0359,
+      "iqr_splicing_fi": 0.0371,
+      "max_splicing_fi": 0.5068,
+      "mean_avi_phred": 32.66,
+      "n_ge_0_25": 10,
+      "pct_ge_0_25": 4.61,
+      "n_ge_0_50": 1,
+      "n_structural_pseudo_lof": 134
+    }
+  },
+  "mann_whitney_cryptic_or_edge_vs_interior": {
+    "n_candidate": 56,
+    "median_candidate": 0.0898,
+    "n_interior": 1036,
+    "median_interior": 0.0379,
+    "U_stat": 42821.0,
+    "p_value": 9.352100802079392e-10
+  },
+  "fisher_exact_splicing_ge_0_25": {
+    "contingency_table": [
+      [
+        14,
+        42
+      ],
+      [
+        61,
+        975
+      ]
+    ],
+    "odds_ratio": 5.327868852459017,
+    "p_value": 8.952538870941726e-06
+  },
+  "top_hits_count": 74
+}

@@ -1,0 +1,232 @@
+{
+  "PSEN1": {
+    "gene_wide_plof_records": 83,
+    "gene_wide_plof_sum_ac": 206,
+    "mane_coding_plof_records": 74,
+    "mane_coding_plof_ac_gt_0": 51,
+    "mane_coding_plof_sum_ac": 198,
+    "non_mane_plof_records": 9,
+    "non_mane_plof_sum_ac": 8,
+    "top_mane_plof": [
+      {
+        "variant_id": "14-73170832-A-ACC",
+        "consequence": "frameshift_variant",
+        "ac": 70,
+        "exome_ac": 63,
+        "genome_ac": 7
+      },
+      {
+        "variant_id": "14-73170830-A-ACCTT",
+        "consequence": "frameshift_variant",
+        "ac": 69,
+        "exome_ac": 62,
+        "genome_ac": 7
+      },
+      {
+        "variant_id": "14-73148020-A-G",
+        "consequence": "start_lost",
+        "ac": 3,
+        "exome_ac": 3,
+        "genome_ac": 0
+      },
+      {
+        "variant_id": "14-73148095-G-C",
+        "consequence": "splice_donor_variant",
+        "ac": 3,
+        "exome_ac": 3,
+        "genome_ac": 0
+      },
+      {
+        "variant_id": "14-73170869-C-T",
+        "consequence": "stop_gained",
+        "ac": 3,
+        "exome_ac": 3,
+        "genome_ac": 0
+      }
+    ]
+  },
+  "PSEN2": {
+    "gene_wide_plof_records": 149,
+    "gene_wide_plof_sum_ac": 6226,
+    "mane_coding_plof_records": 96,
+    "mane_coding_plof_ac_gt_0": 86,
+    "mane_coding_plof_sum_ac": 836,
+    "non_mane_plof_records": 53,
+    "non_mane_plof_sum_ac": 5390,
+    "top_mane_plof": [
+      {
+        "variant_id": "1-226888112-A-G",
+        "consequence": "start_lost",
+        "ac": 617,
+        "exome_ac": 557,
+        "genome_ac": 60
+      },
+      {
+        "variant_id": "1-226894005-A-G",
+        "consequence": "splice_acceptor_variant",
+        "ac": 24,
+        "exome_ac": 23,
+        "genome_ac": 1
+      },
+      {
+        "variant_id": "1-226888954-A-AC",
+        "consequence": "frameshift_variant",
+        "ac": 21,
+        "exome_ac": 21,
+        "genome_ac": 0
+      },
+      {
+        "variant_id": "1-226894004-CAG-C",
+        "consequence": "splice_acceptor_variant",
+        "ac": 15,
+        "exome_ac": 14,
+        "genome_ac": 1
+      },
+      {
+        "variant_id": "1-226891361-GGTGA-G",
+        "consequence": "splice_donor_variant",
+        "ac": 14,
+        "exome_ac": 12,
+        "genome_ac": 2
+      }
+    ]
+  },
+  "APP": {
+    "gene_wide_plof_records": 81,
+    "gene_wide_plof_sum_ac": 231,
+    "mane_coding_plof_records": 73,
+    "mane_coding_plof_ac_gt_0": 55,
+    "mane_coding_plof_sum_ac": 216,
+    "non_mane_plof_records": 8,
+    "non_mane_plof_sum_ac": 15,
+    "top_mane_plof": [
+      {
+        "variant_id": "21-25997359-C-T",
+        "consequence": "splice_donor_variant",
+        "ac": 105,
+        "exome_ac": 101,
+        "genome_ac": 4
+      },
+      {
+        "variant_id": "21-25997375-G-A",
+        "consequence": "stop_gained",
+        "ac": 25,
+        "exome_ac": 25,
+        "genome_ac": 0
+      },
+      {
+        "variant_id": "21-26000147-G-A",
+        "consequence": "stop_gained",
+        "ac": 13,
+        "exome_ac": 10,
+        "genome_ac": 3
+      },
+      {
+        "variant_id": "21-25997358-A-T",
+        "consequence": "splice_donor_variant",
+        "ac": 3,
+        "exome_ac": 1,
+        "genome_ac": 2
+      },
+      {
+        "variant_id": "21-25997362-TTAACA-T",
+        "consequence": "frameshift_variant",
+        "ac": 3,
+        "exome_ac": 1,
+        "genome_ac": 2
+      }
+    ]
+  },
+  "MAPT": {
+    "gene_wide_plof_records": 224,
+    "gene_wide_plof_sum_ac": 923,
+    "mane_coding_plof_records": 167,
+    "mane_coding_plof_ac_gt_0": 126,
+    "mane_coding_plof_sum_ac": 746,
+    "non_mane_plof_records": 57,
+    "non_mane_plof_sum_ac": 177,
+    "top_mane_plof": [
+      {
+        "variant_id": "17-45983226-G-GC",
+        "consequence": "frameshift_variant",
+        "ac": 103,
+        "exome_ac": 102,
+        "genome_ac": 1
+      },
+      {
+        "variant_id": "17-45983216-C-T",
+        "consequence": "stop_gained",
+        "ac": 96,
+        "exome_ac": 58,
+        "genome_ac": 38
+      },
+      {
+        "variant_id": "17-45990037-C-T",
+        "consequence": "stop_gained",
+        "ac": 67,
+        "exome_ac": 52,
+        "genome_ac": 15
+      },
+      {
+        "variant_id": "17-45983337-CAG-C",
+        "consequence": "frameshift_variant",
+        "ac": 44,
+        "exome_ac": 44,
+        "genome_ac": 0
+      },
+      {
+        "variant_id": "17-45982948-A-AC",
+        "consequence": "frameshift_variant",
+        "ac": 31,
+        "exome_ac": 28,
+        "genome_ac": 3
+      }
+    ]
+  },
+  "GRN": {
+    "gene_wide_plof_records": 154,
+    "gene_wide_plof_sum_ac": 371,
+    "mane_coding_plof_records": 142,
+    "mane_coding_plof_ac_gt_0": 122,
+    "mane_coding_plof_sum_ac": 341,
+    "non_mane_plof_records": 12,
+    "non_mane_plof_sum_ac": 30,
+    "top_mane_plof": [
+      {
+        "variant_id": "17-44350800-CGTGA-C",
+        "consequence": "splice_donor_variant",
+        "ac": 41,
+        "exome_ac": 41,
+        "genome_ac": 0
+      },
+      {
+        "variant_id": "17-44350262-TAGTC-T",
+        "consequence": "frameshift_variant",
+        "ac": 28,
+        "exome_ac": 27,
+        "genome_ac": 1
+      },
+      {
+        "variant_id": "17-44352404-C-T",
+        "consequence": "stop_gained",
+        "ac": 21,
+        "exome_ac": 21,
+        "genome_ac": 0
+      },
+      {
+        "variant_id": "17-44351754-C-G",
+        "consequence": "splice_donor_variant",
+        "ac": 16,
+        "exome_ac": 14,
+        "genome_ac": 2
+      },
+      {
+        "variant_id": "17-44352773-AC-A",
+        "consequence": "frameshift_variant",
+        "ac": 12,
+        "exome_ac": 9,
+        "genome_ac": 3
+      }
+    ]
+  }
+}

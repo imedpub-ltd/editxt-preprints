@@ -1,0 +1,53 @@
+# GeneForgeLang Specification: Five-Gene Autosomal-Dominant Dementia Pseudo-LoF Triage and Allele-Specific ASO Catalog
+# Target Genes: PSEN1, PSEN2, APP, MAPT (GoF/Splicing) vs. GRN (True LoF Control)
+
+metadata:
+  experiment_id: FIVE_GENE_PSEUDOLOF_TRIAGE_2026
+  researcher: Manuel Menendez-Gonzalez
+  project: dementia_pseudo_lof_acmg_pvs1_audit
+  description: AlphaGenome AVI cryptic-splice scoring, ESM-2 fold-tolerance screening, and SantaLucia steric ASO rescue catalog across PSEN1, PSEN2, APP, MAPT, and GRN
+  date: 2026-11-20
+
+design:
+  entity: RNASequence
+  model: alphagenome_atlas
+  objective:
+    maximize: avi_phred
+    target: 45.0
+  count: 5
+  output: allele_specific_steric_rescue_asos
+  constraints:
+    - tissue_specificity(UBERON:0000955, UBERON:0001003)
+    - gc_content(0.40, 0.65)
+    - length(22)
+    - avoid_canonical_donor_gu(true)
+
+experiment:
+  tool: alphagenome_atlas
+  type: analysis
+  strategy: variant
+  params:
+    target_genes:
+      - PSEN1
+      - PSEN2
+      - APP
+      - MAPT
+      - GRN
+    lead_variant_psen1_k109: chr14:73171034:A>T
+    lead_aso_psen1_k109_5_3: AGCUGCCCAUCCUACCGGGUAU
+    lead_variant_psen1_s102_g: chr14:73171014:C>G
+    lead_aso_psen1_s102_5_3: GCUGACUCACUUAAUGGUAGCC
+    lead_variant_psen1_q29: chr14:73148104:C>T
+    lead_variant_psen1_r308: chr14:73206439:A>T
+    lead_aso_psen1_r308_5_3: ACUCACCUUUGAGCUUCCGGGU
+    lead_variant_psen2_k115: chr1:226883906:A>T
+    lead_aso_psen2_k115_5_3: GCUGUCCAUUCUACUCUGUGUA
+    min_phred: 20.0
+    modality: MERGED_SPLICING
+
+analyze:
+  strategy: variant
+  thresholds:
+    min_avi_phred: 40.0
+    min_splicing_fi: 0.25
+    min_aso_ddg_selectivity: 3.0

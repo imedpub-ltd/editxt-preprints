@@ -1,0 +1,109 @@
+{
+  "variant_id": "599622",
+  "allele_info": {
+    "chromosome": "14",
+    "position_start": "73136417",
+    "position_stop": "73223691",
+    "reference_allele": null,
+    "alternate_allele": null,
+    "cytogenetic_band": "14q24.2",
+    "dbsnp_rsid": "rs63750219"
+  },
+  "conditions": [
+    {
+      "name": "Frontotemporal dementia",
+      "medgen_cui": "C0338451",
+      "omim_id": "600274",
+      "orphanet_id": "282",
+      "hpo_terms": [
+        "HP:0002145",
+        "HP:0002145"
+      ]
+    },
+    {
+      "name": "Pick disease",
+      "medgen_cui": "C0236642",
+      "omim_id": "172700",
+      "orphanet_id": "282",
+      "hpo_terms": []
+    },
+    {
+      "name": "Alzheimer disease 3",
+      "medgen_cui": "C1843013",
+      "omim_id": "607822",
+      "orphanet_id": "1020",
+      "hpo_terms": []
+    },
+    {
+      "name": "Acne inversa, familial, 3",
+      "medgen_cui": "C3151038",
+      "omim_id": "613737",
+      "orphanet_id": null,
+      "hpo_terms": []
+    },
+    {
+      "name": "Alzheimer disease",
+      "medgen_cui": "C0002395",
+      "omim_id": null,
+      "orphanet_id": "1020",
+      "hpo_terms": [
+        "HP:0002511",
+        "HP:0002511",
+        "HP:0006878",
+        "HP:0007213"
+      ]
+    },
+    {
+      "name": "Unknown",
+      "medgen_cui": null,
+      "omim_id": "104300",
+      "orphanet_id": null,
+      "hpo_terms": []
+    }
+  ],
+  "functional_consequences": [],
+  "structural_variant_details": null,
+  "citation_references": [
+    "10075646",
+    "11198283",
+    "12615638",
+    "26194182",
+    "27777022",
+    "28350801",
+    "28749476",
+    "29142009",
+    "30090657",
+    "30279455",
+    "9452052"
+  ],
+  "submissions": [
+    {
+      "submitter_name": "Human Genetics Group at Institute of Prion Diseases London, University College London",
+      "classification": "Likely pathogenic",
+      "curator_notes": "CADD score 26.7, not on exac, intronic mutation. Human Splice Finder predicts a broken WT site and Alteration of the WT acceptor site, most probably affecting splicing.; Confirmed by Sanger sequencing",
+      "assertion_criteria": "Koriath et al. 2018",
+      "date_last_evaluated": "2017-02-01"
+    },
+    {
+      "submitter_name": "Victorian Clinical Genetics Services, Murdoch Childrens Research Institute",
+      "classification": "Pathogenic",
+      "curator_notes": "Based on the classification scheme VCGS_Germline_v1.3.4, this variant is classified as Pathogenic. Following criteria are met: 0104 - Dominant negative is a likely mechanism of disease in this gene and is associated with PSEN1-related disease (PMID: 29142009). (I) 0107 - This gene is associated with autosomal dominant disease. (I) 0210 - Splice site variant proven to affect splicing of the transcript with a known effect on protein sequence. This variant has been functionally proven to result in exon 9 skipping, and the formation of a cysteine residue at position 290 (p.Ser290_Ser319delinsCys). Furthermore, it was has been demonstrated that the missense variant, rather than the exon deletion, is responsible for causing protein misfunction (PMID: 9452052, PMID: 10075646). (I) 0251 - This variant is heterozygous. (I) 0301 - Variant is absent from gnomAD (both v2 and v3). (SP) 0600 - Variant affects the annotated cleavage site (UniProt). (I) 0703 - Other canonical splice variants comparable to the one identified in this case have moderate previous evidence for pathogenicity. These variants (c.869-1G>T, c.869-2A>T), have been reported as pathogenic and de novo, or observed in a family with Alzheimer\u2019s disease (ClinVar, LOVD, PMID: 27777022). (SP) 0801 - This variant has strong previous evidence of pathogenicity in unrelated individuals. There are multiple alternative genomic changes reported (c.869-2A>G, exon 9 deletion) that have been functional proven to result in the same protein outcome (p.Ser290_Ser319delinsCys). This variant has been reported in multiple families with Alzheimer\u2019s disease, dementia and/or spastic paraparesis (ClinVar, LOVD, PMID: 9452052, PMID: 30279455, PMID: 26194182, PMID: 28350801, PMID: 28749476, PMID: 11198283). (SP) 1002 - This variant has moderate functional evidence supporting abnormal protein function. This variant has been shown to result in defects in proteolytic processing, resulting in accumulation of uncleaved protein (PMID: 10075646). (SP) 1205 - This variant has been shown to be maternally inherited by a peer-reviewed study, where this individual's family was assessed (EOFAD-2; PMID: 12615638). (I) Legend: (SP) - Supporting pathogenic, (I) - Information, (SB) - Supporting benign",
+      "assertion_criteria": "ACMG Guidelines, 2015",
+      "date_last_evaluated": "2022-02-02"
+    },
+    {
+      "submitter_name": "Suna and Inan Kirac Foundation Neurodegeneration Research Laboratory, Koc University",
+      "classification": "Pathogenic",
+      "curator_notes": "This case has this variant as heterozygous",
+      "assertion_criteria": "ACMG Guidelines, 2015",
+      "date_last_evaluated": "2023-03-21"
+    },
+    {
+      "submitter_name": "Labcorp Genetics (formerly Invitae), Labcorp",
+      "classification": "Pathogenic",
+      "curator_notes": "This sequence change affects an acceptor splice site in intron 8 of the PSEN1 gene. RNA analysis indicates that disruption of this splice site induces altered splicing and likely results in a shortened protein product. This variant is not present in population databases (gnomAD no frequency). Disruption of this splice site has been observed in individuals with Alzheimer disease (PMID: 9452052, 12615638, 30090657). It has also been observed to segregate with disease in related individuals. This variant is also known as c.857-1G>A or AG > AA substitution at the acceptor site of intron 9 . ClinVar contains an entry for this variant (Variation ID: 599622). Studies have shown that disruption of this splice site results in skipping of exon 9, but is expected to preserve the integrity of the reading-frame (PMID: 9452052, 12615638). For these reasons, this variant has been classified as Pathogenic.",
+      "assertion_criteria": "Invitae Variant Classification Sherloc (09022015)",
+      "date_last_evaluated": "2022-08-10"
+    }
+  ]
+}

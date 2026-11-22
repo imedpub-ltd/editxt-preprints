@@ -1,0 +1,43 @@
+{
+  "variant_id": "38296",
+  "allele_info": {
+    "chromosome": "14",
+    "position_start": "73136417",
+    "position_stop": "73223691",
+    "reference_allele": null,
+    "alternate_allele": null,
+    "cytogenetic_band": "14q24.2",
+    "dbsnp_rsid": null
+  },
+  "conditions": [
+    {
+      "name": "Alzheimer disease 4",
+      "medgen_cui": "C1847200",
+      "omim_id": "606889",
+      "orphanet_id": "1020",
+      "hpo_terms": []
+    },
+    {
+      "name": "Early-Onset Familial Alzheimer Disease",
+      "medgen_cui": null,
+      "omim_id": "606889",
+      "orphanet_id": null,
+      "hpo_terms": []
+    }
+  ],
+  "functional_consequences": [],
+  "structural_variant_details": null,
+  "citation_references": [
+    "10502791",
+    "20301414"
+  ],
+  "submissions": [
+    {
+      "submitter_name": "GeneReviews",
+      "classification": "Pathogenic",
+      "curator_notes": "Converted during submission from pathologic to Pathogenic.",
+      "assertion_criteria": "no assertion criteria provided",
+      "date_last_evaluated": "2010-12-23"
+    }
+  ]
+}

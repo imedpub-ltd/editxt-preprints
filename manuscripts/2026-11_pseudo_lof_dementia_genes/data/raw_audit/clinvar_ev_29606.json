@@ -1,0 +1,42 @@
+{
+  "variant_id": "29606",
+  "allele_info": {
+    "chromosome": "14",
+    "position_start": "73136417",
+    "position_stop": "73223691",
+    "reference_allele": null,
+    "alternate_allele": null,
+    "cytogenetic_band": "14q24.2",
+    "dbsnp_rsid": "rs1595035030"
+  },
+  "conditions": [
+    {
+      "name": "Acne inversa, familial, 3",
+      "medgen_cui": "C3151038",
+      "omim_id": "613737",
+      "orphanet_id": null,
+      "hpo_terms": []
+    },
+    {
+      "name": "ACNE INVERSA, FAMILIAL, 3 (1 family)",
+      "medgen_cui": null,
+      "omim_id": null,
+      "orphanet_id": null,
+      "hpo_terms": []
+    }
+  ],
+  "functional_consequences": [],
+  "structural_variant_details": null,
+  "citation_references": [
+    "20929727"
+  ],
+  "submissions": [
+    {
+      "submitter_name": "OMIM",
+      "classification": "Pathogenic",
+      "curator_notes": null,
+      "assertion_criteria": "no assertion criteria provided",
+      "date_last_evaluated": "2010-11-19"
+    }
+  ]
+}

@@ -1,0 +1,4537 @@
+[
+  {
+    "variant_id": "2425442",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/05/11 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NC_000017.10:g.(?_44039704)_(44101537_?)dup",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      },
+      {
+        "gene_id": "246744",
+        "symbol": "STH",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Duplication",
+    "molecular_consequences": []
+  },
+  {
+    "variant_id": "2420468",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/08/30 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.39T>C (p.Asp13=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "2397123",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/02/09 00:00",
+    "phenotypes": [
+      "not specified"
+    ],
+    "title": "NM_001007532.3(STH):c.5G>T (p.Ser2Ile)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      },
+      {
+        "gene_id": "246744",
+        "symbol": "STH",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2387091",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2021/10/22 00:00",
+    "phenotypes": [
+      "not specified"
+    ],
+    "title": "NM_001007532.3(STH):c.194T>C (p.Val65Ala)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      },
+      {
+        "gene_id": "246744",
+        "symbol": "STH",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2371666",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2021/08/23 00:00",
+    "phenotypes": [
+      "not specified"
+    ],
+    "title": "NM_001007532.3(STH):c.368C>T (p.Ala123Val)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      },
+      {
+        "gene_id": "246744",
+        "symbol": "STH",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2259157",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2021/11/08 00:00",
+    "phenotypes": [
+      "not specified"
+    ],
+    "title": "NM_001007532.3(STH):c.335C>A (p.Ala112Asp)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      },
+      {
+        "gene_id": "246744",
+        "symbol": "STH",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2218021",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2021/10/22 00:00",
+    "phenotypes": [
+      "not specified"
+    ],
+    "title": "NM_001007532.3(STH):c.65C>T (p.Pro22Leu)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      },
+      {
+        "gene_id": "246744",
+        "symbol": "STH",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2217588",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/03/16 00:00",
+    "phenotypes": [
+      "not specified"
+    ],
+    "title": "NM_001007532.3(STH):c.74T>C (p.Ile25Thr)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      },
+      {
+        "gene_id": "246744",
+        "symbol": "STH",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2205337",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2023/05/03 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases",
+      "Frontotemporal dementia",
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1837C>T (p.Arg613Trp)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2191596",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/04/18 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.4G>T (p.Ala2Ser)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "2185032",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/01/18 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2174-5T>A",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2159829",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/05/15 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1607G>C (p.Gly536Ala)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "2152289",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/12/10 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2419G>A (p.Gly807Ser)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2151813",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/07/21 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1957G>A (p.Gly653Ser)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "2150469",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/08/22 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2091+17G>A",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2138061",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2022/08/26 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia",
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1838G>A (p.Arg613Gln)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2138060",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/09/06 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1802G>T (p.Arg601Leu)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2138059",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/10/02 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1777G>A (p.Gly593Ser)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "2124391",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/10/22 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1752G>A (p.Gly584=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2099456",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/05/21 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2287-12C>T",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2086260",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/10/18 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1890C>T (p.Ser630=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "2085966",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/06/11 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2328C>T (p.Ala776=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2079984",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/06/11 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.31A>C (p.Met11Leu)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "2070675",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/05/14 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1407+10C>T",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2066355",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/02/10 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1992C>T (p.Gly664=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "2063341",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/06/19 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1677C>T (p.Asn559=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "2062379",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/03/03 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1995G>C (p.Gly665=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "2055355",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/11/22 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1998+19G>A",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2049744",
+    "clinical_significance": "Likely pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/06/07 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2091+16C>G",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2048536",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/08/24 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1678G>A (p.Ala560Thr)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "2044289",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2026/01/14 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1407+11G>A",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2038936",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/08/22 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2101G>T (p.Val701Phe)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "2036974",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2025/11/06 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases",
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2452G>A (p.Ala818Thr)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2031884",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/08/09 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2205G>A (p.Lys735=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2005507",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/10/24 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2268T>C (p.Pro756=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1997212",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/06/17 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1375G>A (p.Asp459Asn)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "1987665",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/03/13 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1900C>T (p.Arg634Cys)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "1965556",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/10/10 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.220+2531G>A",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1955359",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/02/06 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1749A>C (p.Ser583=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "1945687",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2026/02/01 00:00",
+    "phenotypes": [
+      "not provided",
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.216G>A (p.Ala72=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1939900",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/09/29 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1606-18A>G",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1929778",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/01/28 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1606-19T>C",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1901775",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/05/06 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2232G>C (p.Ser744=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1879375",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/12/01 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1998+40C>T",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1809344",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/10/04 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "GRCh37/hg19 17q21.31(chr17:43693538-44212416)x1",
+    "genes": [
+      {
+        "gene_id": "246744",
+        "symbol": "STH",
+        "strand": "+"
+      },
+      {
+        "gene_id": "1394",
+        "symbol": "CRHR1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "284058",
+        "symbol": "KANSL1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      },
+      {
+        "gene_id": "162540",
+        "symbol": "SPPL2C",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "copy number loss",
+    "molecular_consequences": []
+  },
+  {
+    "variant_id": "1808674",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/07/26 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "GRCh37/hg19 17q21.31(chr17:43622197-44212416)x1",
+    "genes": [
+      {
+        "gene_id": "1394",
+        "symbol": "CRHR1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "284058",
+        "symbol": "KANSL1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      },
+      {
+        "gene_id": "162540",
+        "symbol": "SPPL2C",
+        "strand": "+"
+      },
+      {
+        "gene_id": "246744",
+        "symbol": "STH",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "copy number loss",
+    "molecular_consequences": []
+  },
+  {
+    "variant_id": "1717262",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/07/17 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.89_90delinsAA (p.Thr30Lys)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Indel",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "1714733",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/04/21 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.251G>C (p.Ser84Thr)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "1710919",
+    "clinical_significance": "Pathogenic",
+    "review_status": "no assertion criteria provided",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [
+      "See cases"
+    ],
+    "title": "GRCh37/hg19 17q21.31(chr17:43703801-44212416)x1",
+    "genes": [
+      {
+        "gene_id": "1394",
+        "symbol": "CRHR1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "284058",
+        "symbol": "KANSL1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      },
+      {
+        "gene_id": "162540",
+        "symbol": "SPPL2C",
+        "strand": "+"
+      },
+      {
+        "gene_id": "246744",
+        "symbol": "STH",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "copy number loss",
+    "molecular_consequences": []
+  },
+  {
+    "variant_id": "1710755",
+    "clinical_significance": "Conflicting classifications of pathogenicity",
+    "review_status": "criteria provided, conflicting classifications",
+    "last_evaluated": "2022/06/22 00:00",
+    "phenotypes": [
+      "not provided",
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1795G>A (p.Gly599Ser)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "1708655",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/04/07 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2492A>G (p.Gln831Arg)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1695871",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/01/04 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2495G>C (p.Gly832Ala)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1678347",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2020/12/16 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1998+33G>A",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1677988",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/02/26 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.761_762del (p.Glu254fs)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Microsatellite",
+    "molecular_consequences": [
+      "frameshift variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1676222",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2021/08/10 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1351+5G>C",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1669337",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2026/06/12 00:00",
+    "phenotypes": [
+      "not specified",
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1733-12C>T",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1661803",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2021/09/14 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.36A>G (p.Glu12=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "1659304",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/10/23 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1866T>C (p.Arg622=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "1657578",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/11/17 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.273T>C (p.Gly91=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "1655034",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/05/09 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1407+18C>T",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1654080",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/09/09 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2451C>T (p.Leu817=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1653668",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/04/10 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1732+8_1732+10del",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Microsatellite",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1647872",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2023/10/29 00:00",
+    "phenotypes": [
+      "not provided",
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.177G>A (p.Pro59=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1630372",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/07/05 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1704G>T (p.Pro568=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "1623151",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2024/02/17 00:00",
+    "phenotypes": [
+      "not provided",
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1767C>T (p.Tyr589=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "1611271",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/10/20 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1998+15C>T",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1596035",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2020/11/21 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.18G>A (p.Gln6=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "1594102",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/03/18 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1629C>T (p.Ile543=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "1589624",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2026/10/01 00:00",
+    "phenotypes": [
+      "not specified",
+      "Frontotemporal dementia",
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.42C>T (p.His14=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "1582142",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2025/08/17 00:00",
+    "phenotypes": [
+      "MAPT-related disorder",
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.220+2480G>A",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1573875",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2023/08/17 00:00",
+    "phenotypes": [
+      "not specified",
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2346G>A (p.Ala782=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1570385",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/06/17 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1733-14T>C",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1569130",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2021/10/18 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1854G>A (p.Val618=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "1568154",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2026/05/27 00:00",
+    "phenotypes": [
+      "not provided",
+      "not specified",
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2262C>T (p.His754=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1521521",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2026/01/27 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.233G>A (p.Gly78Asp)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "1515029",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2021/06/08 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.266C>G (p.Ala89Gly)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "1509924",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2021/07/26 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1652C>T (p.Pro551Leu)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "1509861",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2021/08/03 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1749_1750del (p.Asp585fs)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Deletion",
+    "molecular_consequences": [
+      "frameshift variant"
+    ]
+  },
+  {
+    "variant_id": "1490244",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2023/04/24 00:00",
+    "phenotypes": [
+      "not provided",
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1918G>A (p.Val640Met)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "1470111",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2026/08/06 00:00",
+    "phenotypes": [
+      "MAPT-related disorder",
+      "not provided",
+      "Frontotemporal dementia",
+      "Pick disease"
+    ],
+    "title": "NM_001377265.1(MAPT):c.220+2451C>G",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1442775",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/07/16 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.121G>A (p.Ala41Thr)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "1432263",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2021/10/08 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.235A>G (p.Ile79Val)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "1432044",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2024/06/05 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia",
+      "Supranuclear palsy, progressive, 1"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1366A>G (p.Lys456Glu)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "1424259",
+    "clinical_significance": "Conflicting classifications of pathogenicity",
+    "review_status": "criteria provided, conflicting classifications",
+    "last_evaluated": "2026/05/07 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases",
+      "Frontotemporal dementia",
+      "not specified"
+    ],
+    "title": "NM_001377265.1(MAPT):c.80G>A (p.Gly27Glu)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "1417517",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2025/11/20 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia",
+      "Pick disease",
+      "Parkinson disease, late-onset",
+      "Progressive supranuclear palsy-parkinsonism syndrome",
+      "Supranuclear palsy, progressive, 1"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1807C>T (p.Arg603Cys)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "1416826",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2021/10/18 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1355G>A (p.Arg452His)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "1414056",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2021/11/13 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1364G>A (p.Ser455Asn)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "1413319",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2021/09/14 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1808G>A (p.Arg603His)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "1411431",
+    "clinical_significance": "Conflicting classifications of pathogenicity",
+    "review_status": "criteria provided, conflicting classifications",
+    "last_evaluated": "2022/08/16 00:00",
+    "phenotypes": [
+      "Koolen-de Vries syndrome",
+      "Frontotemporal dementia"
+    ],
+    "title": "NC_000017.10:g.(?_43861911)_(44159928_?)del",
+    "genes": [
+      {
+        "gene_id": "1394",
+        "symbol": "CRHR1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "284058",
+        "symbol": "KANSL1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      },
+      {
+        "gene_id": "162540",
+        "symbol": "SPPL2C",
+        "strand": "+"
+      },
+      {
+        "gene_id": "246744",
+        "symbol": "STH",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Deletion",
+    "molecular_consequences": []
+  },
+  {
+    "variant_id": "1410324",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2021/04/05 00:00",
+    "phenotypes": [
+      "Koolen-de Vries syndrome"
+    ],
+    "title": "NC_000017.10:g.(?_43861911)_(44145053_?)dup",
+    "genes": [
+      {
+        "gene_id": "1394",
+        "symbol": "CRHR1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "284058",
+        "symbol": "KANSL1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      },
+      {
+        "gene_id": "162540",
+        "symbol": "SPPL2C",
+        "strand": "+"
+      },
+      {
+        "gene_id": "246744",
+        "symbol": "STH",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Duplication",
+    "molecular_consequences": []
+  },
+  {
+    "variant_id": "1372289",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2021/12/22 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2428G>A (p.Asp810Asn)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1368749",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/03/03 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.60G>C (p.Leu20Phe)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "1365252",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/10/08 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.232G>A (p.Gly78Ser)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "1354263",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2021/11/29 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2344G>A (p.Ala782Thr)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1345546",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2025/10/25 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia",
+      "Parkinson disease, late-onset",
+      "Progressive supranuclear palsy-parkinsonism syndrome",
+      "Pick disease",
+      "Supranuclear palsy, progressive, 1"
+    ],
+    "title": "NM_001377265.1(MAPT):c.10C>A (p.Pro4Thr)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "1335279",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2022/09/14 00:00",
+    "phenotypes": [
+      "not provided",
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.25G>A (p.Glu9Lys)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "1333780",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2021/01/12 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1814C>T (p.Pro605Leu)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "1308215",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2019/03/18 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.898G>A (p.Asp300Asn)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1302562",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2019/06/20 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.110G>T (p.Gly37Val)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "1298710",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2022/11/26 00:00",
+    "phenotypes": [
+      "not provided",
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1762G>A (p.Gly588Ser)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "1298709",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2021/09/01 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1011G>C (p.Glu337Asp)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1296619",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2018/08/11 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.-17-277A>G",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1295681",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2018/08/11 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1732+2137C>G",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1295309",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2018/08/21 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.547G>A (p.Glu183Lys)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1295200",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2018/08/11 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1999-168G>A",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1295198",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2018/08/17 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2173+90G>A",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1295197",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2018/07/03 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1351+249A>C",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1295196",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2018/07/03 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1999-176A>G",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1293130",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2018/08/11 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.220+2277C>G",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1287204",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2019/04/24 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1351+315del",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Deletion",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1282324",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2018/08/11 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.220+2278T>G",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1276777",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2019/11/14 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1407+297_1407+298insCCCC",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Insertion",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1272983",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2018/08/11 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.220+2698T>C",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1271108",
+    "clinical_significance": "Benign/Likely benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2025/04/15 00:00",
+    "phenotypes": [
+      "Supranuclear palsy, progressive, 1",
+      "Frontotemporal dementia",
+      "Parkinson disease, late-onset",
+      "Progressive supranuclear palsy-parkinsonism syndrome",
+      "Pick disease",
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2074G>A (p.Val692Ile)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1270750",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2018/08/11 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.221-103T>A",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1270290",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2018/08/11 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.220+2301A>G",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1268666",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2018/08/11 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1732+228C>G",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1267707",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2018/08/11 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.133+284C>T",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1267393",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2018/08/11 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2174-323T>G",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1266777",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2018/08/11 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1733-26G>A",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1266638",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2019/11/14 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.134-290_134-289insACCA",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Insertion",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1263930",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2019/05/30 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2174-257dup",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Duplication",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1263140",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2018/08/11 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.134-287del",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Deletion",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1261272",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2018/07/03 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.286+291C>G",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1259075",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2018/08/10 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.-17-322C>T",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1256742",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2018/08/11 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.303G>A (p.Pro101=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1256161",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2020/09/18 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2090G>T (p.Ser697Ile)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1253635",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2019/04/10 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1732+246C>T",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1250153",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2018/08/11 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.134-92T>C",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1242653",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2018/08/11 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.-17-171G>T",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1239288",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2018/08/11 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1352-198G>A",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1238355",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2018/08/14 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1407+298_1407+299insGGACAGTAAATGAAGGTGTGTTTGAAAACCAAC",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Insertion",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1236004",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2018/08/10 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1606-334A>G",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1232415",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2018/08/14 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1605+241G>A",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1230922",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2018/08/11 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.134-284_134-281del",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Deletion",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1229674",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2018/08/11 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1998+103G>A",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1229604",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2019/04/10 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1408-198G>A",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1229021",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2018/08/11 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1606-283G>A",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1227841",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2018/08/11 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1408-249C>T",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1227529",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2018/08/11 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1352-72T>C",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1225942",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2018/07/03 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2173+196C>T",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1224063",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2018/08/11 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.220+239G>A",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1222642",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2018/08/11 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1605+67A>G",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1222027",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2018/08/11 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.220+2613G>A",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1221560",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2018/09/18 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1999-47C>A",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1218907",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2018/11/10 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2092-192C>T",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1217746",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2018/09/29 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1998+147C>T",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1213569",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2019/03/19 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2286+109G>C",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1211081",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2019/03/10 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1351+52C>T",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1210744",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2019/03/19 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1352-103C>T",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1210047",
+    "clinical_significance": "Benign/Likely benign",
+    "review_status": "no assertion criteria provided",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [
+      "not specified",
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.220+2432G>A",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1209982",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2024/09/14 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia",
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.220+2477C>G",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1209906",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/04/01 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1326C>T (p.Pro442=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant",
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "1209432",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2018/09/23 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.464G>A (p.Arg155His)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1209396",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2019/06/02 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1351+21C>T",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1205763",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2018/09/05 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1351+48_1351+56del",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Microsatellite",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1202465",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2019/08/12 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1732+210dup",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Duplication",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1200870",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2019/08/13 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1732+195C>A",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1200135",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2018/09/23 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.427G>T (p.Ala143Ser)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1198851",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2021/05/26 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.921C>G (p.Ser307=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1193357",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2019/02/18 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1733-31T>C",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1191111",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2018/09/26 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.-17-215C>T",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1190317",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2018/07/03 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.220+2202G>A",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1183434",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2018/08/11 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.221-94A>T",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1182510",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2018/08/11 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2173+34G>A",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1178457",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2018/08/11 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1605+105T>C",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1169744",
+    "clinical_significance": "Conflicting classifications of pathogenicity",
+    "review_status": "criteria provided, conflicting classifications",
+    "last_evaluated": "2025/09/14 00:00",
+    "phenotypes": [
+      "not provided",
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.176C>T (p.Pro59Leu)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1168309",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2025/07/28 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia",
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.-18+124C>G",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      },
+      {
+        "gene_id": "100128977",
+        "symbol": "MAPT-AS1",
+        "strand": "-"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1158143",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/12/30 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.177G>C (p.Pro59=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1126880",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2025/07/13 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia",
+      "Pick disease",
+      "Supranuclear palsy, progressive, 1",
+      "Parkinson disease, late-onset",
+      "Progressive supranuclear palsy-parkinsonism syndrome"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1881G>A (p.Ser627=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "1120381",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/02/24 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2313C>A (p.Arg771=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1118038",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2023/08/30 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia",
+      "not specified"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1956C>T (p.Ile652=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "1106245",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/12/11 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2034C>T (p.Asn678=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1099999",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2025/06/10 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia",
+      "not specified"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2418C>T (p.Thr806=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1061335",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2020/09/17 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.258A>C (p.Glu86Asp)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "1042712",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/01/29 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1607G>A (p.Gly536Glu)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "1037716",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2020/03/05 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2286+6G>T",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "1010652",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2020/08/29 00:00",
+    "phenotypes": [
+      "Koolen-de Vries syndrome"
+    ],
+    "title": "NC_000017.10:g.(?_44073755)_(44159918_?)dup",
+    "genes": [
+      {
+        "gene_id": "246744",
+        "symbol": "STH",
+        "strand": "+"
+      },
+      {
+        "gene_id": "284058",
+        "symbol": "KANSL1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Duplication",
+    "molecular_consequences": []
+  },
+  {
+    "variant_id": "1003702",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2020/01/21 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1811C>A (p.Thr604Asn)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "1002664",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2020/10/27 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1629C>G (p.Ile543Met)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "986870",
+    "clinical_significance": "Conflicting classifications of pathogenicity",
+    "review_status": "criteria provided, conflicting classifications",
+    "last_evaluated": "2026/06/01 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2242T>A (p.Ser748Thr)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "985993",
+    "clinical_significance": "Conflicting classifications of pathogenicity",
+    "review_status": "criteria provided, conflicting classifications",
+    "last_evaluated": "2026/05/04 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases",
+      "not provided",
+      "MAPT-related disorder",
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1676A>G (p.Asn559Ser)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "980719",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/12/30 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "GRCh37/hg19 17q21.31(chr17:43586396-44212416)x1",
+    "genes": [
+      {
+        "gene_id": "1394",
+        "symbol": "CRHR1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "284058",
+        "symbol": "KANSL1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      },
+      {
+        "gene_id": "162540",
+        "symbol": "SPPL2C",
+        "strand": "+"
+      },
+      {
+        "gene_id": "246744",
+        "symbol": "STH",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "copy number loss",
+    "molecular_consequences": []
+  },
+  {
+    "variant_id": "966198",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2019/09/27 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1985C>T (p.Pro662Leu)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "965918",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2019/11/14 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1703C>T (p.Pro568Leu)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "962043",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2025/01/19 00:00",
+    "phenotypes": [
+      "Supranuclear palsy, progressive, 1",
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2035G>A (p.Val679Ile)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "961889",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2019/09/16 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1733-3del",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Deletion",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "961854",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/05/19 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2173G>T (p.Gly725Ter)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "nonsense",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "956359",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2024/12/19 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia",
+      "Supranuclear palsy, progressive, 1",
+      "Pick disease",
+      "Parkinson disease, late-onset",
+      "Progressive supranuclear palsy-parkinsonism syndrome"
+    ],
+    "title": "NM_001377265.1(MAPT):c.89C>T (p.Thr30Ile)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "954171",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2019/10/02 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1982A>T (p.Gln661Leu)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "892514",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2018/01/12 00:00",
+    "phenotypes": [
+      "MAPT-Related Spectrum Disorders"
+    ],
+    "title": "NM_001377265.1(MAPT):c.*1089G>A",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "3 prime UTR variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "892513",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2018/01/12 00:00",
+    "phenotypes": [
+      "MAPT-Related Spectrum Disorders"
+    ],
+    "title": "NM_001377265.1(MAPT):c.*884G>A",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "3 prime UTR variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "892512",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2018/01/13 00:00",
+    "phenotypes": [
+      "MAPT-Related Spectrum Disorders"
+    ],
+    "title": "NM_001377265.1(MAPT):c.*857G>A",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "3 prime UTR variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "892511",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2018/01/13 00:00",
+    "phenotypes": [
+      "MAPT-Related Spectrum Disorders"
+    ],
+    "title": "NM_001377265.1(MAPT):c.*852C>T",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "3 prime UTR variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "892461",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2018/01/13 00:00",
+    "phenotypes": [
+      "MAPT-Related Spectrum Disorders"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1972C>T (p.Leu658=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "892460",
+    "clinical_significance": "Conflicting classifications of pathogenicity",
+    "review_status": "criteria provided, conflicting classifications",
+    "last_evaluated": "2026/05/29 00:00",
+    "phenotypes": [
+      "MAPT-related disorder",
+      "Frontotemporal dementia",
+      "MAPT-Related Spectrum Disorders"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1801C>T (p.Arg601Cys)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "892459",
+    "clinical_significance": "Benign/Likely benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2022/09/15 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia",
+      "MAPT-Related Spectrum Disorders"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1776C>T (p.Pro592=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "891700",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2018/01/13 00:00",
+    "phenotypes": [
+      "MAPT-Related Spectrum Disorders"
+    ],
+    "title": "NM_001377265.1(MAPT):c.*4071G>A",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "3 prime UTR variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "891699",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2018/01/13 00:00",
+    "phenotypes": [
+      "MAPT-Related Spectrum Disorders"
+    ],
+    "title": "NM_001377265.1(MAPT):c.*4004C>T",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "3 prime UTR variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "891698",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2018/01/12 00:00",
+    "phenotypes": [
+      "MAPT-Related Spectrum Disorders"
+    ],
+    "title": "NM_001377265.1(MAPT):c.*3951G>A",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "3 prime UTR variant",
+      "non-coding transcript variant"
+    ]
+  }
+]

@@ -1,0 +1,1481 @@
+[
+  {
+    "variant_id": "98022",
+    "clinical_significance": "Pathogenic/Likely pathogenic",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2025/05/22 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia",
+      "Alzheimer disease 3",
+      "Pick disease",
+      "Acne inversa, familial, 3",
+      "not provided"
+    ],
+    "title": "NM_000021.4(PSEN1):c.404A>G (p.Asn135Ser)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "98021",
+    "clinical_significance": "Likely pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/08/10 00:00",
+    "phenotypes": [
+      "Alzheimer disease 3",
+      "Acne inversa, familial, 3",
+      "Frontotemporal dementia",
+      "Pick disease"
+    ],
+    "title": "NM_000021.4(PSEN1):c.403A>G (p.Asn135Asp)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "98020",
+    "clinical_significance": "Conflicting classifications of pathogenicity",
+    "review_status": "criteria provided, conflicting classifications",
+    "last_evaluated": "2026/08/27 00:00",
+    "phenotypes": [
+      "Alzheimer disease 3",
+      "Hypertrophic cardiomyopathy"
+    ],
+    "title": "NM_000021.4(PSEN1):c.367G>A (p.Glu123Lys)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "98019",
+    "clinical_significance": "Likely pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2018/06/13 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_000021.4(PSEN1):c.358G>A (p.Glu120Lys)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "98018",
+    "clinical_significance": "Pathogenic/Likely pathogenic",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2024/05/15 00:00",
+    "phenotypes": [
+      "Alzheimer disease 3",
+      "Acne inversa, familial, 3",
+      "Frontotemporal dementia",
+      "Pick disease"
+    ],
+    "title": "NM_000021.4(PSEN1):c.350C>T (p.Pro117Leu)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "98017",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/10/28 00:00",
+    "phenotypes": [
+      "Alzheimer disease 3",
+      "Acne inversa, familial, 3",
+      "Frontotemporal dementia",
+      "Pick disease"
+    ],
+    "title": "NM_000021.4(PSEN1):c.349C>T (p.Pro117Ser)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "98016",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/09/19 00:00",
+    "phenotypes": [
+      "Alzheimer disease 3",
+      "Acne inversa, familial, 3",
+      "Frontotemporal dementia",
+      "Pick disease"
+    ],
+    "title": "NM_000021.4(PSEN1):c.347C>T (p.Thr116Ile)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "98015",
+    "clinical_significance": "Pathogenic/Likely pathogenic",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2024/12/06 00:00",
+    "phenotypes": [
+      "Alzheimer disease 3",
+      "Acne inversa, familial, 3",
+      "Frontotemporal dementia",
+      "Pick disease",
+      "not provided"
+    ],
+    "title": "NM_000021.4(PSEN1):c.344A>G (p.Tyr115Cys)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "98014",
+    "clinical_significance": "not provided",
+    "review_status": "no classification provided",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_000021.4(PSEN1):c.343T>G (p.Tyr115Asp)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "98013",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2021/08/11 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_000021.4(PSEN1):c.338+1del",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Deletion",
+    "molecular_consequences": [
+      "splice donor variant"
+    ]
+  },
+  {
+    "variant_id": "98012",
+    "clinical_significance": "not provided",
+    "review_status": "no classification provided",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_000021.4(PSEN1):c.315T>G (p.Phe105Leu)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "98011",
+    "clinical_significance": "not provided",
+    "review_status": "no classification provided",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_000021.4(PSEN1):c.313T>A (p.Phe105Ile)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "98010",
+    "clinical_significance": "not provided",
+    "review_status": "no classification provided",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_000021.4(PSEN1):c.289G>T (p.Val97Leu)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "98009",
+    "clinical_significance": "not provided",
+    "review_status": "no classification provided",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_000021.4(PSEN1):c.286G>T (p.Val96Phe)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "98008",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/06/27 00:00",
+    "phenotypes": [
+      "Alzheimer disease 3",
+      "Acne inversa, familial, 3",
+      "Frontotemporal dementia",
+      "Pick disease"
+    ],
+    "title": "NM_000021.4(PSEN1):c.280G>A (p.Val94Met)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "98006",
+    "clinical_significance": "not provided",
+    "review_status": "no classification provided",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_000021.4(PSEN1):c.247_252del (p.Ile83_Met84del)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Deletion",
+    "molecular_consequences": [
+      "inframe_deletion"
+    ]
+  },
+  {
+    "variant_id": "98005",
+    "clinical_significance": "not provided",
+    "review_status": "no classification provided",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_000021.4(PSEN1):c.244G>C (p.Val82Leu)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "98004",
+    "clinical_significance": "Conflicting classifications of pathogenicity",
+    "review_status": "criteria provided, conflicting classifications",
+    "last_evaluated": "2026/07/08 00:00",
+    "phenotypes": [
+      "PSEN1-related disorder",
+      "Frontotemporal dementia",
+      "Pick disease",
+      "Alzheimer disease 3",
+      "Acne inversa, familial, 3",
+      "not specified",
+      "not provided",
+      "Dilated cardiomyopathy 1U",
+      "Alzheimer disease"
+    ],
+    "title": "NM_000021.4(PSEN1):c.104G>A (p.Arg35Gln)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "58331",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2011/08/12 00:00",
+    "phenotypes": [
+      "See cases"
+    ],
+    "title": "GRCh38/hg38 14q24.2-24.3(chr14:72886764-73367226)x3",
+    "genes": [
+      {
+        "gene_id": "26094",
+        "symbol": "DCAF4",
+        "strand": "+"
+      },
+      {
+        "gene_id": "8110",
+        "symbol": "DPF3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "112272556",
+        "symbol": "LOC112272556",
+        "strand": "+"
+      },
+      {
+        "gene_id": "126861995",
+        "symbol": "LOC126861995",
+        "strand": "+"
+      },
+      {
+        "gene_id": "129390645",
+        "symbol": "LOC129390645",
+        "strand": "+"
+      },
+      {
+        "gene_id": "130056037",
+        "symbol": "LOC130056037",
+        "strand": "+"
+      },
+      {
+        "gene_id": "130056038",
+        "symbol": "LOC130056038",
+        "strand": "+"
+      },
+      {
+        "gene_id": "130056039",
+        "symbol": "LOC130056039",
+        "strand": "+"
+      },
+      {
+        "gene_id": "130056040",
+        "symbol": "LOC130056040",
+        "strand": "+"
+      },
+      {
+        "gene_id": "130056041",
+        "symbol": "LOC130056041",
+        "strand": "+"
+      },
+      {
+        "gene_id": "130056042",
+        "symbol": "LOC130056042",
+        "strand": "+"
+      },
+      {
+        "gene_id": "130056043",
+        "symbol": "LOC130056043",
+        "strand": "+"
+      },
+      {
+        "gene_id": "130056044",
+        "symbol": "LOC130056044",
+        "strand": "+"
+      },
+      {
+        "gene_id": "130056045",
+        "symbol": "LOC130056045",
+        "strand": "+"
+      },
+      {
+        "gene_id": "130056046",
+        "symbol": "LOC130056046",
+        "strand": "+"
+      },
+      {
+        "gene_id": "130056047",
+        "symbol": "LOC130056047",
+        "strand": "+"
+      },
+      {
+        "gene_id": "130056048",
+        "symbol": "LOC130056048",
+        "strand": "+"
+      },
+      {
+        "gene_id": "8650",
+        "symbol": "NUMB",
+        "strand": "-"
+      },
+      {
+        "gene_id": "89932",
+        "symbol": "PAPLN",
+        "strand": "+"
+      },
+      {
+        "gene_id": "101928123",
+        "symbol": "PAPLN-AS1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "58517",
+        "symbol": "RBM25",
+        "strand": "+"
+      },
+      {
+        "gene_id": "105370560",
+        "symbol": "RBM25-AS1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "100189359",
+        "symbol": "TRC-GCA8-1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "53349",
+        "symbol": "ZFYVE1",
+        "strand": "-"
+      }
+    ],
+    "variation_type": "copy number gain",
+    "molecular_consequences": []
+  },
+  {
+    "variant_id": "38297",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2026/01/27 00:00",
+    "phenotypes": [
+      "PSEN1-related disorder",
+      "Pick disease",
+      "Frontotemporal dementia",
+      "Alzheimer disease 3",
+      "Acne inversa, familial, 3",
+      "not provided"
+    ],
+    "title": "NM_000021.4(PSEN1):c.806G>A (p.Arg269His)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "38296",
+    "clinical_significance": "Pathogenic",
+    "review_status": "no assertion criteria provided",
+    "last_evaluated": "2010/12/23 00:00",
+    "phenotypes": [
+      "Alzheimer disease 4"
+    ],
+    "title": "NM_000021.4(PSEN1):c.869-1624_956-2452del",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Deletion",
+    "molecular_consequences": [
+      "splice acceptor variant",
+      "splice donor variant"
+    ]
+  },
+  {
+    "variant_id": "29606",
+    "clinical_significance": "Pathogenic",
+    "review_status": "no assertion criteria provided",
+    "last_evaluated": "2010/11/19 00:00",
+    "phenotypes": [
+      "Acne inversa, familial, 3"
+    ],
+    "title": "NM_000021.4(PSEN1):c.725del (p.Pro242fs)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Deletion",
+    "molecular_consequences": [
+      "frameshift variant"
+    ]
+  },
+  {
+    "variant_id": "21029",
+    "clinical_significance": "not provided",
+    "review_status": "no classification provided",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [
+      "Alzheimer disease 3",
+      "not provided"
+    ],
+    "title": "NM_000021.4(PSEN1):c.767A>C (p.Tyr256Ser)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "21028",
+    "clinical_significance": "Pathogenic/Likely pathogenic",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2024/06/07 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia",
+      "Alzheimer disease 3",
+      "Acne inversa, familial, 3",
+      "Pick disease",
+      "not provided"
+    ],
+    "title": "NM_000021.4(PSEN1):c.697A>G (p.Met233Val)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "21027",
+    "clinical_significance": "not provided",
+    "review_status": "no classification provided",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [
+      "not provided",
+      "Alzheimer disease 3"
+    ],
+    "title": "NM_000021.4(PSEN1):c.265G>T (p.Val89Leu)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "21026",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/04/12 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia",
+      "Alzheimer disease 3",
+      "Acne inversa, familial, 3",
+      "Pick disease"
+    ],
+    "title": "NM_000021.4(PSEN1):c.1175T>C (p.Leu392Pro)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "18159",
+    "clinical_significance": "Likely pathogenic",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2025/04/08 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia",
+      "Alzheimer disease 3",
+      "Acne inversa, familial, 3",
+      "Pick disease"
+    ],
+    "title": "NM_000021.4(PSEN1):c.649G>C (p.Gly217Arg)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "18158",
+    "clinical_significance": "Pathogenic",
+    "review_status": "no assertion criteria provided",
+    "last_evaluated": "2007/05/01 00:00",
+    "phenotypes": [
+      "Alzheimer disease 3"
+    ],
+    "title": "NM_000021.4(PSEN1):c.509C>T (p.Ser170Phe)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "18157",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2025/04/17 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia",
+      "Alzheimer disease 3",
+      "Acne inversa, familial, 3",
+      "Pick disease",
+      "not provided",
+      "Dementia"
+    ],
+    "title": "NM_000021.4(PSEN1):c.236C>T (p.Ala79Val)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "18156",
+    "clinical_significance": "Conflicting classifications of pathogenicity",
+    "review_status": "criteria provided, conflicting classifications",
+    "last_evaluated": "2025/09/19 00:00",
+    "phenotypes": [
+      "Acne inversa, familial, 3",
+      "Frontotemporal dementia",
+      "Alzheimer disease 3",
+      "Pick disease",
+      "Heart failure",
+      "Primary dilated cardiomyopathy",
+      "not specified"
+    ],
+    "title": "NM_000021.4(PSEN1):c.998A>G (p.Asp333Gly)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "18155",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2026/09/01 00:00",
+    "phenotypes": [
+      "PSEN1-related disorder",
+      "Acne inversa, familial, 3",
+      "Frontotemporal dementia",
+      "Alzheimer disease 3",
+      "Pick disease",
+      "Dilated cardiomyopathy 1U",
+      "not provided"
+    ],
+    "title": "NM_000021.4(PSEN1):c.1292C>A (p.Ala431Glu)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "18153",
+    "clinical_significance": "Pathogenic/Likely pathogenic",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2022/08/05 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia",
+      "Alzheimer disease 3",
+      "Pick disease",
+      "not provided"
+    ],
+    "title": "NM_000021.4(PSEN1):c.254T>C (p.Leu85Pro)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "18152",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/06/25 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia",
+      "Alzheimer disease 3",
+      "Acne inversa, familial, 3",
+      "Pick disease"
+    ],
+    "title": "NM_000021.4(PSEN1):c.833G>T (p.Arg278Ile)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "18150",
+    "clinical_significance": "Pathogenic",
+    "review_status": "no assertion criteria provided",
+    "last_evaluated": "2004/06/15 00:00",
+    "phenotypes": [
+      "Alzheimer disease 3"
+    ],
+    "title": "NM_000021.4(PSEN1):c.1307C>A (p.Pro436Gln)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "18149",
+    "clinical_significance": "Pathogenic",
+    "review_status": "no assertion criteria provided",
+    "last_evaluated": "2018/02/14 00:00",
+    "phenotypes": [
+      "Pick disease"
+    ],
+    "title": "NM_000021.4(PSEN1):c.548G>T (p.Gly183Val)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "18148",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2022/03/22 00:00",
+    "phenotypes": [
+      "Acne inversa, familial, 3",
+      "Frontotemporal dementia",
+      "Alzheimer disease 3",
+      "Pick disease",
+      "PSEN1-related disorder"
+    ],
+    "title": "NM_000021.4(PSEN1):c.811C>G (p.Leu271Val)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "18147",
+    "clinical_significance": "Pathogenic",
+    "review_status": "no assertion criteria provided",
+    "last_evaluated": "2002/10/01 00:00",
+    "phenotypes": [
+      "Alzheimer disease 3"
+    ],
+    "title": "NM_000021.4(PSEN1):c.520C>A (p.Leu174Met)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "18146",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2019/05/28 00:00",
+    "phenotypes": [
+      "Alzheimer disease 3"
+    ],
+    "title": "NM_000021.4(PSEN1):c.497T>C (p.Leu166Pro)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "18145",
+    "clinical_significance": "Likely pathogenic",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2019/10/16 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia",
+      "Alzheimer disease 3",
+      "Acne inversa, familial, 3",
+      "Pick disease",
+      "not provided"
+    ],
+    "title": "NM_000021.4(PSEN1):c.338T>C (p.Leu113Pro)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "18144",
+    "clinical_significance": "Likely pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [
+      "Alzheimer disease 3"
+    ],
+    "title": "NM_000021.4(PSEN1):c.796G>A (p.Gly266Ser)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "18143",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2026/06/24 00:00",
+    "phenotypes": [
+      "PSEN1-related disorder",
+      "Autosomal dominant PSEN1-related disorders",
+      "Frontotemporal dementia",
+      "Pick disease",
+      "Acne inversa, familial, 3",
+      "Alzheimer disease 3",
+      "Dilated cardiomyopathy 1U",
+      "not provided"
+    ],
+    "title": "NM_000021.4(PSEN1):c.617G>C (p.Gly206Ala)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "18142",
+    "clinical_significance": "Pathogenic",
+    "review_status": "no assertion criteria provided",
+    "last_evaluated": "2000/10/14 00:00",
+    "phenotypes": [
+      "Alzheimer disease 3"
+    ],
+    "title": "NM_000021.4(PSEN1):c.275G>C (p.Cys92Ser)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "18141",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2019/03/27 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_000021.4(PSEN1):c.1300_1301delinsTG (p.Ala434Cys)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Indel",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "18139",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2021/07/10 00:00",
+    "phenotypes": [
+      "Abnormality of the nervous system"
+    ],
+    "title": "NM_000021.4(PSEN1):c.833G>C (p.Arg278Thr)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "18138",
+    "clinical_significance": "Pathogenic",
+    "review_status": "no assertion criteria provided",
+    "last_evaluated": "1998/01/01 00:00",
+    "phenotypes": [
+      "Alzheimer disease 3"
+    ],
+    "title": "NM_000021.4(PSEN1):c.749T>C (p.Leu250Ser)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "18137",
+    "clinical_significance": "Pathogenic",
+    "review_status": "no assertion criteria provided",
+    "last_evaluated": "1998/03/01 00:00",
+    "phenotypes": [
+      "Alzheimer disease 3"
+    ],
+    "title": "NM_000021.4(PSEN1):c.438G>A (p.Met146Ile)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "18136",
+    "clinical_significance": "Pathogenic/Likely pathogenic",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2024/11/12 00:00",
+    "phenotypes": [
+      "Acne inversa, familial, 3",
+      "Frontotemporal dementia",
+      "Pick disease",
+      "Alzheimer disease 3",
+      "Dilated cardiomyopathy 1U",
+      "not provided"
+    ],
+    "title": "NM_000021.4(PSEN1):c.1276G>C (p.Ala426Pro)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "18135",
+    "clinical_significance": "Pathogenic",
+    "review_status": "no assertion criteria provided",
+    "last_evaluated": "1996/12/01 00:00",
+    "phenotypes": [
+      "Alzheimer disease 3"
+    ],
+    "title": "NM_000021.4(PSEN1):c.360A>T (p.Glu120Asp)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "18133",
+    "clinical_significance": "Likely pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2016/11/02 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_000021.4(PSEN1):c.799C>T (p.Pro267Ser)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "18132",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2024/11/01 00:00",
+    "phenotypes": [
+      "Pick disease",
+      "Frontotemporal dementia",
+      "Alzheimer disease 3",
+      "Acne inversa, familial, 3",
+      "not provided"
+    ],
+    "title": "NM_000021.4(PSEN1):c.839A>G (p.Glu280Gly)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "18131",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/09/16 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia",
+      "Alzheimer disease 3",
+      "Acne inversa, familial, 3",
+      "Pick disease"
+    ],
+    "title": "NM_000021.4(PSEN1):c.839A>C (p.Glu280Ala)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "18130",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/02/16 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_000021.4(PSEN1):c.487C>T (p.His163Tyr)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "18129",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [
+      "Alzheimer disease 3"
+    ],
+    "title": "NM_000021.4(PSEN1):c.436A>G (p.Met146Val)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "18128",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2023/12/04 00:00",
+    "phenotypes": [
+      "Pick disease",
+      "Frontotemporal dementia",
+      "Alzheimer disease 3",
+      "Acne inversa, familial, 3",
+      "not provided"
+    ],
+    "title": "NM_000021.4(PSEN1):c.415A>G (p.Met139Val)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "18127",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2017/10/22 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia",
+      "Alzheimer disease 3",
+      "Acne inversa, familial, 3",
+      "Pick disease"
+    ],
+    "title": "NM_000021.4(PSEN1):c.1229G>A (p.Cys410Tyr)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "18126",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2025/10/08 00:00",
+    "phenotypes": [
+      "Early-onset autosomal dominant Alzheimer disease",
+      "not provided"
+    ],
+    "title": "NM_000021.4(PSEN1):c.856C>G (p.Leu286Val)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "18125",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2025/09/01 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia",
+      "Alzheimer disease 3",
+      "Acne inversa, familial, 3",
+      "Pick disease",
+      "not provided"
+    ],
+    "title": "NM_000021.4(PSEN1):c.737C>A (p.Ala246Glu)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "18124",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2025/09/03 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia",
+      "Alzheimer disease 3",
+      "Acne inversa, familial, 3",
+      "Pick disease",
+      "PSEN1-related disorder",
+      "Dilated cardiomyopathy 1U",
+      "not provided"
+    ],
+    "title": "NM_000021.4(PSEN1):c.488A>G (p.His163Arg)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "18123",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2025/06/01 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia",
+      "Alzheimer disease 3",
+      "Acne inversa, familial, 3",
+      "Pick disease",
+      "not provided"
+    ],
+    "title": "NM_000021.4(PSEN1):c.436A>C (p.Met146Leu)",
+    "genes": [
+      {
+        "gene_id": "5663",
+        "symbol": "PSEN1",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  }
+]

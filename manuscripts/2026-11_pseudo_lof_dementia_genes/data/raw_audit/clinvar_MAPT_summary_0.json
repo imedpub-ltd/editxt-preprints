@@ -1,0 +1,7735 @@
+[
+  {
+    "variant_id": "5041815",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2026/09/01 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.807A>C (p.Gly269=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "5017276",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2026/03/24 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.134-1G>C",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant",
+      "splice acceptor variant"
+    ]
+  },
+  {
+    "variant_id": "4935689",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/06/19 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2363C>T (p.Ser788Leu)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4935686",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/02/13 00:00",
+    "phenotypes": [
+      "not specified"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2091+22A>G",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4935685",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/03/04 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1988G>C (p.Gly663Ala)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "4935684",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2021/11/25 00:00",
+    "phenotypes": [
+      "not specified"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1956C>A (p.Ile652=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "4935683",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2021/06/10 00:00",
+    "phenotypes": [
+      "not specified"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1758C>T (p.Arg586=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "4935682",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/09/01 00:00",
+    "phenotypes": [
+      "not specified"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1602C>T (p.Leu534=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4935681",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/10/14 00:00",
+    "phenotypes": [
+      "not specified"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1425T>G (p.Ser475=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4935680",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/09/28 00:00",
+    "phenotypes": [
+      "not specified"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1335G>C (p.Arg445=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4935679",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/11/19 00:00",
+    "phenotypes": [
+      "not specified"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1152C>G (p.Pro384=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4935678",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2019/03/06 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1024C>T (p.Leu342Phe)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4935677",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2018/04/18 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.857G>A (p.Arg286Lys)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4935676",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/10/21 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.220+2527G>A",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant",
+      "splice donor variant"
+    ]
+  },
+  {
+    "variant_id": "4935675",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/04/27 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.116C>T (p.Thr39Met)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "4874943",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2026/05/01 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.686C>G (p.Pro229Arg)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4874599",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2026/04/01 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2153G>C (p.Gly718Ala)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4872419",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2026/03/01 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001007532.3(STH):c.283T>C (p.Ser95Pro)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      },
+      {
+        "gene_id": "246744",
+        "symbol": "STH",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4855801",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/05/27 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.502del (p.Gln168fs)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Deletion",
+    "molecular_consequences": [
+      "frameshift variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4854604",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/06/11 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2369T>C (p.Val790Ala)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4852867",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/11/26 00:00",
+    "phenotypes": [
+      "Supranuclear palsy, progressive, 1"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1548C>G (p.Tyr516Ter)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "nonsense",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4852040",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/06/01 00:00",
+    "phenotypes": [
+      "See cases"
+    ],
+    "title": "GRCh38/hg38 17q21.31(chr17:45608559-46133622)x1",
+    "genes": [
+      {
+        "gene_id": "1394",
+        "symbol": "CRHR1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "284058",
+        "symbol": "KANSL1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "147081",
+        "symbol": "LINC02210",
+        "strand": "+"
+      },
+      {
+        "gene_id": "104909134",
+        "symbol": "LINC02210-CRHR1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "121852934",
+        "symbol": "LOC121852934",
+        "strand": "+"
+      },
+      {
+        "gene_id": "126862576",
+        "symbol": "LOC126862576",
+        "strand": "+"
+      },
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      },
+      {
+        "gene_id": "100128977",
+        "symbol": "MAPT-AS1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "100130148",
+        "symbol": "MAPT-IT1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "162540",
+        "symbol": "SPPL2C",
+        "strand": "+"
+      },
+      {
+        "gene_id": "246744",
+        "symbol": "STH",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "copy number loss",
+    "molecular_consequences": []
+  },
+  {
+    "variant_id": "4849951",
+    "clinical_significance": "Likely benign",
+    "review_status": "no assertion criteria provided",
+    "last_evaluated": "2026/04/20 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1911A>T (p.Thr637=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "4849950",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "no assertion criteria provided",
+    "last_evaluated": "2026/04/20 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.220+2528T>C",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant",
+      "splice donor variant"
+    ]
+  },
+  {
+    "variant_id": "4849949",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "no assertion criteria provided",
+    "last_evaluated": "2026/04/20 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.745G>A (p.Gly249Arg)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant",
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "4849948",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "no assertion criteria provided",
+    "last_evaluated": "2026/04/20 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.868A>C (p.Lys290Gln)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4849947",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "no assertion criteria provided",
+    "last_evaluated": "2026/04/20 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.697C>G (p.Leu233Val)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4849060",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2026/04/27 00:00",
+    "phenotypes": [
+      "not specified"
+    ],
+    "title": "NM_001377265.1(MAPT):c.221-50C>T",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4839623",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2026/01/21 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2491C>G (p.Gln831Glu)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4821137",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2026/02/01 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2442G>A (p.Ser814=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4813352",
+    "clinical_significance": "Likely pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/12/01 00:00",
+    "phenotypes": [
+      "Koolen-de Vries syndrome"
+    ],
+    "title": "Single allele",
+    "genes": [
+      {
+        "gene_id": "1394",
+        "symbol": "CRHR1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "284058",
+        "symbol": "KANSL1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "147081",
+        "symbol": "LINC02210",
+        "strand": "+"
+      },
+      {
+        "gene_id": "104909134",
+        "symbol": "LINC02210-CRHR1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "121852934",
+        "symbol": "LOC121852934",
+        "strand": "+"
+      },
+      {
+        "gene_id": "126862576",
+        "symbol": "LOC126862576",
+        "strand": "+"
+      },
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      },
+      {
+        "gene_id": "100128977",
+        "symbol": "MAPT-AS1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "100130148",
+        "symbol": "MAPT-IT1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "162540",
+        "symbol": "SPPL2C",
+        "strand": "+"
+      },
+      {
+        "gene_id": "246744",
+        "symbol": "STH",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Deletion",
+    "molecular_consequences": []
+  },
+  {
+    "variant_id": "4811482",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/06/22 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.220+19G>A",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4810656",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2026/04/01 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia",
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2272G>A (p.Gly758Arg)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4806194",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/02/26 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.25G>T (p.Glu9Ter)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "nonsense",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "4778551",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/06/16 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2092-20T>G",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4763816",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/08/09 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.220+2524C>G",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4742325",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/07/02 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2200G>A (p.Glu734Lys)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4740541",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2026/01/27 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2188G>A (p.Glu730Lys)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4729096",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/10/13 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1733-9C>T",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4698868",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/10/23 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2092-18C>T",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4682437",
+    "clinical_significance": "Benign/Likely benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2026/05/22 00:00",
+    "phenotypes": [
+      "MAPT-related disorder",
+      "not specified"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1998+31G>A",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4624318",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/10/07 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2117A>G (p.Asp706Gly)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "4624317",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/10/02 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2059G>T (p.Asp687Tyr)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4590568",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/11/26 00:00",
+    "phenotypes": [
+      "not specified"
+    ],
+    "title": "NM_001007532.3(STH):c.220T>A (p.Trp74Arg)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      },
+      {
+        "gene_id": "246744",
+        "symbol": "STH",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4538486",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/12/18 00:00",
+    "phenotypes": [
+      "Parkinson disease, late-onset",
+      "Progressive supranuclear palsy-parkinsonism syndrome"
+    ],
+    "title": "NM_001377265.1(MAPT):c.709G>A (p.Gly237Ser)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4532438",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/05/30 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1216C>T (p.Pro406Ser)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4525968",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/07/11 00:00",
+    "phenotypes": [
+      "not specified"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2136C>T (p.Ser712=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4422867",
+    "clinical_significance": "Unknown",
+    "review_status": "Unknown",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [],
+    "title": "NM_001377265.1(MAPT):c.*3050G>A",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "3 prime UTR variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "4422866",
+    "clinical_significance": "Unknown",
+    "review_status": "Unknown",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [],
+    "title": "NM_001377265.1(MAPT):c.*911G>T",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "non-coding transcript variant",
+      "intron variant",
+      "3 prime UTR variant"
+    ]
+  },
+  {
+    "variant_id": "4422865",
+    "clinical_significance": "Unknown",
+    "review_status": "Unknown",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [],
+    "title": "NM_001377265.1(MAPT):c.2174G>T (p.Gly725Val)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4422864",
+    "clinical_significance": "Unknown",
+    "review_status": "Unknown",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [],
+    "title": "NM_001377265.1(MAPT):c.1941T>G (p.Asn647Lys)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "4422862",
+    "clinical_significance": "Unknown",
+    "review_status": "Unknown",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [],
+    "title": "NM_001377265.1(MAPT):c.1732+2173G>A",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4422861",
+    "clinical_significance": "Unknown",
+    "review_status": "Unknown",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [],
+    "title": "NM_001377265.1(MAPT):c.286+2T>C",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "splice donor variant"
+    ]
+  },
+  {
+    "variant_id": "4422860",
+    "clinical_significance": "Unknown",
+    "review_status": "Unknown",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [],
+    "title": "NM_001377265.1(MAPT):c.220+2402G>C",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4422859",
+    "clinical_significance": "Unknown",
+    "review_status": "Unknown",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [],
+    "title": "NM_001377265.1(MAPT):c.220+117C>A",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4422858",
+    "clinical_significance": "Unknown",
+    "review_status": "Unknown",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [],
+    "title": "NM_001377265.1(MAPT):c.133+2T>C",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "splice donor variant"
+    ]
+  },
+  {
+    "variant_id": "4422857",
+    "clinical_significance": "Unknown",
+    "review_status": "Unknown",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [],
+    "title": "NM_001377265.1(MAPT):c.-17-3C>T",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4282065",
+    "clinical_significance": "Conflicting classifications of pathogenicity",
+    "review_status": "criteria provided, conflicting classifications",
+    "last_evaluated": "2025/04/10 00:00",
+    "phenotypes": [
+      "not provided",
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.220+2504G>A",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4281066",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/11/01 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.534C>A (p.Gly178=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant",
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "4176516",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/08/21 00:00",
+    "phenotypes": [
+      "not specified"
+    ],
+    "title": "NM_001007532.3(STH):c.277C>A (p.Gln93Lys)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      },
+      {
+        "gene_id": "246744",
+        "symbol": "STH",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4103928",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/08/29 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1637C>T (p.Pro546Leu)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "4086783",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/03/21 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.677C>A (p.Ser226Tyr)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4083492",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/06/12 00:00",
+    "phenotypes": [
+      "Koolen-de Vries syndrome"
+    ],
+    "title": "GRCh37/hg19 17q21.31(chr17:43861911-44630815)x1",
+    "genes": [
+      {
+        "gene_id": "51326",
+        "symbol": "ARL17A",
+        "strand": "-"
+      },
+      {
+        "gene_id": "100506084",
+        "symbol": "ARL17B",
+        "strand": "-"
+      },
+      {
+        "gene_id": "1394",
+        "symbol": "CRHR1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "284058",
+        "symbol": "KANSL1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "9884",
+        "symbol": "LRRC37A",
+        "strand": "+"
+      },
+      {
+        "gene_id": "474170",
+        "symbol": "LRRC37A2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      },
+      {
+        "gene_id": "162540",
+        "symbol": "SPPL2C",
+        "strand": "+"
+      },
+      {
+        "gene_id": "246744",
+        "symbol": "STH",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "copy number loss",
+    "molecular_consequences": []
+  },
+  {
+    "variant_id": "4077326",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/03/01 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2486C>T (p.Ala829Val)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4057054",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/01/12 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1880C>T (p.Ser627Leu)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "4056341",
+    "clinical_significance": "Likely pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/06/17 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2010TAA[1] (p.Asn671del)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Microsatellite",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4051713",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2026/01/27 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia",
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_001377265.1(MAPT):c.187A>G (p.Thr63Ala)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "4051712",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/05/19 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2393G>C (p.Arg798Pro)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3963207",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/05/21 00:00",
+    "phenotypes": [
+      "not specified"
+    ],
+    "title": "NM_001007532.3(STH):c.134A>T (p.Asp45Val)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      },
+      {
+        "gene_id": "246744",
+        "symbol": "STH",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3963206",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/05/06 00:00",
+    "phenotypes": [
+      "not specified"
+    ],
+    "title": "NM_001007532.3(STH):c.346C>A (p.Pro116Thr)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      },
+      {
+        "gene_id": "246744",
+        "symbol": "STH",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3900143",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/11/26 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1956C>G (p.Ile652Met)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "3898584",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/04/01 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.750T>G (p.Pro250=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant",
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "3870529",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/01/28 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_001377265.1(MAPT):c.224A>C (p.Glu75Ala)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "3802339",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/03/07 00:00",
+    "phenotypes": [
+      "not specified"
+    ],
+    "title": "NM_001007532.3(STH):c.117G>T (p.Met39Ile)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      },
+      {
+        "gene_id": "246744",
+        "symbol": "STH",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3802338",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/02/11 00:00",
+    "phenotypes": [
+      "not specified"
+    ],
+    "title": "NM_001007532.3(STH):c.326C>G (p.Pro109Arg)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      },
+      {
+        "gene_id": "246744",
+        "symbol": "STH",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3778831",
+    "clinical_significance": "Likely pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2027T>A (p.Leu676His)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3776504",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/10/04 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1315C>T (p.Arg439Trp)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3771663",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/01/01 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1129A>G (p.Thr377Ala)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3731232",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2026/01/30 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.697C>T (p.Leu233Phe)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant",
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "3728791",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/01/11 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1367A>G (p.Lys456Arg)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "3726408",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/11/30 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2174-14G>T",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3713202",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/06/26 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.180C>A (p.Gly60=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant",
+      "synonymous variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "3705554",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/06/20 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.276C>T (p.His92=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "3703739",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/03/07 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2258C>A (p.Thr753Asn)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3695775",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/04/25 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1670A>C (p.Gln557Pro)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "3694926",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2026/04/07 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia",
+      "not specified"
+    ],
+    "title": "NM_001377265.1(MAPT):c.179G>T (p.Gly60Val)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3673918",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/05/13 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.286+4A>G",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3673236",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/10/16 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.220+11C>G",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3670444",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/01/02 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.220+10C>G",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3665651",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/10/28 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.220+10C>A",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3660315",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/07/23 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.201G>C (p.Lys67Asn)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3658907",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/07/17 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.220+2487G>C",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3654589",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/05/26 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2126A>C (p.Lys709Thr)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "3650371",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/04/18 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.220+2437_220+2438insTTTTTTTTTTTTTTTTTTTTNNNNNNNNNNTGACCTCGTGATCCGCCCGCCTCGGCCTCCCAAAGTGCTGGGATTACAGGCGTGAGCCACCGCGCCCGGCCAAATCTCGGTGGTTTCT",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Insertion",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3640349",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/02/12 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2015A>G (p.Lys672Arg)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3631746",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/05/14 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1757G>A (p.Arg586His)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "3620168",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/05/27 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2466C>T (p.Asp822=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3613224",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2026/01/20 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia",
+      "not specified"
+    ],
+    "title": "NM_001377265.1(MAPT):c.133+19A>G",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3602341",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2026/01/17 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1355G>T (p.Arg452Leu)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "3582155",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/03/19 00:00",
+    "phenotypes": [
+      "Pick disease",
+      "Frontotemporal dementia",
+      "Progressive supranuclear palsy-parkinsonism syndrome",
+      "Supranuclear palsy, progressive, 1",
+      "Parkinson disease, late-onset"
+    ],
+    "title": "NM_001377265.1(MAPT):c.848G>A (p.Gly283Asp)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3571983",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/12/15 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.134-14T>G",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3543261",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/08/29 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1973T>C (p.Leu658Pro)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "3543260",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/08/27 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1899C>A (p.Ser633Arg)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "3543259",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2025/08/15 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases",
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1394A>G (p.Asp465Gly)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "3543258",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/10/22 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1756C>T (p.Arg586Cys)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "3543257",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/11/14 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_001377265.1(MAPT):c.220+2451C>A",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3392903",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/06/26 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2100A>G (p.Ile700Met)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "3391824",
+    "clinical_significance": "Likely pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/08/12 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "GRCh37/hg19 17q21.31(chr17:43710396-44292742)x3",
+    "genes": [
+      {
+        "gene_id": "1394",
+        "symbol": "CRHR1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "284058",
+        "symbol": "KANSL1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      },
+      {
+        "gene_id": "162540",
+        "symbol": "SPPL2C",
+        "strand": "+"
+      },
+      {
+        "gene_id": "246744",
+        "symbol": "STH",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "copy number gain",
+    "molecular_consequences": []
+  },
+  {
+    "variant_id": "3380496",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/10/31 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1370G>A (p.Ser457Asn)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "3377718",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [
+      "Parkinson disease, late-onset"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1549G>A (p.Val517Ile)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3377695",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/06/22 00:00",
+    "phenotypes": [
+      "Parkinson disease, late-onset"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1120C>A (p.Leu374Met)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3371984",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/04/01 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2113G>T (p.Val705Phe)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "3371930",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/08/25 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.220+2524C>T",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3363784",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/11/09 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2186T>C (p.Val729Ala)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3360699",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/07/05 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1120del (p.Leu374fs)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Deletion",
+    "molecular_consequences": [
+      "frameshift variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3360110",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/06/23 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.901G>C (p.Glu301Gln)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3352898",
+    "clinical_significance": "Likely benign",
+    "review_status": "no assertion criteria provided",
+    "last_evaluated": "2024/03/26 00:00",
+    "phenotypes": [
+      "MAPT-related disorder"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1548C>T (p.Tyr516=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3348389",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "no assertion criteria provided",
+    "last_evaluated": "2024/03/19 00:00",
+    "phenotypes": [
+      "MAPT-related disorder"
+    ],
+    "title": "NM_001377265.1(MAPT):c.149C>T (p.Thr50Ile)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3242218",
+    "clinical_significance": "Pathogenic",
+    "review_status": "no assertion criteria provided",
+    "last_evaluated": "2021/05/24 00:00",
+    "phenotypes": [
+      "Breast-ovarian cancer, familial, susceptibility to, 1"
+    ],
+    "title": "Single allele",
+    "genes": [
+      {
+        "gene_id": "8714",
+        "symbol": "ABCC3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "51225",
+        "symbol": "ABI3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "79777",
+        "symbol": "ACBD4",
+        "strand": "+"
+      },
+      {
+        "gene_id": "80221",
+        "symbol": "ACSF2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "4185",
+        "symbol": "ADAM11",
+        "strand": "+"
+      },
+      {
+        "gene_id": "8165",
+        "symbol": "AKAP1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "162282",
+        "symbol": "ANKFN1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "91369",
+        "symbol": "ANKRD40",
+        "strand": "-"
+      },
+      {
+        "gene_id": "201176",
+        "symbol": "ARHGAP27",
+        "strand": "-"
+      },
+      {
+        "gene_id": "51326",
+        "symbol": "ARL17A",
+        "strand": "-"
+      },
+      {
+        "gene_id": "100506084",
+        "symbol": "ARL17B",
+        "strand": "-"
+      },
+      {
+        "gene_id": "379",
+        "symbol": "ARL4D",
+        "strand": "+"
+      },
+      {
+        "gene_id": "92591",
+        "symbol": "ASB16",
+        "strand": "+"
+      },
+      {
+        "gene_id": "516",
+        "symbol": "ATP5MC1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "56970",
+        "symbol": "ATXN7L3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "124872",
+        "symbol": "B4GALNT2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "672",
+        "symbol": "BRCA1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "284083",
+        "symbol": "C17orf47",
+        "strand": "-"
+      },
+      {
+        "gene_id": "339210",
+        "symbol": "C17orf67",
+        "strand": "-"
+      },
+      {
+        "gene_id": "10882",
+        "symbol": "C1QL1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "56934",
+        "symbol": "CA10",
+        "strand": "-"
+      },
+      {
+        "gene_id": "8913",
+        "symbol": "CACNA1G",
+        "strand": "+"
+      },
+      {
+        "gene_id": "10241",
+        "symbol": "CALCOCO2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "10951",
+        "symbol": "CBX1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "124808",
+        "symbol": "CCDC43",
+        "strand": "-"
+      },
+      {
+        "gene_id": "146894",
+        "symbol": "CD300LG",
+        "strand": "+"
+      },
+      {
+        "gene_id": "996",
+        "symbol": "CDC27",
+        "strand": "-"
+      },
+      {
+        "gene_id": "80279",
+        "symbol": "CDK5RAP3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "284067",
+        "symbol": "CFAP97D1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "1101",
+        "symbol": "CHAD",
+        "strand": "-"
+      },
+      {
+        "gene_id": "8161",
+        "symbol": "COIL",
+        "strand": "-"
+      },
+      {
+        "gene_id": "1277",
+        "symbol": "COL1A1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "51226",
+        "symbol": "COPZ2",
+        "strand": "-"
+      },
+      {
+        "gene_id": "1353",
+        "symbol": "COX11",
+        "strand": "-"
+      },
+      {
+        "gene_id": "1394",
+        "symbol": "CRHR1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "404093",
+        "symbol": "CUEDC1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "80174",
+        "symbol": "DBF4B",
+        "strand": "+"
+      },
+      {
+        "gene_id": "79877",
+        "symbol": "DCAKD",
+        "strand": "-"
+      },
+      {
+        "gene_id": "8526",
+        "symbol": "DGKE",
+        "strand": "+"
+      },
+      {
+        "gene_id": "1659",
+        "symbol": "DHX8",
+        "strand": "+"
+      },
+      {
+        "gene_id": "1747",
+        "symbol": "DLX3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "1748",
+        "symbol": "DLX4",
+        "strand": "+"
+      },
+      {
+        "gene_id": "388389",
+        "symbol": "DNAAF19",
+        "strand": "+"
+      },
+      {
+        "gene_id": "1845",
+        "symbol": "DUSP3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "140735",
+        "symbol": "DYNLL2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "101927666",
+        "symbol": "DYNLL2-DT",
+        "strand": "-"
+      },
+      {
+        "gene_id": "124989",
+        "symbol": "EFCAB13",
+        "strand": "+"
+      },
+      {
+        "gene_id": "9343",
+        "symbol": "EFTUD2",
+        "strand": "-"
+      },
+      {
+        "gene_id": "146956",
+        "symbol": "EME1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "55040",
+        "symbol": "EPN3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "8288",
+        "symbol": "EPX",
+        "strand": "+"
+      },
+      {
+        "gene_id": "2118",
+        "symbol": "ETV4",
+        "strand": "-"
+      },
+      {
+        "gene_id": "81558",
+        "symbol": "FAM117A",
+        "strand": "-"
+      },
+      {
+        "gene_id": "284069",
+        "symbol": "FAM171A2",
+        "strand": "-"
+      },
+      {
+        "gene_id": "752",
+        "symbol": "FMNL1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "2535",
+        "symbol": "FZD2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "92579",
+        "symbol": "G6PC3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "2670",
+        "symbol": "GFAP",
+        "strand": "-"
+      },
+      {
+        "gene_id": "2695",
+        "symbol": "GIP",
+        "strand": "-"
+      },
+      {
+        "gene_id": "10052",
+        "symbol": "GJC1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "2793",
+        "symbol": "GNGT2",
+        "strand": "-"
+      },
+      {
+        "gene_id": "9570",
+        "symbol": "GOSR2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "23131",
+        "symbol": "GPATCH8",
+        "strand": "-"
+      },
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      },
+      {
+        "gene_id": "10014",
+        "symbol": "HDAC5",
+        "strand": "-"
+      },
+      {
+        "gene_id": "10614",
+        "symbol": "HEXIM1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "124790",
+        "symbol": "HEXIM2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "51751",
+        "symbol": "HIGD1B",
+        "strand": "+"
+      },
+      {
+        "gene_id": "3131",
+        "symbol": "HLF",
+        "strand": "+"
+      },
+      {
+        "gene_id": "3211",
+        "symbol": "HOXB1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "10481",
+        "symbol": "HOXB13",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3212",
+        "symbol": "HOXB2",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3213",
+        "symbol": "HOXB3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3214",
+        "symbol": "HOXB4",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3215",
+        "symbol": "HOXB5",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3216",
+        "symbol": "HOXB6",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3217",
+        "symbol": "HOXB7",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3218",
+        "symbol": "HOXB8",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3219",
+        "symbol": "HOXB9",
+        "strand": "-"
+      },
+      {
+        "gene_id": "78995",
+        "symbol": "HROB",
+        "strand": "+"
+      },
+      {
+        "gene_id": "124535",
+        "symbol": "HSF5",
+        "strand": "-"
+      },
+      {
+        "gene_id": "10642",
+        "symbol": "IGF2BP1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "3674",
+        "symbol": "ITGA2B",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3675",
+        "symbol": "ITGA3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "3690",
+        "symbol": "ITGB3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "284058",
+        "symbol": "KANSL1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "11143",
+        "symbol": "KAT7",
+        "strand": "+"
+      },
+      {
+        "gene_id": "146909",
+        "symbol": "KIF18B",
+        "strand": "-"
+      },
+      {
+        "gene_id": "84643",
+        "symbol": "KIF2B",
+        "strand": "+"
+      },
+      {
+        "gene_id": "3837",
+        "symbol": "KPNB1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "100506650",
+        "symbol": "LINC02876",
+        "strand": "+"
+      },
+      {
+        "gene_id": "4025",
+        "symbol": "LPO",
+        "strand": "+"
+      },
+      {
+        "gene_id": "9884",
+        "symbol": "LRRC37A",
+        "strand": "+"
+      },
+      {
+        "gene_id": "474170",
+        "symbol": "LRRC37A2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "90506",
+        "symbol": "LRRC46",
+        "strand": "+"
+      },
+      {
+        "gene_id": "55379",
+        "symbol": "LRRC59",
+        "strand": "-"
+      },
+      {
+        "gene_id": "124801",
+        "symbol": "LSM12",
+        "strand": "-"
+      },
+      {
+        "gene_id": "51747",
+        "symbol": "LUC7L3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "9020",
+        "symbol": "MAP3K14",
+        "strand": "-"
+      },
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      },
+      {
+        "gene_id": "54799",
+        "symbol": "MBTD1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "284071",
+        "symbol": "MEIOC",
+        "strand": "+"
+      },
+      {
+        "gene_id": "4222",
+        "symbol": "MEOX1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "406902",
+        "symbol": "MIR10A",
+        "strand": "-"
+      },
+      {
+        "gene_id": "406943",
+        "symbol": "MIR152",
+        "strand": "-"
+      },
+      {
+        "gene_id": "406972",
+        "symbol": "MIR196A1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "54903",
+        "symbol": "MKS1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "23531",
+        "symbol": "MMD",
+        "strand": "-"
+      },
+      {
+        "gene_id": "4353",
+        "symbol": "MPO",
+        "strand": "-"
+      },
+      {
+        "gene_id": "4355",
+        "symbol": "MPP2",
+        "strand": "-"
+      },
+      {
+        "gene_id": "4356",
+        "symbol": "MPP3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "124995",
+        "symbol": "MRPL10",
+        "strand": "-"
+      },
+      {
+        "gene_id": "51264",
+        "symbol": "MRPL27",
+        "strand": "-"
+      },
+      {
+        "gene_id": "51649",
+        "symbol": "MRPS23",
+        "strand": "-"
+      },
+      {
+        "gene_id": "124540",
+        "symbol": "MSI2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "9110",
+        "symbol": "MTMR4",
+        "strand": "-"
+      },
+      {
+        "gene_id": "84073",
+        "symbol": "MYCBPAP",
+        "strand": "+"
+      },
+      {
+        "gene_id": "4635",
+        "symbol": "MYL4",
+        "strand": "+"
+      },
+      {
+        "gene_id": "162417",
+        "symbol": "NAGS",
+        "strand": "+"
+      },
+      {
+        "gene_id": "4077",
+        "symbol": "NBR1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "10230",
+        "symbol": "NBR2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "4779",
+        "symbol": "NFE2L1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "4804",
+        "symbol": "NGFR",
+        "strand": "+"
+      },
+      {
+        "gene_id": "4830",
+        "symbol": "NME1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "654364",
+        "symbol": "NME1-NME2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "4831",
+        "symbol": "NME2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "4836",
+        "symbol": "NMT1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "9241",
+        "symbol": "NOG",
+        "strand": "+"
+      },
+      {
+        "gene_id": "9520",
+        "symbol": "NPEPPS",
+        "strand": "+"
+      },
+      {
+        "gene_id": "4905",
+        "symbol": "NSF",
+        "strand": "+"
+      },
+      {
+        "gene_id": "11248",
+        "symbol": "NXPH3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "26689",
+        "symbol": "OR4D1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "124538",
+        "symbol": "OR4D2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "114881",
+        "symbol": "OSBPL7",
+        "strand": "-"
+      },
+      {
+        "gene_id": "58488",
+        "symbol": "PCTP",
+        "strand": "+"
+      },
+      {
+        "gene_id": "5164",
+        "symbol": "PDK2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "5245",
+        "symbol": "PHB1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "162466",
+        "symbol": "PHOSPHO1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "113026",
+        "symbol": "PLCD3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "9842",
+        "symbol": "PLEKHM1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "55163",
+        "symbol": "PNPO",
+        "strand": "+"
+      },
+      {
+        "gene_id": "84687",
+        "symbol": "PPP1R9B",
+        "strand": "-"
+      },
+      {
+        "gene_id": "5539",
+        "symbol": "PPY",
+        "strand": "-"
+      },
+      {
+        "gene_id": "84366",
+        "symbol": "PRAC1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "360205",
+        "symbol": "PRAC2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "79170",
+        "symbol": "PRR15L",
+        "strand": "-"
+      },
+      {
+        "gene_id": "5697",
+        "symbol": "PYY",
+        "strand": "-"
+      },
+      {
+        "gene_id": "54894",
+        "symbol": "RNF43",
+        "strand": "-"
+      },
+      {
+        "gene_id": "388394",
+        "symbol": "RPRML",
+        "strand": "-"
+      },
+      {
+        "gene_id": "55316",
+        "symbol": "RSAD1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "10900",
+        "symbol": "RUNDC3A",
+        "strand": "+"
+      },
+      {
+        "gene_id": "201191",
+        "symbol": "SAMD14",
+        "strand": "-"
+      },
+      {
+        "gene_id": "59342",
+        "symbol": "SCPEP1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "90507",
+        "symbol": "SCRN2",
+        "strand": "-"
+      },
+      {
+        "gene_id": "5414",
+        "symbol": "SEPTIN4",
+        "strand": "-"
+      },
+      {
+        "gene_id": "6442",
+        "symbol": "SGCA",
+        "strand": "+"
+      },
+      {
+        "gene_id": "8631",
+        "symbol": "SKAP1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "51629",
+        "symbol": "SLC25A39",
+        "strand": "-"
+      },
+      {
+        "gene_id": "10237",
+        "symbol": "SLC35B1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "6521",
+        "symbol": "SLC4A1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "11267",
+        "symbol": "SNF8",
+        "strand": "-"
+      },
+      {
+        "gene_id": "29916",
+        "symbol": "SNX11",
+        "strand": "+"
+      },
+      {
+        "gene_id": "50964",
+        "symbol": "SOST",
+        "strand": "-"
+      },
+      {
+        "gene_id": "6668",
+        "symbol": "SP2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "80320",
+        "symbol": "SP6",
+        "strand": "-"
+      },
+      {
+        "gene_id": "9043",
+        "symbol": "SPAG9",
+        "strand": "-"
+      },
+      {
+        "gene_id": "64847",
+        "symbol": "SPATA20",
+        "strand": "+"
+      },
+      {
+        "gene_id": "124783",
+        "symbol": "SPATA32",
+        "strand": "-"
+      },
+      {
+        "gene_id": "8405",
+        "symbol": "SPOP",
+        "strand": "-"
+      },
+      {
+        "gene_id": "162540",
+        "symbol": "SPPL2C",
+        "strand": "+"
+      },
+      {
+        "gene_id": "6426",
+        "symbol": "SRSF1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "246744",
+        "symbol": "STH",
+        "strand": "+"
+      },
+      {
+        "gene_id": "252983",
+        "symbol": "STXBP4",
+        "strand": "+"
+      },
+      {
+        "gene_id": "6827",
+        "symbol": "SUPT4H1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "255061",
+        "symbol": "TAC4",
+        "strand": "-"
+      },
+      {
+        "gene_id": "9755",
+        "symbol": "TBKBP1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "30009",
+        "symbol": "TBX21",
+        "strand": "+"
+      },
+      {
+        "gene_id": "56155",
+        "symbol": "TEX14",
+        "strand": "-"
+      },
+      {
+        "gene_id": "55273",
+        "symbol": "TMEM100",
+        "strand": "-"
+      },
+      {
+        "gene_id": "84336",
+        "symbol": "TMEM101",
+        "strand": "-"
+      },
+      {
+        "gene_id": "113277",
+        "symbol": "TMEM106A",
+        "strand": "+"
+      },
+      {
+        "gene_id": "162461",
+        "symbol": "TMEM92",
+        "strand": "+"
+      },
+      {
+        "gene_id": "79089",
+        "symbol": "TMUB2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "10140",
+        "symbol": "TOB1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "10040",
+        "symbol": "TOM1L1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "7706",
+        "symbol": "TRIM25",
+        "strand": "-"
+      },
+      {
+        "gene_id": "7229",
+        "symbol": "TRQ-TTG1-1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "9256",
+        "symbol": "TSPOAP1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "284076",
+        "symbol": "TTLL6",
+        "strand": "-"
+      },
+      {
+        "gene_id": "65264",
+        "symbol": "UBE2Z",
+        "strand": "+"
+      },
+      {
+        "gene_id": "7343",
+        "symbol": "UBTF",
+        "strand": "-"
+      },
+      {
+        "gene_id": "51096",
+        "symbol": "UTP18",
+        "strand": "+"
+      },
+      {
+        "gene_id": "7716",
+        "symbol": "VEZF1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "124857",
+        "symbol": "WFIKKN2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "7473",
+        "symbol": "WNT3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "7484",
+        "symbol": "WNT9B",
+        "strand": "+"
+      },
+      {
+        "gene_id": "64132",
+        "symbol": "XYLT2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "22834",
+        "symbol": "ZNF652",
+        "strand": "-"
+      }
+    ],
+    "variation_type": "Deletion",
+    "molecular_consequences": []
+  },
+  {
+    "variant_id": "3242217",
+    "clinical_significance": "Pathogenic",
+    "review_status": "no assertion criteria provided",
+    "last_evaluated": "2021/05/24 00:00",
+    "phenotypes": [
+      "Breast-ovarian cancer, familial, susceptibility to, 1"
+    ],
+    "title": "GRCh37/hg19 17q12-22(chr17:41196270-41277589)",
+    "genes": [
+      {
+        "gene_id": "256957",
+        "symbol": "HEATR9",
+        "strand": "-"
+      },
+      {
+        "gene_id": "10614",
+        "symbol": "HEXIM1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "124790",
+        "symbol": "HEXIM2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "51751",
+        "symbol": "HIGD1B",
+        "strand": "+"
+      },
+      {
+        "gene_id": "3131",
+        "symbol": "HLF",
+        "strand": "+"
+      },
+      {
+        "gene_id": "6928",
+        "symbol": "HNF1B",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3211",
+        "symbol": "HOXB1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "10481",
+        "symbol": "HOXB13",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3212",
+        "symbol": "HOXB2",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3213",
+        "symbol": "HOXB3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3214",
+        "symbol": "HOXB4",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3215",
+        "symbol": "HOXB5",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3216",
+        "symbol": "HOXB6",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3217",
+        "symbol": "HOXB7",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3218",
+        "symbol": "HOXB8",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3219",
+        "symbol": "HOXB9",
+        "strand": "-"
+      },
+      {
+        "gene_id": "78995",
+        "symbol": "HROB",
+        "strand": "+"
+      },
+      {
+        "gene_id": "3292",
+        "symbol": "HSD17B1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "124535",
+        "symbol": "HSF5",
+        "strand": "-"
+      },
+      {
+        "gene_id": "94086",
+        "symbol": "HSPB9",
+        "strand": "+"
+      },
+      {
+        "gene_id": "3430",
+        "symbol": "IFI35",
+        "strand": "+"
+      },
+      {
+        "gene_id": "10642",
+        "symbol": "IGF2BP1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "3487",
+        "symbol": "IGFBP4",
+        "strand": "+"
+      },
+      {
+        "gene_id": "22806",
+        "symbol": "IKZF3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3674",
+        "symbol": "ITGA2B",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3675",
+        "symbol": "ITGA3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "3690",
+        "symbol": "ITGB3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "3728",
+        "symbol": "JUP",
+        "strand": "-"
+      },
+      {
+        "gene_id": "284058",
+        "symbol": "KANSL1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "2648",
+        "symbol": "KAT2A",
+        "strand": "-"
+      },
+      {
+        "gene_id": "11143",
+        "symbol": "KAT7",
+        "strand": "+"
+      },
+      {
+        "gene_id": "23415",
+        "symbol": "KCNH4",
+        "strand": "-"
+      },
+      {
+        "gene_id": "146909",
+        "symbol": "KIF18B",
+        "strand": "-"
+      },
+      {
+        "gene_id": "84643",
+        "symbol": "KIF2B",
+        "strand": "+"
+      },
+      {
+        "gene_id": "317719",
+        "symbol": "KLHL10",
+        "strand": "+"
+      },
+      {
+        "gene_id": "55175",
+        "symbol": "KLHL11",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3837",
+        "symbol": "KPNB1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "3858",
+        "symbol": "KRT10",
+        "strand": "-"
+      },
+      {
+        "gene_id": "147184",
+        "symbol": "KRT10-AS1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "3859",
+        "symbol": "KRT12",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3860",
+        "symbol": "KRT13",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3861",
+        "symbol": "KRT14",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3866",
+        "symbol": "KRT15",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3868",
+        "symbol": "KRT16",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3872",
+        "symbol": "KRT17",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3880",
+        "symbol": "KRT19",
+        "strand": "-"
+      },
+      {
+        "gene_id": "54474",
+        "symbol": "KRT20",
+        "strand": "-"
+      },
+      {
+        "gene_id": "125113",
+        "symbol": "KRT222",
+        "strand": "-"
+      },
+      {
+        "gene_id": "25984",
+        "symbol": "KRT23",
+        "strand": "-"
+      },
+      {
+        "gene_id": "192666",
+        "symbol": "KRT24",
+        "strand": "-"
+      },
+      {
+        "gene_id": "147183",
+        "symbol": "KRT25",
+        "strand": "-"
+      },
+      {
+        "gene_id": "353288",
+        "symbol": "KRT26",
+        "strand": "-"
+      },
+      {
+        "gene_id": "342574",
+        "symbol": "KRT27",
+        "strand": "-"
+      },
+      {
+        "gene_id": "162605",
+        "symbol": "KRT28",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3881",
+        "symbol": "KRT31",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3882",
+        "symbol": "KRT32",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3883",
+        "symbol": "KRT33A",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3884",
+        "symbol": "KRT33B",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3885",
+        "symbol": "KRT34",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3886",
+        "symbol": "KRT35",
+        "strand": "-"
+      },
+      {
+        "gene_id": "8689",
+        "symbol": "KRT36",
+        "strand": "-"
+      },
+      {
+        "gene_id": "8688",
+        "symbol": "KRT37",
+        "strand": "-"
+      },
+      {
+        "gene_id": "8687",
+        "symbol": "KRT38",
+        "strand": "-"
+      },
+      {
+        "gene_id": "390792",
+        "symbol": "KRT39",
+        "strand": "-"
+      },
+      {
+        "gene_id": "125115",
+        "symbol": "KRT40",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3857",
+        "symbol": "KRT9",
+        "strand": "-"
+      },
+      {
+        "gene_id": "81851",
+        "symbol": "KRTAP1-1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "81850",
+        "symbol": "KRTAP1-3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "728255",
+        "symbol": "KRTAP1-4",
+        "strand": "-"
+      },
+      {
+        "gene_id": "83895",
+        "symbol": "KRTAP1-5",
+        "strand": "-"
+      },
+      {
+        "gene_id": "100505753",
+        "symbol": "KRTAP16-1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "83902",
+        "symbol": "KRTAP17-1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "81872",
+        "symbol": "KRTAP2-1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "728279",
+        "symbol": "KRTAP2-2",
+        "strand": "-"
+      },
+      {
+        "gene_id": "730755",
+        "symbol": "KRTAP2-3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "85294",
+        "symbol": "KRTAP2-4",
+        "strand": "-"
+      },
+      {
+        "gene_id": "83896",
+        "symbol": "KRTAP3-1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "83897",
+        "symbol": "KRTAP3-2",
+        "strand": "-"
+      },
+      {
+        "gene_id": "85293",
+        "symbol": "KRTAP3-3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "85285",
+        "symbol": "KRTAP4-1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "653240",
+        "symbol": "KRTAP4-11",
+        "strand": "-"
+      },
+      {
+        "gene_id": "83755",
+        "symbol": "KRTAP4-12",
+        "strand": "-"
+      },
+      {
+        "gene_id": "85291",
+        "symbol": "KRTAP4-2",
+        "strand": "-"
+      },
+      {
+        "gene_id": "85290",
+        "symbol": "KRTAP4-3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "84616",
+        "symbol": "KRTAP4-4",
+        "strand": "-"
+      },
+      {
+        "gene_id": "85289",
+        "symbol": "KRTAP4-5",
+        "strand": "-"
+      },
+      {
+        "gene_id": "81871",
+        "symbol": "KRTAP4-6",
+        "strand": "-"
+      },
+      {
+        "gene_id": "100132476",
+        "symbol": "KRTAP4-7",
+        "strand": "+"
+      },
+      {
+        "gene_id": "728224",
+        "symbol": "KRTAP4-8",
+        "strand": "-"
+      },
+      {
+        "gene_id": "100132386",
+        "symbol": "KRTAP4-9",
+        "strand": "+"
+      },
+      {
+        "gene_id": "728318",
+        "symbol": "KRTAP9-1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "83899",
+        "symbol": "KRTAP9-2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "83900",
+        "symbol": "KRTAP9-3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "85280",
+        "symbol": "KRTAP9-4",
+        "strand": "+"
+      },
+      {
+        "gene_id": "100507608",
+        "symbol": "KRTAP9-6",
+        "strand": "+"
+      },
+      {
+        "gene_id": "100505724",
+        "symbol": "KRTAP9-7",
+        "strand": "+"
+      },
+      {
+        "gene_id": "83901",
+        "symbol": "KRTAP9-8",
+        "strand": "+"
+      },
+      {
+        "gene_id": "81870",
+        "symbol": "KRTAP9-9",
+        "strand": "+"
+      },
+      {
+        "gene_id": "3927",
+        "symbol": "LASP1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "3975",
+        "symbol": "LHX1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "100506650",
+        "symbol": "LINC02876",
+        "strand": "+"
+      },
+      {
+        "gene_id": "4025",
+        "symbol": "LPO",
+        "strand": "+"
+      },
+      {
+        "gene_id": "9884",
+        "symbol": "LRRC37A",
+        "strand": "+"
+      },
+      {
+        "gene_id": "474170",
+        "symbol": "LRRC37A2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "100505591",
+        "symbol": "LRRC3C",
+        "strand": "+"
+      },
+      {
+        "gene_id": "90506",
+        "symbol": "LRRC46",
+        "strand": "+"
+      },
+      {
+        "gene_id": "55379",
+        "symbol": "LRRC59",
+        "strand": "-"
+      },
+      {
+        "gene_id": "124801",
+        "symbol": "LSM12",
+        "strand": "-"
+      },
+      {
+        "gene_id": "51747",
+        "symbol": "LUC7L3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "57151",
+        "symbol": "LYZL6",
+        "strand": "-"
+      },
+      {
+        "gene_id": "9020",
+        "symbol": "MAP3K14",
+        "strand": "-"
+      },
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      },
+      {
+        "gene_id": "54799",
+        "symbol": "MBTD1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "5469",
+        "symbol": "MED1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "9862",
+        "symbol": "MED24",
+        "strand": "-"
+      },
+      {
+        "gene_id": "284071",
+        "symbol": "MEIOC",
+        "strand": "+"
+      },
+      {
+        "gene_id": "4222",
+        "symbol": "MEOX1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "84299",
+        "symbol": "MIEN1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "406902",
+        "symbol": "MIR10A",
+        "strand": "-"
+      },
+      {
+        "gene_id": "406943",
+        "symbol": "MIR152",
+        "strand": "-"
+      },
+      {
+        "gene_id": "406972",
+        "symbol": "MIR196A1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "54903",
+        "symbol": "MKS1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "4302",
+        "symbol": "MLLT6",
+        "strand": "+"
+      },
+      {
+        "gene_id": "6945",
+        "symbol": "MLX",
+        "strand": "+"
+      },
+      {
+        "gene_id": "23531",
+        "symbol": "MMD",
+        "strand": "-"
+      },
+      {
+        "gene_id": "79148",
+        "symbol": "MMP28",
+        "strand": "-"
+      },
+      {
+        "gene_id": "4353",
+        "symbol": "MPO",
+        "strand": "-"
+      },
+      {
+        "gene_id": "4355",
+        "symbol": "MPP2",
+        "strand": "-"
+      },
+      {
+        "gene_id": "4356",
+        "symbol": "MPP3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "79922",
+        "symbol": "MRM1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "124995",
+        "symbol": "MRPL10",
+        "strand": "-"
+      },
+      {
+        "gene_id": "51264",
+        "symbol": "MRPL27",
+        "strand": "-"
+      },
+      {
+        "gene_id": "84311",
+        "symbol": "MRPL45",
+        "strand": "+"
+      },
+      {
+        "gene_id": "51649",
+        "symbol": "MRPS23",
+        "strand": "-"
+      },
+      {
+        "gene_id": "124540",
+        "symbol": "MSI2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "339287",
+        "symbol": "MSL1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "9110",
+        "symbol": "MTMR4",
+        "strand": "-"
+      },
+      {
+        "gene_id": "84073",
+        "symbol": "MYCBPAP",
+        "strand": "+"
+      },
+      {
+        "gene_id": "4635",
+        "symbol": "MYL4",
+        "strand": "+"
+      },
+      {
+        "gene_id": "80179",
+        "symbol": "MYO19",
+        "strand": "-"
+      },
+      {
+        "gene_id": "4669",
+        "symbol": "NAGLU",
+        "strand": "+"
+      },
+      {
+        "gene_id": "162417",
+        "symbol": "NAGS",
+        "strand": "+"
+      },
+      {
+        "gene_id": "4077",
+        "symbol": "NBR1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "10230",
+        "symbol": "NBR2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "4761",
+        "symbol": "NEUROD2",
+        "strand": "-"
+      },
+      {
+        "gene_id": "4779",
+        "symbol": "NFE2L1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "4804",
+        "symbol": "NGFR",
+        "strand": "+"
+      },
+      {
+        "gene_id": "28511",
+        "symbol": "NKIRAS2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "54475",
+        "symbol": "NLE1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "4830",
+        "symbol": "NME1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "654364",
+        "symbol": "NME1-NME2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "4831",
+        "symbol": "NME2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "4836",
+        "symbol": "NMT1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "9241",
+        "symbol": "NOG",
+        "strand": "+"
+      },
+      {
+        "gene_id": "9520",
+        "symbol": "NPEPPS",
+        "strand": "+"
+      },
+      {
+        "gene_id": "9572",
+        "symbol": "NR1D1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "4905",
+        "symbol": "NSF",
+        "strand": "+"
+      },
+      {
+        "gene_id": "115024",
+        "symbol": "NT5C3B",
+        "strand": "-"
+      },
+      {
+        "gene_id": "11248",
+        "symbol": "NXPH3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "83538",
+        "symbol": "ODAD4",
+        "strand": "+"
+      },
+      {
+        "gene_id": "26689",
+        "symbol": "OR4D1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "124538",
+        "symbol": "OR4D2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "94103",
+        "symbol": "ORMDL3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "114881",
+        "symbol": "OSBPL7",
+        "strand": "-"
+      },
+      {
+        "gene_id": "10609",
+        "symbol": "P3H4",
+        "strand": "-"
+      },
+      {
+        "gene_id": "7703",
+        "symbol": "PCGF2",
+        "strand": "-"
+      },
+      {
+        "gene_id": "58488",
+        "symbol": "PCTP",
+        "strand": "+"
+      },
+      {
+        "gene_id": "5164",
+        "symbol": "PDK2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "5193",
+        "symbol": "PEX12",
+        "strand": "-"
+      },
+      {
+        "gene_id": "93210",
+        "symbol": "PGAP3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "146853",
+        "symbol": "PGBDF",
+        "strand": "+"
+      },
+      {
+        "gene_id": "5245",
+        "symbol": "PHB1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "162466",
+        "symbol": "PHOSPHO1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "284098",
+        "symbol": "PIGW",
+        "strand": "+"
+      },
+      {
+        "gene_id": "8396",
+        "symbol": "PIP4K2B",
+        "strand": "-"
+      },
+      {
+        "gene_id": "113026",
+        "symbol": "PLCD3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "79990",
+        "symbol": "PLEKHH3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "9842",
+        "symbol": "PLEKHM1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "57125",
+        "symbol": "PLXDC1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "5409",
+        "symbol": "PNMT",
+        "strand": "+"
+      },
+      {
+        "gene_id": "55163",
+        "symbol": "PNPO",
+        "strand": "+"
+      },
+      {
+        "gene_id": "84152",
+        "symbol": "PPP1R1B",
+        "strand": "+"
+      },
+      {
+        "gene_id": "84687",
+        "symbol": "PPP1R9B",
+        "strand": "-"
+      },
+      {
+        "gene_id": "5539",
+        "symbol": "PPY",
+        "strand": "-"
+      },
+      {
+        "gene_id": "84366",
+        "symbol": "PRAC1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "360205",
+        "symbol": "PRAC2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "79170",
+        "symbol": "PRR15L",
+        "strand": "-"
+      },
+      {
+        "gene_id": "5691",
+        "symbol": "PSMB3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "29893",
+        "symbol": "PSMC3IP",
+        "strand": "-"
+      },
+      {
+        "gene_id": "5709",
+        "symbol": "PSMD3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "10197",
+        "symbol": "PSME3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "100885848",
+        "symbol": "PTGES3L",
+        "strand": "-"
+      },
+      {
+        "gene_id": "100885850",
+        "symbol": "PTGES3L-AARSD1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "5697",
+        "symbol": "PYY",
+        "strand": "-"
+      },
+      {
+        "gene_id": "5878",
+        "symbol": "RAB5C",
+        "strand": "-"
+      },
+      {
+        "gene_id": "10266",
+        "symbol": "RAMP2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "51195",
+        "symbol": "RAPGEFL1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "5914",
+        "symbol": "RARA",
+        "strand": "+"
+      },
+      {
+        "gene_id": "91608",
+        "symbol": "RASL10B",
+        "strand": "+"
+      },
+      {
+        "gene_id": "201299",
+        "symbol": "RDM1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "162427",
+        "symbol": "RETREG3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "8153",
+        "symbol": "RND2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "54894",
+        "symbol": "RNF43",
+        "strand": "-"
+      },
+      {
+        "gene_id": "6143",
+        "symbol": "RPL19",
+        "strand": "+"
+      },
+      {
+        "gene_id": "9349",
+        "symbol": "RPL23",
+        "strand": "-"
+      },
+      {
+        "gene_id": "6155",
+        "symbol": "RPL27",
+        "strand": "+"
+      },
+      {
+        "gene_id": "388394",
+        "symbol": "RPRML",
+        "strand": "-"
+      },
+      {
+        "gene_id": "55316",
+        "symbol": "RSAD1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "146923",
+        "symbol": "RUNDC1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "10900",
+        "symbol": "RUNDC3A",
+        "strand": "+"
+      },
+      {
+        "gene_id": "201191",
+        "symbol": "SAMD14",
+        "strand": "-"
+      },
+      {
+        "gene_id": "59342",
+        "symbol": "SCPEP1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "90507",
+        "symbol": "SCRN2",
+        "strand": "-"
+      },
+      {
+        "gene_id": "5414",
+        "symbol": "SEPTIN4",
+        "strand": "-"
+      },
+      {
+        "gene_id": "6442",
+        "symbol": "SGCA",
+        "strand": "+"
+      },
+      {
+        "gene_id": "8631",
+        "symbol": "SKAP1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "51629",
+        "symbol": "SLC25A39",
+        "strand": "-"
+      },
+      {
+        "gene_id": "10237",
+        "symbol": "SLC35B1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "146861",
+        "symbol": "SLC35G3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "6521",
+        "symbol": "SLC4A1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "91607",
+        "symbol": "SLFN11",
+        "strand": "-"
+      },
+      {
+        "gene_id": "55106",
+        "symbol": "SLFN12",
+        "strand": "-"
+      },
+      {
+        "gene_id": "100506736",
+        "symbol": "SLFN12L",
+        "strand": "-"
+      },
+      {
+        "gene_id": "146857",
+        "symbol": "SLFN13",
+        "strand": "-"
+      },
+      {
+        "gene_id": "342618",
+        "symbol": "SLFN14",
+        "strand": "-"
+      },
+      {
+        "gene_id": "162394",
+        "symbol": "SLFN5",
+        "strand": "+"
+      },
+      {
+        "gene_id": "6605",
+        "symbol": "SMARCE1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "11267",
+        "symbol": "SNF8",
+        "strand": "-"
+      },
+      {
+        "gene_id": "29916",
+        "symbol": "SNX11",
+        "strand": "+"
+      },
+      {
+        "gene_id": "30837",
+        "symbol": "SOCS7",
+        "strand": "+"
+      },
+      {
+        "gene_id": "50964",
+        "symbol": "SOST",
+        "strand": "-"
+      },
+      {
+        "gene_id": "6668",
+        "symbol": "SP2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "80320",
+        "symbol": "SP6",
+        "strand": "-"
+      },
+      {
+        "gene_id": "9043",
+        "symbol": "SPAG9",
+        "strand": "-"
+      },
+      {
+        "gene_id": "64847",
+        "symbol": "SPATA20",
+        "strand": "+"
+      },
+      {
+        "gene_id": "124783",
+        "symbol": "SPATA32",
+        "strand": "-"
+      },
+      {
+        "gene_id": "388381",
+        "symbol": "SPMAP1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "8405",
+        "symbol": "SPOP",
+        "strand": "-"
+      },
+      {
+        "gene_id": "162540",
+        "symbol": "SPPL2C",
+        "strand": "+"
+      },
+      {
+        "gene_id": "80725",
+        "symbol": "SRCIN1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "6426",
+        "symbol": "SRSF1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "342667",
+        "symbol": "STAC2",
+        "strand": "-"
+      },
+      {
+        "gene_id": "10948",
+        "symbol": "STARD3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "6774",
+        "symbol": "STAT3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "6776",
+        "symbol": "STAT5A",
+        "strand": "+"
+      },
+      {
+        "gene_id": "6777",
+        "symbol": "STAT5B",
+        "strand": "-"
+      },
+      {
+        "gene_id": "246744",
+        "symbol": "STH",
+        "strand": "+"
+      },
+      {
+        "gene_id": "252983",
+        "symbol": "STXBP4",
+        "strand": "+"
+      },
+      {
+        "gene_id": "6827",
+        "symbol": "SUPT4H1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "11276",
+        "symbol": "SYNRG",
+        "strand": "-"
+      },
+      {
+        "gene_id": "255061",
+        "symbol": "TAC4",
+        "strand": "-"
+      },
+      {
+        "gene_id": "6871",
+        "symbol": "TADA2A",
+        "strand": "+"
+      },
+      {
+        "gene_id": "8148",
+        "symbol": "TAF15",
+        "strand": "+"
+      },
+      {
+        "gene_id": "729873",
+        "symbol": "TBC1D3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "414059",
+        "symbol": "TBC1D3B",
+        "strand": "-"
+      },
+      {
+        "gene_id": "414060",
+        "symbol": "TBC1D3C",
+        "strand": "-"
+      },
+      {
+        "gene_id": "84218",
+        "symbol": "TBC1D3F",
+        "strand": "-"
+      },
+      {
+        "gene_id": "729877",
+        "symbol": "TBC1D3H",
+        "strand": "-"
+      },
+      {
+        "gene_id": "9755",
+        "symbol": "TBKBP1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "30009",
+        "symbol": "TBX21",
+        "strand": "+"
+      },
+      {
+        "gene_id": "8557",
+        "symbol": "TCAP",
+        "strand": "+"
+      },
+      {
+        "gene_id": "56155",
+        "symbol": "TEX14",
+        "strand": "-"
+      },
+      {
+        "gene_id": "7067",
+        "symbol": "THRA",
+        "strand": "+"
+      },
+      {
+        "gene_id": "55273",
+        "symbol": "TMEM100",
+        "strand": "-"
+      },
+      {
+        "gene_id": "84336",
+        "symbol": "TMEM101",
+        "strand": "-"
+      },
+      {
+        "gene_id": "113277",
+        "symbol": "TMEM106A",
+        "strand": "+"
+      },
+      {
+        "gene_id": "162461",
+        "symbol": "TMEM92",
+        "strand": "+"
+      },
+      {
+        "gene_id": "79089",
+        "symbol": "TMUB2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "84951",
+        "symbol": "TNS4",
+        "strand": "-"
+      },
+      {
+        "gene_id": "10140",
+        "symbol": "TOB1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "10040",
+        "symbol": "TOM1L1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "7153",
+        "symbol": "TOP2A",
+        "strand": "-"
+      },
+      {
+        "gene_id": "7706",
+        "symbol": "TRIM25",
+        "strand": "-"
+      },
+      {
+        "gene_id": "7229",
+        "symbol": "TRQ-TTG1-1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "9256",
+        "symbol": "TSPOAP1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "284076",
+        "symbol": "TTLL6",
+        "strand": "-"
+      },
+      {
+        "gene_id": "7283",
+        "symbol": "TUBG1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "27175",
+        "symbol": "TUBG2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "65264",
+        "symbol": "UBE2Z",
+        "strand": "+"
+      },
+      {
+        "gene_id": "7343",
+        "symbol": "UBTF",
+        "strand": "-"
+      },
+      {
+        "gene_id": "146862",
+        "symbol": "UNC45B",
+        "strand": "+"
+      },
+      {
+        "gene_id": "51096",
+        "symbol": "UTP18",
+        "strand": "+"
+      },
+      {
+        "gene_id": "10493",
+        "symbol": "VAT1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "7716",
+        "symbol": "VEZF1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "84313",
+        "symbol": "VPS25",
+        "strand": "+"
+      },
+      {
+        "gene_id": "124857",
+        "symbol": "WFIKKN2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "147179",
+        "symbol": "WIPF2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "65266",
+        "symbol": "WNK4",
+        "strand": "+"
+      },
+      {
+        "gene_id": "7473",
+        "symbol": "WNT3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "7484",
+        "symbol": "WNT9B",
+        "strand": "+"
+      },
+      {
+        "gene_id": "64132",
+        "symbol": "XYLT2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "201181",
+        "symbol": "ZNF385C",
+        "strand": "-"
+      },
+      {
+        "gene_id": "22834",
+        "symbol": "ZNF652",
+        "strand": "-"
+      },
+      {
+        "gene_id": "9326",
+        "symbol": "ZNHIT3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "124626",
+        "symbol": "ZPBP2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "80755",
+        "symbol": "AARSD1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "26574",
+        "symbol": "AATF",
+        "strand": "+"
+      },
+      {
+        "gene_id": "8714",
+        "symbol": "ABCC3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "51225",
+        "symbol": "ABI3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "31",
+        "symbol": "ACACA",
+        "strand": "-"
+      },
+      {
+        "gene_id": "79777",
+        "symbol": "ACBD4",
+        "strand": "+"
+      },
+      {
+        "gene_id": "47",
+        "symbol": "ACLY",
+        "strand": "-"
+      },
+      {
+        "gene_id": "80221",
+        "symbol": "ACSF2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "4185",
+        "symbol": "ADAM11",
+        "strand": "+"
+      },
+      {
+        "gene_id": "8165",
+        "symbol": "AKAP1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "162282",
+        "symbol": "ANKFN1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "91369",
+        "symbol": "ANKRD40",
+        "strand": "-"
+      },
+      {
+        "gene_id": "314",
+        "symbol": "AOC2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "8639",
+        "symbol": "AOC3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "163",
+        "symbol": "AP2B1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "57636",
+        "symbol": "ARHGAP23",
+        "strand": "+"
+      },
+      {
+        "gene_id": "201176",
+        "symbol": "ARHGAP27",
+        "strand": "-"
+      },
+      {
+        "gene_id": "51326",
+        "symbol": "ARL17A",
+        "strand": "-"
+      },
+      {
+        "gene_id": "100506084",
+        "symbol": "ARL17B",
+        "strand": "-"
+      },
+      {
+        "gene_id": "379",
+        "symbol": "ARL4D",
+        "strand": "+"
+      },
+      {
+        "gene_id": "390790",
+        "symbol": "ARL5C",
+        "strand": "-"
+      },
+      {
+        "gene_id": "92591",
+        "symbol": "ASB16",
+        "strand": "+"
+      },
+      {
+        "gene_id": "516",
+        "symbol": "ATP5MC1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "535",
+        "symbol": "ATP6V0A1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "56970",
+        "symbol": "ATXN7L3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "124872",
+        "symbol": "B4GALNT2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "8678",
+        "symbol": "BECN1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "672",
+        "symbol": "BRCA1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "284083",
+        "symbol": "C17orf47",
+        "strand": "-"
+      },
+      {
+        "gene_id": "339210",
+        "symbol": "C17orf67",
+        "strand": "-"
+      },
+      {
+        "gene_id": "284099",
+        "symbol": "C17orf78",
+        "strand": "+"
+      },
+      {
+        "gene_id": "10882",
+        "symbol": "C1QL1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "56934",
+        "symbol": "CA10",
+        "strand": "-"
+      },
+      {
+        "gene_id": "8913",
+        "symbol": "CACNA1G",
+        "strand": "+"
+      },
+      {
+        "gene_id": "782",
+        "symbol": "CACNB1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "10241",
+        "symbol": "CALCOCO2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "22794",
+        "symbol": "CASC3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "284119",
+        "symbol": "CAVIN1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "10951",
+        "symbol": "CBX1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "124808",
+        "symbol": "CCDC43",
+        "strand": "-"
+      },
+      {
+        "gene_id": "6358",
+        "symbol": "CCL14",
+        "strand": "-"
+      },
+      {
+        "gene_id": "6359",
+        "symbol": "CCL15",
+        "strand": "-"
+      },
+      {
+        "gene_id": "6360",
+        "symbol": "CCL16",
+        "strand": "-"
+      },
+      {
+        "gene_id": "6362",
+        "symbol": "CCL18",
+        "strand": "+"
+      },
+      {
+        "gene_id": "6368",
+        "symbol": "CCL23",
+        "strand": "-"
+      },
+      {
+        "gene_id": "6348",
+        "symbol": "CCL3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "6349",
+        "symbol": "CCL3L1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "414062",
+        "symbol": "CCL3L3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "6351",
+        "symbol": "CCL4",
+        "strand": "+"
+      },
+      {
+        "gene_id": "388372",
+        "symbol": "CCL4L1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "9560",
+        "symbol": "CCL4L2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "6352",
+        "symbol": "CCL5",
+        "strand": "-"
+      },
+      {
+        "gene_id": "2826",
+        "symbol": "CCR10",
+        "strand": "-"
+      },
+      {
+        "gene_id": "1236",
+        "symbol": "CCR7",
+        "strand": "-"
+      },
+      {
+        "gene_id": "146894",
+        "symbol": "CD300LG",
+        "strand": "+"
+      },
+      {
+        "gene_id": "996",
+        "symbol": "CDC27",
+        "strand": "-"
+      },
+      {
+        "gene_id": "990",
+        "symbol": "CDC6",
+        "strand": "+"
+      },
+      {
+        "gene_id": "51755",
+        "symbol": "CDK12",
+        "strand": "+"
+      },
+      {
+        "gene_id": "80279",
+        "symbol": "CDK5RAP3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "284067",
+        "symbol": "CFAP97D1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "1101",
+        "symbol": "CHAD",
+        "strand": "-"
+      },
+      {
+        "gene_id": "284106",
+        "symbol": "CISD3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "1267",
+        "symbol": "CNP",
+        "strand": "+"
+      },
+      {
+        "gene_id": "124817",
+        "symbol": "CNTD1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "8506",
+        "symbol": "CNTNAP1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "28958",
+        "symbol": "COA3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "80347",
+        "symbol": "COASY",
+        "strand": "+"
+      },
+      {
+        "gene_id": "8161",
+        "symbol": "COIL",
+        "strand": "-"
+      },
+      {
+        "gene_id": "1277",
+        "symbol": "COL1A1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "51226",
+        "symbol": "COPZ2",
+        "strand": "-"
+      },
+      {
+        "gene_id": "1353",
+        "symbol": "COX11",
+        "strand": "-"
+      },
+      {
+        "gene_id": "1394",
+        "symbol": "CRHR1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "1440",
+        "symbol": "CSF3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "404093",
+        "symbol": "CUEDC1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "54883",
+        "symbol": "CWC25",
+        "strand": "-"
+      },
+      {
+        "gene_id": "80174",
+        "symbol": "DBF4B",
+        "strand": "+"
+      },
+      {
+        "gene_id": "79877",
+        "symbol": "DCAKD",
+        "strand": "-"
+      },
+      {
+        "gene_id": "11056",
+        "symbol": "DDX52",
+        "strand": "-"
+      },
+      {
+        "gene_id": "8526",
+        "symbol": "DGKE",
+        "strand": "+"
+      },
+      {
+        "gene_id": "79154",
+        "symbol": "DHRS11",
+        "strand": "+"
+      },
+      {
+        "gene_id": "79132",
+        "symbol": "DHX58",
+        "strand": "-"
+      },
+      {
+        "gene_id": "1659",
+        "symbol": "DHX8",
+        "strand": "+"
+      },
+      {
+        "gene_id": "1747",
+        "symbol": "DLX3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "1748",
+        "symbol": "DLX4",
+        "strand": "+"
+      },
+      {
+        "gene_id": "388389",
+        "symbol": "DNAAF19",
+        "strand": "+"
+      },
+      {
+        "gene_id": "7266",
+        "symbol": "DNAJC7",
+        "strand": "-"
+      },
+      {
+        "gene_id": "11072",
+        "symbol": "DUSP14",
+        "strand": "+"
+      },
+      {
+        "gene_id": "1845",
+        "symbol": "DUSP3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "140735",
+        "symbol": "DYNLL2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "101927666",
+        "symbol": "DYNLL2-DT",
+        "strand": "-"
+      },
+      {
+        "gene_id": "124989",
+        "symbol": "EFCAB13",
+        "strand": "+"
+      },
+      {
+        "gene_id": "9343",
+        "symbol": "EFTUD2",
+        "strand": "-"
+      },
+      {
+        "gene_id": "10209",
+        "symbol": "EIF1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "146956",
+        "symbol": "EME1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "55040",
+        "symbol": "EPN3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "100170841",
+        "symbol": "EPOP",
+        "strand": "-"
+      },
+      {
+        "gene_id": "8288",
+        "symbol": "EPX",
+        "strand": "+"
+      },
+      {
+        "gene_id": "2064",
+        "symbol": "ERBB2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "2118",
+        "symbol": "ETV4",
+        "strand": "-"
+      },
+      {
+        "gene_id": "2145",
+        "symbol": "EZH1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "81558",
+        "symbol": "FAM117A",
+        "strand": "-"
+      },
+      {
+        "gene_id": "284069",
+        "symbol": "FAM171A2",
+        "strand": "-"
+      },
+      {
+        "gene_id": "84961",
+        "symbol": "FBXL20",
+        "strand": "-"
+      },
+      {
+        "gene_id": "494188",
+        "symbol": "FBXO47",
+        "strand": "-"
+      },
+      {
+        "gene_id": "60681",
+        "symbol": "FKBP10",
+        "strand": "+"
+      },
+      {
+        "gene_id": "752",
+        "symbol": "FMNL1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "54752",
+        "symbol": "FNDC8",
+        "strand": "+"
+      },
+      {
+        "gene_id": "2535",
+        "symbol": "FZD2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "2538",
+        "symbol": "G6PC1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "92579",
+        "symbol": "G6PC3",
+        "strand": "+"
+      },
+      {
+        "gene_id": "246176",
+        "symbol": "GAS2L2",
+        "strand": "-"
+      },
+      {
+        "gene_id": "2520",
+        "symbol": "GAST",
+        "strand": "+"
+      },
+      {
+        "gene_id": "2670",
+        "symbol": "GFAP",
+        "strand": "-"
+      },
+      {
+        "gene_id": "79893",
+        "symbol": "GGNBP2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "84514",
+        "symbol": "GHDC",
+        "strand": "-"
+      },
+      {
+        "gene_id": "2695",
+        "symbol": "GIP",
+        "strand": "-"
+      },
+      {
+        "gene_id": "10052",
+        "symbol": "GJC1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "125111",
+        "symbol": "GJD3",
+        "strand": "-"
+      },
+      {
+        "gene_id": "2793",
+        "symbol": "GNGT2",
+        "strand": "-"
+      },
+      {
+        "gene_id": "9570",
+        "symbol": "GOSR2",
+        "strand": "+"
+      },
+      {
+        "gene_id": "23131",
+        "symbol": "GPATCH8",
+        "strand": "-"
+      },
+      {
+        "gene_id": "440435",
+        "symbol": "GPR179",
+        "strand": "-"
+      },
+      {
+        "gene_id": "2886",
+        "symbol": "GRB7",
+        "strand": "+"
+      },
+      {
+        "gene_id": "2896",
+        "symbol": "GRN",
+        "strand": "+"
+      },
+      {
+        "gene_id": "284110",
+        "symbol": "GSDMA",
+        "strand": "+"
+      },
+      {
+        "gene_id": "55876",
+        "symbol": "GSDMB",
+        "strand": "-"
+      },
+      {
+        "gene_id": "9001",
+        "symbol": "HAP1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "3060",
+        "symbol": "HCRT",
+        "strand": "-"
+      },
+      {
+        "gene_id": "10014",
+        "symbol": "HDAC5",
+        "strand": "-"
+      }
+    ],
+    "variation_type": "copy number loss",
+    "molecular_consequences": []
+  },
+  {
+    "variant_id": "3171189",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/11/09 00:00",
+    "phenotypes": [
+      "not specified"
+    ],
+    "title": "NM_001007532.3(STH):c.63G>T (p.Trp21Cys)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      },
+      {
+        "gene_id": "246744",
+        "symbol": "STH",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3171188",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/10/06 00:00",
+    "phenotypes": [
+      "not specified"
+    ],
+    "title": "NM_001007532.3(STH):c.355G>C (p.Gly119Arg)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      },
+      {
+        "gene_id": "246744",
+        "symbol": "STH",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3123394",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/09/29 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1751G>T (p.Gly584Val)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant"
+    ]
+  },
+  {
+    "variant_id": "3123393",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/12/22 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_001377265.1(MAPT):c.55G>A (p.Gly19Arg)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "3123392",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/02/26 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2269G>A (p.Gly757Ser)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3075676",
+    "clinical_significance": "Likely pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/04/27 00:00",
+    "phenotypes": [
+      "Supranuclear palsy, progressive, 1"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2077C>G (p.Pro693Ala)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3067576",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/03/01 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.438G>A (p.Pro146=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant",
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "3063483",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [
+      "not specified"
+    ],
+    "title": "GRCh37/hg19 17q21.31(chr17:43459741-44292742)x1",
+    "genes": [
+      {
+        "gene_id": "201176",
+        "symbol": "ARHGAP27",
+        "strand": "-"
+      },
+      {
+        "gene_id": "1394",
+        "symbol": "CRHR1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "284058",
+        "symbol": "KANSL1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      },
+      {
+        "gene_id": "9842",
+        "symbol": "PLEKHM1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "162540",
+        "symbol": "SPPL2C",
+        "strand": "+"
+      },
+      {
+        "gene_id": "246744",
+        "symbol": "STH",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "copy number loss",
+    "molecular_consequences": []
+  },
+  {
+    "variant_id": "3050374",
+    "clinical_significance": "Likely benign",
+    "review_status": "no assertion criteria provided",
+    "last_evaluated": "2019/07/10 00:00",
+    "phenotypes": [
+      "MAPT-related disorder"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1998+41G>A",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3047169",
+    "clinical_significance": "Likely benign",
+    "review_status": "no assertion criteria provided",
+    "last_evaluated": "2023/07/16 00:00",
+    "phenotypes": [
+      "MAPT-related disorder"
+    ],
+    "title": "NM_001377265.1(MAPT):c.957G>A (p.Arg319=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3042522",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2026/02/01 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1179G>T (p.Ser393=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3040461",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "no assertion criteria provided",
+    "last_evaluated": "2024/02/22 00:00",
+    "phenotypes": [
+      "MAPT-related disorder"
+    ],
+    "title": "NM_001377265.1(MAPT):c.236T>A (p.Ile79Asn)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "3040091",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/02/19 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1971C>T (p.Asn657=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "3036594",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "no assertion criteria provided",
+    "last_evaluated": "2023/12/18 00:00",
+    "phenotypes": [
+      "MAPT-related disorder"
+    ],
+    "title": "NM_001377265.1(MAPT):c.770G>A (p.Arg257His)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3036349",
+    "clinical_significance": "Conflicting classifications of pathogenicity",
+    "review_status": "criteria provided, conflicting classifications",
+    "last_evaluated": "2025/09/01 00:00",
+    "phenotypes": [
+      "Semantic dementia",
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1568G>A (p.Arg523Gln)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3031304",
+    "clinical_significance": "Likely benign",
+    "review_status": "no assertion criteria provided",
+    "last_evaluated": "2021/03/23 00:00",
+    "phenotypes": [
+      "MAPT-related disorder"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1194A>G (p.Gly398=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3031249",
+    "clinical_significance": "Likely benign",
+    "review_status": "no assertion criteria provided",
+    "last_evaluated": "2023/02/01 00:00",
+    "phenotypes": [
+      "MAPT-related disorder"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1179G>A (p.Ser393=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3031050",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/10/28 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2091+11T>G",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3029792",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "no assertion criteria provided",
+    "last_evaluated": "2024/01/25 00:00",
+    "phenotypes": [
+      "MAPT-related disorder"
+    ],
+    "title": "NM_001377265.1(MAPT):c.220+2483G>T",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3026788",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/01/01 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1998+8T>A",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "3024608",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/02/01 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "GRCh37/hg19 17q21.31(chr17:43738327-44172067)x1",
+    "genes": [
+      {
+        "gene_id": "1394",
+        "symbol": "CRHR1",
+        "strand": "+"
+      },
+      {
+        "gene_id": "284058",
+        "symbol": "KANSL1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      },
+      {
+        "gene_id": "162540",
+        "symbol": "SPPL2C",
+        "strand": "+"
+      },
+      {
+        "gene_id": "246744",
+        "symbol": "STH",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "copy number loss",
+    "molecular_consequences": []
+  },
+  {
+    "variant_id": "3011213",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/11/16 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.134-20G>C",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2990993",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/12/24 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2173+4G>A",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2988430",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/04/21 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.159G>C (p.Glu53Asp)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2978943",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/01/13 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1873C>A (p.Pro625Thr)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "2963198",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/11/03 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1815G>A (p.Pro605=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2962680",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/06/30 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2312G>A (p.Arg771His)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2957636",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/05/06 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1733-5C>T",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2955778",
+    "clinical_significance": "Conflicting classifications of pathogenicity",
+    "review_status": "criteria provided, conflicting classifications",
+    "last_evaluated": "2023/08/31 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia",
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1993G>A (p.Gly665Arg)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "2908467",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/04/20 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2467G>A (p.Glu823Lys)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2896143",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/12/13 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1378G>A (p.Gly460Arg)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "2885144",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/12/28 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1673C>T (p.Ala558Val)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "2876169",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/10/16 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2092-18C>A",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2864635",
+    "clinical_significance": "Benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/11/10 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1761C>T (p.Ser587=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2856899",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/04/16 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2078C>G (p.Pro693Arg)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2852369",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/11/29 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1998+20C>T",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2842583",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/10/29 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.133+7G>A",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2837312",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/02/14 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1700C>T (p.Thr567Ile)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "2829189",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/01/16 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.220+5del",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "Deletion",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2808138",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/01/08 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1999-6C>A",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2798821",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/03/01 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2416A>G (p.Thr806Ala)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2780680",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/12/17 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.220+2477C>A",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2772507",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/10/28 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2097A>C (p.Gln699His)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "2769979",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/11/07 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.58T>C (p.Leu20=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "2760179",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/09/11 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2436A>C (p.Val812=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2734762",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/01/10 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1918G>C (p.Val640Leu)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "2730627",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2024/08/13 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia",
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2086G>A (p.Gly696Ser)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2728605",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/11/06 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.153C>A (p.Pro51=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2725687",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/03/10 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2445C>G (p.Pro815=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2719290",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/07/02 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1999-9C>G",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2713087",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/10/18 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1794C>T (p.Pro598=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2704658",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2025/06/16 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.134A>T (p.Glu45Val)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2691701",
+    "clinical_significance": "Conflicting classifications of pathogenicity",
+    "review_status": "criteria provided, conflicting classifications",
+    "last_evaluated": "2026/02/12 00:00",
+    "phenotypes": [
+      "not specified",
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1571C>G (p.Thr524Ser)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2684850",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/06/28 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "GRCh37/hg19 17q21.31(chr17:44079186-44228987)x3",
+    "genes": [
+      {
+        "gene_id": "284058",
+        "symbol": "KANSL1",
+        "strand": "-"
+      },
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "copy number gain",
+    "molecular_consequences": []
+  },
+  {
+    "variant_id": "2681568",
+    "clinical_significance": "Likely benign",
+    "review_status": "no assertion criteria provided",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [
+      "EBV-positive nodal T- and NK-cell lymphoma"
+    ],
+    "title": "NM_001007532.3(STH):c.81C>T (p.Cys27=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      },
+      {
+        "gene_id": "246744",
+        "symbol": "STH",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2672699",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2023/11/01 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia",
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2404A>C (p.Asn802His)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2647853",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2024/11/27 00:00",
+    "phenotypes": [
+      "not specified",
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1830A>C (p.Pro610=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant"
+    ]
+  },
+  {
+    "variant_id": "2647852",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2026/07/01 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.444C>T (p.Thr148=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2647851",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/01/01 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.150C>T (p.Thr50=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2636621",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2024/03/08 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1639C>T (p.Arg547Trp)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "2636069",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/07/21 00:00",
+    "phenotypes": [
+      "MAPT-related disorder"
+    ],
+    "title": "NM_001377265.1(MAPT):c.619G>A (p.Val207Ile)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2635948",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/05/18 00:00",
+    "phenotypes": [
+      "MAPT-related disorder"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1186C>T (p.His396Tyr)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2631949",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/02/07 00:00",
+    "phenotypes": [
+      "MAPT-related disorder"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1138G>A (p.Val380Met)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2628522",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/11/21 00:00",
+    "phenotypes": [
+      "MAPT-related disorder"
+    ],
+    "title": "NM_001377265.1(MAPT):c.205A>G (p.Thr69Ala)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2597510",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/07/25 00:00",
+    "phenotypes": [
+      "not specified"
+    ],
+    "title": "NM_001007532.3(STH):c.256A>G (p.Asn86Asp)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      },
+      {
+        "gene_id": "246744",
+        "symbol": "STH",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2585150",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1007C>T (p.Ala336Val)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2582957",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/10/01 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1218T>G (p.Pro406=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2580427",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/03/22 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1319G>A (p.Gly440Glu)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2578791",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/07/01 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1622C>T (p.Thr541Met)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "2578790",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/07/01 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.63G>A (p.Gly21=)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "synonymous variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "2573094",
+    "clinical_significance": "Pathogenic",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/06/27 00:00",
+    "phenotypes": [
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.2266C>T (p.Pro756Ser)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2572868",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/01/12 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1160A>C (p.Gln387Pro)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2570991",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/06/01 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.775G>A (p.Ala259Thr)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2533936",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/04/06 00:00",
+    "phenotypes": [
+      "Inborn genetic diseases"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1900C>A (p.Arg634Ser)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "non-coding transcript variant"
+    ]
+  },
+  {
+    "variant_id": "2502848",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "no assertion criteria provided",
+    "last_evaluated": "1/01/01 00:00",
+    "phenotypes": [
+      "Parkinsonian disorder"
+    ],
+    "title": "NM_001377265.1(MAPT):c.416A>G (p.Lys139Arg)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2501455",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/11/02 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.965A>G (p.Gln322Arg)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2500472",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2022/10/25 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.998G>C (p.Gly333Ala)",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2498710",
+    "clinical_significance": "Uncertain significance",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2023/03/01 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1732+2367C>A",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2498709",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, single submitter",
+    "last_evaluated": "2026/03/01 00:00",
+    "phenotypes": [
+      "not provided"
+    ],
+    "title": "NM_001377265.1(MAPT):c.1732+2365C>A",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "missense variant",
+      "intron variant"
+    ]
+  },
+  {
+    "variant_id": "2445689",
+    "clinical_significance": "Likely benign",
+    "review_status": "criteria provided, multiple submitters, no conflicts",
+    "last_evaluated": "2024/12/16 00:00",
+    "phenotypes": [
+      "not specified",
+      "Frontotemporal dementia"
+    ],
+    "title": "NM_001377265.1(MAPT):c.133+16T>C",
+    "genes": [
+      {
+        "gene_id": "4137",
+        "symbol": "MAPT",
+        "strand": "+"
+      }
+    ],
+    "variation_type": "single nucleotide variant",
+    "molecular_consequences": [
+      "intron variant"
+    ]
+  }
+]
