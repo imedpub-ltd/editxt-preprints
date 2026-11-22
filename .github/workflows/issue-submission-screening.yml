@@ -1,0 +1,84 @@
+name: "Issue Submission Screening Gate"
+
+on:
+  issues:
+    types: [opened, edited]
+
+permissions:
+  issues: write
+  contents: write
+
+jobs:
+  screen-issue:
+    name: Screen Issue Submission
+    if: contains(github.event.issue.labels.*.name, 'preprint') || startsWith(github.event.issue.title, '[PREPRINT]')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Process Issue Submission & Run Screening
+        id: process
+        continue-on-error: true
+        run: |
+          node bin/process-issue-submission.cjs
+
+      - name: Post Screening Report Comment to Issue
+        if: always()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            if (fs.existsSync('screening_comment.md')) {
+              const body = fs.readFileSync('screening_comment.md', 'utf8');
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body: body
+              });
+            }
+
+      - name: Handle Pass Actions (Commit, Label, Zenodo Deposit)
+        if: steps.process.outcome == 'success'
+        env:
+          ZENODO_TOKEN: ${{ secrets.ZENODO_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          SLUG=$(cat screening_slug.txt)
+          MANUSCRIPT_PATH=$(cat screening_path.txt)
+
+          # Update labels
+          gh issue edit ${{ github.event.issue.number }} --add-label "screening:passed" --remove-label "screening-pending" || true
+
+          # Configure Git and commit manuscript
+          git config user.name "EdiTxt Screening Bot"
+          git config user.email "bot@imedpub.org"
+          git add manuscripts/
+          git commit -m "feat(preprint): publish $SLUG via Issue #${{ github.event.issue.number }}" || echo "No changes to commit"
+          git push origin main
+
+          # Run Zenodo Deposition
+          node bin/zenodo-deposit.cjs "$MANUSCRIPT_PATH" --publish > zenodo_output.txt 2>&1 || true
+          cat zenodo_output.txt
+
+          # Comment Zenodo DOI if successfully minted
+          if grep -q "https://doi.org/" zenodo_output.txt; then
+            DOI_LINE=$(grep "https://doi.org/" zenodo_output.txt | head -n 1)
+            gh issue comment ${{ github.event.issue.number }} --body "### 🏛️ Official Zenodo DOI Minted!\n\n$DOI_LINE\n\nYour preprint is now registered and indexed with Diamond Open Access (CC BY 4.0)."
+            gh issue close ${{ github.event.issue.number }} --reason "completed"
+          fi
+
+      - name: Handle Fail Actions (Label changes-requested)
+        if: steps.process.outcome != 'success'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh issue edit ${{ github.event.issue.number }} --add-label "screening:changes-requested" --remove-label "screening-pending" || true

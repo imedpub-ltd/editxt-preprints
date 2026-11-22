@@ -29,6 +29,22 @@ body:
       label: Abstract
     validations:
       required: true
+  - type: textarea
+    id: manuscript_body
+    attributes:
+      label: Full Manuscript Content (Markdown or Text)
+      description: "Paste your manuscript sections (Introduction, Methods, Results, Discussion) or drag-and-drop your full text file here."
+      placeholder: |
+        ## Introduction
+        ...
+        ## Methods
+        ...
+        ## Results
+        ...
+        ## Discussion
+        ...
+    validations:
+      required: true
   - type: input
     id: public_repo
     attributes:
