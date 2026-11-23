@@ -1,0 +1,117 @@
+\begin{thebibliography}{10}
+
+\bibitem{quattrociocchi2025}
+Walter Quattrociocchi, Valerio Capraro, and Matja{\v{z}} Perc.
+\newblock Epistemological fault lines between human and artificial
+  intelligence.
+\newblock arXiv:2512.19466, \url{https://arxiv.org/abs/2512.19466}, 2025.
+
+\bibitem{thurston1994}
+William~P. Thurston.
+\newblock On proof and progress in mathematics.
+\newblock {\em Bulletin of the American Mathematical Society}, 30(2):161--177,
+  1994.
+\newblock arXiv:math/9404236.
+
+\bibitem{griffiths2026}
+Thomas~L. Griffiths.
+\newblock {\em The Laws of Thought: The Quest for a Mathematical Theory of the
+  Mind}.
+\newblock Henry Holt and Co., 2026.
+
+\bibitem{alpoge2026}
+Levent Alp{\"o}ge.
+\newblock Formal {Lean 4} repository and explanatory remark on the {Riemann}
+  hypothesis and generalized {Riemann} hypothesis.
+\newblock \url{https://alpo.ge/} (Explanatory note:
+  \url{https://alpo.ge/remark.pdf}; bit-exact mirror:
+  \url{https://github.com/jsmorph/rh}), 2026.
+
+\bibitem{vakil2026}
+Ravi Vakil.
+\newblock Hurried announcement: {Alessandro Masullo} {GRH}, linking {Masullo,
+  A. M.}, \textit{The Music of the Primes}.
+\newblock
+  \url{https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/},
+  2026.
+
+\bibitem{vonkoch1901}
+Helge von Koch.
+\newblock Sur la distribution des nombres premiers.
+\newblock {\em Acta Mathematica}, 24:159--182, 1901.
+
+\bibitem{montgomery1973}
+Hugh~L. Montgomery.
+\newblock The pair correlation of zeros of the zeta function.
+\newblock In {\em Proceedings of Symposia in Pure Mathematics}, volume~24,
+  pages 181--193, 1973.
+
+\bibitem{odlyzko1987}
+Andrew~M. Odlyzko.
+\newblock On the distribution of spacings between zeros of the zeta function.
+\newblock {\em Mathematics of Computation}, 48(177):273--308, 1987.
+
+\bibitem{lloyd2002}
+Seth Lloyd.
+\newblock Computational capacity of the universe.
+\newblock {\em Physical Review Letters}, 88(23):237901, 2002.
+\newblock arXiv:quant-ph/0110141.
+
+\bibitem{bekenstein1981}
+Jacob~D. Bekenstein.
+\newblock Universal upper bound on the entropy-to-energy ratio for bounded
+  systems.
+\newblock {\em Physical Review D}, 23(2):287--298, 1981.
+
+\bibitem{egan2010}
+Chas~A. Egan and Charles~H. Lineweaver.
+\newblock A larger estimate of the entropy of the universe.
+\newblock {\em The Astrophysical Journal}, 710(2):1825--1834, 2010.
+\newblock arXiv:0909.3983.
+
+\bibitem{platt2021}
+Dave Platt and Tim Trudgian.
+\newblock The {Riemann} hypothesis is true up to $3 \cdot 10^{12}$.
+\newblock {\em Bulletin of the London Mathematical Society}, 53(3):792--797,
+  2021.
+\newblock arXiv:2004.09765.
+
+\bibitem{littlewood1914}
+John~E. Littlewood.
+\newblock Sur la distribution des nombres premiers.
+\newblock {\em Comptes Rendus de l'Acad{\'e}mie des Sciences de Paris},
+  158:1869--1872, 1914.
+
+\bibitem{saouter2015}
+Yannick Saouter, Timothy Trudgian, and Patrick Demichel.
+\newblock A still sharper region where $\pi(x) - \operatorname{li}(x)$ is
+  positive.
+\newblock {\em Mathematics of Computation}, 84(295):2433--2446, 2015.
+
+\bibitem{lagarias2002}
+Jeffrey~C. Lagarias.
+\newblock An elementary problem equivalent to the {Riemann} hypothesis.
+\newblock {\em The American Mathematical Monthly}, 109(6):534--543, 2002.
+\newblock arXiv:math/0008177.
+
+\bibitem{leanfro2026}
+{Lean FRO} and {Mathlib Initiative}.
+\newblock Lean verification of the {Riemann} hypothesis.
+\newblock Lean Community Blog, November 21, 2026,
+  \url{https://leanprover-community.github.io/blog/posts/riemann-hypothesis/},
+  2026.
+
+\bibitem{sutherland2026}
+Andrew Sutherland.
+\newblock {RH} {Lean} proof: verification files.
+\newblock Massachusetts Institute of Technology,
+  \url{https://math.mit.edu/~drew/grh/}, 2026.
+
+\bibitem{menendez2026coresearcher}
+Manuel Men{\'e}ndez-Gonz{\'a}lez and {Fundaci{\'o}n de Neurociencias}.
+\newblock {CoResearcher}: An open system for coordinating scientific work
+  between humans and {AI} agents.
+\newblock \url{https://github.com/Fundacion-de-Neurociencias/coresearcher},
+  2026.
+
+\end{thebibliography}

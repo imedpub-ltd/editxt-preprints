@@ -8,7 +8,7 @@
   ],
   "affiliation": "Fundación de Neurociencias, Oviedo, Spain",
   "targetVenue": "EdiTxt Preprints / International Archives (Multidisciplinary)",
-  "auditTimestamp": "2026-11-23T20:47:12.118Z",
+  "auditTimestamp": "2026-11-23T21:23:58.822Z",
   "publicationStatus": "CERTIFIED_PREPRINT",
   "formalStatus": "KERNEL_CHECKED_AND_FRESH_REPLAYED_V4_33_1",
   "verdict": "READY_FOR_PREPRINT",
@@ -36,7 +36,7 @@
     "comparativeAuditsIncluded": "PASSED (comparative_audit_alpoge_vs_masullo.md & epistemic_verification_protocol.md v1.1)"
   },
   "fileIntegrityHashes": {
-    "preprintRhGrhEpistemicAuditSha256": "d52f55dfea59ff4053b133658c44611083def76774258be8d21eb45aa391b945",
+    "preprintRhGrhEpistemicAuditSha256": "f0a205dc1f52ba121c6f354bbf282e8ad98cd483ef245026a397cea9b7aabbf3",
     "mathematicalArchitecturePrimerSha256": "4445d5cc7cb8c7c9768386312afef3318804a47da338ce838391f0ba0aa806a0",
     "epistemicSpineExplorerHtmlSha256": "48762761b88530456c88e1510434cd42abc85e46238fe575f381d90cf27760bf",
     "comparativeAuditAlpogeVsMasulloSha256": "6c49ac2264fd31f2fd702d98d13367cd41b29c5d4bafab71e6cac37882ed106c",
@@ -48,7 +48,7 @@
     "masulloForensicSummarySha256": "6af7c55b84961e221d6a6c91a1f3ebea3e0ff2c0f3960c4cef960755ace38f58",
     "alpogeRhAxiomsLogSha256": "590d5252e7e5a4e6d9faef1895216c77eb103d6667037d832eaedaa34fa3186d",
     "alpogeRhLeancheckerFreshLogSha256": "ff8ea3d0b4db9f21f2a09513a5b20c1d2d6d106566030aa7f21e50156966f95c",
-    "merkleRootSha256": "b37d41e4819be7f4760bedc1ce9a96fbe5264fd274a64c2034ad2e34478ec3ec"
+    "merkleRootSha256": "22eef62f3c19cb8e7654146afead0615b2905eeb6cf0fc3776d60363b4aba7b4"
   },
   "zenodoDeposition": {
     "status": "DRY_RUN_RESERVATION",
