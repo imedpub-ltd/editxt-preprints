@@ -1,0 +1,655 @@
+{
+  "schema": "coresearcher.proof-key-blueprint/v1",
+  "key_id": "ALPOGE-RH-2026-11-20",
+  "total_lean_files": 175187,
+  "active_cone_modules_count": 175187,
+  "max_dag_depth": 43,
+  "total_theorems_in_cone": 818755,
+  "library_stratification": {
+    "Development": {
+      "modules": 141928,
+      "theorems": 562329,
+      "min_depth": 2,
+      "max_depth": 43
+    },
+    "Formalism": {
+      "modules": 18254,
+      "theorems": 162118,
+      "min_depth": 4,
+      "max_depth": 43
+    },
+    "ReciprocityTheory": {
+      "modules": 3845,
+      "theorems": 27722,
+      "min_depth": 6,
+      "max_depth": 36
+    },
+    "GroundTheory": {
+      "modules": 8507,
+      "theorems": 54211,
+      "min_depth": 5,
+      "max_depth": 32
+    },
+    "CompanionTheory": {
+      "modules": 2027,
+      "theorems": 9419,
+      "min_depth": 5,
+      "max_depth": 30
+    },
+    "Lemmata": {
+      "modules": 167,
+      "theorems": 245,
+      "min_depth": 8,
+      "max_depth": 25
+    },
+    "PositivityTheory": {
+      "modules": 449,
+      "theorems": 2702,
+      "min_depth": 6,
+      "max_depth": 13
+    },
+    "Supplements": {
+      "modules": 3,
+      "theorems": 4,
+      "min_depth": 1,
+      "max_depth": 3
+    },
+    "BuildAid": {
+      "modules": 5,
+      "theorems": 0,
+      "min_depth": 8,
+      "max_depth": 19
+    },
+    "Main": {
+      "modules": 1,
+      "theorems": 5,
+      "min_depth": 0,
+      "max_depth": 0
+    },
+    "Statements": {
+      "modules": 1,
+      "theorems": 0,
+      "min_depth": 0,
+      "max_depth": 0
+    }
+  },
+  "pivot_modules": [
+    {
+      "module_name": "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.UniformisationConclusion",
+      "library": "ReciprocityTheory",
+      "depth_from_root": 6,
+      "in_degree": 2390,
+      "cross_layer_edges": 2379,
+      "theorem_count": 0,
+      "pivot_score": 2859.2,
+      "sample_theorems": []
+    },
+    {
+      "module_name": "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ExtensionDescent.UnifUniqSt",
+      "library": "ReciprocityTheory",
+      "depth_from_root": 7,
+      "in_degree": 2284,
+      "cross_layer_edges": 2283,
+      "theorem_count": 0,
+      "pivot_score": 2490.9091,
+      "sample_theorems": []
+    },
+    {
+      "module_name": "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.ValCalc",
+      "library": "ReciprocityTheory",
+      "depth_from_root": 7,
+      "in_degree": 621,
+      "cross_layer_edges": 603,
+      "theorem_count": 28,
+      "pivot_score": 1594.4727,
+      "sample_theorems": [
+        "gs_eq",
+        "gs_unit",
+        "gs_mul",
+        "gs_add",
+        "gs_res"
+      ]
+    },
+    {
+      "module_name": "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.HeckeKer",
+      "library": "ReciprocityTheory",
+      "depth_from_root": 7,
+      "in_degree": 1429,
+      "cross_layer_edges": 1429,
+      "theorem_count": 0,
+      "pivot_score": 1558.9091,
+      "sample_theorems": []
+    },
+    {
+      "module_name": "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ExtensionDescent.SecBaseChangeAnySt",
+      "library": "ReciprocityTheory",
+      "depth_from_root": 7,
+      "in_degree": 1340,
+      "cross_layer_edges": 1337,
+      "theorem_count": 1,
+      "pivot_score": 1532.6182,
+      "sample_theorems": [
+        "wchart_comp_le"
+      ]
+    },
+    {
+      "module_name": "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.CubeVal",
+      "library": "ReciprocityTheory",
+      "depth_from_root": 7,
+      "in_degree": 811,
+      "cross_layer_edges": 806,
+      "theorem_count": 12,
+      "pivot_score": 1409.7455,
+      "sample_theorems": [
+        "face\u2083",
+        "face\u2082",
+        "compat",
+        "N_one",
+        "N_split"
+      ]
+    },
+    {
+      "module_name": "Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms\u2082.ExistsNormLeHeightPow",
+      "library": "Development",
+      "depth_from_root": 7,
+      "in_degree": 2460,
+      "cross_layer_edges": 0,
+      "theorem_count": 11,
+      "pivot_score": 1386.5455,
+      "sample_theorems": [
+        "quotHeight_le",
+        "one_le_quotHeight",
+        "exists_height_le",
+        "IsRapidDecay.bounded",
+        "IsRapidDecay.mul_bounded"
+      ]
+    },
+    {
+      "module_name": "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.IsHolPeriods",
+      "library": "ReciprocityTheory",
+      "depth_from_root": 7,
+      "in_degree": 1206,
+      "cross_layer_edges": 1203,
+      "theorem_count": 0,
+      "pivot_score": 1313.4545,
+      "sample_theorems": []
+    },
+    {
+      "module_name": "Formalism.LocalRingCardinality.RankBoundMonotoneInDimension",
+      "library": "Formalism",
+      "depth_from_root": 7,
+      "in_degree": 431,
+      "cross_layer_edges": 368,
+      "theorem_count": 111,
+      "pivot_score": 1273.0909,
+      "sample_theorems": [
+        "Ranks.two_le_m'",
+        "Ranks.k_ge",
+        "Ranks.rS_two",
+        "Ranks.r_eq",
+        "rank_base_space"
+      ]
+    },
+    {
+      "module_name": "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.PhiGenPf",
+      "library": "ReciprocityTheory",
+      "depth_from_root": 9,
+      "in_degree": 491,
+      "cross_layer_edges": 484,
+      "theorem_count": 34,
+      "pivot_score": 1212.0923,
+      "sample_theorems": [
+        "cPoint_add",
+        "cPoint_nsmul",
+        "comp_cP",
+        "surj_appTop",
+        "tr_fst"
+      ]
+    },
+    {
+      "module_name": "Formalism.SharpRestriction.LevelLetterCocycles.LocalSituation",
+      "library": "Formalism",
+      "depth_from_root": 7,
+      "in_degree": 627,
+      "cross_layer_edges": 608,
+      "theorem_count": 15,
+      "pivot_score": 1172.8182,
+      "sample_theorems": [
+        "phiSpan_rec",
+        "HypW_of_rec",
+        "TBeAt.len",
+        "zpow_mem",
+        "act_inv"
+      ]
+    },
+    {
+      "module_name": "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.BCTools",
+      "library": "ReciprocityTheory",
+      "depth_from_root": 6,
+      "in_degree": 513,
+      "cross_layer_edges": 506,
+      "theorem_count": 18,
+      "pivot_score": 1159.0,
+      "sample_theorems": [
+        "IsGrpPullback.congr",
+        "isGrpPullback_of_iso",
+        "grpPullback_iso",
+        "res_res_toroidal_compactification",
+        "pull_isLB"
+      ]
+    },
+    {
+      "module_name": "Development.AbelianVarietyTheory.Definitions.Divisors.CTSmallCone",
+      "library": "Development",
+      "depth_from_root": 7,
+      "in_degree": 3088,
+      "cross_layer_edges": 1,
+      "theorem_count": 0,
+      "pivot_score": 1123.6364,
+      "sample_theorems": []
+    },
+    {
+      "module_name": "Development.AbelianVarietyTheory.Definitions.Divisors.SiegelWeilAnisotropicHermitian",
+      "library": "Development",
+      "depth_from_root": 7,
+      "in_degree": 2972,
+      "cross_layer_edges": 0,
+      "theorem_count": 0,
+      "pivot_score": 1080.7273,
+      "sample_theorems": []
+    },
+    {
+      "module_name": "Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow",
+      "library": "Formalism",
+      "depth_from_root": 7,
+      "in_degree": 921,
+      "cross_layer_edges": 780,
+      "theorem_count": 3,
+      "pivot_score": 1037.5091,
+      "sample_theorems": [
+        "GoodCoef.mono",
+        "GoodCoef.good",
+        "GoodCoef.good_one"
+      ]
+    },
+    {
+      "module_name": "Formalism.SatakeDualWeyl.KpqSubgroupCompact",
+      "library": "Formalism",
+      "depth_from_root": 7,
+      "in_degree": 321,
+      "cross_layer_edges": 305,
+      "theorem_count": 51,
+      "pivot_score": 1015.6364,
+      "sample_theorems": [
+        "mem_doubleCoset_one_iff_mem",
+        "quotient_out_mem_iff_eq_one",
+        "HeckeActMem",
+        "HeckeActMul",
+        "AdelicStabFinite"
+      ]
+    },
+    {
+      "module_name": "Development.AbelianVarietyTheory.Definitions.Divisors.DiscreteSeriesHermitianUnique",
+      "library": "Development",
+      "depth_from_root": 6,
+      "in_degree": 2518,
+      "cross_layer_edges": 0,
+      "theorem_count": 0,
+      "pivot_score": 1007.2,
+      "sample_theorems": []
+    },
+    {
+      "module_name": "Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.HarishChandraModulesOn",
+      "library": "Development",
+      "depth_from_root": 7,
+      "in_degree": 1684,
+      "cross_layer_edges": 1,
+      "theorem_count": 12,
+      "pivot_score": 980.9455,
+      "sample_theorems": [
+        "admQ5_of_harishChandraModules",
+        "AnalyticOnUJ.comp",
+        "AnalyticOnUJ.contDiff_comp",
+        "AnalyticOnUJ.smoothOnH",
+        "AnalyticOnUJ.clm"
+      ]
+    },
+    {
+      "module_name": "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.SabPull",
+      "library": "ReciprocityTheory",
+      "depth_from_root": 6,
+      "in_degree": 565,
+      "cross_layer_edges": 557,
+      "theorem_count": 8,
+      "pivot_score": 940.24,
+      "sample_theorems": [
+        "gm_div",
+        "LBIso.chartPull",
+        "gm_linComb",
+        "gm_pull_g",
+        "psum_hom"
+      ]
+    },
+    {
+      "module_name": "Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.AdmissibleDiscreteSeriesOfHasParam",
+      "library": "Development",
+      "depth_from_root": 7,
+      "in_degree": 1354,
+      "cross_layer_edges": 1,
+      "theorem_count": 17,
+      "pivot_score": 912.2182,
+      "sample_theorems": [
+        "UnitEquiv.symm",
+        "UnitEquiv.trans",
+        "exists_decomp",
+        "kFin_map",
+        "exists_moduleEquiv"
+      ]
+    },
+    {
+      "module_name": "Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.CohomologicalCsdTempered",
+      "library": "Development",
+      "depth_from_root": 6,
+      "in_degree": 2242,
+      "cross_layer_edges": 0,
+      "theorem_count": 0,
+      "pivot_score": 896.8,
+      "sample_theorems": []
+    },
+    {
+      "module_name": "Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms\u2082.ExistsUniqueHcharOfFiniteOrder",
+      "library": "Development",
+      "depth_from_root": 6,
+      "in_degree": 740,
+      "cross_layer_edges": 6,
+      "theorem_count": 37,
+      "pivot_score": 857.28,
+      "sample_theorems": [
+        "isAlgPos_of_isAlg",
+        "finite_contEmb",
+        "finite_contEmbInf",
+        "isEmpty_contEmb",
+        "locPow_of_notMem"
+      ]
+    },
+    {
+      "module_name": "Formalism.LocalRingCardinality.AdicCompletionLocal.LocTied",
+      "library": "Formalism",
+      "depth_from_root": 7,
+      "in_degree": 776,
+      "cross_layer_edges": 775,
+      "theorem_count": 0,
+      "pivot_score": 845.8182,
+      "sample_theorems": []
+    },
+    {
+      "module_name": "Formalism.SharpRestriction.Divisibility.GeneratorPowers.ThExprUniqOfChartIndep2",
+      "library": "Formalism",
+      "depth_from_root": 9,
+      "in_degree": 873,
+      "cross_layer_edges": 871,
+      "theorem_count": 1,
+      "pivot_score": 844.8462,
+      "sample_theorems": [
+        "thExprUniq_of_chartIndep2"
+      ]
+    },
+    {
+      "module_name": "Formalism.LocalToGlobal.IndefiniteReal.FWExist",
+      "library": "Formalism",
+      "depth_from_root": 8,
+      "in_degree": 275,
+      "cross_layer_edges": 273,
+      "theorem_count": 74,
+      "pivot_score": 821.0,
+      "sample_theorems": [
+        "crd_apply",
+        "crd_injective",
+        "crd_basis",
+        "extB_apply",
+        "extB_crd"
+      ]
+    },
+    {
+      "module_name": "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ExtensionDescent.GlobalSectionsRankAlgClosed",
+      "library": "ReciprocityTheory",
+      "depth_from_root": 7,
+      "in_degree": 713,
+      "cross_layer_edges": 698,
+      "theorem_count": 0,
+      "pivot_score": 766.9091,
+      "sample_theorems": []
+    },
+    {
+      "module_name": "Development.AbelianVarietyTheory.Definitions.AbelianSchemeLaws.FirstCohomologyVanishesSpecOfIsLocalRing",
+      "library": "Development",
+      "depth_from_root": 6,
+      "in_degree": 963,
+      "cross_layer_edges": 10,
+      "theorem_count": 18,
+      "pivot_score": 747.08,
+      "sample_theorems": [
+        "le_pull",
+        "rs_rs",
+        "rs_self",
+        "rs_cst",
+        "isLB_pw"
+      ]
+    },
+    {
+      "module_name": "Development.AbelianVarietyTheory.Definitions.Divisors.ToKnownTheoremsOf",
+      "library": "Development",
+      "depth_from_root": 8,
+      "in_degree": 1840,
+      "cross_layer_edges": 0,
+      "theorem_count": 4,
+      "pivot_score": 736.0,
+      "sample_theorems": [
+        "Hypotheses2.p18",
+        "Hypotheses2.q2",
+        "Hypotheses2.q12",
+        "Hypotheses2.toClassicalTheoremsOf"
+      ]
+    },
+    {
+      "module_name": "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.ThetaUnifAV",
+      "library": "ReciprocityTheory",
+      "depth_from_root": 7,
+      "in_degree": 676,
+      "cross_layer_edges": 674,
+      "theorem_count": 0,
+      "pivot_score": 736.0,
+      "sample_theorems": []
+    },
+    {
+      "module_name": "Formalism.SharpRestriction.LevelLetterCocycles.LocCoh",
+      "library": "Formalism",
+      "depth_from_root": 7,
+      "in_degree": 654,
+      "cross_layer_edges": 649,
+      "theorem_count": 0,
+      "pivot_score": 709.8182,
+      "sample_theorems": []
+    }
+  ],
+  "frontier_motifs": [
+    {
+      "motif_id": "ITERATED_UNITARY_THETA_LIFT_CHAIN",
+      "category": "AUTOMORPHIC_FUNCTORIALITY",
+      "evidence_module_count": 15750,
+      "sample_modules": [
+        "Development.AutomorphicArithmetic.AutomorphicVarieties.UnitaryThreeGroups.KatoUse",
+        "Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.GaloisRepresentationsOfThetaLift",
+        "Development.AutomorphicArithmetic.ThetaCorrespondence.GoodReduction.SerreTate",
+        "Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ImportsBis",
+        "Development.WeilBound.RepresentationTheoryGL.GenericUnitaryGL.ComplementarySeries.SegmentJacquetSubquotients.SegmentRepresentation",
+        "Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.LinkedUnramifiedChains.WeightInfinitesimalCharacters.AdmissibleUnitaryThreePoint",
+        "Development.WeilBound.CoreStatements.AutomorphicKernels.UnitaryDualGL.GenericUnitaryDual.GenericUnitaryDualGLHolds",
+        "Development.WeilBound.RepresentationTheoryGL.GenericUnitaryGL.GenericUnlinkedGL.GenericUnlinkedGLOfSegRep2"
+      ],
+      "barrier_bypassed": "CONVEXITY_AND_PARITY_BARRIER"
+    },
+    {
+      "motif_id": "STEPANOV_MULTIPLICITY_DETERMINANT",
+      "category": "POLYNOMIAL_METHOD_DETERMINANT",
+      "evidence_module_count": 1808,
+      "sample_modules": [
+        "Development.WeilBound.CoreStatements.TemperedRepresentationTheory.MultiplicityOneRigidity.GelfandKazhdanDualOfRigidity",
+        "Development.WeilBound.CoreStatements.PublishedTheorems.SmoothVectorEstimates.CuspidalMultiplicityOne",
+        "Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology\u2082.StrongMultiplicityOne",
+        "Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology\u2082.CuspidalMultiplicityOne",
+        "Development.AbelianVarietyTheory.Proofs.TwistedOperators.FirstRowTowerMultiplicitySpacesOfArrowStatement",
+        "Development.WeilBound.CoreStatements.TemperedRepresentationTheory.BernsteinNarrowness.BernsteinClosure.RamifiedMultiplicityOne",
+        "Development.AutomorphicSpectrum.Proofs.BlockDecomposition.BlockDeterminantLawStatement",
+        "Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.IsRationalUnitaryDeterminantMapRationalUnitaryTo"
+      ],
+      "barrier_bypassed": "POINTWISE_ZERO_COUNTING_BARRIER"
+    },
+    {
+      "motif_id": "GGP_BESSEL_POSITIVITY_FUNCTIONAL",
+      "category": "PERIOD_INTEGRAL_POSITIVITY",
+      "evidence_module_count": 7011,
+      "sample_modules": [
+        "Development.WeilBound.CoreStatements.TemperedRepresentationTheory.GeometricSplitting.Imports",
+        "Development.WeilBound.CoreStatements.TotallyDisjointProducts.SLGLProductIrreducibility.TdpFill",
+        "Development.AutomorphicArithmetic.ThetaCorrespondence.FockModels.RallisDM",
+        "Development.WeilBound.CoreStatements.AutomorphicKernels.DeligneRibet.DeligneRibetHolds",
+        "PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.AdFormOf",
+        "Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.PiDens",
+        "Development.AbelianVarietyTheory.PublishedTheorems.BesselIntegrals.ExistsLinearIndependentNormLe",
+        "Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselCharacterRealPlaceUnipotentEqTraceStatement"
+      ],
+      "barrier_bypassed": "SIGN_INDEFINITE_EXPLICIT_FORMULA"
+    },
+    {
+      "motif_id": "BOST_SLOPE_IWASAWA_DESCENT",
+      "category": "ARAKELOV_IWASAWA_DESCENT",
+      "evidence_module_count": 13010,
+      "sample_modules": [
+        "Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.GlobalArtinReciprocityHolds",
+        "Development.WeilBound.CoreStatements.AbelianHeightsDuality.PublishedTheoremStatements.ProvedMore",
+        "Development.AutomorphicSpectrum.Proofs.GlobalProofs.AdmissibleOfIwasawaDecomposition",
+        "Development.WeilBound.CoreStatements.StandardPublishedResults.StandardTheoremStatements.HermitianHassePrinciple",
+        "Development.WeilBound.CoreStatements.StandardPublishedResults.StandardTheoremStatements.SchurOrthogonalitySquareIntegrable",
+        "Development.AbelianVarietyTheory.Definitions.Divisors.DiscreteSeriesHermitianUnique",
+        "Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ContDiffDerivSnoc",
+        "Development.AbelianVarietyTheory.Definitions.AdelicHermitianForms.SqSubLeNormSub"
+      ],
+      "barrier_bypassed": "UNBOUNDED_HEIGHT_GROWTH"
+    },
+    {
+      "motif_id": "SIEGEL_MASS_CHOWLA_SELBERG",
+      "category": "MASS_FORMULA_DIVISIBILITY",
+      "evidence_module_count": 4618,
+      "sample_modules": [
+        "Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WeylModuleSimpleClosedLowestAlcove",
+        "Development.WeilBound.CoreStatements.StandardPublishedResults.StandardTheoremStatements.HeckeLEntireAndNonzeroAtOne",
+        "Development.AbelianVarietyTheory.Definitions.Divisors.UnipVal",
+        "Formalism.GradedWeylDivisibility.DualWeylDominanceOf",
+        "Development.AbelianVarietyTheory.PublishedTheorems.GlobalTheta.WeylDualWeylLatticesAgreeOfLowestAlcove",
+        "Development.AbelianVarietyTheory.Proofs.TwistedOperators.IteratedLineDerivMemWeylAlg",
+        "Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.WeylFormulaStandardUnitaryGroupWeilDatum",
+        "Development.AbelianVarietyTheory.PublishedTheorems.GlobalTheta.FiniteDimensionalNablaSq"
+      ],
+      "barrier_bypassed": "CLASS_NUMBER_DENOMINATOR_EXPLOSION"
+    },
+    {
+      "motif_id": "GALOIS_MODULARITY_COHOMOLOGY",
+      "category": "ARITHMETIC_GEOMETRY_PATCHING",
+      "evidence_module_count": 109260,
+      "sample_modules": [
+        "Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.TopMainZj",
+        "Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.RowSrc",
+        "Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.DiscreteSeriesCoefficientsCuspidal",
+        "Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.LitAut",
+        "Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.SelmerTransport.Places",
+        "Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.AutomorphyLifting.WeakOfAtt",
+        "Development.AbelianVarietyTheory.Proofs.DivisorProofs.CrystallineSmoothLiftOfRelations",
+        "Development.AbelianVarietyTheory.Proofs.DivisorProofs.AbelianDualCrystalOfHyp"
+      ],
+      "barrier_bypassed": "ELEMENTARY_METHOD_INSUFFICIENCY"
+    }
+  ],
+  "kernel_record": {
+    "schema": "coresearcher.kernel-record/v1",
+    "target": "alpoge-rh-2026-11-20",
+    "kind": "lean_file",
+    "source": {
+      "repository": "https://alpo.ge/lean.tar.gz.part01..14",
+      "archive_sha256": "9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc",
+      "path": "lean/src/Main.lean"
+    },
+    "file_sha256": "017645ca448f2fd1f6fd5c4c2cb2c6e96e472725be13f6e180ca6e1574360939",
+    "toolchain": "leanprover/lean4:v4.33.1",
+    "lean_version": "Lean (version 4.33.1, arm64-apple-darwin24.6.0, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+    "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
+    "build_main_exit_code": 0,
+    "build_main_wall_time_s": 127812,
+    "axioms_probe_exit_code": 0,
+    "axioms_probe_wall_time_s": 110,
+    "lean4checker_exit_code": 99,
+    "kernel_log": "alpoge_rh.log",
+    "kernel_log_sha256": "590d5252e7e5a4e6d9faef1895216c77eb103d6667037d832eaedaa34fa3186d",
+    "checked_by": "local:MacStudio-M4Max (MacStudio-de-Manuel.local)"
+  },
+  "kernel_checked": true,
+  "rational_analysis_summary": {
+    "computational_level": {
+      "target_roots": [
+        "Main",
+        "Statements"
+      ],
+      "target_theorems": [
+        "riemannHypothesis (Mathlib.NumberTheory.LSeries.RiemannZeta)",
+        "riemannZeta_eq_zero_re",
+        "LFunction_ne_zero_of_half_lt_re",
+        "LFunction_eq_zero_re",
+        "LFunction_eq_zero_re_of_isPrimitive"
+      ],
+      "barriers_overcome": [
+        "CONVEXITY_AND_PARITY_BARRIER",
+        "POINTWISE_ZERO_COUNTING_BARRIER",
+        "SIGN_INDEFINITE_EXPLICIT_FORMULA",
+        "UNBOUNDED_HEIGHT_GROWTH",
+        "CLASS_NUMBER_DENOMINATOR_EXPLOSION",
+        "ELEMENTARY_METHOD_INSUFFICIENCY"
+      ]
+    },
+    "algorithmic_representational_level": {
+      "inductive_motifs": [
+        "ITERATED_UNITARY_THETA_LIFT_CHAIN",
+        "STEPANOV_MULTIPLICITY_DETERMINANT",
+        "GGP_BESSEL_POSITIVITY_FUNCTIONAL",
+        "BOST_SLOPE_IWASAWA_DESCENT",
+        "SIEGEL_MASS_CHOWLA_SELBERG",
+        "GALOIS_MODULARITY_COHOMOLOGY"
+      ],
+      "top_cross_layer_pivots": [
+        "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.UniformisationConclusion",
+        "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ExtensionDescent.UnifUniqSt",
+        "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.ValCalc",
+        "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.HeckeKer",
+        "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ExtensionDescent.SecBaseChangeAnySt",
+        "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.CubeVal",
+        "Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms\u2082.ExistsNormLeHeightPow",
+        "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.IsHolPeriods",
+        "Formalism.LocalRingCardinality.RankBoundMonotoneInDimension",
+        "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.PhiGenPf"
+      ]
+    },
+    "implementation_level": {
+      "active_modules": 175187,
+      "total_theorems": 818755,
+      "max_dag_depth": 43,
+      "build_main_exit_code": 0,
+      "build_main_wall_time_s": 127812,
+      "axioms_probe_exit_code": 0,
+      "axioms_used": [
+        "propext",
+        "Classical.choice",
+        "Quot.sound"
+      ],
+      "lean_toolchain": "leanprover/lean4:v4.33.1"
+    }
+  }
+}

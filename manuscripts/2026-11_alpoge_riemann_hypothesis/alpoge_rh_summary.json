@@ -1,0 +1,22 @@
+{
+  "schema": "coresearcher.kernel-record/v1",
+  "target": "alpoge-rh-2026-11-20",
+  "kind": "lean_file",
+  "source": {
+    "repository": "https://alpo.ge/lean.tar.gz.part01..14",
+    "archive_sha256": "9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc",
+    "path": "lean/src/Main.lean"
+  },
+  "file_sha256": "017645ca448f2fd1f6fd5c4c2cb2c6e96e472725be13f6e180ca6e1574360939",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "lean_version": "Lean (version 4.33.1, arm64-apple-darwin24.6.0, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "build_main_exit_code": 0,
+  "build_main_wall_time_s": 127812,
+  "axioms_probe_exit_code": 0,
+  "axioms_probe_wall_time_s": 110,
+  "lean4checker_exit_code": 99,
+  "kernel_log": "alpoge_rh.log",
+  "kernel_log_sha256": "590d5252e7e5a4e6d9faef1895216c77eb103d6667037d832eaedaa34fa3186d",
+  "checked_by": "local:MacStudio-M4Max (MacStudio-de-Manuel.local)"
+}

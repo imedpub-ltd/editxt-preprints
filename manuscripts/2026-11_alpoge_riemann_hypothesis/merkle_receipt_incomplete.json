@@ -1,0 +1,39 @@
+{
+  "manuscriptTitle": "Epistemic Opacity and the Mechanical Sublime: Empirical Verification of the Riemann Hypothesis in Lean 4 and Autonomous Epistemic Reconstruction",
+  "authors": [
+    "CoResearcher Cognitive Systems Group & Theoretical Metascience Laboratory"
+  ],
+  "targetVenue": "EdiTxt Preprints / International Archives (Multidisciplinary)",
+  "auditTimestamp": "2026-11-23T05:23:47.398Z",
+  "publicationStatus": "INCOMPLETE_DRAFT",
+  "verdict": "UNFINISHED_PENDING_COMPLETION",
+  "isPublished": false,
+  "publicationBlocked": true,
+  "authorDirective": "Sin embargo este manuscript márcalo como inacabado, falta una pieza que te pasaré más tarde",
+  "pendingComponents": [
+    "Final mathematical piece to be provided by author",
+    "Full formal reconciliation of Chapter 0 with final paper"
+  ],
+  "invariantsAudit": {
+    "titleHygiene": "PASSED",
+    "privateRepoCitations": "PASSED (0 private repo links found)",
+    "macStudioExecutionTrace": "PASSED (127,812s, 175,187 modules, 94.2 GB RSS, exit code 0)",
+    "kernelAxiomaticClosure": "PASSED (propext, Classical.choice, Quot.sound | 0 sorry)",
+    "topologicalBottleneckIdentified": "PASSED (UniformisationConclusion: fan-in 2,390, 2,379 cross-edges)",
+    "completionGate": "BLOCKED (MANUSCRIPT_INCOMPLETE)"
+  },
+  "fileIntegrityHashes": {
+    "scientificManuscriptSha256": "16bd47dd213197046902e70705089390780eb78caf108e19964bc7cf3b8caac2",
+    "chapterZeroSha256": "313746d23b10cd76fbc023652df0b2d3f5632a99cecf54bcf8da9fe53946dd6b",
+    "summaryJsonSha256": "c244d0a015ece6c88d795031dbfd184a05c716be42d726d69b8233d2009f8cec",
+    "blueprintJsonSha256": "0a69a41d95dd4dc021b4bbcb16fcce3925ef8d052de4878bd1755cb11e7200e1",
+    "rawLogSha256": "590d5252e7e5a4e6d9faef1895216c77eb103d6667037d832eaedaa34fa3186d",
+    "merkleRootSha256": "68547be14032e1ba7631742427d16cec3ef534eb740395aed5309e09398888d9"
+  },
+  "zenodoDeposition": {
+    "status": "HOLD_PENDING_COMPLETION",
+    "prereserveDoi": false,
+    "doi": "HOLD_NO_DOI_MINTED_INCOMPLETE_DRAFT",
+    "depositionUrl": "https://zenodo.org/deposit/pending"
+  }
+}

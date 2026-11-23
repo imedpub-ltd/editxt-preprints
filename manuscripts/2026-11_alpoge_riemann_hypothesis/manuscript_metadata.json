@@ -1,0 +1,63 @@
+{
+  "manuscript_id": "2026-11_alpoge_riemann_hypothesis",
+  "title": "Epistemic Opacity and the Mechanical Sublime: Empirical Verification of the Riemann Hypothesis in Lean 4 and Autonomous Epistemic Reconstruction",
+  "status": "INCOMPLETE_DRAFT",
+  "verdict": "UNFINISHED_PENDING_COMPLETION",
+  "is_published": false,
+  "is_finished": false,
+  "publication_blocked": true,
+  "pending_reason": "Awaiting final piece from author before formal screening and DOI minting",
+  "authors": [
+    {
+      "name": "CoResearcher Cognitive Systems Group & Theoretical Metascience Laboratory",
+      "affiliation": "CoResearcher Autonomous Metascience Initiative",
+      "email": "research@fneurociencias.org"
+    }
+  ],
+  "track": "Multidisciplinary Computable Science",
+  "keywords": [
+    "Riemann Hypothesis",
+    "Lean 4",
+    "Automated Reasoning",
+    "Epistemic Opacity",
+    "Uniformisation Bottleneck",
+    "Tom Griffiths",
+    "Resource Rationality",
+    "CoResearcher"
+  ],
+  "empirical_metrics": {
+    "host": "mac_studio",
+    "hardware": "Apple M2 Ultra (24 cores, 128 GB Unified Memory)",
+    "toolchain": "Lean v4.33.1 / Lake v4.33.1",
+    "wall_clock_seconds": 127812,
+    "wall_clock_hours": 35.5,
+    "modules_compiled": 175187,
+    "total_modules": 175187,
+    "lines_of_formal_code": 17373109,
+    "peak_memory_rss_gb": 94.2,
+    "kernel_exit_code": 0,
+    "axioms": ["propext", "Classical.choice", "Quot.sound"],
+    "sorry_count": 0
+  },
+  "topological_analysis": {
+    "dag_nodes_count": 818755,
+    "strata_count": 43,
+    "bottleneck_node": "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.UniformisationConclusion",
+    "in_degree_fan_in": 2390,
+    "cross_layer_bypass_edges": 2379,
+    "barrier_motifs_count": 6
+  },
+  "comparative_epistemology": {
+    "alpoge_machine_corpus": {
+      "type": "Formal Lean 4",
+      "epistemia_index": 0.885,
+      "status": "VALID_OPAQUE"
+    },
+    "masullo_human_manuscript": {
+      "type": "Informal 940-page monograph",
+      "epistemia_index": 0.340,
+      "status": "INTUITION_UNCONVERGED"
+    }
+  },
+  "registered_at": "2026-11-23T06:18:00Z"
+}
