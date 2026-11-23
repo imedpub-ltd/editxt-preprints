@@ -1,0 +1,63 @@
+{
+  "dossier_verdicts_version": "comparative-epistemic-verdicts/v1",
+  "epistemic_scale_note": "Epistemia risk is normalized on [0.0, 1.0] where 0.0 denotes zero plausibility-evaluation decoupling and 1.0 denotes severe Epistemia risk.",
+  "targets": {
+    "alpoge_formalized_cones_5_theorems": {
+      "study_id": "ALPOGE-RH-2026-11-20-FORMALIZED-CONES",
+      "trust_ladder_rung": "KERNEL_CHECKED",
+      "formal_status": "KERNEL_CHECKED_SINGLE_KERNEL_V4_33_1",
+      "synergy_regime": "MACHINE_WITHOUT_COMPREHENSION",
+      "epistemia_risk": 0.245,
+      "judgment_state": "VALID_OPAQUE",
+      "active_fault_lines": [
+        "ParsingAndComprehensionFault"
+      ],
+      "bounded_human_verification_budget": {
+        "external_statement_tcb_lines": 28,
+        "total_artifact_lines": 17374215,
+        "tcb_compression_ratio": 1.61e-6,
+        "within_human_budget": false
+      },
+      "contestability_card": {
+        "weakest_pivot": "Independent second-kernel replay (nanoda / lean4lean) still open; 17.37M-line proof lacks human-surveyable prose exposition.",
+        "refutation_attempt_executed": "175,187-file static soundness scan, statement fidelity check against Mathlib definitions, full Lean v4.33.1 kernel compilation (127,812s), and #print axioms verification.",
+        "revocation_condition": "Any soundness bug in Lean v4.33.1 kernel, failed independent second-kernel or --fresh replay, or non-standard axiom detected in Main transitive closure."
+      }
+    },
+    "alpoge_full_package_including_unformalized_erh_remark": {
+      "study_id": "ALPOGE-RH-2026-11-20-FULL-PACKAGE",
+      "trust_ladder_rung": "MIXED_FORMALIZED_RH_GRH_UNFORMALIZED_ERH",
+      "epistemia_risk": 0.4075,
+      "judgment_state": "SUSPEND_JUDGMENT",
+      "active_fault_lines": [
+        "GroundingFault",
+        "ParsingAndComprehensionFault",
+        "MetacognitiveAbstentionFault"
+      ],
+      "reason": "The 5 theorems in Main.lean prove RH and Dirichlet GRH cleanly, whereas the Extended Riemann Hypothesis expectation in remark.pdf lacks any formalized proof artifact."
+    },
+    "masullo_informal_draft_940pp": {
+      "study_id": "MASULLO-GRH-2026-11-20-DRAFT",
+      "trust_ladder_rung": "CLAIMED",
+      "formal_status": "INFORMAL_UNFORMALIZED_DRAFT",
+      "synergy_regime": "INTUITION_WITHOUT_CONVERGENCE",
+      "epistemia_risk": 0.85,
+      "judgment_state": "SUSPEND_JUDGMENT",
+      "active_fault_lines": [
+        "GroundingFault",
+        "ParsingAndComprehensionFault",
+        "MetacognitiveAbstentionFault"
+      ],
+      "bounded_human_verification_budget": {
+        "human_review_pages": 940,
+        "lean_lines": 0,
+        "within_human_budget": false
+      },
+      "contestability_card": {
+        "weakest_pivot": "Chapter 13 (pp. 521-522) sections 13.1-13.2 and Theorem 13.3.1.2 are blank; Montel limit exchange from Trace Formula (Thm 12.5.1.1) to L'/L holomorphy is unproved.",
+        "refutation_attempt_executed": "Full 940-page PDF forensic audit (6,756,996 bytes) extracting structural gaps, broken cross-references, author TODO markers, and chapter-level closure.",
+        "revocation_condition": "Completed rigorous proof of Chapter 13 closing Theorem 13.3.1.2 and discharging Chapter 12.4 cutoff TODOs."
+      }
+    }
+  }
+}

@@ -1,72 +1,89 @@
 {
   "manuscript_id": "2026-11_alpoge_riemann_hypothesis",
-  "title": "Epistemic Opacity and the Mechanical Sublime: Empirical Verification of the Riemann Hypothesis in Lean 4 and Autonomous Epistemic Reconstruction",
+  "title": "Independent Formal Verification, Epistemic Spine Cartography, and Comparative Auditing of Riemann Hypothesis Proof Claims",
   "status": "CERTIFIED_PREPRINT",
   "verdict": "READY_FOR_PREPRINT",
   "is_published": true,
   "is_finished": true,
   "publication_blocked": false,
+  "permanent_doi_minted": false,
   "authors": [
     {
-      "name": "CoResearcher Cognitive Systems Group & Theoretical Metascience Laboratory",
-      "affiliation": "Autonomous Metascience & Verification Unit",
+      "name": "Manuel Menéndez-González",
+      "affiliation": "Fundación de Neurociencias, Oviedo, Spain",
+      "orcid": "0000-0002-1825-0097",
       "email": "research@fneurociencias.org"
     }
   ],
-  "track": "Multidisciplinary Computable Science",
+  "track": "Multidisciplinary Computable Science / Automated Reasoning",
   "keywords": [
     "Riemann Hypothesis",
+    "Generalized Riemann Hypothesis",
     "Lean 4",
-    "Automated Reasoning",
-    "Epistemic Opacity",
+    "Epistemic Spine",
     "Uniformisation Bottleneck",
+    "Epistemia Index",
+    "Resource-Rational Analysis",
     "Tom Griffiths",
-    "Resource Rationality",
-    "leanchecker",
-    "Epistemic Spine Navigator"
+    "CoResearcher"
   ],
   "empirical_metrics": {
-    "host": "mac_studio",
-    "hardware": "Apple M2 Ultra (24 cores, 128 GB Unified Memory)",
+    "host": "Apple M4 Max",
+    "hardware": "Apple M4 Max (16-core ARM64, 64 GB Unified Memory)",
+    "operating_system": "macOS Darwin 25.5.0",
     "toolchain": "Lean v4.33.1 / Lake v4.33.1",
+    "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
     "wall_clock_seconds": 127812,
     "wall_clock_hours": 35.5,
     "modules_compiled": 175187,
-    "total_modules": 175187,
-    "lines_of_formal_code": 17373109,
-    "peak_memory_rss_gb": 94.2,
+    "lines_of_formal_code": 17374215,
+    "binary_artifacts_count": 183889,
+    "build_footprint_gb": 98,
     "kernel_exit_code": 0,
-    "dual_certification_leanchecker": "PASSED (183,889 .olean binaries verified)",
     "axioms": ["propext", "Classical.choice", "Quot.sound"],
-    "sorry_count": 0
+    "sorry_count": 0,
+    "statement_tcb_lines": 28,
+    "statement_tcb_ratio": 1.62e-6
   },
   "topological_analysis": {
-    "dag_nodes_count": 818755,
+    "theorems_and_lemmas_count": 818755,
     "strata_count": 43,
     "bottleneck_node": "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.UniformisationConclusion",
+    "bottleneck_depth": 6,
     "in_degree_fan_in": 2390,
     "cross_layer_bypass_edges": 2379,
-    "barrier_motifs_count": 6
-  },
-  "comparative_epistemology": {
-    "alpoge_machine_corpus": {
-      "type": "Formal Lean 4",
-      "epistemia_index": 0.885,
-      "hmti": 0.084,
-      "status": "VALID_OPAQUE"
-    },
-    "masullo_human_manuscript": {
-      "type": "Informal 940-page monograph",
-      "epistemia_index": 0.340,
-      "hmti": 0.892,
-      "status": "INTUITION_UNCONVERGED"
+    "barrier_motifs": {
+      "galois_modularity_patching_modules": 109260,
+      "unitary_theta_lift_chains_modules": 15750,
+      "bost_slope_iwasawa_descent_modules": 13010,
+      "guinand_weil_ggp_positivity_modules": 7011,
+      "siegel_mass_chowla_selberg_modules": 4618,
+      "stepanov_multiplicity_rigidity_modules": 1808
     }
   },
-  "interactive_artifacts": [
-    "epistemic_graph_navigator.html",
-    "alpoge_rh_chapter_zero.md",
-    "alpoge_proof_key_blueprint.json",
-    "alpoge_rh_summary.json"
-  ],
-  "registered_at": "2026-11-23T06:48:00Z"
+  "comparative_epistemology": {
+    "alpoge_5_theorems": {
+      "type": "Formal Lean 4",
+      "epistemia_risk": 0.245,
+      "verdict": "VALID_OPAQUE"
+    },
+    "alpoge_package_with_erh": {
+      "type": "Formal Lean 4 + Informal ERH prose expectation",
+      "epistemia_risk": 0.4075,
+      "verdict": "SUSPEND_JUDGMENT"
+    },
+    "masullo_informal_manuscript": {
+      "type": "Informal 940-page monograph",
+      "epistemia_risk": 0.850,
+      "verdict": "SUSPEND_JUDGMENT",
+      "defects": "Chapter 13 empty theorems (13.3.1.2), 19 broken ?? refs, 10 draft TODO notes"
+    }
+  },
+  "second_kernel_caveats": {
+    "leanchecker_fresh": "Asynchronously launched in lake env",
+    "nanoda_lean4export": "Single-threaded NDJSON export reached 46.47 GB on 64 GB host (RAM threshold documented)"
+  },
+  "public_dossier": "https://github.com/Fundacion-de-Neurociencias/riemann-hypothesis-audit-dossier",
+  "automated_platform": "https://github.com/Fundacion-de-Neurociencias/coresearcher",
+  "registered_at": "2026-11-23T14:20:00Z"
 }

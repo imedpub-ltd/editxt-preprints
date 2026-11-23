@@ -1,0 +1,43 @@
+{
+  "target": "masullo-grh-2026-11-20",
+  "source": {
+    "announcement_url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+    "pdf_url": "https://math216.wordpress.com/wp-content/uploads/2026/11/the-music-of-the-primes.pdf",
+    "pdf_bytes": 6756996,
+    "pdf_sha256": "e039d3f6cf0a4b14f03c7edb85097752dd65c0a2fe543c76fe992be234f97bf",
+    "pdf_producer": "pdfTeX-1.40.25 (TeX Live 2023)",
+    "total_pages": 940,
+    "chapters": 14,
+    "appendices": 5,
+    "lean_formalization_lines": 0
+  },
+  "forensic_structural_findings": {
+    "conclusive_chapter_13_status": "CRITICAL_INCOMPLETE",
+    "conclusive_chapter_13_details": {
+      "pages": "521-522",
+      "section_13_1_recollections_explicit_formulas": "empty",
+      "section_13_2_holomorphic_families_test_functions": "empty",
+      "theorem_13_3_1_1": "Contains author footnote '1 Correct statement.' and unresolved cross-reference 'Theorem ??'.",
+      "theorem_13_3_1_2_divisor_of_L": "Body completely empty; contains author footnotes '2 Insert statement.' and '3 State and prove the Main Theorems, also explaining how to deduce them by approximation phi -> e^{-s|log(t)|} as Re(s) > 1.'"
+    },
+    "pending_cutoffs_in_chapter_12": {
+      "location": "Section 12.4.1 (pp. 514-515)",
+      "details": "Footnote 2 instructs 'Return here and change the choice of smooth (lambda, epsilon)-cutoff... Then study the convergence of the integral in (12.4.1.23)'."
+    },
+    "analytical_continuity_risk": {
+      "location": "Sections 1.8.4-1.8.5 & Chapter 12-13 bridge",
+      "details": "Transition from Trace Formula (Theorem 12.5.1.1, p. 519) to holomorphy of L'_f/L_f relies on holomorphic test-function families phi_{h,epsilon,z} and Montel's Theorem (1.8.4.3) to interchange limits with non-Archimedean and spectral sums; rigorous closure of this step is absent in Chapter 13."
+    },
+    "unresolved_cross_references_count": 19,
+    "unresolved_cross_reference_pages": [33, 69, 88, 178, 234, 522, 528, 533, 626, 723, 776, 897, "908 (5x)", "911 (2x)"],
+    "author_draft_todo_markers_count": 10,
+    "sample_draft_markers": [
+      "p. 6: 'The introduction itself is unfinished and will be soon replaced by a proper one...'",
+      "p. 356: '...to be proved below...'",
+      "p. 514: 'Return here and change the choice of smooth (lambda, epsilon)-cutoff...'",
+      "p. 522: '1 Correct statement. 2 Insert statement. 3 State and prove the Main Theorems...'"
+    ],
+    "empty_or_near_empty_pages_count": 13,
+    "notable_tiny_pages": ["56 (0 chars)", "116 (0 chars)", "154 (0 chars)", "286 (0 chars)", "380 (0 chars)", "432 (378 chars)", "474 (145 chars)", "521 (251 chars)", "523 (249 chars)", "654 (0 chars)", "821 (184 chars)", "822 (0 chars)", "932 (0 chars)"]
+  }
+}

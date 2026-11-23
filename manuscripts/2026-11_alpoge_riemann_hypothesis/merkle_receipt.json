@@ -1,38 +1,54 @@
 {
-  "manuscriptTitle": "Epistemic Opacity and the Mechanical Sublime: Empirical Verification of the Riemann Hypothesis in Lean 4 and Autonomous Epistemic Reconstruction",
+  "manuscriptTitle": "Independent Formal Verification, Epistemic Spine Cartography, and Comparative Auditing of Riemann Hypothesis Proof Claims",
   "authors": [
-    "CoResearcher Cognitive Systems Group & Theoretical Metascience Laboratory"
+    "Manuel Menéndez-González"
   ],
+  "affiliation": "Fundación de Neurociencias, Oviedo, Spain",
   "targetVenue": "EdiTxt Preprints / International Archives (Multidisciplinary)",
-  "auditTimestamp": "2026-11-23T05:49:24.792Z",
+  "auditTimestamp": "2026-11-23T13:24:15.877Z",
   "publicationStatus": "CERTIFIED_PREPRINT",
   "verdict": "READY_FOR_PREPRINT",
   "isPublished": true,
-  "publicationBlocked": false,
+  "isDryRunReservation": true,
   "invariantsAudit": {
     "titleHygiene": "PASSED",
-    "privateRepoCitations": "PASSED (0 private repo links found; zero internal code leaks)",
-    "macStudioExecutionTrace": "PASSED (127,812s, 175,187 modules, 94.2 GB RSS, exit code 0)",
-    "dualCertificationLeanchecker": "PASSED (183,889 .olean binaries verified in lake env)",
+    "headingsHygiene": "PASSED (15/15 headings clean)",
+    "privateRepoCitations": "PASSED (0 private repo links; public repositories only)",
+    "hardwareSpecification": "PASSED (Apple M4 Max, 16-core ARM64, 64 GB unified memory, 98 GB build footprint)",
+    "compilationMetricsVerified": "PASSED (127,812s, 175,187 modules, exit code 0, 183,889 .olean binaries)",
     "kernelAxiomaticClosure": "PASSED (propext, Classical.choice, Quot.sound | 0 sorry)",
-    "topologicalBottleneckIdentified": "PASSED (UniformisationConclusion: fan-in 2,390, 2,379 cross-edges)",
-    "interactiveNavigatorIncluded": "PASSED (epistemic_graph_navigator.html verified)",
-    "informalChapterZeroIncluded": "PASSED (alpoge_rh_chapter_zero.md verified)",
-    "completionGate": "PASSED (ALL COMPONENTS INTEGRATED)"
+    "statementTcbRatio": "PASSED (28 lines TCB / 17,330,139 lines cone = 1.62e-6)",
+    "topologicalBottleneckIdentified": "PASSED (UniformisationConclusion: depth 6, fan-in 2,390, 2,379 cross-layer arcs)",
+    "sixMathematicalMotifsQuantified": "PASSED (109,260 Galois / 15,750 Theta lifts / 13,010 Bost-Iwasawa / 7,011 GGP / 4,618 Siegel / 1,808 Stepanov)",
+    "epistemiaPolarities": {
+      "alpogeRootTheorems": "0.245 (VALID_OPAQUE)",
+      "alpogePackageWithErh": "0.4075 (SUSPEND_JUDGMENT)",
+      "masulloInformalDraft": "0.850 (SUSPEND_JUDGMENT, Chapter 13 incomplete)"
+    },
+    "secondKernelCaveatsDocumented": "PASSED (leanchecker --fresh launched; nanoda / lean4export 46.47 GB RAM limit documented)",
+    "interactiveExplorerIncluded": "PASSED (epistemic_spine_explorer.html with 6 motifs & 11 libraries)",
+    "mathematicalPrimerIncluded": "PASSED (mathematical_architecture_primer.md)",
+    "comparativeAuditsIncluded": "PASSED (comparative_audit_alpoge_vs_masullo.md & epistemic_verification_protocol.md)"
   },
   "fileIntegrityHashes": {
-    "scientificManuscriptSha256": "10cb758c591a5a08ced1242eb4d105298287838c461b222b95617e33f5ec7c3f",
-    "chapterZeroSha256": "313746d23b10cd76fbc023652df0b2d3f5632a99cecf54bcf8da9fe53946dd6b",
-    "navigatorHtmlSha256": "de0348cf2624918539ebd8d05c48e0d93276c39c93c830b233d8ba8e3f573d4d",
-    "summaryJsonSha256": "c244d0a015ece6c88d795031dbfd184a05c716be42d726d69b8233d2009f8cec",
-    "blueprintJsonSha256": "0a69a41d95dd4dc021b4bbcb16fcce3925ef8d052de4878bd1755cb11e7200e1",
-    "rawLogSha256": "590d5252e7e5a4e6d9faef1895216c77eb103d6667037d832eaedaa34fa3186d",
-    "merkleRootSha256": "196e3f3600191569ed89f4b9cff8344020205df53255cdbe198b8c3e9d407e12"
+    "preprintRhGrhEpistemicAuditSha256": "7c237b3a29c02bd6c584681f02ac2ec5126f2ce7fe6cda22100edd1a17250394",
+    "mathematicalArchitecturePrimerSha256": "89998bb30258260ac999dbb916c21bfd1837610178460856bb86bbb20441849d",
+    "epistemicSpineExplorerHtmlSha256": "f095355c0ba1f1ae0cd2acec77d8b8cf52e5935b09ce60c8c9b6f49a226d4f82",
+    "comparativeAuditAlpogeVsMasulloSha256": "500999a8f49867c737a9313b2d46ab2cd35fab4a582a0a60cd27f9f48d31bfd9",
+    "epistemicVerificationProtocolSha256": "6cda9ca28dd8039a15dcc9aeb2f54475318afeec1ed5abbb47fa240ef8eb6936",
+    "alpogeEpistemicSpineSummarySha256": "4ac1c7c8b7f6b5b59affad3ad764d3c4e9039b6f4a563d3cb289ebfa914c8c78",
+    "alpogeRhKernelCertificateSha256": "1433889ed296be834ee053d5e2cafe156a79925f5239332edd6ef29d5f29f6ee",
+    "comparativeEpistemicVerdictsSha256": "ac06e185cba84fcbef3019cf4ba21cee4f04a6d8473ab5e7e1307f4c53eb3053",
+    "alpogeStaticSoundnessSummarySha256": "6d2e7c9838b61e8970018d76dac8e81640764b06f9a871223b6e824f2bbd4393",
+    "masulloForensicSummarySha256": "6af7c55b84961e221d6a6c91a1f3ebea3e0ff2c0f3960c4cef960755ace38f58",
+    "alpogeRhAxiomsLogSha256": "590d5252e7e5a4e6d9faef1895216c77eb103d6667037d832eaedaa34fa3186d",
+    "merkleRootSha256": "472922eb406ad005a30d8fbd0b34fbcf5b8d1c1c7c200561d889e0ab91913508"
   },
   "zenodoDeposition": {
     "status": "DRY_RUN_RESERVATION",
     "prereserveDoi": true,
-    "doi": "10.5281/zenodo.draft-reservation-alpoge-rh",
-    "depositionUrl": "https://zenodo.org/deposit/pending"
+    "doi": "10.5281/zenodo.draft-reservation-rh-grh-epistemic-audit",
+    "depositionUrl": "https://zenodo.org/deposit/pending",
+    "permanentDoiMinted": false
   }
 }

@@ -1,0 +1,72 @@
+{
+  "certificate_version": "rh-grh-verification-certificate/v1",
+  "target": "alpoge-rh-2026-11-20",
+  "audited_by": "CoResearcher (https://github.com/Fundacion-de-Neurociencias/coresearcher)",
+  "source": {
+    "primary_repository": "https://alpo.ge/",
+    "mirror_verified_bit_exact": "https://github.com/jsmorph/rh",
+    "remark_pdf_bytes": 245114,
+    "remark_pdf_sha256": "3fc97784b71ddd44ff8aa0a177e99622a1c61b13cfa843a0989ee4a7a0cfeb8d",
+    "archive_bytes": 239275554,
+    "archive_sha256": "9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc",
+    "root_files": {
+      "lean/src/Main.lean": {
+        "lines": 12,
+        "sha256": "017645ca448f2fd1f6fd5c4c2cb2c6e96e472725be13f6e180ca6e1574360939"
+      },
+      "lean/src/Statements.lean": {
+        "lines": 16,
+        "sha256": "79ef7ca776e42abe1f46caee13ea09bd19f1e2d0b1620d8d5d200258f33b47bf"
+      }
+    }
+  },
+  "toolchain": {
+    "elan_toolchain": "leanprover/lean4:v4.33.1",
+    "lean_version": "Lean (version 4.33.1, arm64-apple-darwin24.6.0, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+    "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474"
+  },
+  "execution_environment": {
+    "architecture": "Apple M4 Max (16-core ARM64)",
+    "unified_memory_gb": 64,
+    "operating_system": "macOS Darwin 25.5.0"
+  },
+  "compilation_and_axiom_audit": {
+    "build_statements_exit_code": 0,
+    "build_statements_wall_time_s": 31,
+    "build_main_exit_code": 0,
+    "build_main_wall_time_s": 127812,
+    "project_lean_modules_compiled": 175187,
+    "total_olean_artifacts_including_mathlib": 183889,
+    "build_directory_footprint_gb": 98,
+    "axioms_probe_exit_code": 0,
+    "axioms_probe_wall_time_s": 110,
+    "root_theorems_checked": [
+      "riemannHypothesis",
+      "riemannZeta_eq_zero_re",
+      "LFunction_ne_zero_of_half_lt_re",
+      "LFunction_eq_zero_re",
+      "LFunction_eq_zero_re_of_isPrimitive"
+    ],
+    "axioms_used_by_all_roots": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "sorry_axioms_detected": 0,
+    "custom_axioms_detected": 0,
+    "axiom_log": "certificates/alpoge_rh_axioms.log",
+    "axiom_log_sha256": "590d5252e7e5a4e6d9faef1895216c77eb103d6667037d832eaedaa34fa3186d"
+  },
+  "secondary_checker_and_open_limits": {
+    "lake_env_leanchecker_main_exit_code": 0,
+    "lake_env_leanchecker_main_scope_note": "Checks declarations in Main against precompiled imported .olean artifacts without --fresh transitive replay; uses Lean core kernel (not an external kernel).",
+    "leanchecker_fresh_main_status": "launched_asynchronously_on_apple_m4_max",
+    "external_second_kernel_nanoda": {
+      "status": "open_resource_limit",
+      "reason": "Single-threaded lean4export Main NDJSON serialization stalled at 46.47 GB on 64 GB unified memory, triggering virtual memory thrashing and requiring termination."
+    },
+    "legacy_lean4checker_repo_exit_code": 99,
+    "legacy_lean4checker_repo_note": "External lean4checker repository failed to build under v4.33.1 due to addDeclCore signature changes; superseded by bundled leanchecker in Lean v4.33.1 toolchain.",
+    "erh_scope_boundary": "remark.pdf mentions expected extension to the Extended Riemann Hypothesis (ERH), which is NOT formalized in Statements.lean or Main.lean."
+  }
+}

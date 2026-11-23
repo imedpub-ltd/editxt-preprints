@@ -1,0 +1,81 @@
+{
+  "audit_type": "static_soundness_and_statement_fidelity",
+  "target": "alpoge-rh-2026-11-20",
+  "elapsed_scan_seconds": 95.53,
+  "archive_inventory": {
+    "total_archive_files": 175190,
+    "total_lean_files": 175187,
+    "total_lean_bytes": 1030531854,
+    "total_lean_lines": 17374215,
+    "main_active_cone_files": 174767,
+    "main_active_cone_lines": 17330139,
+    "main_active_cone_bytes": 1028095626,
+    "main_active_cone_max_depth": 43,
+    "rh_only_cone_files": 174759,
+    "rh_only_cone_max_depth": 42,
+    "deadweight_files": 420,
+    "deadweight_fraction": 0.0024,
+    "missing_local_imports": 0
+  },
+  "declaration_inventory": {
+    "theorem": 784092,
+    "def": 212819,
+    "lemma": 34663,
+    "abbrev": 13202,
+    "structure": 8286,
+    "instance": 4581,
+    "inductive": 121,
+    "class": 43
+  },
+  "trusted_computing_base_audit": {
+    "external_statement_tcb_files": [
+      "lean/src/Statements.lean",
+      "lean/src/Main.lean"
+    ],
+    "external_statement_tcb_lines": 28,
+    "external_statement_tcb_ratio": 1.62e-6,
+    "internal_def_declaration_fraction": 0.2217,
+    "root_tcb_verdict": "VERIFIED_SOUND_TCB"
+  },
+  "soundness_hazard_scan": {
+    "custom_axioms": 0,
+    "sorry_admit_sorryAx": 0,
+    "native_decide": 0,
+    "unsafe_declarations": 0,
+    "implemented_by_extern_csimp": 0,
+    "opaque_definitions_in_cone": 0,
+    "skip_kernel_tc_or_add_decl_without_checking": 0,
+    "shadowing_of_mathlib_root_symbols": 0,
+    "benign_env_modifiers": {
+      "count": 5,
+      "location": "BuildAid/D1.lean .. BuildAid/D5.lean",
+      "purpose": "LibrarySuggestions.nameDenyListExt entries for tactic search optimization only; no logical effect."
+    },
+    "metaprogramming_and_partial_defs": {
+      "import_lean_occurrences_in_cone": 12,
+      "audited_metaprogramming_helpers": [
+        "Formalism/LocalToGlobal/IndefiniteReal/HeckeNonvanishing/Imports.lean",
+        "Formalism/LocalToGlobal/NumberFieldFamilies/OwnStruct.lean",
+        "Formalism/HermitianCurvature/HermitianCurvatureProofs/CutCptCopy.lean"
+      ],
+      "kernel_checked_decl_insertion": true,
+      "meta_only_partial_defs": 2
+    },
+    "isolated_namespace_LFunction_shadow_names": [
+      "GroundTheory.AutomorphicForms.GL2.GJLocalZeta.LFunction",
+      "GroundTheory.GlobalFields.TateThesis.HeckeLFunction.LFunction"
+    ]
+  },
+  "statement_fidelity_and_vacuity": {
+    "DirichletLZerosOnLine": "EQUIVALENT (exact critical line Re(s) = 1/2)",
+    "DirichletLNonvanishingRightOfHalf": "EQUIVALENT (exact half-plane Re(s) > 1/2)",
+    "RiemannHypothesis_Mathlib_vs_CriticalStrip": "STRONGER (covers C \\ {1, -2, -4, ...}; classically equivalent given Re(s) >= 1 non-vanishing and functional equation)",
+    "semantic_bijectivity": "EXACT_ISOMORPHISM (no goalpost shifting)",
+    "junk_value_vacuity_hazards": {
+      "Statements.lean": 0,
+      "Main.lean": 0,
+      "MainTheorems.lean": 0,
+      "intermediate_character_inverse_and_prime_power_sites": "Discharged cleanly (character group inverse, never field zero inverse; explicit p.Prime guard)."
+    }
+  }
+}
