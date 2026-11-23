@@ -5,14 +5,14 @@
   ],
   "affiliation": "Fundación de Neurociencias, Oviedo, Spain",
   "targetVenue": "EdiTxt Preprints / International Archives (Multidisciplinary)",
-  "auditTimestamp": "2026-11-23T13:24:15.877Z",
+  "auditTimestamp": "2026-11-23T14:56:33.584Z",
   "publicationStatus": "CERTIFIED_PREPRINT",
   "verdict": "READY_FOR_PREPRINT",
   "isPublished": true,
   "isDryRunReservation": true,
   "invariantsAudit": {
     "titleHygiene": "PASSED",
-    "headingsHygiene": "PASSED (15/15 headings clean)",
+    "headingsHygiene": "PASSED (20/20 headings clean)",
     "privateRepoCitations": "PASSED (0 private repo links; public repositories only)",
     "hardwareSpecification": "PASSED (Apple M4 Max, 16-core ARM64, 64 GB unified memory, 98 GB build footprint)",
     "compilationMetricsVerified": "PASSED (127,812s, 175,187 modules, exit code 0, 183,889 .olean binaries)",
@@ -31,8 +31,8 @@
     "comparativeAuditsIncluded": "PASSED (comparative_audit_alpoge_vs_masullo.md & epistemic_verification_protocol.md)"
   },
   "fileIntegrityHashes": {
-    "preprintRhGrhEpistemicAuditSha256": "7c237b3a29c02bd6c584681f02ac2ec5126f2ce7fe6cda22100edd1a17250394",
-    "mathematicalArchitecturePrimerSha256": "89998bb30258260ac999dbb916c21bfd1837610178460856bb86bbb20441849d",
+    "preprintRhGrhEpistemicAuditSha256": "0e9aae799143d67c7304edbd539f9f1d08207dad9888852c16676a629b70553f",
+    "mathematicalArchitecturePrimerSha256": "4445d5cc7cb8c7c9768386312afef3318804a47da338ce838391f0ba0aa806a0",
     "epistemicSpineExplorerHtmlSha256": "f095355c0ba1f1ae0cd2acec77d8b8cf52e5935b09ce60c8c9b6f49a226d4f82",
     "comparativeAuditAlpogeVsMasulloSha256": "500999a8f49867c737a9313b2d46ab2cd35fab4a582a0a60cd27f9f48d31bfd9",
     "epistemicVerificationProtocolSha256": "6cda9ca28dd8039a15dcc9aeb2f54475318afeec1ed5abbb47fa240ef8eb6936",
@@ -42,7 +42,7 @@
     "alpogeStaticSoundnessSummarySha256": "6d2e7c9838b61e8970018d76dac8e81640764b06f9a871223b6e824f2bbd4393",
     "masulloForensicSummarySha256": "6af7c55b84961e221d6a6c91a1f3ebea3e0ff2c0f3960c4cef960755ace38f58",
     "alpogeRhAxiomsLogSha256": "590d5252e7e5a4e6d9faef1895216c77eb103d6667037d832eaedaa34fa3186d",
-    "merkleRootSha256": "472922eb406ad005a30d8fbd0b34fbcf5b8d1c1c7c200561d889e0ab91913508"
+    "merkleRootSha256": "7d8ce2753e4a77e0f3dc66e513dbba1049e03d1a479a7568f1e44ba75b208837"
   },
   "zenodoDeposition": {
     "status": "DRY_RUN_RESERVATION",

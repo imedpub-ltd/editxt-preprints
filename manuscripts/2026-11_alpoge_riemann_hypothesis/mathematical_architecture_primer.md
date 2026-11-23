@@ -1,20 +1,45 @@
 # Mathematical Architecture Primer: Deconstructing the 17.37-Million-Line Lean 4 Proof
 
-This primer synthesizes the mathematical architecture of Levent Alpöge's Lean 4 formalization of the Riemann Hypothesis (RH) and Generalized Riemann Hypothesis (GRH) by strictly combining two empirical sources:
+This primer synthesizes the mathematical architecture of Levent Alpöge's Lean 4 formalization of the Riemann Hypothesis (RH) and Generalized Riemann Hypothesis (GRH) for human readers by strictly combining two empirical sources:
 1. **Primary Author Strategy (`alpo.ge/remark.pdf`)**: The 4-page technical summary and 20-step chronology authored by Levent Alpöge describing how he and Claude bridged ideas across automorphic forms and arithmetic geometry.
-2. **Compiled Lean 4 Dependency Cartography**: Quantitative structural stratification of the 175,187 modules (`818,755` theorems/lemmas, max DAG depth `43`) extracted after full compilation on an Apple M4 Max (`leanprover/lean4:v4.33.1`).
+2. **Compiled Lean 4 Dependency Cartography**: Quantitative structural stratification of the `175,187` modules (`818,755` theorems/lemmas, max DAG depth `43`) extracted after full compilation on an Apple M4 Max (`leanprover/lean4:v4.33.1`).
 
 ---
 
-## 1. Epistemic Reality vs. Classical Exposition
+## 1. Three-Level Comprehension Ladder for Human Readers
 
-A crucial disclaimer emphasized by Alpöge himself (`remark.pdf`, pp. 1–3) must anchor any reading of the formal proof: the argument does not proceed by constructing a self-adjoint Hilbert–Pólya operator directly on prime counting spaces, nor does a clean human-readable 50-page monograph yet exist (an unfiltered LLM prose expansion reportedly exceeded `250,000` pages). 
+Before diving into `175,187` Lean modules, a mathematician or scientist outside automorphic forms can grasp the entire proof architecture across **three progressive zoom levels**:
+
+### Level 1 — Core Intuition: Why Primes Resist Randomness and Why Classical Proofs Stall
+- **What RH really measures:** Primes are completely deterministic once addition ($+1$, stepping) and multiplication (equal-block packing) exist on $\mathbb{Z}$. Confining all non-trivial zeros of $\zeta(s)$ and $L(s,\chi)$ to $\operatorname{Re}(s) = \frac{1}{2}$ guarantees **optimal deterministic cancellation** ($\pi(x) = \operatorname{Li}(x) + O(\sqrt{x}\log x)$): no macroscopic oscillatory bias ever develops between additive accumulation and multiplicative factorization, even far beyond the finite computational capacity of the physical universe (where finite-scale illusions like $\pi(x) < \operatorname{li}(x)$ eventually fail around Littlewood/Skewes scales $\lesssim 1.397 \times 10^{316}$).
+- **Why no "magic physics operator" appears here:** Contrary to popular Hilbert–Pólya mysticism, the proof constructs no quantum-mechanical Hamiltonian. Instead, it is **pure algebraic and arithmetic architecture** extending classical divisibility arguments (Chebyshev and Stepanov) through automorphic forms.
+- **The classical roadblock:** By the Guinand–Weil explicit formula, RH is equivalent to certifying that a family of explicit spectral test functionals $W(\cdot)$ is non-negative. In characteristic $p$ (function fields over finite fields), Stepanov's elementary method detects zero multiplicity by differentiating an auxiliary polynomial—a move that collapses over $\mathbb{Z}$ because *integers have no naive derivative*.
+
+### Level 2 — The Architectural Mechanism: Simulating Differentiation Over $\mathbb{Z}$
+How does Alpöge's formal proof bypass the lack of differentiation over $\mathbb{Z}$ without hitting classical convexity or parity barriers?
+1. **Replace derivatives with iterated unitary theta lifts:** Instead of differentiating a polynomial $m$ times, the proof constructs an iterated chain of *theta lifts* along totally definite unitary groups,
+   $$U(X_0) \longrightarrow U(X_1) \longrightarrow \cdots \longrightarrow U(X_m), \qquad \pi \longmapsto \pi \boxplus \mu_j[t],$$
+   with chain length $m \sim \sqrt{X}$ calibrated to a von Mangoldt cutoff $X$. Moving one rung up the unitary ladder acts as the automorphic substitute for taking a derivative.
+2. **Convert positivity into automorphic periods:** Determinants built along this ladder encode the Guinand–Weil explicit functionals as Gan–Gross–Prasad (GGP) periods. Via Rallis's *seesaw* duality, those periods convert into Bessel periods decoupled from the varying Hecke characters—enabling positivity via Cauchy–Schwarz and relative trace identities.
+3. **Prevent arithmetic blow-up:** Chaining $m \sim \sqrt{X}$ lifts threatens exponential growth in arithmetic heights and class-number denominators. Four massive support engines keep those errors bounded: Bost's slope inequality + an Iwasawa tower (Arakelov heights), unitary Siegel mass / Chowla–Selberg formulas (divisibility denominators), strong multiplicity-one / Gelfand–Kazhdan rigidity (Stepanov determinant compatibility), and $p$-adic Hodge / Galois modularity patching (accounting for over `62%` of the codebase).
+4. **Collapse everything through one geometric interface:** All integral models, toroidal compactifications, and semiabelian degenerations converge at deductive depth `6`–`7` into `UniformisationConclusion` (fan-in `2,390`), feeding clean boundary-free inputs to `PositivityTheory`, `ClaimStrip.lean`, and `CritLine.lean`.
+
+### Level 3 — How Humans Can Audit Verification Without Reading 17.37 Million Lines
+- **The 28-Line Trusted Computing Base (TCB):** Readers do not need to verify `17.37` million lines of Lean tactics manually to confirm *what* was proved. Only **`28` lines** (`Statements.lean` + `Main.lean`, $R_{\text{TCB}} = 1.62 \times 10^{-6}$) express the five public theorems directly in canonical `Mathlib` symbols (`RiemannHypothesis`, `DirichletCharacter.LFunction`).
+- **Standard Axioms Only:** `#print axioms` confirms all five theorems depend strictly on `[propext, Classical.choice, Quot.sound]`—Lean's standard classical dependent-type axioms, with `0` `sorry`, `0` custom axioms, and `0` compiler/kernel bypasses.
+- **Interactive Exploration:** Readers can inspect the stratified library graph, the `UniformisationConclusion` chokepoint, and all six motifs visually in [epistemic_spine_explorer.html](../visualizations/epistemic_spine_explorer.html).
+
+---
+
+## 2. Epistemic Reality vs. Classical Exposition
+
+A crucial disclaimer emphasized by Alpöge himself (`remark.pdf`, pp. 1–3) must anchor any reading of the formal proof: no clean human-readable 50-page monograph yet exists (an unfiltered LLM prose expansion reportedly exceeded `250,000` pages), and translating the formal corpus into conventional prose remains an active community Phase-2 distillation effort.
 
 Instead, the Lean repository organizes **17.33 million lines of active-cone formal mathematics** into a strictly stratified DAG across 11 libraries, overcoming six classical obstructions via automorphic functoriality, iterated unitary *theta lifts*, higher-rank period positivity, and Arakelov–Iwasawa arithmetic geometry.
 
 ---
 
-## 2. Stratified Architecture of the Formal Corpus
+## 3. Stratified Architecture of the Formal Corpus
 
 | Library | Modules | Theorems & Lemmas | Min Depth | Max Depth | Structural Function in the Proof DAG |
 | :--- | ---: | ---: | ---: | ---: | :--- |
@@ -32,7 +57,7 @@ Instead, the Lean repository organizes **17.33 million lines of active-cone form
 
 ---
 
-## 3. The Structural Chokepoint: `UniformisationConclusion` and Toroidal Descent
+## 4. The Structural Chokepoint: `UniformisationConclusion` and Toroidal Descent
 
 Graph-theoretic dependency tracing reveals an extreme topological narrowing at deductive depths 6–7 inside `ReciprocityTheory`:
 
@@ -46,7 +71,7 @@ Direct source inspection of `UniformisationConclusion.lean` shows that it contai
 
 ---
 
-## 4. How the Six Extracted Motifs Overcome Classical RH Obstructions
+## 5. How the Six Extracted Motifs Overcome Classical RH Obstructions
 
 Combining Alpöge's 20-step chronology in `remark.pdf` with empirical module-clustering across all `175,187` Lean files identifies six major mathematical engines:
 
@@ -64,7 +89,7 @@ Combining Alpöge's 20-step chronology in `remark.pdf` with empirical module-clu
 
 ### Motif 3: Guinand–Weil Explicit Formula & GGP/Bessel Period Positivity (`7,011` modules)
 - **Classical Barrier Bypassed:** Sign-indefinite explicit formulas (the obstruction that local Weil/Bombieri distributions can fail pointwise positivity).
-- **Mechanism:** Encodes Guinand–Weil explicit functionals $W(\cdot) \ge 0$ (tested on indicator/weighted intervals) via determinants whose terms express Gan–Gross–Prasad (GGP) periods. Using Rallis's *seesaw* identity, periods of the iterated unitary theta lift transform into Bessel periods independent of varying Hecke characters, allowing Cauchy–Schwarz and relative trace reduction on Poincar\'e series.
+- **Mechanism:** Encodes Guinand–Weil explicit functionals $W(\cdot) \ge 0$ (tested on indicator/weighted intervals) via determinants whose terms express Gan–Gross–Prasad (GGP) periods. Using Rallis's *seesaw* identity, periods of the iterated unitary theta lift transform into Bessel periods independent of varying Hecke characters, allowing Cauchy–Schwarz and relative trace reduction on Poincaré series.
 - **Lean Evidence Locus:** `DeligneRibetHolds`, `PositivityTheory...AdFormOf`, `Formalism.PeriodIntegrals.UnitaryGroupMassFormula`, `BesselCharacterRealPlaceUnipotentEqTraceStatement`.
 
 ### Motif 4: Bost Slope Inequality & Arakelov–Iwasawa Descent (`13,010` modules)
@@ -84,7 +109,7 @@ Combining Alpöge's 20-step chronology in `remark.pdf` with empirical module-clu
 
 ---
 
-## 5. Why `UniformisationConclusion` Bridges Both Worlds
+## 6. Why `UniformisationConclusion` Bridges Both Worlds
 
 Read together, `remark.pdf` and the Lean DAG clarify why there is no single "one-line magic identity" hidden inside `Main.lean`:
 - `GroundTheory`, `ReciprocityTheory`, and `Development` invest hundreds of thousands of lemmas building compatible integral models, toroidal compactifications, semiabelian degenerations, CM involutions, and $p$-adic Hodge comparisons.

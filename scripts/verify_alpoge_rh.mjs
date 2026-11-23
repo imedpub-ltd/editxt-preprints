@@ -78,7 +78,7 @@ const receipt = {
   isDryRunReservation: true,
   invariantsAudit: {
     titleHygiene: titleClean ? 'PASSED' : 'FAILED',
-    headingsHygiene: badHeadings.length === 0 ? 'PASSED (15/15 headings clean)' : `FAILED (${badHeadings.join(', ')})`,
+    headingsHygiene: badHeadings.length === 0 ? `PASSED (${headings.length}/${headings.length} headings clean)` : `FAILED (${badHeadings.join(', ')})`,
     privateRepoCitations: 'PASSED (0 private repo links; public repositories only)',
     hardwareSpecification: 'PASSED (Apple M4 Max, 16-core ARM64, 64 GB unified memory, 98 GB build footprint)',
     compilationMetricsVerified: 'PASSED (127,812s, 175,187 modules, exit code 0, 183,889 .olean binaries)',
