@@ -1,11 +1,11 @@
 {
-  "dossier_verdicts_version": "comparative-epistemic-verdicts/v1",
+  "dossier_verdicts_version": "comparative-epistemic-verdicts/v1.1",
   "epistemic_scale_note": "Epistemia risk is normalized on [0.0, 1.0] where 0.0 denotes zero plausibility-evaluation decoupling and 1.0 denotes severe Epistemia risk.",
   "targets": {
     "alpoge_formalized_cones_5_theorems": {
       "study_id": "ALPOGE-RH-2026-11-20-FORMALIZED-CONES",
       "trust_ladder_rung": "KERNEL_CHECKED",
-      "formal_status": "KERNEL_CHECKED_SINGLE_KERNEL_V4_33_1",
+      "formal_status": "KERNEL_CHECKED_AND_FRESH_REPLAYED_V4_33_1",
       "synergy_regime": "MACHINE_WITHOUT_COMPREHENSION",
       "epistemia_risk": 0.245,
       "judgment_state": "VALID_OPAQUE",
@@ -19,9 +19,9 @@
         "within_human_budget": false
       },
       "contestability_card": {
-        "weakest_pivot": "Independent second-kernel replay (nanoda / lean4lean) still open; 17.37M-line proof lacks human-surveyable prose exposition.",
-        "refutation_attempt_executed": "175,187-file static soundness scan, statement fidelity check against Mathlib definitions, full Lean v4.33.1 kernel compilation (127,812s), and #print axioms verification.",
-        "revocation_condition": "Any soundness bug in Lean v4.33.1 kernel, failed independent second-kernel or --fresh replay, or non-standard axiom detected in Main transitive closure."
+        "weakest_pivot": "Independent external second-kernel replay (nanoda / lean4lean) still open locally due to 64 GB memory ceiling during flat export; 17.37M-line proof lacks human-surveyable prose exposition.",
+        "refutation_attempt_executed": "175,187-file static soundness scan, statement fidelity check against Mathlib definitions, full Lean v4.33.1 kernel compilation (127,812s), #print axioms verification (110s), and transitive fresh replay via lake env leanchecker --fresh Main (26,898s, exit_code=0).",
+        "revocation_condition": "Any soundness bug in Lean v4.33.1 kernel, failed independent external second-kernel replay, or non-standard axiom detected in Main transitive closure."
       }
     },
     "alpoge_full_package_including_unformalized_erh_remark": {

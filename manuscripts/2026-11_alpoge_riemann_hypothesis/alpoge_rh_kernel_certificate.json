@@ -1,5 +1,5 @@
 {
-  "certificate_version": "rh-grh-verification-certificate/v1",
+  "certificate_version": "rh-grh-verification-certificate/v1.1",
   "target": "alpoge-rh-2026-11-20",
   "audited_by": "CoResearcher (https://github.com/Fundacion-de-Neurociencias/coresearcher)",
   "source": {
@@ -59,8 +59,14 @@
   },
   "secondary_checker_and_open_limits": {
     "lake_env_leanchecker_main_exit_code": 0,
-    "lake_env_leanchecker_main_scope_note": "Checks declarations in Main against precompiled imported .olean artifacts without --fresh transitive replay; uses Lean core kernel (not an external kernel).",
-    "leanchecker_fresh_main_status": "launched_asynchronously_on_apple_m4_max",
+    "lake_env_leanchecker_main_scope_note": "Default mode checks declarations in Main against precompiled imported .olean artifacts.",
+    "leanchecker_fresh_main_exit_code": 0,
+    "leanchecker_fresh_main_wall_time_s": 26898,
+    "leanchecker_fresh_main_started_utc": "2026-11-23T06:35:06Z",
+    "leanchecker_fresh_main_finished_utc": "2026-11-23T14:03:24Z",
+    "leanchecker_fresh_log": "certificates/alpoge_rh_leanchecker_fresh.log",
+    "leanchecker_fresh_log_sha256": "ff8ea3d0b4db9f21f2a09513a5b20c1d2d6d106566030aa7f21e50156966f95c",
+    "leanchecker_fresh_main_scope_note": "Full transitive replay from mkEmptyEnvironment across all imported and exported declarations in Main; rules out .olean corruption, environment hacking, and metaprogramming bypasses under Lean v4.33.1 core kernel. Only an independent external second kernel (nanoda / lean4lean) remains open locally.",
     "external_second_kernel_nanoda": {
       "status": "open_resource_limit",
       "reason": "Single-threaded lean4export Main NDJSON serialization stalled at 46.47 GB on 64 GB unified memory, triggering virtual memory thrashing and requiring termination."
