@@ -2,6 +2,7 @@ node_modules/
 dist/
 .DS_Store
 *.log
-!manuscripts/**/*.log
+!manuscripts/2026-11_alpoge_riemann_hypothesis/alpoge_rh_axioms.log
+!manuscripts/2026-11_alpoge_riemann_hypothesis/alpoge_rh_leanchecker_fresh.log
 .env
 .env.local
