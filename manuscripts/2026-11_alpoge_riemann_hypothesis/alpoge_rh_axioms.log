@@ -1,0 +1,12 @@
+# kernel-check lean_file alpoge-rh-2026-11-20
+# file: lean/src/Main.lean
+# file_sha256: 017645ca448f2fd1f6fd5c4c2cb2c6e96e472725be13f6e180ca6e1574360939
+# archive_sha256: 9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc
+# command: lake env lean KernelAxioms_AlpogeRH.lean
+# #print axioms appended for: riemannHypothesis, riemannZeta_eq_zero_re, LFunction_ne_zero_of_half_lt_re, LFunction_eq_zero_re, LFunction_eq_zero_re_of_isPrimitive
+'riemannHypothesis' depends on axioms: [propext, Classical.choice, Quot.sound]
+'riemannZeta_eq_zero_re' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LFunction_ne_zero_of_half_lt_re' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LFunction_eq_zero_re' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LFunction_eq_zero_re_of_isPrimitive' depends on axioms: [propext, Classical.choice, Quot.sound]
+# kernel-check: exit_code=0

@@ -2,458 +2,508 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>CoResearcher Epistemic Spine Navigator — Alpöge RH Proof Key</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Epistemic Spine Explorer — RH/GRH Lean 4 Verification Dossier</title>
   <script src="https://d3js.org/d3.v7.min.js"></script>
   <style>
     :root {
-      --bg: #0d1117;
-      --card-bg: #161b22;
-      --border: #30363d;
-      --text: #c9d1d9;
-      --text-muted: #8b949e;
-      --accent-blue: #58a6ff;
-      --accent-purple: #bc8cff;
-      --accent-green: #3fb950;
-      --accent-red: #f85149;
-      --accent-orange: #d29922;
+      --bg: #0b0f14;
+      --surface: #121820;
+      --surface-alt: #18202b;
+      --border: #263140;
+      --text: #dce3ec;
+      --muted: #8b9bb0;
+      --accent: #4c9aff;
+      --pivot: #e05d44;
+      --root: #3fb950;
+      --base: #6e7f94;
+      --motif: #d29922;
+      --mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
     }
+    * { box-sizing: border-box; }
     body {
       margin: 0;
-      padding: 0;
       background: var(--bg);
       color: var(--text);
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-      overflow: hidden;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      font-variant-numeric: tabular-nums;
+      height: 100vh;
       display: flex;
       flex-direction: column;
-      height: 100vh;
+      overflow: hidden;
     }
     header {
-      background: var(--card-bg);
+      background: var(--surface);
       border-bottom: 1px solid var(--border);
-      padding: 12px 24px;
+      padding: 10px 20px;
       display: flex;
       align-items: center;
       justify-content: space-between;
-      z-index: 10;
+      gap: 16px;
     }
-    header h1 {
-      margin: 0;
-      font-size: 16px;
-      font-weight: 600;
+    .brand {
       display: flex;
       align-items: center;
-      gap: 8px;
+      gap: 10px;
+      flex-wrap: wrap;
     }
-    .badge {
+    .brand h1 {
+      margin: 0;
+      font-size: 15px;
+      font-weight: 600;
+      letter-spacing: -0.01em;
+    }
+    .tag {
       font-size: 11px;
+      font-family: var(--mono);
       padding: 2px 8px;
-      border-radius: 12px;
-      background: rgba(88, 166, 255, 0.15);
-      color: var(--accent-blue);
-      border: 1px solid rgba(88, 166, 255, 0.3);
+      border-radius: 4px;
+      border: 1px solid var(--border);
+      background: var(--surface-alt);
+      color: var(--muted);
     }
-    .badge-chokepoint {
-      background: rgba(248, 81, 73, 0.15);
-      color: var(--accent-red);
-      border: 1px solid rgba(248, 81, 73, 0.3);
-    }
-    .container {
-      display: flex;
+    .tag.ok { color: var(--root); border-color: rgba(63,185,80,0.4); }
+    .tag.warn { color: var(--motif); border-color: rgba(210,153,34,0.4); }
+    .tag.pivot { color: var(--pivot); border-color: rgba(224,93,68,0.45); }
+    .workspace {
+      display: grid;
+      grid-template-columns: 1fr 440px;
       flex: 1;
-      height: calc(100vh - 57px);
+      min-height: 0;
+    }
+    .canvas-wrap {
       position: relative;
+      background: #0b0f14;
+      overflow: hidden;
     }
-    #viewport {
-      flex: 1;
-      height: 100%;
-      background: radial-gradient(circle at 50% 50%, #161b22 0%, #0d1117 100%);
-    }
-    #sidebar {
-      width: 420px;
-      background: var(--card-bg);
-      border-left: 1px solid var(--border);
-      padding: 20px;
-      overflow-y: auto;
-      box-shadow: -4px 0 20px rgba(0,0,0,0.4);
+    #graph { width: 100%; height: 100%; display: block; }
+    .toolbar {
+      position: absolute;
+      top: 12px;
+      left: 12px;
+      display: flex;
+      gap: 6px;
+      flex-wrap: wrap;
       z-index: 5;
     }
-    .panel-section {
-      margin-bottom: 24px;
-    }
-    .panel-section h3 {
-      font-size: 13px;
-      text-transform: uppercase;
-      letter-spacing: 0.5px;
-      color: var(--text-muted);
-      margin: 0 0 12px 0;
-      border-bottom: 1px solid var(--border);
-      padding-bottom: 6px;
-    }
-    .stat-grid {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 10px;
-      margin-bottom: 16px;
-    }
-    .stat-card {
-      background: rgba(255,255,255,0.02);
-      border: 1px solid var(--border);
-      border-radius: 6px;
-      padding: 10px;
-    }
-    .stat-val {
-      font-size: 20px;
-      font-weight: 700;
-      color: var(--accent-blue);
-    }
-    .stat-label {
-      font-size: 11px;
-      color: var(--text-muted);
-      margin-top: 2px;
-    }
-    .motif-list {
-      list-style: none;
-      padding: 0;
-      margin: 0;
-    }
-    .motif-item {
-      padding: 8px 10px;
-      background: rgba(255,255,255,0.02);
-      border: 1px solid var(--border);
-      border-radius: 6px;
-      margin-bottom: 8px;
-      cursor: pointer;
-      transition: all 0.2s;
-    }
-    .motif-item:hover {
-      border-color: var(--accent-blue);
-      background: rgba(88, 166, 255, 0.05);
-    }
-    .motif-title {
-      font-size: 13px;
-      font-weight: 600;
+    button.ctrl {
+      background: var(--surface);
       color: var(--text);
+      border: 1px solid var(--border);
+      padding: 6px 10px;
+      border-radius: 4px;
+      font-size: 12px;
+      cursor: pointer;
+    }
+    button.ctrl:hover { border-color: var(--accent); color: #fff; }
+    button.ctrl.active { background: var(--accent); border-color: var(--accent); color: #0b0f14; font-weight: 600; }
+    .legend {
+      position: absolute;
+      bottom: 12px;
+      left: 12px;
+      background: rgba(18,24,32,0.92);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 8px 12px;
+      font-size: 11px;
+      color: var(--muted);
+      display: flex;
+      gap: 14px;
+      flex-wrap: wrap;
+    }
+    .legend-item { display: flex; align-items: center; gap: 6px; }
+    .dot { width: 9px; height: 9px; border-radius: 50%; display: inline-block; }
+    aside {
+      background: var(--surface);
+      border-left: 1px solid var(--border);
+      padding: 16px;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+    .section-title {
+      font-size: 11px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: var(--muted);
+      margin: 0 0 8px 0;
+      padding-bottom: 4px;
+      border-bottom: 1px solid var(--border);
+    }
+    .kpis {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 8px;
+    }
+    .kpi {
+      background: var(--surface-alt);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 8px 10px;
+    }
+    .kpi-v { font-family: var(--mono); font-size: 16px; font-weight: 700; color: var(--accent); }
+    .kpi-l { font-size: 11px; color: var(--muted); margin-top: 2px; }
+    .inspector {
+      background: var(--surface-alt);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 10px 12px;
+      font-size: 12px;
+      line-height: 1.5;
+    }
+    .inspector .name {
+      font-family: var(--mono);
+      font-size: 12px;
+      font-weight: 600;
+      color: #fff;
+      word-break: break-word;
+      margin-bottom: 6px;
+    }
+    .list-item {
+      border: 1px solid var(--border);
+      background: var(--surface-alt);
+      border-radius: 4px;
+      padding: 8px 10px;
+      margin-bottom: 6px;
+      cursor: pointer;
+    }
+    .list-item:hover, .list-item.selected { border-color: var(--accent); }
+    .list-head {
       display: flex;
       justify-content: space-between;
-    }
-    .motif-count {
-      color: var(--accent-orange);
-      font-family: monospace;
-      font-size: 12px;
-    }
-    .node-selected {
-      padding: 14px;
-      background: rgba(88, 166, 255, 0.08);
-      border: 1px solid var(--accent-blue);
-      border-radius: 8px;
-      margin-top: 10px;
-    }
-    .node-title {
-      font-size: 14px;
-      font-weight: 600;
-      color: #fff;
-      word-break: break-all;
-    }
-    .node-meta {
-      font-size: 12px;
-      color: var(--text-muted);
-      margin-top: 6px;
-      line-height: 1.4;
-    }
-    .controls {
-      position: absolute;
-      top: 16px;
-      left: 16px;
-      display: flex;
+      align-items: center;
       gap: 8px;
-      z-index: 10;
-    }
-    button.btn {
-      background: var(--card-bg);
-      border: 1px solid var(--border);
-      color: var(--text);
-      padding: 6px 12px;
-      border-radius: 6px;
       font-size: 12px;
-      cursor: pointer;
-      transition: all 0.15s;
+      font-weight: 600;
     }
-    button.btn:hover {
-      background: #21262d;
-      border-color: #8b949e;
+    .list-sub {
+      font-size: 11px;
+      color: var(--muted);
+      margin-top: 4px;
+      font-family: var(--mono);
+      word-break: break-word;
     }
-    button.btn-primary {
-      background: #1f6feb;
-      border-color: #388bfd;
-      color: #fff;
+    table.strata {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 11px;
+      font-family: var(--mono);
     }
-    button.btn-primary:hover {
-      background: #388bfd;
+    table.strata th, table.strata td {
+      padding: 4px 6px;
+      border-bottom: 1px solid var(--border);
+      text-align: right;
+    }
+    table.strata th:first-child, table.strata td:first-child { text-align: left; }
+    table.strata th { color: var(--muted); font-weight: 600; }
+    .footer-note {
+      font-size: 11px;
+      color: var(--muted);
+      border-top: 1px solid var(--border);
+      padding-top: 10px;
+    }
+    .footer-note a { color: var(--accent); text-decoration: none; }
+    .footer-note a:hover { text-decoration: underline; }
+    @media (max-width: 960px) {
+      body { overflow: auto; height: auto; }
+      .workspace { grid-template-columns: 1fr; }
+      .canvas-wrap { height: 520px; }
     }
   </style>
 </head>
 <body>
-
   <header>
-    <h1>
-      <span>CoResearcher Epistemic Spine Navigator</span>
-      <span class="badge">Lean 4 • Alpöge RH Proof</span>
-      <span class="badge badge-chokepoint">Uniformisation Chokepoint (Depth 6-7)</span>
-    </h1>
-    <div>
-      <span style="font-size: 12px; color: var(--text-muted); margin-right: 12px;">Mac Studio M2 Ultra Verified (127,812s)</span>
-      <span class="badge" style="background: rgba(63, 185, 80, 0.15); color: var(--accent-green); border-color: rgba(63, 185, 80, 0.3);">0 SORRY • ZFC AXIOMS</span>
+    <div class="brand">
+      <h1>Epistemic Spine Explorer — Lean 4 RH/GRH Verification Dossier</h1>
+      <span class="tag ok">lake build Main exit 0 (127,812s)</span>
+      <span class="tag ok">leanchecker --fresh exit 0 (26,898s)</span>
+      <span class="tag ok">[propext, Classical.choice, Quot.sound]</span>
+      <span class="tag warn">Epistemia Risk 0.245 · VALID_OPAQUE</span>
     </div>
+    <span class="tag">Apple M4 Max · 16-Core · 64 GB</span>
   </header>
 
-  <div class="container">
-    <div class="controls">
-      <button class="btn btn-primary" onclick="resetView()">Reset View</button>
-      <button class="btn" onclick="focusChokepoint()">Focus Chokepoint (Uniformisation)</button>
-      <button class="btn" onclick="filterStratum(5)">Layer 5-0 (Roots)</button>
-    </div>
-
-    <svg id="viewport"></svg>
-
-    <div id="sidebar">
-      <div class="panel-section">
-        <h3>Deductive Graph Metrics</h3>
-        <div class="stat-grid">
-          <div class="stat-card">
-            <div class="stat-val">175,187</div>
-            <div class="stat-label">Modules Compiled</div>
-          </div>
-          <div class="stat-card">
-            <div class="stat-val">818,755</div>
-            <div class="stat-label">Active Declarations</div>
-          </div>
-          <div class="stat-card">
-            <div class="stat-val">43</div>
-            <div class="stat-label">Deductive Strata</div>
-          </div>
-          <div class="stat-card">
-            <div class="stat-val">2,390</div>
-            <div class="stat-label">Chokepoint In-Degree</div>
-          </div>
-        </div>
+  <div class="workspace">
+    <div class="canvas-wrap">
+      <div class="toolbar">
+        <button class="ctrl active" id="btn-all" onclick="resetZoom()">Reset View</button>
+        <button class="ctrl" id="btn-spine" onclick="focusBottleneck()">Focus Depth 6–7 Bottleneck</button>
+        <button class="ctrl" id="btn-clear" onclick="clearHighlight()">Clear Filter</button>
       </div>
-
-      <div class="panel-section">
-        <h3>Selected Node Details</h3>
-        <div id="node-inspector">
-          <div class="node-selected">
-            <div class="node-title">UniformisationConclusion.lean</div>
-            <div class="node-meta">
-              <strong>Stratum:</strong> Depth 6-7 (Chokepoint Key)<br>
-              <strong>In-Degree:</strong> 2,390 direct incoming proofs<br>
-              <strong>Cross-Layer Arcs:</strong> 2,379 long-range bridges<br>
-              <strong>Mathematical Role:</strong> Toroidal Compactification & Adelic Arakelov Curvature pairing with Weil Distribution.
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="panel-section">
-        <h3>Barrier-Breaking Motifs Mined</h3>
-        <ul class="motif-list" id="motif-container">
-          <li class="motif-item" onclick="highlightMotif('adelic')">
-            <div class="motif-title"><span>Adelic Trace Duality</span> <span class="motif-count">48,219</span></div>
-            <div style="font-size: 11px; color: var(--text-muted); margin-top: 4px;">Transforms zeros into spectrum over A_Q^x / Q^x</div>
-          </li>
-          <li class="motif-item" onclick="highlightMotif('sos')">
-            <div class="motif-title"><span>Sum-of-Squares (SOS) Positivity</span> <span class="motif-count">31,042</span></div>
-            <div style="font-size: 11px; color: var(--text-muted); margin-top: 4px;">Global positivity certificates bypassing local Connes negativity</div>
-          </li>
-          <li class="motif-item" onclick="highlightMotif('spectral')">
-            <div class="motif-title"><span>Spectral Shift Invariance</span> <span class="motif-count">19,405</span></div>
-            <div style="font-size: 11px; color: var(--text-muted); margin-top: 4px;">Boundary perturbation stabilization</div>
-          </li>
-          <li class="motif-item" onclick="highlightMotif('parity')">
-            <div class="motif-title"><span>Cohomological Parity Cancellation</span> <span class="motif-count">14,880</span></div>
-            <div style="font-size: 11px; color: var(--text-muted); margin-top: 4px;">Exact destructive interference of geometric error terms</div>
-          </li>
-          <li class="motif-item" onclick="highlightMotif('kernel')">
-            <div class="motif-title"><span>Automorphic Kernel Bound</span> <span class="motif-count">9,201</span></div>
-            <div style="font-size: 11px; color: var(--text-muted); margin-top: 4px;">Controls off-diagonal growth of Eisenstein series</div>
-          </li>
-          <li class="motif-item" onclick="highlightMotif('desing')">
-            <div class="motif-title"><span>Desingularization Bridging</span> <span class="motif-count">6,115</span></div>
-            <div style="font-size: 11px; color: var(--text-muted); margin-top: 4px;">Toroidal compactification closing differential compactness</div>
-          </li>
-        </ul>
-      </div>
-
-      <div class="panel-section">
-        <h3>Epistemological Status</h3>
-        <div style="background: rgba(255,255,255,0.02); border: 1px solid var(--border); border-radius: 6px; padding: 12px;">
-          <div style="display: flex; justify-content: space-between; margin-bottom: 6px;">
-            <span style="font-size: 12px; color: var(--text-muted);">Epistemia Index (E_I)</span>
-            <span style="font-weight: 700; color: var(--accent-purple);">0.885 (VALID_OPAQUE)</span>
-          </div>
-          <div style="display: flex; justify-content: space-between; margin-bottom: 6px;">
-            <span style="font-size: 12px; color: var(--text-muted);">Human Translatability (HMTI)</span>
-            <span style="font-weight: 700; color: var(--accent-orange);">0.084 (Critical Opacity)</span>
-          </div>
-          <div style="font-size: 11px; color: var(--text-muted); margin-top: 8px;">
-            CoResearcher ADR-122 to ADR-125 deployed to bridge the semantic gulf via the extracted Epistemic Spine.
-          </div>
-        </div>
+      <svg id="graph"></svg>
+      <div class="legend">
+        <span class="legend-item"><i class="dot" style="background:var(--root)"></i>Root Theorems (Depth 0–3)</span>
+        <span class="legend-item"><i class="dot" style="background:var(--accent)"></i>Analytical / Formalism Strata</span>
+        <span class="legend-item"><i class="dot" style="background:var(--pivot)"></i>Cross-Layer Bottleneck (Depth 6–7)</span>
+        <span class="legend-item"><i class="dot" style="background:var(--motif)"></i>Barrier-Breaking Motifs</span>
+        <span class="legend-item"><i class="dot" style="background:var(--base)"></i>Foundational Libraries (Depth to 43)</span>
       </div>
     </div>
+
+    <aside>
+      <div>
+        <h2 class="section-title">Verified Corpus Telemetry</h2>
+        <div class="kpis">
+          <div class="kpi"><div class="kpi-v">175,187</div><div class="kpi-l">.lean Project Modules</div></div>
+          <div class="kpi"><div class="kpi-v">818,755</div><div class="kpi-l">Theorems &amp; Lemmas</div></div>
+          <div class="kpi"><div class="kpi-v">43</div><div class="kpi-l">Max Deductive Depth</div></div>
+          <div class="kpi"><div class="kpi-v">28 lines</div><div class="kpi-l">External Statement TCB</div></div>
+        </div>
+      </div>
+
+      <div>
+        <h2 class="section-title">Node Inspector</h2>
+        <div class="inspector" id="inspector">
+          Click any node in the graph or any motif below to inspect verified module counts, depth bounds, and mathematical role.
+        </div>
+      </div>
+
+      <div>
+        <h2 class="section-title">6 Barrier-Breaking Motifs (Active Cone)</h2>
+        <div id="motifs-list"></div>
+      </div>
+
+      <div>
+        <h2 class="section-title">Library Stratification (11 Libraries)</h2>
+        <table class="strata" id="strata-table">
+          <thead>
+            <tr><th>Library</th><th>Modules</th><th>Thm/Lem</th><th>Depth</th></tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+
+      <div class="footer-note">
+        Dossier audited with <a href="https://github.com/Fundacion-de-Neurociencias/coresearcher" target="_blank" rel="noopener">CoResearcher</a> (Fundación de Neurociencias). Primary target archive: <code>alpo.ge</code> (Lean <code>v4.33.1</code>).
+      </div>
+    </aside>
   </div>
 
   <script>
-    const width = window.innerWidth - 420;
-    const height = window.innerHeight - 57;
+    const LIBRARIES = [
+      { name: "Main", modules: 1, theorems: 5, minD: 0, maxD: 0, note: "Exports 5 root theorems (riemannHypothesis and Dirichlet GRH)." },
+      { name: "Statements", modules: 1, theorems: 0, minD: 0, maxD: 0, note: "Canonical Mathlib-anchored RH/GRH statements (16 lines)." },
+      { name: "Supplements", modules: 3, theorems: 4, minD: 1, maxD: 3, note: "MainTheorems, MainTheoremsCritical, MainTheoremsAll." },
+      { name: "Development", modules: 141928, theorems: 562329, minD: 2, maxD: 43, note: "Abelian/automorphic varieties, Galois modularity, Weil bounds, theta lifts." },
+      { name: "Formalism", modules: 18254, theorems: 162118, minD: 4, maxD: 43, note: "Hermitian curvature, unitary mass, Gamma nonvanishing, period integrals." },
+      { name: "GroundTheory", modules: 8507, theorems: 54211, minD: 5, maxD: 32, note: "Local/global fields, Tate thesis, Arakelov heights, p-adic Hodge." },
+      { name: "CompanionTheory", modules: 2027, theorems: 9419, minD: 5, maxD: 30, note: "p-adic unitary weights, product formulas, segment representations." },
+      { name: "ReciprocityTheory", modules: 3845, theorems: 27722, minD: 6, maxD: 36, note: "Reductive groups, toroidal compactification, extension descent." },
+      { name: "PositivityTheory", modules: 449, theorems: 2702, minD: 6, maxD: 13, note: "Automorphic positivity functionals & nonvanishing." },
+      { name: "Lemmata", modules: 167, theorems: 245, minD: 8, maxD: 25, note: "Shared auxiliary lemmas." },
+      { name: "BuildAid", modules: 5, theorems: 0, minD: 8, maxD: 19, note: "Logically inert tactic denylist entries." }
+    ];
 
-    const svg = d3.select("#viewport")
-      .attr("width", width)
-      .attr("height", height);
+    const MOTIFS = [
+      {
+        id: "ITERATED_UNITARY_THETA_LIFT_CHAIN",
+        category: "AUTOMORPHIC_FUNCTORIALITY",
+        count: 15750,
+        barrier: "CONVEXITY_AND_PARITY_BARRIER",
+        samples: [
+          "Development.AutomorphicArithmetic.AutomorphicVarieties.UnitaryThreeGroups.KatoUse",
+          "Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.GaloisRepresentationsOfThetaLift"
+        ],
+        summary: "Chains iterated unitary theta lifts U(X_0)->...->U(X_m) with m ~ sqrt(X) to mimic Stepanov multiplicity over Z."
+      },
+      {
+        id: "STEPANOV_MULTIPLICITY_DETERMINANT",
+        category: "POLYNOMIAL_METHOD_DETERMINANT",
+        count: 1808,
+        barrier: "POINTWISE_ZERO_COUNTING_BARRIER",
+        samples: [
+          "Development.WeilBound.CoreStatements.TemperedRepresentationTheory.MultiplicityOneRigidity.GelfandKazhdanDualOfRigidity",
+          "Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.StrongMultiplicityOne"
+        ],
+        summary: "Natively automorphic Stepanov-style determinants backed by Gelfand-Kazhdan duality and multiplicity-one rigidity."
+      },
+      {
+        id: "GGP_BESSEL_POSITIVITY_FUNCTIONAL",
+        category: "PERIOD_INTEGRAL_POSITIVITY",
+        count: 7011,
+        barrier: "SIGN_INDEFINITE_EXPLICIT_FORMULA",
+        samples: [
+          "Development.WeilBound.CoreStatements.AutomorphicKernels.DeligneRibet.DeligneRibetHolds",
+          "PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.AdFormOf"
+        ],
+        summary: "Guinand-Weil explicit functionals W(.) >= 0 realized via GGP and Bessel seesaw/Rallis period identities."
+      },
+      {
+        id: "BOST_SLOPE_IWASAWA_DESCENT",
+        category: "ARAKELOV_IWASAWA_DESCENT",
+        count: 13010,
+        barrier: "UNBOUNDED_HEIGHT_GROWTH",
+        samples: [
+          "Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.GlobalArtinReciprocityHolds",
+          "Development.WeilBound.CoreStatements.StandardPublishedResults.StandardTheoremStatements.HermitianHassePrinciple"
+        ],
+        summary: "Bost slope inequality paired with a Behrend-chosen Iwasawa tower controlling Arakelov heights and Vandiver classes."
+      },
+      {
+        id: "SIEGEL_MASS_CHOWLA_SELBERG",
+        category: "MASS_FORMULA_DIVISIBILITY",
+        count: 4618,
+        barrier: "CLASS_NUMBER_DENOMINATOR_EXPLOSION",
+        samples: [
+          "Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WeylModuleSimpleClosedLowestAlcove",
+          "Formalism.GradedWeylDivisibility.DualWeylDominanceOf"
+        ],
+        summary: "Norm, level, and divisibility lower bounds via unitary Siegel mass formulas, Weyl dominance, and Chowla-Selberg."
+      },
+      {
+        id: "GALOIS_MODULARITY_COHOMOLOGY",
+        category: "ARITHMETIC_GEOMETRY_PATCHING",
+        count: 109260,
+        barrier: "ELEMENTARY_METHOD_INSUFFICIENCY",
+        samples: [
+          "Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.TopMainZj",
+          "Development.AbelianVarietyTheory.Proofs.DivisorProofs.CrystallineSmoothLiftOfRelations"
+        ],
+        summary: "Largest proof stratum (>62% of corpus): etale/p-adic Hodge comparisons and Taylor-Wiles modularity patching."
+      }
+    ];
 
+    const PIVOTS = [
+      { id: "p1", label: "UniformisationConclusion", full: "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.UniformisationConclusion", lib: "ReciprocityTheory", depth: 6, fanIn: 2390, cross: 2379, thm: 0, note: "CM field semiabelian degeneration & toroidal interface hub (Host.starRing, OAct, DegPre, TraceFormTwistIso, PsiUnitOn, GtAct)." },
+      { id: "p2", label: "UnifUniqSt", full: "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ExtensionDescent.UnifUniqSt", lib: "ReciprocityTheory", depth: 7, fanIn: 2284, cross: 2283, thm: 0, note: "Extension descent uniformisation uniqueness state hub." },
+      { id: "p3", label: "ValCalc", full: "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.ValCalc", lib: "ReciprocityTheory", depth: 7, fanIn: 621, cross: 603, thm: 28, note: "Toroidal valuation calculus (gs_eq, gs_unit, gs_mul, gs_add, gs_res)." },
+      { id: "p4", label: "HeckeKer", full: "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.HeckeKer", lib: "ReciprocityTheory", depth: 7, fanIn: 1429, cross: 1429, thm: 0, note: "Hecke kernel compatibility across toroidal charts." },
+      { id: "p5", label: "ExistsNormLeHeightPow", full: "Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.ExistsNormLeHeightPow", lib: "Development", depth: 7, fanIn: 2460, cross: 0, thm: 11, note: "Height-norm bounds for rapid-decay automorphic forms (quotHeight_le, IsRapidDecay.bounded)." },
+      { id: "p6", label: "RankBoundMonotoneInDimension", full: "Formalism.LocalRingCardinality.RankBoundMonotoneInDimension", lib: "Formalism", depth: 7, fanIn: 431, cross: 368, thm: 111, note: "Local ring cardinality & rank monotonicity (111 theorems)." },
+      { id: "p7", label: "CTSmallCone", full: "Development.AbelianVarietyTheory.Definitions.Divisors.CTSmallCone", lib: "Development", depth: 7, fanIn: 3088, cross: 1, thm: 0, note: "Highest local fan-in hub (3,088 dependents) for abelian cone divisors." }
+    ];
+
+    // Populate tables & lists
+    const tbody = document.querySelector("#strata-table tbody");
+    LIBRARIES.forEach(l => {
+      const tr = document.createElement("tr");
+      tr.innerHTML = `<td>${l.name}</td><td>${l.modules.toLocaleString()}</td><td>${l.theorems.toLocaleString()}</td><td>${l.minD}–${l.maxD}</td>`;
+      tr.style.cursor = "pointer";
+      tr.onclick = () => showInfo(l.name, `Library · Depth ${l.minD}–${l.maxD} · ${l.modules.toLocaleString()} modules · ${l.theorems.toLocaleString()} thm/lem`, l.note);
+      tbody.appendChild(tr);
+    });
+
+    const mWrap = document.getElementById("motifs-list");
+    MOTIFS.forEach(m => {
+      const div = document.createElement("div");
+      div.className = "list-item";
+      div.innerHTML = `<div class="list-head"><span>${m.id}</span><span class="tag warn">${m.count.toLocaleString()}</span></div>
+        <div class="list-sub">Bypassed: ${m.barrier}</div>`;
+      div.onclick = () => {
+        document.querySelectorAll(".list-item").forEach(el => el.classList.remove("selected"));
+        div.classList.add("selected");
+        showInfo(m.id, `Category: ${m.category} · ${m.count.toLocaleString()} active-cone modules`, `${m.summary}<br><br><strong>Sample modules:</strong><br>${m.samples.map(s => `<code>${s}</code>`).join("<br>")}`);
+      };
+      mWrap.appendChild(div);
+    });
+
+    function showInfo(title, meta, body) {
+      document.getElementById("inspector").innerHTML = `<div class="name">${title}</div><div style="color:var(--accent);font-family:var(--mono);font-size:11px;margin-bottom:6px">${meta}</div><div>${body}</div>`;
+    }
+
+    // D3 Graph Layout (stratified coordinate spine)
+    const svg = d3.select("#graph");
+    const width = svg.node().clientWidth || 860;
+    const height = svg.node().clientHeight || 640;
     const g = svg.append("g");
 
-    const zoom = d3.zoom()
-      .scaleExtent([0.1, 8])
-      .on("zoom", (event) => g.attr("transform", event.transform));
-
+    const zoom = d3.zoom().scaleExtent([0.35, 4]).on("zoom", e => g.attr("transform", e.transform));
     svg.call(zoom);
 
-    // Build hierarchical spine nodes representing the proof topology
     const nodes = [
-      { id: "root_rh", name: "riemannHypothesis", type: "root", depth: 0, x: width/2 - 100, y: 80, r: 16 },
-      { id: "root_grh", name: "LFunction_eq_zero_re", type: "root", depth: 0, x: width/2 + 100, y: 80, r: 16 },
-      
-      { id: "pos_theory", name: "PositivityTheory.Spectral", type: "layer", depth: 2, x: width/2, y: 180, r: 14 },
-      { id: "weil_dist", name: "Distribution.WeilPairing", type: "layer", depth: 4, x: width/2 - 80, y: 280, r: 12 },
-      { id: "eisen_bound", name: "Automorphic.EisensteinCusp", type: "layer", depth: 4, x: width/2 + 80, y: 280, r: 12 },
-      
-      // THE CHOKEPOINT
-      { id: "chokepoint", name: "UniformisationConclusion (Depth 6-7)", type: "chokepoint", depth: 6, x: width/2, y: 400, r: 24 },
+      { id: "Main", x: width * 0.5, y: 65, r: 18, color: "var(--root)", depth: 0, meta: "Depth 0 · 5 root theorems · 12 lines", body: "riemannHypothesis, riemannZeta_eq_zero_re, LFunction_ne_zero_of_half_lt_re, LFunction_eq_zero_re, LFunction_eq_zero_re_of_isPrimitive." },
+      { id: "Statements", x: width * 0.25, y: 65, r: 12, color: "var(--root)", depth: 0, meta: "Depth 0 · 16 lines external TCB", body: "Canonical RH and Dirichlet GRH target predicates anchored in Mathlib." },
+      { id: "Supplements", x: width * 0.5, y: 145, r: 15, color: "var(--root)", depth: 2, meta: "Depth 1–3 · 3 modules", body: "MainTheoremsAll, MainTheoremsCritical, MainTheorems." },
 
-      { id: "geom_torus", name: "BirationalGeometry.Toroidal", type: "layer", depth: 10, x: width/2 - 160, y: 520, r: 11 },
-      { id: "arakelov_met", name: "Arakelov.AdelicMetrics", type: "layer", depth: 10, x: width/2 - 50, y: 540, r: 11 },
-      { id: "reduct_grp", name: "ReductiveGroups.Arithmetic", type: "layer", depth: 10, x: width/2 + 60, y: 530, r: 11 },
-      { id: "cohom_canc", name: "CohomologicalParity", type: "layer", depth: 10, x: width/2 + 170, y: 510, r: 11 },
+      { id: "PositivityTheory", x: width * 0.34, y: 235, r: 16, color: "var(--accent)", depth: 6, meta: "Depth 6–13 · 449 modules · 2,702 thm", body: "GGP/Bessel period positivity and automorphic nonvanishing functionals." },
+      { id: "Formalism", x: width * 0.66, y: 235, r: 22, color: "var(--accent)", depth: 4, meta: "Depth 4–43 · 18,254 modules · 162,118 thm", body: "Gamma factor nonvanishing, Hermitian curvature, unitary mass, sharpness restrictions." },
 
-      // BASE STRATA
-      { id: "base_schemes", name: "Development.Schemes Universal", type: "base", depth: 20, x: width/2 - 180, y: 660, r: 8 },
-      { id: "base_hecke", name: "Development.HeckeModules", type: "base", depth: 25, x: width/2 - 60, y: 680, r: 8 },
-      { id: "base_adelic", name: "GroundTheory.AdelesRing", type: "base", depth: 35, x: width/2 + 70, y: 700, r: 8 },
-      { id: "base_groth", name: "GroundTheory.GrothendieckTopoi", type: "base", depth: 43, x: width/2 + 190, y: 720, r: 8 }
+      { id: "p1", x: width * 0.44, y: 345, r: 26, color: "var(--pivot)", depth: 6, meta: "BOTTLENECK #1 · Depth 6 · Fan-In: 2,390 · Cross-Layer: 2,379", body: PIVOTS[0].full + "<br><br>" + PIVOTS[0].note },
+      { id: "p2", x: width * 0.62, y: 355, r: 20, color: "var(--pivot)", depth: 7, meta: "PIVOT #2 · Depth 7 · Fan-In: 2,284 · Cross-Layer: 2,283", body: PIVOTS[1].full },
+      { id: "p3", x: width * 0.24, y: 355, r: 15, color: "var(--pivot)", depth: 7, meta: "PIVOT #3 · Depth 7 · Fan-In: 621 · Cross-Layer: 603 · 28 thm", body: PIVOTS[2].full },
+
+      { id: "m_galois", x: width * 0.20, y: 475, r: 20, color: "var(--motif)", depth: 15, meta: "Motif · 109,260 modules · Bypasses ELEMENTARY_METHOD_INSUFFICIENCY", body: MOTIFS[5].summary },
+      { id: "m_theta", x: width * 0.40, y: 485, r: 16, color: "var(--motif)", depth: 15, meta: "Motif · 15,750 modules · Bypasses CONVEXITY_AND_PARITY_BARRIER", body: MOTIFS[0].summary },
+      { id: "m_bost", x: width * 0.60, y: 485, r: 16, color: "var(--motif)", depth: 15, meta: "Motif · 13,010 modules · Bypasses UNBOUNDED_HEIGHT_GROWTH", body: MOTIFS[3].summary },
+      { id: "m_ggp", x: width * 0.80, y: 475, r: 15, color: "var(--motif)", depth: 15, meta: "Motif · 7,011 modules · Bypasses SIGN_INDEFINITE_EXPLICIT_FORMULA", body: MOTIFS[2].summary },
+
+      { id: "Development", x: width * 0.35, y: 585, r: 24, color: "var(--base)", depth: 43, meta: "Depth 2–43 · 141,928 modules · 562,329 thm", body: LIBRARIES[3].note },
+      { id: "GroundTheory", x: width * 0.65, y: 585, r: 18, color: "var(--base)", depth: 32, meta: "Depth 5–32 · 8,507 modules · 54,211 thm", body: LIBRARIES[5].note }
     ];
 
-    const links = [
-      { source: "pos_theory", target: "root_rh", width: 3 },
-      { source: "pos_theory", target: "root_grh", width: 3 },
-      { source: "weil_dist", target: "pos_theory", width: 2 },
-      { source: "eisen_bound", target: "pos_theory", width: 2 },
-      { source: "chokepoint", target: "weil_dist", width: 5 },
-      { source: "chokepoint", target: "eisen_bound", width: 4 },
-      
-      { source: "geom_torus", target: "chokepoint", width: 6, label: "2,390 incoming modules" },
-      { source: "arakelov_met", target: "chokepoint", width: 5 },
-      { source: "reduct_grp", target: "chokepoint", width: 4 },
-      { source: "cohom_canc", target: "chokepoint", width: 4 },
-
-      { source: "base_schemes", target: "geom_torus", width: 2 },
-      { source: "base_hecke", target: "arakelov_met", width: 2 },
-      { source: "base_adelic", target: "reduct_grp", width: 2 },
-      { source: "base_groth", target: "cohom_canc", width: 2 },
-
-      // Cross layer shortcut bypass arcs
-      { source: "base_schemes", target: "chokepoint", width: 1, dash: "4 4" },
-      { source: "base_adelic", target: "chokepoint", width: 1, dash: "4 4" }
+    const edges = [
+      { s: "Statements", t: "Main", w: 2 },
+      { s: "Supplements", t: "Main", w: 3 },
+      { s: "PositivityTheory", t: "Supplements", w: 3 },
+      { s: "Formalism", t: "Supplements", w: 3 },
+      { s: "p1", t: "PositivityTheory", w: 4 },
+      { s: "p1", t: "Formalism", w: 4 },
+      { s: "p2", t: "Formalism", w: 3 },
+      { s: "p3", t: "PositivityTheory", w: 2 },
+      { s: "m_galois", t: "p1", w: 4 },
+      { s: "m_theta", t: "p1", w: 3.5 },
+      { s: "m_bost", t: "p2", w: 3 },
+      { s: "m_ggp", t: "Formalism", w: 3 },
+      { s: "Development", t: "m_galois", w: 3 },
+      { s: "Development", t: "m_theta", w: 3 },
+      { s: "GroundTheory", t: "m_bost", w: 3 },
+      { s: "GroundTheory", t: "m_ggp", w: 2.5 },
+      { s: "Development", t: "p1", w: 1.2, dash: "4 4" }
     ];
 
-    // Render links
-    const linkElements = g.selectAll(".link")
-      .data(links)
-      .enter().append("line")
-      .attr("class", "link")
-      .attr("x1", d => nodes.find(n => n.id === d.source).x)
-      .attr("y1", d => nodes.find(n => n.id === d.source).y)
-      .attr("x2", d => nodes.find(n => n.id === d.target).x)
-      .attr("y2", d => nodes.find(n => n.id === d.target).y)
-      .attr("stroke", d => d.dash ? "rgba(188, 140, 255, 0.4)" : "rgba(88, 166, 255, 0.35)")
-      .attr("stroke-width", d => d.width || 1.5)
+    const link = g.selectAll("line")
+      .data(edges).enter().append("line")
+      .attr("x1", d => nodes.find(n => n.id === d.s).x)
+      .attr("y1", d => nodes.find(n => n.id === d.s).y)
+      .attr("x2", d => nodes.find(n => n.id === d.t).x)
+      .attr("y2", d => nodes.find(n => n.id === d.t).y)
+      .attr("stroke", d => d.dash ? "rgba(224,93,68,0.45)" : "rgba(76,154,255,0.35)")
+      .attr("stroke-width", d => d.w)
       .attr("stroke-dasharray", d => d.dash || null);
 
-    // Render nodes
-    const nodeElements = g.selectAll(".node")
-      .data(nodes)
-      .enter().append("g")
+    const nodeG = g.selectAll("g.node")
+      .data(nodes).enter().append("g")
       .attr("class", "node")
       .attr("transform", d => `translate(${d.x},${d.y})`)
       .style("cursor", "pointer")
-      .on("click", (event, d) => selectNode(d));
+      .on("click", (_, d) => showInfo(d.id === "p1" ? "UniformisationConclusion (Depth 6 Bottleneck)" : d.id, d.meta, d.body));
 
-    nodeElements.append("circle")
+    nodeG.append("circle")
       .attr("r", d => d.r)
-      .attr("fill", d => {
-        if (d.type === "chokepoint") return "#f85149";
-        if (d.type === "root") return "#3fb950";
-        if (d.type === "base") return "#8b949e";
-        return "#58a6ff";
-      })
+      .attr("fill", d => d.color)
       .attr("stroke", "#fff")
-      .attr("stroke-width", d => d.type === "chokepoint" ? 3 : 1.5)
-      .attr("filter", d => d.type === "chokepoint" ? "drop-shadow(0 0 12px rgba(248, 81, 73, 0.8))" : null);
+      .attr("stroke-width", d => d.id === "p1" ? 2.5 : 1.2);
 
-    nodeElements.append("text")
+    nodeG.append("text")
       .attr("dy", d => d.r + 14)
       .attr("text-anchor", "middle")
-      .attr("fill", "#c9d1d9")
-      .attr("font-size", d => d.type === "chokepoint" ? "13px" : "11px")
-      .attr("font-weight", d => d.type === "chokepoint" ? "700" : "400")
-      .text(d => d.name);
+      .attr("fill", "#dce3ec")
+      .attr("font-family", "var(--mono)")
+      .attr("font-size", d => d.id === "p1" ? "12px" : "10.5px")
+      .attr("font-weight", d => d.id === "p1" ? "700" : "500")
+      .text(d => d.id === "p1" ? "UniformisationConclusion (2,390 fan-in)" : (d.id === "p2" ? "UnifUniqSt (2,284)" : (d.id === "p3" ? "ValCalc (621)" : d.id)));
 
-    function selectNode(d) {
-      const inspector = document.getElementById("node-inspector");
-      inspector.innerHTML = `
-        <div class="node-selected">
-          <div class="node-title">${d.name}</div>
-          <div class="node-meta">
-            <strong>Stratum Depth:</strong> ${d.depth}<br>
-            <strong>Node Category:</strong> ${d.type.toUpperCase()}<br>
-            ${d.type === 'chokepoint' ? '<strong>In-Degree:</strong> 2,390 incoming modules<br><strong>Cross-Layer Arcs:</strong> 2,379<br><strong>Role:</strong> Critical epistemic bottleneck bridging birational arithmetic schemes and spectral positivity.' : '<strong>Subsumed in active cone:</strong> Verified via Lean 4 kernel with 0 sorry.'}
-          </div>
-        </div>
-      `;
+    function resetZoom() {
+      svg.transition().duration(500).call(zoom.transform, d3.zoomIdentity);
     }
 
-    function resetView() {
-      svg.transition().duration(750).call(
+    function focusBottleneck() {
+      const n = nodes.find(x => x.id === "p1");
+      const s = 1.65;
+      svg.transition().duration(600).call(
         zoom.transform,
-        d3.zoomIdentity.translate(40, 20).scale(0.95)
+        d3.zoomIdentity.translate(width / 2 - n.x * s, height / 2 - n.y * s).scale(s)
       );
+      showInfo("UniformisationConclusion (Depth 6 Bottleneck)", n.meta, n.body);
+      nodeG.transition().duration(300).style("opacity", d => d.depth <= 15 ? 1.0 : 0.25);
     }
 
-    function focusChokepoint() {
-      const chokepoint = nodes.find(n => n.id === "chokepoint");
-      const scale = 2.0;
-      const x = width / 2 - chokepoint.x * scale;
-      const y = height / 2 - chokepoint.y * scale;
-
-      svg.transition().duration(850).call(
-        zoom.transform,
-        d3.zoomIdentity.translate(x, y).scale(scale)
-      );
-      selectNode(chokepoint);
+    function clearHighlight() {
+      nodeG.transition().duration(300).style("opacity", 1.0);
+      resetZoom();
     }
-
-    function filterStratum(maxDepth) {
-      nodeElements.transition().duration(400)
-        .style("opacity", d => d.depth <= maxDepth ? 1.0 : 0.15);
-      linkElements.transition().duration(400)
-        .style("opacity", 0.2);
-    }
-
-    function highlightMotif(motifKey) {
-      alert("Highlighting Motif: " + motifKey + " across active proof cone.");
-    }
-
-    resetView();
   </script>
 </body>
 </html>
