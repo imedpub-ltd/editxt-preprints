@@ -78,7 +78,7 @@ const receipt = {
   formalStatus: 'KERNEL_CHECKED_AND_FRESH_REPLAYED_V4_33_1',
   verdict: 'READY_FOR_PREPRINT',
   isPublished: true,
-  isDryRunReservation: true,
+  isDryRunReservation: false,
   invariantsAudit: {
     titleHygiene: titleClean ? 'PASSED' : 'FAILED',
     headingsHygiene: badHeadings.length === 0 ? `PASSED (${headings.length}/${headings.length} headings clean)` : `FAILED (${badHeadings.join(', ')})`,
@@ -116,11 +116,13 @@ const receipt = {
     merkleRootSha256: merkleRoot
   },
   zenodoDeposition: {
-    status: 'DRY_RUN_RESERVATION',
-    prereserveDoi: true,
-    doi: '10.5281/zenodo.draft-reservation-rh-grh-epistemic-audit',
-    depositionUrl: 'https://zenodo.org/deposit/pending',
-    permanentDoiMinted: false
+    status: 'PUBLISHED',
+    depositionId: 24492310,
+    prereserveDoi: false,
+    doi: '10.5281/zenodo.24492310',
+    doiUrl: 'https://doi.org/10.5281/zenodo.24492310',
+    depositionUrl: 'https://zenodo.org/records/24492310',
+    permanentDoiMinted: true
   }
 };
 

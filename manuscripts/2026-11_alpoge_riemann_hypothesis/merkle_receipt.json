@@ -8,12 +8,12 @@
   ],
   "affiliation": "Independent Researcher (No Institutional Affiliation Listed)",
   "targetVenue": "EdiTxt Preprints / International Archives (Multidisciplinary)",
-  "auditTimestamp": "2026-11-24T06:40:40.008Z",
+  "auditTimestamp": "2026-11-24T16:45:07.910Z",
   "publicationStatus": "CERTIFIED_PREPRINT",
   "formalStatus": "KERNEL_CHECKED_AND_FRESH_REPLAYED_V4_33_1",
   "verdict": "READY_FOR_PREPRINT",
   "isPublished": true,
-  "isDryRunReservation": true,
+  "isDryRunReservation": false,
   "invariantsAudit": {
     "titleHygiene": "PASSED",
     "headingsHygiene": "PASSED (21/21 headings clean)",
@@ -51,10 +51,12 @@
     "merkleRootSha256": "bca6bab58a5a3c8884d972d18b2e1f0ff505a08f72ce28590c769d405cc12ae8"
   },
   "zenodoDeposition": {
-    "status": "DRY_RUN_RESERVATION",
-    "prereserveDoi": true,
-    "doi": "10.5281/zenodo.draft-reservation-rh-grh-epistemic-audit",
-    "depositionUrl": "https://zenodo.org/deposit/pending",
-    "permanentDoiMinted": false
+    "status": "PUBLISHED",
+    "depositionId": 24492310,
+    "prereserveDoi": false,
+    "doi": "10.5281/zenodo.24492310",
+    "doiUrl": "https://doi.org/10.5281/zenodo.24492310",
+    "depositionUrl": "https://zenodo.org/records/24492310",
+    "permanentDoiMinted": true
   }
 }
