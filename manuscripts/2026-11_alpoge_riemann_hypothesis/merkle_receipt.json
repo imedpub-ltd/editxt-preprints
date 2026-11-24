@@ -8,7 +8,7 @@
   ],
   "affiliation": "Independent Researcher (No Institutional Affiliation Listed)",
   "targetVenue": "EdiTxt Preprints / International Archives (Multidisciplinary)",
-  "auditTimestamp": "2026-11-24T16:45:07.910Z",
+  "auditTimestamp": "2026-11-24T16:51:03.961Z",
   "publicationStatus": "CERTIFIED_PREPRINT",
   "formalStatus": "KERNEL_CHECKED_AND_FRESH_REPLAYED_V4_33_1",
   "verdict": "READY_FOR_PREPRINT",
@@ -36,7 +36,7 @@
     "comparativeAuditsIncluded": "PASSED (comparative_audit_alpoge_vs_masullo.md & epistemic_verification_protocol.md v1.1)"
   },
   "fileIntegrityHashes": {
-    "preprintRhGrhEpistemicAuditSha256": "54735f497672060ee2b3535d22b4b22920ee35495b1a51ae634c1253363b043e",
+    "preprintRhGrhEpistemicAuditSha256": "48973bdb71d3efe0b9fd3f60117952a39c3dd95934bae5f7eddc1df160b56dc9",
     "mathematicalArchitecturePrimerSha256": "4445d5cc7cb8c7c9768386312afef3318804a47da338ce838391f0ba0aa806a0",
     "epistemicSpineExplorerHtmlSha256": "48762761b88530456c88e1510434cd42abc85e46238fe575f381d90cf27760bf",
     "comparativeAuditAlpogeVsMasulloSha256": "e4abb3f3eb7d023e224a78bd066d71d209093d1550dc6d2aa28aeef09993b833",
@@ -48,7 +48,7 @@
     "masulloForensicSummarySha256": "6af7c55b84961e221d6a6c91a1f3ebea3e0ff2c0f3960c4cef960755ace38f58",
     "alpogeRhAxiomsLogSha256": "590d5252e7e5a4e6d9faef1895216c77eb103d6667037d832eaedaa34fa3186d",
     "alpogeRhLeancheckerFreshLogSha256": "ff8ea3d0b4db9f21f2a09513a5b20c1d2d6d106566030aa7f21e50156966f95c",
-    "merkleRootSha256": "bca6bab58a5a3c8884d972d18b2e1f0ff505a08f72ce28590c769d405cc12ae8"
+    "merkleRootSha256": "b302aa132f7e9c4da04be889804211b49693ff0058e59a98ae8d69b41277cb51"
   },
   "zenodoDeposition": {
     "status": "PUBLISHED",
