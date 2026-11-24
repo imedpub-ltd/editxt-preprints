@@ -8,7 +8,7 @@
   ],
   "affiliation": "Independent Researcher (No Institutional Affiliation Listed)",
   "targetVenue": "EdiTxt Preprints / International Archives (Multidisciplinary)",
-  "auditTimestamp": "2026-11-24T06:16:07.612Z",
+  "auditTimestamp": "2026-11-24T06:40:40.008Z",
   "publicationStatus": "CERTIFIED_PREPRINT",
   "formalStatus": "KERNEL_CHECKED_AND_FRESH_REPLAYED_V4_33_1",
   "verdict": "READY_FOR_PREPRINT",
@@ -36,19 +36,19 @@
     "comparativeAuditsIncluded": "PASSED (comparative_audit_alpoge_vs_masullo.md & epistemic_verification_protocol.md v1.1)"
   },
   "fileIntegrityHashes": {
-    "preprintRhGrhEpistemicAuditSha256": "cc8d645478084ce6fdf312c2da98b3330059f69011c8ed772f4ff3a65df50b7b",
+    "preprintRhGrhEpistemicAuditSha256": "54735f497672060ee2b3535d22b4b22920ee35495b1a51ae634c1253363b043e",
     "mathematicalArchitecturePrimerSha256": "4445d5cc7cb8c7c9768386312afef3318804a47da338ce838391f0ba0aa806a0",
     "epistemicSpineExplorerHtmlSha256": "48762761b88530456c88e1510434cd42abc85e46238fe575f381d90cf27760bf",
-    "comparativeAuditAlpogeVsMasulloSha256": "6c49ac2264fd31f2fd702d98d13367cd41b29c5d4bafab71e6cac37882ed106c",
-    "epistemicVerificationProtocolSha256": "8beb8c66decc5afcd2a179cbc9e90edbe6b64f94061a1228964072cce108b7c8",
+    "comparativeAuditAlpogeVsMasulloSha256": "e4abb3f3eb7d023e224a78bd066d71d209093d1550dc6d2aa28aeef09993b833",
+    "epistemicVerificationProtocolSha256": "756d48d23d3e92bdeb93191a3c7e0feca5d3989eae91b141a3a23f262add3502",
     "alpogeEpistemicSpineSummarySha256": "4ac1c7c8b7f6b5b59affad3ad764d3c4e9039b6f4a563d3cb289ebfa914c8c78",
-    "alpogeRhKernelCertificateSha256": "20087a912fb9d99417c70ce23f3d9f04b164a715bf5f633c4213932bf804ce28",
-    "comparativeEpistemicVerdictsSha256": "b1801f87810374c123e14ea7247fdbdce98b42989c79028e5202a07e8b015005",
+    "alpogeRhKernelCertificateSha256": "52bbc76612681ada80d606e2a1d50877742bee1c59616d3508324843c91d73bc",
+    "comparativeEpistemicVerdictsSha256": "6082cafd4cf0728ca7ab18bff06898a3c50ed105cf1f66f922ce29712cc3b15f",
     "alpogeStaticSoundnessSummarySha256": "6d2e7c9838b61e8970018d76dac8e81640764b06f9a871223b6e824f2bbd4393",
     "masulloForensicSummarySha256": "6af7c55b84961e221d6a6c91a1f3ebea3e0ff2c0f3960c4cef960755ace38f58",
     "alpogeRhAxiomsLogSha256": "590d5252e7e5a4e6d9faef1895216c77eb103d6667037d832eaedaa34fa3186d",
     "alpogeRhLeancheckerFreshLogSha256": "ff8ea3d0b4db9f21f2a09513a5b20c1d2d6d106566030aa7f21e50156966f95c",
-    "merkleRootSha256": "b7918be04c9252afcf707319791861c3b298f51a44b5c49652f20b45fefe42b3"
+    "merkleRootSha256": "bca6bab58a5a3c8884d972d18b2e1f0ff505a08f72ce28590c769d405cc12ae8"
   },
   "zenodoDeposition": {
     "status": "DRY_RUN_RESERVATION",

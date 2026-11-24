@@ -1,4 +1,4 @@
-# Comparative Forensic Audit: Machine-Formalized Proof (Alpöge / Lean 4) vs. Informal Human Manuscript (Masullo / 940-Page PDF)
+# Comparative Forensic Audit: Machine-Formalized Proof vs. Informal Human Manuscript
 
 On November 20, 2026, two distinct claims targeting the Riemann Hypothesis (RH) and Generalized Riemann Hypothesis (GRH) emerged simultaneously:
 1. **Alpöge (+ Claude AI):** A `175,187`-file Lean 4 formalization claiming RH and Dirichlet GRH (`https://alpo.ge/`), accompanied only by a 4-page explanatory note (`remark.pdf`).
@@ -17,15 +17,15 @@ Evaluating both side by side exposes the central methodological tension of conte
 | **Scale & Medium** | `175,187` `.lean` files (`17,374,215` lines, `1.03 GB` source); `183,889` `.olean` artifacts (`98 GB` build) | `6,756,996` bytes PDF (`940` pages, 14 chapters + 5 appendices, `0` lines of Lean 4) |
 | **Cryptographic Pinning** | `lean.tar.gz` SHA-256: `9631b4f0...49c7fc` (bit-exact across `alpo.ge` & mirror) | `the-music-of-the-primes.pdf` SHA-256: `e039d3f6...34f97bf` |
 | **Core Mathematical Program** | Unitary Langlands functoriality, iterated theta lifts ($m \sim \sqrt{X}$), Stepanov determinants, GGP/Bessel positivity, Bost slope, Iwasawa descent, Siegel mass, Galois patching | Connes/Deninger trace program, Hardy–Sobolev spaces $W_I^{s,2}(G)$, periodic Schauder bases, nuclear LF-spaces, `CGWH` quotient stacks, regularized $S$-local/global trace formula |
-| **Formal & Structural Integrity** | **0** `sorry`/`axiom`/`native_decide`/`unsafe`; `lake build Main` exit `0` (`127,812s`); `leanchecker --fresh Main` exit `0` (`26,898s`); `#print axioms` strictly `[propext, Classical.choice, Quot.sound]` | **Critical incompleteness:** Chapter 13 (conclusive RH/GRH chapter, pp. 521–522) has empty `13.1`/`13.2`, broken `"Theorem ??"`, and completely blank `Theorem 13.3.1.2 (Divisor of L(s, χ))` |
+| **Formal & Structural Integrity** | **0** `sorry`/`axiom`/`native_decide`/`unsafe`; `lake build Main` exit `0` (`127,812s`); `leanchecker --fresh Main` exit `0` (`26,898s`); `#print axioms` strictly `[propext, Classical.choice, Quot.sound]`; bounded-RAM `lean4lean` (`67f63b0c`) cleared `28,357/175,187` modules (`616,173` decls, `0` fails) | **Critical incompleteness:** Chapter 13 (conclusive RH/GRH chapter, pp. 521–522) has empty `13.1`/`13.2`, broken `"Theorem ??"`, and completely blank `Theorem 13.3.1.2 (Divisor of L(s, χ))` |
 | **Draft & Citation Hygiene** | 0 broken local Lean imports; 28-line external TCB matches Mathlib definitions cleanly | `19` unresolved `??` references, `10` author draft TODO markers (*"Insert statement"*, *"Return here"*), `13` empty/stub pages |
 | **Human Surveyability** | Near-zero directly in prose (`remark.pdf` notes Claude's natural-language summary exceeded `250,000` pages) | High strategic clarity in Chapter 1 letters to Sarnak and Chapters 2–12 exposition, but fails deductive closure |
-| **Trust Ladder Status** | `KERNEL_CHECKED` (Lean `v4.33.1` full build + `--fresh` transitive replay `exit_code = 0`; `nanoda` pending higher-RAM/sharded export) | `CLAIMED` (incomplete draft; blocked before audit acceptance) |
+| **Trust Ladder Status** | `KERNEL_CHECKED` (Lean `v4.33.1` full build + `--fresh` replay `exit_code = 0`; bounded `lean4lean` streaming `28,357/175,187` with C++ design lineage caveat; clean-room `nanoda` pending high-RAM host) | `CLAIMED` (incomplete draft; blocked before audit acceptance) |
 | **Epistemia Risk & Judgment** | **`0.245`** (`VALID_OPAQUE` on the 5 formalized theorems); **`0.4075`** (`SUSPEND_JUDGMENT` on unformalized ERH remark) | **`0.850`** (`SUSPEND_JUDGMENT` — critical missing proof in Chapter 13) |
 
 ---
 
-## 2. Forensic Evidence in Masullo's Conclusive Gap
+## 2. Forensic Evidence in the Informal Manuscript's Conclusive Gap
 
 Textual inspection of `the-music-of-the-primes.pdf` confirms that Chapters 1–12 carefully construct a nuclear-space functional-analytic framework culminating in **Theorem 12.5.1.1 (Trace Formula)** on page 519. However, the bridge from that trace formula to zero-free regions collapses in Chapters 12.4 and 13:
 1. **Unresolved Cutoff Modification (pp. 514–515, Ch. 12.4):** Author footnote 2 reads: *"Return here and change the choice of smooth $(\lambda,\varepsilon)$-cutoff into a smoothening of $\mathbf{1}_{[1/\lambda'',\lambda]}$ with $\lambda''$ not tied to $\lambda$. Then study the convergence of the integral in (12.4.1.23)..."*

@@ -19,9 +19,9 @@
         "within_human_budget": false
       },
       "contestability_card": {
-        "weakest_pivot": "Independent external second-kernel replay (nanoda / lean4lean) still open locally due to 64 GB memory ceiling during flat export; 17.37M-line proof lacks human-surveyable prose exposition.",
-        "refutation_attempt_executed": "175,187-file static soundness scan, statement fidelity check against Mathlib definitions, full Lean v4.33.1 kernel compilation (127,812s), #print axioms verification (110s), and transitive fresh replay via lake env leanchecker --fresh Main (26,898s, exit_code=0).",
-        "revocation_condition": "Any soundness bug in Lean v4.33.1 kernel, failed independent external second-kernel replay, or non-standard axiom detected in Main transitive closure."
+        "weakest_pivot": "Bounded-RAM module-by-module lean4lean (commit 67f63b0c) replay has cleared 28,357/175,187 modules (616,173 declarations, 0 failures, including all 5 decide +kernel elevated-fuel Formalism modules) on our 64 GB workstation and is actively streaming remaining layers; meanwhile, clean-room flat-export replay (nanoda / con-leche) remains open locally due to 64 GB memory bounds on the monolithic ~61.57 GB NDJSON export, lean4lean shares Lean C++ design lineage, and the 17.37M-line proof lacks human-surveyable prose exposition.",
+        "refutation_attempt_executed": "175,187-file static soundness scan, statement fidelity check against Mathlib definitions, full Lean v4.33.1 kernel compilation (127,812s), #print axioms verification (110s), transitive fresh replay via lake env leanchecker --fresh Main (26,898s, exit_code=0), and bounded-RAM module-by-module lean4lean replay snapshot at 2026-11-24T05:19:45Z (28,357/175,187 modules, 616,173 declarations, 0 failures; Formalism 18,254/18,254 cleared).",
+        "revocation_condition": "Any soundness bug in Lean v4.33.1 kernel, any module failure in the ongoing lean4lean sweep or clean-room external second-kernel replay, or any non-standard axiom detected in Main transitive closure."
       }
     },
     "alpoge_full_package_including_unformalized_erh_remark": {

@@ -1,5 +1,5 @@
 {
-  "certificate_version": "rh-grh-verification-certificate/v1.1",
+  "certificate_version": "rh-grh-verification-certificate/v1.1.1",
   "target": "alpoge-rh-2026-11-20",
   "audited_by": "CoResearcher (https://github.com/Fundacion-de-Neurociencias/coresearcher)",
   "source": {
@@ -66,10 +66,73 @@
     "leanchecker_fresh_main_finished_utc": "2026-11-23T14:03:24Z",
     "leanchecker_fresh_log": "certificates/alpoge_rh_leanchecker_fresh.log",
     "leanchecker_fresh_log_sha256": "ff8ea3d0b4db9f21f2a09513a5b20c1d2d6d106566030aa7f21e50156966f95c",
-    "leanchecker_fresh_main_scope_note": "Full transitive replay from mkEmptyEnvironment across all imported and exported declarations in Main; rules out .olean corruption, environment hacking, and metaprogramming bypasses under Lean v4.33.1 core kernel. Only an independent external second kernel (nanoda / lean4lean) remains open locally.",
+    "leanchecker_fresh_main_scope_note": "Full transitive replay from mkEmptyEnvironment across all imported and exported declarations in Main; rules out .olean corruption, environment hacking, and metaprogramming bypasses under Lean v4.33.1 core kernel.",
     "external_second_kernel_nanoda": {
       "status": "open_resource_limit",
-      "reason": "Single-threaded lean4export Main NDJSON serialization stalled at 46.47 GB on 64 GB unified memory, triggering virtual memory thrashing and requiring termination."
+      "reason": "Single-threaded lean4export Main monolithic flat NDJSON serialization (~61.57 GB full export) stalled at 46.47 GB on 64 GB unified memory, triggering virtual memory thrashing and requiring termination. Clean-room flat-export replay (nanoda / con-leche) remains above 64 GB host memory headroom locally."
+    },
+    "external_kernel_lean4lean_module_replay": {
+      "status": "in_progress_zero_failures",
+      "upstream_repository": "https://github.com/digama0/lean4lean",
+      "upstream_commit": "67f63b0c818920dfaed2ad07ccff187a6a8fe1e3",
+      "toolchain": "leanprover/lean4:v4.33.1",
+      "execution_architecture": "Unmodified Lean4Lean.Replay.replayFromImports invoked sequentially per exact module list (3 parallel workers x 10-module streaming chunks, MIMALLOC_PURGE_DELAY=0, memory_pressure >= 45% guard; heavy apex modules reserved for single-worker serial replay) bypassing monolithic ~61.57 GB flat export and prefix-scan collisions.",
+      "design_lineage_limitation": "External Lean-implemented kernel port derived from Lean's C++ kernel design with formal metatheory verification (Lean4Lean.Verify) and explicit FuelConfig bounds; provides an independent executable and bounded-RAM replay, while sharing C++ kernel design lineage rather than clean-room Rust/C reimplementations (nanoda, con-leche).",
+      "snapshot_utc": "2026-11-24T05:19:45Z",
+      "modules_total": 175187,
+      "modules_verified": 28357,
+      "passed_default_fuel": 28352,
+      "passed_elevated_fuel": 5,
+      "declarations_checked": 616173,
+      "failed_modules": 0,
+      "elevated_fuel_flags": [
+        "--config:whnf=100000000000",
+        "--config:whnfEager=100000000000",
+        "--config:lazyDelta=100000000000",
+        "--config:recDepth=200000"
+      ],
+      "elevated_fuel_modules_verified": [
+        {
+          "module": "Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ChebyshevPrimeBounds.SmallLoop",
+          "declarations": 10,
+          "duration_ms": 26967
+        },
+        {
+          "module": "Formalism.PeriodIntegrals.UnitaryGroupMassFormula.DyadicPrimeIntervals.Run1",
+          "declarations": 2,
+          "duration_ms": 11676
+        },
+        {
+          "module": "Formalism.PeriodIntegrals.UnitaryGroupMassFormula.DyadicPrimeIntervals.Run2",
+          "declarations": 2,
+          "duration_ms": 11574
+        },
+        {
+          "module": "Formalism.PeriodIntegrals.UnitaryGroupMassFormula.DyadicPrimeIntervals.Run3",
+          "declarations": 2,
+          "duration_ms": 11596
+        },
+        {
+          "module": "Formalism.PeriodIntegrals.UnitaryGroupMassFormula.DyadicPrimeIntervals.Run4",
+          "declarations": 2,
+          "duration_ms": 11721
+        }
+      ],
+      "layers_progress": {
+        "Statements": "1/1",
+        "Lemmata": "167/167",
+        "PositivityTheory": "449/449",
+        "GroundTheory": "8507/8507",
+        "Formalism": "18254/18254",
+        "ReciprocityTheory": "979/3845",
+        "CompanionTheory": "0/2027",
+        "Development": "0/141928",
+        "BuildAid": "0/5",
+        "Supplements": "0/3",
+        "Main": "0/1"
+      },
+      "steady_state_combined_rss_gb": 15.47,
+      "system_free_memory_pct": 88
     },
     "legacy_lean4checker_repo_exit_code": 99,
     "legacy_lean4checker_repo_note": "External lean4checker repository failed to build under v4.33.1 due to addDeclCore signature changes; superseded by bundled leanchecker in Lean v4.33.1 toolchain.",

@@ -19,6 +19,12 @@ Thomas~L. Griffiths.
   Mind}.
 \newblock Henry Holt and Co., 2026.
 
+\bibitem{carneiro2026}
+Mario Carneiro.
+\newblock \texttt{lean4lean}: A {Lean 4} kernel implemented in {Lean 4} (commit
+  \texttt{67f63b0c}).
+\newblock \url{https://github.com/digama0/lean4lean}, 2026.
+
 \bibitem{alpoge2026}
 Levent Alp{\"o}ge.
 \newblock Formal {Lean 4} repository and explanatory remark on the {Riemann}
