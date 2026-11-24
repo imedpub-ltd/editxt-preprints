@@ -6,9 +6,9 @@
   "authors": [
     "Manuel Menéndez-González"
   ],
-  "affiliation": "Fundación de Neurociencias, Oviedo, Spain",
+  "affiliation": "Independent Researcher (No Institutional Affiliation Listed)",
   "targetVenue": "EdiTxt Preprints / International Archives (Multidisciplinary)",
-  "auditTimestamp": "2026-11-23T21:23:58.822Z",
+  "auditTimestamp": "2026-11-24T06:16:07.612Z",
   "publicationStatus": "CERTIFIED_PREPRINT",
   "formalStatus": "KERNEL_CHECKED_AND_FRESH_REPLAYED_V4_33_1",
   "verdict": "READY_FOR_PREPRINT",
@@ -16,7 +16,7 @@
   "isDryRunReservation": true,
   "invariantsAudit": {
     "titleHygiene": "PASSED",
-    "headingsHygiene": "PASSED (20/20 headings clean)",
+    "headingsHygiene": "PASSED (21/21 headings clean)",
     "privateRepoCitations": "PASSED (0 private repo links; public repositories only)",
     "hardwareSpecification": "PASSED (Apple M4 Max, 16-core ARM64, 64 GB unified memory, 98 GB build footprint)",
     "compilationMetricsVerified": "PASSED (127,812s, 175,187 modules, exit code 0, 183,889 .olean binaries)",
@@ -36,7 +36,7 @@
     "comparativeAuditsIncluded": "PASSED (comparative_audit_alpoge_vs_masullo.md & epistemic_verification_protocol.md v1.1)"
   },
   "fileIntegrityHashes": {
-    "preprintRhGrhEpistemicAuditSha256": "f0a205dc1f52ba121c6f354bbf282e8ad98cd483ef245026a397cea9b7aabbf3",
+    "preprintRhGrhEpistemicAuditSha256": "cc8d645478084ce6fdf312c2da98b3330059f69011c8ed772f4ff3a65df50b7b",
     "mathematicalArchitecturePrimerSha256": "4445d5cc7cb8c7c9768386312afef3318804a47da338ce838391f0ba0aa806a0",
     "epistemicSpineExplorerHtmlSha256": "48762761b88530456c88e1510434cd42abc85e46238fe575f381d90cf27760bf",
     "comparativeAuditAlpogeVsMasulloSha256": "6c49ac2264fd31f2fd702d98d13367cd41b29c5d4bafab71e6cac37882ed106c",
@@ -48,7 +48,7 @@
     "masulloForensicSummarySha256": "6af7c55b84961e221d6a6c91a1f3ebea3e0ff2c0f3960c4cef960755ace38f58",
     "alpogeRhAxiomsLogSha256": "590d5252e7e5a4e6d9faef1895216c77eb103d6667037d832eaedaa34fa3186d",
     "alpogeRhLeancheckerFreshLogSha256": "ff8ea3d0b4db9f21f2a09513a5b20c1d2d6d106566030aa7f21e50156966f95c",
-    "merkleRootSha256": "22eef62f3c19cb8e7654146afead0615b2905eeb6cf0fc3776d60363b4aba7b4"
+    "merkleRootSha256": "b7918be04c9252afcf707319791861c3b298f51a44b5c49652f20b45fefe42b3"
   },
   "zenodoDeposition": {
     "status": "DRY_RUN_RESERVATION",

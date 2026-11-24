@@ -71,7 +71,7 @@ const receipt = {
   dossierReleaseUrl: 'https://github.com/Fundacion-de-Neurociencias/riemann-hypothesis-audit-dossier/releases/tag/v1.1',
   dossierCommit: '9be2b0c',
   authors: ['Manuel Menéndez-González'],
-  affiliation: 'Fundación de Neurociencias, Oviedo, Spain',
+  affiliation: 'Independent Researcher (No Institutional Affiliation Listed)',
   targetVenue: 'EdiTxt Preprints / International Archives (Multidisciplinary)',
   auditTimestamp: new Date().toISOString(),
   publicationStatus: 'CERTIFIED_PREPRINT',
