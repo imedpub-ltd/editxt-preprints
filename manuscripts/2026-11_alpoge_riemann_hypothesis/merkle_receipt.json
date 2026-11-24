@@ -8,7 +8,7 @@
   ],
   "affiliation": "Independent Researcher (No Institutional Affiliation Listed)",
   "targetVenue": "EdiTxt Preprints / International Archives (Multidisciplinary)",
-  "auditTimestamp": "2026-11-24T16:51:03.961Z",
+  "auditTimestamp": "2026-11-24T18:25:58.807Z",
   "publicationStatus": "CERTIFIED_PREPRINT",
   "formalStatus": "KERNEL_CHECKED_AND_FRESH_REPLAYED_V4_33_1",
   "verdict": "READY_FOR_PREPRINT",
@@ -52,11 +52,12 @@
   },
   "zenodoDeposition": {
     "status": "PUBLISHED",
-    "depositionId": 24492310,
+    "depositionId": 24510649,
+    "conceptDoi": "10.5281/zenodo.24492309",
     "prereserveDoi": false,
-    "doi": "10.5281/zenodo.24492310",
-    "doiUrl": "https://doi.org/10.5281/zenodo.24492310",
-    "depositionUrl": "https://zenodo.org/records/24492310",
+    "doi": "10.5281/zenodo.24510649",
+    "doiUrl": "https://doi.org/10.5281/zenodo.24510649",
+    "depositionUrl": "https://zenodo.org/records/24510649",
     "permanentDoiMinted": true
   }
 }

@@ -117,11 +117,12 @@ const receipt = {
   },
   zenodoDeposition: {
     status: 'PUBLISHED',
-    depositionId: 24492310,
+    depositionId: 24510649,
+    conceptDoi: '10.5281/zenodo.24492309',
     prereserveDoi: false,
-    doi: '10.5281/zenodo.24492310',
-    doiUrl: 'https://doi.org/10.5281/zenodo.24492310',
-    depositionUrl: 'https://zenodo.org/records/24492310',
+    doi: '10.5281/zenodo.24510649',
+    doiUrl: 'https://doi.org/10.5281/zenodo.24510649',
+    depositionUrl: 'https://zenodo.org/records/24510649',
     permanentDoiMinted: true
   }
 };
