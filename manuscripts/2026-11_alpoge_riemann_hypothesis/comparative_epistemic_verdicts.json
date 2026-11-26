@@ -1,5 +1,5 @@
 {
-  "dossier_verdicts_version": "comparative-epistemic-verdicts/v1.1",
+  "dossier_verdicts_version": "comparative-epistemic-verdicts/v1.2",
   "epistemic_scale_note": "Epistemia risk is normalized on [0.0, 1.0] where 0.0 denotes zero plausibility-evaluation decoupling and 1.0 denotes severe Epistemia risk.",
   "targets": {
     "alpoge_formalized_cones_5_theorems": {
@@ -19,9 +19,9 @@
         "within_human_budget": false
       },
       "contestability_card": {
-        "weakest_pivot": "Bounded-RAM module-by-module lean4lean (commit 67f63b0c) replay has cleared 28,357/175,187 modules (616,173 declarations, 0 failures, including all 5 decide +kernel elevated-fuel Formalism modules) on our 64 GB workstation and is actively streaming remaining layers; meanwhile, clean-room flat-export replay (nanoda / con-leche) remains open locally due to 64 GB memory bounds on the monolithic ~61.57 GB NDJSON export, lean4lean shares Lean C++ design lineage, and the 17.37M-line proof lacks human-surveyable prose exposition.",
-        "refutation_attempt_executed": "175,187-file static soundness scan, statement fidelity check against Mathlib definitions, full Lean v4.33.1 kernel compilation (127,812s), #print axioms verification (110s), transitive fresh replay via lake env leanchecker --fresh Main (26,898s, exit_code=0), and bounded-RAM module-by-module lean4lean replay snapshot at 2026-11-24T05:19:45Z (28,357/175,187 modules, 616,173 declarations, 0 failures; Formalism 18,254/18,254 cleared).",
-        "revocation_condition": "Any soundness bug in Lean v4.33.1 kernel, any module failure in the ongoing lean4lean sweep or clean-room external second-kernel replay, or any non-standard axiom detected in Main transitive closure."
+        "weakest_pivot": "Bounded-RAM module-by-module lean4lean (commit 67f63b0c) replay cleared all 175,187/175,187 modules (1,927,488 declarations, 0 failures, 175,170 default + 17 elevated-fuel modules in 204,972.82s) on our 64 GB workstation; however, lean4lean shares Lean C++ design lineage, clean-room flat-export replay (nanoda / con-leche) remains open locally due to 64 GB memory bounds on the monolithic ~61.57 GB NDJSON export, and the 17.37M-line proof lacks human-surveyable prose exposition.",
+        "refutation_attempt_executed": "175,187-file static soundness scan, statement fidelity check against Mathlib definitions, full Lean v4.33.1 kernel compilation (127,812s), #print axioms verification (110s), transitive fresh replay via lake env leanchecker --fresh Main (26,898s, exit_code=0), and complete 175,187/175,187 module-by-module lean4lean replay finished at 2026-11-26T08:18:04Z (1,927,488 declarations, 0 failures; lean4lean_summary.json SHA-256 2a127531...).",
+        "revocation_condition": "Any soundness bug in Lean v4.33.1 kernel, any module failure in clean-room external second-kernel replay, or any non-standard axiom detected in Main transitive closure."
       }
     },
     "alpoge_full_package_including_unformalized_erh_remark": {

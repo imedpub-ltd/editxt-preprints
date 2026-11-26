@@ -1,5 +1,5 @@
 {
-  "certificate_version": "rh-grh-verification-certificate/v1.1.1",
+  "certificate_version": "rh-grh-verification-certificate/v1.2",
   "target": "alpoge-rh-2026-11-20",
   "audited_by": "CoResearcher (https://github.com/Fundacion-de-Neurociencias/coresearcher)",
   "source": {
@@ -72,18 +72,21 @@
       "reason": "Single-threaded lean4export Main monolithic flat NDJSON serialization (~61.57 GB full export) stalled at 46.47 GB on 64 GB unified memory, triggering virtual memory thrashing and requiring termination. Clean-room flat-export replay (nanoda / con-leche) remains above 64 GB host memory headroom locally."
     },
     "external_kernel_lean4lean_module_replay": {
-      "status": "in_progress_zero_failures",
+      "status": "passed",
       "upstream_repository": "https://github.com/digama0/lean4lean",
       "upstream_commit": "67f63b0c818920dfaed2ad07ccff187a6a8fe1e3",
       "toolchain": "leanprover/lean4:v4.33.1",
-      "execution_architecture": "Unmodified Lean4Lean.Replay.replayFromImports invoked sequentially per exact module list (3 parallel workers x 10-module streaming chunks, MIMALLOC_PURGE_DELAY=0, memory_pressure >= 45% guard; heavy apex modules reserved for single-worker serial replay) bypassing monolithic ~61.57 GB flat export and prefix-scan collisions.",
+      "execution_architecture": "Unmodified Lean4Lean.Replay.replayFromImports invoked sequentially per exact module list (3 parallel workers x 10-module bounded chunks, MIMALLOC_PURGE_DELAY=0, memory_pressure >= 45% guard; heavy apex modules reserved for single-worker serial replay) bypassing monolithic ~61.57 GB flat export and prefix-scan collisions.",
       "design_lineage_limitation": "External Lean-implemented kernel port derived from Lean's C++ kernel design with formal metatheory verification (Lean4Lean.Verify) and explicit FuelConfig bounds; provides an independent executable and bounded-RAM replay, while sharing C++ kernel design lineage rather than clean-room Rust/C reimplementations (nanoda, con-leche).",
-      "snapshot_utc": "2026-11-24T05:19:45Z",
+      "started_utc": "2026-11-23T22:30:08Z",
+      "completed_utc": "2026-11-26T08:18:04Z",
+      "elapsed_seconds": 204972.82,
+      "summary_sha256": "2a1275314add679b47ee4de7ee7601388489fff7d7e074ec6a18d36116f35a14",
       "modules_total": 175187,
-      "modules_verified": 28357,
-      "passed_default_fuel": 28352,
-      "passed_elevated_fuel": 5,
-      "declarations_checked": 616173,
+      "modules_verified": 175187,
+      "passed_default_fuel": 175170,
+      "passed_elevated_fuel": 17,
+      "declarations_checked": 1927488,
       "failed_modules": 0,
       "elevated_fuel_flags": [
         "--config:whnf=100000000000",
@@ -124,12 +127,12 @@
         "PositivityTheory": "449/449",
         "GroundTheory": "8507/8507",
         "Formalism": "18254/18254",
-        "ReciprocityTheory": "979/3845",
-        "CompanionTheory": "0/2027",
-        "Development": "0/141928",
-        "BuildAid": "0/5",
-        "Supplements": "0/3",
-        "Main": "0/1"
+        "ReciprocityTheory": "3845/3845",
+        "CompanionTheory": "2027/2027",
+        "Development": "141928/141928",
+        "BuildAid": "5/5",
+        "Supplements": "3/3",
+        "Main": "1/1"
       },
       "steady_state_combined_rss_gb": 15.47,
       "system_free_memory_pct": 88

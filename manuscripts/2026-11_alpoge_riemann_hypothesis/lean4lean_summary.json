@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "kernel": "digama0/lean4lean@67f63b0c818920dfaed2ad07ccff187a6a8fe1e3",
+  "driver": "lean4lean_batch (replayFromImports)",
+  "workers": 3,
+  "chunk_size": 10,
+  "total_modules": 175187,
+  "completed_modules": 175187,
+  "passed_default": 175170,
+  "passed_elevated_fuel": 17,
+  "total_declarations_checked": 1927488,
+  "failed_modules": [],
+  "started_utc": "2026-11-23T22:30:08Z",
+  "updated_utc": "2026-11-26T08:18:04Z",
+  "elapsed_s": 204972.82
+}

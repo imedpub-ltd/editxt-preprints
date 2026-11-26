@@ -1,18 +1,21 @@
 {
   "manuscript_id": "2026-11_alpoge_riemann_hypothesis",
   "title": "Independent Formal Verification, Epistemic Spine Cartography, and Comparative Auditing of Riemann Hypothesis Proof Claims",
+  "version": "1.2",
   "status": "CERTIFIED_PREPRINT",
   "verdict": "READY_FOR_PREPRINT",
   "is_published": true,
   "is_finished": true,
   "publication_blocked": false,
-  "permanent_doi_minted": false,
+  "permanent_doi_minted": true,
+  "zenodo_doi": "10.5281/zenodo.24555893",
+  "zenodo_concept_doi": "10.5281/zenodo.24492309",
   "authors": [
     {
       "name": "Manuel Menéndez-González",
-      "affiliation": "Fundación de Neurociencias, Oviedo, Spain",
+      "affiliation": null,
       "orcid": "0000-0002-1825-0097",
-      "email": "research@fneurociencias.org"
+      "email": "menendezgmanuel@uniovi.es"
     }
   ],
   "track": "Multidisciplinary Computable Science / Automated Reasoning",
@@ -80,10 +83,12 @@
     }
   },
   "second_kernel_caveats": {
-    "leanchecker_fresh": "Asynchronously launched in lake env",
-    "nanoda_lean4export": "Single-threaded NDJSON export reached 46.47 GB on 64 GB host (RAM threshold documented)"
+    "leanchecker_fresh": "PASSED (26,898s / 7h 28m 18s, exit_code=0, SHA-256 ff8ea3d0...)",
+    "lean4lean_full_archive": "PASSED (175,187/175,187 modules, 1,927,488 declarations, 0 failures in 204,972.82s [56h 56m 13s]; 175,170 default + 17 elevated-fuel; SHA-256 2a127531...; noting C++ kernel design lineage)",
+    "nanoda_lean4export": "Single-threaded monolithic NDJSON export (~61.57 GB full) stalled at 46.47 GB on 64 GB host (clean-room flat export requires 82.6-98.8 GiB+ RAM)"
   },
   "public_dossier": "https://github.com/Fundacion-de-Neurociencias/riemann-hypothesis-audit-dossier",
+  "public_dossier_release": "https://github.com/Fundacion-de-Neurociencias/riemann-hypothesis-audit-dossier/releases/tag/v1.2",
   "automated_platform": "https://github.com/Fundacion-de-Neurociencias/coresearcher",
-  "registered_at": "2026-11-23T14:20:00Z"
+  "updated_at": "2026-11-26T09:47:00Z"
 }
