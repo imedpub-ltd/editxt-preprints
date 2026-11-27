@@ -1,5 +1,5 @@
 {
-  "certificate_version": "rh-grh-verification-certificate/v1.2",
+  "certificate_version": "rh-grh-verification-certificate/v1.3",
   "target": "alpoge-rh-2026-11-20",
   "audited_by": "CoResearcher (https://github.com/Fundacion-de-Neurociencias/coresearcher)",
   "source": {
@@ -69,14 +69,14 @@
     "leanchecker_fresh_main_scope_note": "Full transitive replay from mkEmptyEnvironment across all imported and exported declarations in Main; rules out .olean corruption, environment hacking, and metaprogramming bypasses under Lean v4.33.1 core kernel.",
     "external_second_kernel_nanoda": {
       "status": "open_resource_limit",
-      "reason": "Single-threaded lean4export Main monolithic flat NDJSON serialization (~61.57 GB full export) stalled at 46.47 GB on 64 GB unified memory, triggering virtual memory thrashing and requiring termination. Clean-room flat-export replay (nanoda / con-leche) remains above 64 GB host memory headroom locally."
+      "reason": "Single-threaded lean4export Main monolithic flat NDJSON serialization (measuring 61,570,595,788 bytes / 61.57 GB in external high-RAM runs documented by Andrew Sutherland) stalled at 46.47 GB on 64 GB unified memory, triggering virtual memory thrashing and requiring termination. Clean-room flat-export replay (nanoda / con-leche) remains above 64 GB host memory headroom locally."
     },
     "external_kernel_lean4lean_module_replay": {
       "status": "passed",
       "upstream_repository": "https://github.com/digama0/lean4lean",
       "upstream_commit": "67f63b0c818920dfaed2ad07ccff187a6a8fe1e3",
       "toolchain": "leanprover/lean4:v4.33.1",
-      "execution_architecture": "Unmodified Lean4Lean.Replay.replayFromImports invoked sequentially per exact module list (3 parallel workers x 10-module bounded chunks, MIMALLOC_PURGE_DELAY=0, memory_pressure >= 45% guard; heavy apex modules reserved for single-worker serial replay) bypassing monolithic ~61.57 GB flat export and prefix-scan collisions.",
+      "execution_architecture": "Unmodified Lean4Lean.Replay.replayFromImports invoked sequentially per exact module list (3 parallel workers x 10-module bounded chunks, MIMALLOC_PURGE_DELAY=0, memory_pressure >= 45% guard; heavy apex modules reserved for single-worker serial replay) trusting precompiled Mathlib and prior batch .olean headers rather than re-elaborating Mathlib from mkEmptyEnvironment.",
       "design_lineage_limitation": "External Lean-implemented kernel port derived from Lean's C++ kernel design with formal metatheory verification (Lean4Lean.Verify) and explicit FuelConfig bounds; provides an independent executable and bounded-RAM replay, while sharing C++ kernel design lineage rather than clean-room Rust/C reimplementations (nanoda, con-leche).",
       "started_utc": "2026-11-23T22:30:08Z",
       "completed_utc": "2026-11-26T08:18:04Z",

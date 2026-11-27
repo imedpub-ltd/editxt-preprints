@@ -1,30 +1,5 @@
 \begin{thebibliography}{10}
 
-\bibitem{quattrociocchi2025}
-Walter Quattrociocchi, Valerio Capraro, and Matja{\v{z}} Perc.
-\newblock Epistemological fault lines between human and artificial
-  intelligence.
-\newblock arXiv:2512.19466, \url{https://arxiv.org/abs/2512.19466}, 2025.
-
-\bibitem{thurston1994}
-William~P. Thurston.
-\newblock On proof and progress in mathematics.
-\newblock {\em Bulletin of the American Mathematical Society}, 30(2):161--177,
-  1994.
-\newblock arXiv:math/9404236.
-
-\bibitem{griffiths2026}
-Thomas~L. Griffiths.
-\newblock {\em The Laws of Thought: The Quest for a Mathematical Theory of the
-  Mind}.
-\newblock Henry Holt and Co., 2026.
-
-\bibitem{carneiro2026}
-Mario Carneiro.
-\newblock \texttt{lean4lean}: A {Lean 4} kernel implemented in {Lean 4} (commit
-  \texttt{67f63b0c}).
-\newblock \url{https://github.com/digama0/lean4lean}, 2026.
-
 \bibitem{alpoge2026}
 Levent Alp{\"o}ge.
 \newblock Formal {Lean 4} repository and explanatory remark on the {Riemann}
@@ -40,6 +15,18 @@ Ravi Vakil.
 \newblock
   \url{https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/},
   2026.
+
+\bibitem{quattrociocchi2025}
+Walter Quattrociocchi, Valerio Capraro, and Matja{\v{z}} Perc.
+\newblock Epistemological fault lines between human and artificial
+  intelligence.
+\newblock arXiv:2512.19466, \url{https://arxiv.org/abs/2512.19466}, 2025.
+
+\bibitem{griffiths2026}
+Thomas~L. Griffiths.
+\newblock {\em The Laws of Thought: The Quest for a Mathematical Theory of the
+  Mind}.
+\newblock Henry Holt and Co., 2026.
 
 \bibitem{vonkoch1901}
 Helge von Koch.
@@ -100,6 +87,18 @@ Jeffrey~C. Lagarias.
 \newblock {\em The American Mathematical Monthly}, 109(6):534--543, 2002.
 \newblock arXiv:math/0008177.
 
+\bibitem{sutherland2026}
+Andrew Sutherland.
+\newblock {RH} {Lean} proof: verification files.
+\newblock Massachusetts Institute of Technology,
+  \url{https://math.mit.edu/~drew/grh/}, 2026.
+
+\bibitem{carneiro2026}
+Mario Carneiro.
+\newblock \texttt{lean4lean}: A {Lean 4} kernel implemented in {Lean 4} (commit
+  \texttt{67f63b0c}).
+\newblock \url{https://github.com/digama0/lean4lean}, 2026.
+
 \bibitem{leanfro2026}
 {Lean FRO} and {Mathlib Initiative}.
 \newblock Lean verification of the {Riemann} hypothesis.
@@ -107,11 +106,12 @@ Jeffrey~C. Lagarias.
   \url{https://leanprover-community.github.io/blog/posts/riemann-hypothesis/},
   2026.
 
-\bibitem{sutherland2026}
-Andrew Sutherland.
-\newblock {RH} {Lean} proof: verification files.
-\newblock Massachusetts Institute of Technology,
-  \url{https://math.mit.edu/~drew/grh/}, 2026.
+\bibitem{thurston1994}
+William~P. Thurston.
+\newblock On proof and progress in mathematics.
+\newblock {\em Bulletin of the American Mathematical Society}, 30(2):161--177,
+  1994.
+\newblock arXiv:math/9404236.
 
 \bibitem{menendez2026coresearcher}
 Manuel Men{\'e}ndez-Gonz{\'a}lez and {Fundaci{\'o}n de Neurociencias}.

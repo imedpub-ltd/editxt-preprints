@@ -4,7 +4,7 @@ On November 20, 2026, two distinct claims targeting the Riemann Hypothesis (RH) 
 1. **Alpöge (+ Claude AI):** A `175,187`-file Lean 4 formalization claiming RH and Dirichlet GRH (`https://alpo.ge/`), accompanied only by a 4-page explanatory note (`remark.pdf`).
 2. **Alessandro Maria Masullo:** A `940`-page, 12-year solo human LaTeX manuscript claiming general GRH for Hecke $L$-functions (`the-music-of-the-primes.pdf`), announced via Ravi Vakil's blog (`https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/`).
 
-Evaluating both side by side exposes the central methodological tension of contemporary mathematical science.
+Evaluating both side by side serves as an **illustrative methodological contrast** in deductive closure—not a symmetric referendum between formal and completed informal mathematics, given Masullo's explicitly incomplete closing chapter.
 
 ---
 

@@ -12,10 +12,11 @@
 \usepackage{setspace}
 \usepackage{xcolor}
 \usepackage{cite}
+\usepackage{alltt}
 \usepackage[colorlinks=true,linkcolor=blue!55!black,citecolor=blue!55!black,urlcolor=blue!55!black,pdftitle={Independent Formal Verification, Epistemic Spine Cartography, and Comparative Auditing of Riemann Hypothesis Proof Claims},pdfauthor={Manuel Menendez-Gonzalez}]{hyperref}
 
-\geometry{margin=0.77in}
-\setstretch{1.07}
+\geometry{margin=0.72in}
+\setstretch{1.06}
 \setlength{\emergencystretch}{3em}
 \pagestyle{plain}
 \newcommand{\code}[1]{\texttt{\small #1}}
@@ -47,9 +48,9 @@
 % --- METADATA ---
 \title{\textbf{Independent Formal Verification, Epistemic Spine Cartography, and Comparative Auditing of Riemann Hypothesis Proof Claims}}
 
-\author{Manuel Men{\'e}ndez-Gonz{\'a}lez\thanks{Corresponding author: \texttt{menendezgmanuel@uniovi.es}. ORCID: \texttt{0000-0002-1825-0097}. Public Verification Dossier (v1.2): \url{https://github.com/Fundacion-de-Neurociencias/riemann-hypothesis-audit-dossier}.}}
+\author{Manuel Men{\'e}ndez-Gonz{\'a}lez\thanks{Corresponding author: \texttt{menendezgmanuel@uniovi.es}. ORCID: \texttt{0000-0002-1825-0097}. Public Verification Dossier (v1.3): \url{https://github.com/Fundacion-de-Neurociencias/riemann-hypothesis-audit-dossier}.}}
 
-\date{November 26, 2026 $\cdot$ Preprint Version 1.2}
+\date{November 27, 2026 $\cdot$ Preprint Version 1.3}
 
 \begin{document}
 
@@ -57,17 +58,17 @@
 \thispagestyle{plain}
 
 \begin{abstract}
-\noindent We report an independent computational verification, transitive fresh-environment kernel replay, cryptographic provenance audit, deductive dependency cartography, human-comprehensible verification anatomy, and comparative manuscript evaluation of two contemporary claims addressing the Riemann Hypothesis (RH) and Generalized Riemann Hypothesis (GRH): (i) Levent Alp{\"o}ge's AI-assisted Lean~4 formalization comprising 175,187 modules (17,374,215 lines), and (ii) Alessandro Maria Masullo's 940-page informal human manuscript. Compiled from source on an independent Apple M4 Max workstation (16-core ARM64, 64\,GB unified memory) under Lean~\texttt{v4.33.1}, \texttt{lake build} completed deterministically with clean exit status in 127,812\,seconds ($\approx$35.5\,hours), producing 183,889 \texttt{.olean} binary artifacts (98\,GB build footprint). Subsequent transitive fresh-environment replay via \texttt{lake env leanchecker -{}-fresh} completed independently in 26,898\,seconds (7\,h 28\,min 18\,s, zero exit status), ruling out binary corruption, environment manipulation, and metaprogramming bypasses across all imported and exported declarations. Axiom tracing (\texttt{\#print axioms}) over all five exported root theorems---anchored cleanly in canonical \texttt{Mathlib} definitions (\texttt{RiemannHypothesis} and \texttt{DirichletCharacter.LFunction}) across a human-readable external statement specification of only 28~lines (specification-to-proof ratio $1.62 \times 10^{-6}$)---confirmed zero \texttt{sorry} placeholders, zero custom axioms, and exclusive reliance on \texttt{[propext, Classical.choice, Quot.sound]}. Conversely, forensic segmentation of the 940-page informal draft uncovered a blocking deductive gap in Chapter~13 (stub sections~13.1--13.2 and an empty conclusive Theorem~13.3.1.2), alongside 19 unresolved cross-references and 10 draft placeholders. Graph-theoretic dependency analysis across the 818,755 formal theorems and lemmas locates the structural bottleneck at deductive depths~6--7 within the toroidal uniformization interface of the reciprocity layer (fan-in 2,390, 2,379 cross-layer shortcut arcs) and identifies six recurring algebraic-arithmetic engines led by Galois modularity patching (109,260 modules) and iterated unitary theta-lift chains (15,750 modules). Beyond computational certification, we translate both what RH signifies---optimal deterministic cancellation rooted in combinatorial necessity rather than randomness or physical fine-tuning, contrasting unbounded arithmetic law against finite physical instantiation bounds---and how formal verification itself guarantees trust. Interpreting both artifacts through the Epistemia framework~\cite{quattrociocchi2025}, Thurston's distinction between verification and understanding~\cite{thurston1994}, and resource-rational cognitive science~\cite{griffiths2026}, we show why machine-checked validity (Epistemia risk 0.245, machine-verified yet human-opaque) and human comprehension decouple orthogonally. Finally, we demonstrate how our local 64\,GB workstation hit a 46.47\,GB virtual-memory wall during monolithic flat serialization ($\sim$61.57\,GB full export required by clean-room external kernels), bypassed that ceiling via memory-bounded module-by-module \texttt{.olean} replay with \texttt{lean4lean}~\cite{carneiro2026} (achieving full 175,187 / 175,187 module closure and 1,927,488 declarations checked with 0 failures in 204,972.82\,s [56\,h 56\,min 13\,s]---comprising 175,170 modules under default fuel and 17 elevated-fuel modules including all five computationally dense kernel-decision modules in the formalism layer plus 12 upper-layer modules), and distill four generalizable engineering safeguards for autonomous scientific auditing systems.
+\noindent We report an independent computational verification, transitive fresh-environment kernel replay, cryptographic provenance audit, self-contained statement-fidelity inspection, non-exclusive dependency-graph cartography, and comparative epistemological analysis of two contemporary claims addressing the Riemann Hypothesis (RH) and Generalized Riemann Hypothesis (GRH): (i) Levent Alp{\"o}ge's AI-assisted Lean~4 formalization comprising 175,187 modules (17,374,215 lines), and (ii) Alessandro Maria Masullo's 940-page unfinished informal human manuscript. Compiled from source on an independent Apple M4 Max workstation (16-core ARM64, 64\,GB unified memory) under Lean~\texttt{v4.33.1}, \texttt{lake build} completed deterministically with clean exit status in 127,812\,seconds ($\approx$35.5\,hours), producing 183,889 \texttt{.olean} binary artifacts (98\,GB build footprint). Transitive fresh-environment replay via \texttt{lake env leanchecker -{}-fresh} completed independently in 26,898\,seconds (7\,h 28\,min 18\,s, zero exit status), ruling out binary corruption, environment manipulation, and metaprogramming bypasses across all imported and exported declarations. We reproduce verbatim both the complete 28-line external statement specification (anchored cleanly in canonical \texttt{Mathlib} definitions \texttt{RiemannHypothesis} and \texttt{DirichletCharacter.LFunction}; specification-to-proof ratio $1.62 \times 10^{-6}$) and the raw \texttt{\#print axioms} output confirming exclusive reliance on \texttt{[propext, Classical.choice, Quot.sound]} with zero \texttt{sorry} placeholders or custom axioms, alongside the concrete module identities of every isolated auxiliary construct. Graph-theoretic dependency mapping across 818,755 formal theorems and lemmas distinguishes 0-theorem syntactic interface hubs (led by \texttt{UniformisationConclusion}, depth~6, fan-in~2,390) from theorem-bearing bottlenecks and applies a transparent, non-exclusive keyword-indexing rule across module paths and initial theorem headers to index six recurring mathematical families. Conversely, forensic parsing of the 940-page informal draft provides an illustrative contrast with an unclosed human manuscript containing stub sections~13.1--13.2, an empty conclusive Theorem~13.3.1.2, 19 unresolved cross-references, and 10 author draft placeholders. We formulate explicitly a parametrized, normative Epistemia risk index ($E_I = \operatorname{clip}_{[0,1]}(0.45\,G_{\mathrm{fluency}} + 0.35\,D_{\mathrm{cost}} + 0.20\,U_{\mathrm{supp}})$, threshold $\tau_E = 0.35$) and prove rank-order invariance across monotone weight perturbations ($0.2450 < 0.4075 < 0.8500$). Finally, we document how a 64\,GB workstation encounters a 46.47\,GB virtual-memory wall prior to the externally reported 61.57\,GB flat NDJSON serialization size, how module-by-module \texttt{.olean} replay with \texttt{lean4lean} (\texttt{67f63b0c}) closes all 175,187 / 175,187 project modules (1,927,488 declarations, 0 failures in 204,972.82\,s) under explicitly bounded precompiled-\texttt{Mathlib} and elevated-fuel assumptions (17 escalated modules enumerated in full), and extract four methodological safeguards for automated auditing pipelines.
 \end{abstract}
 
 \section{Introduction}
 
-On November 20, 2026, mathematics witnessed an acute epistemic divergence. Levent Alp{\"o}ge publicly released a compressed Lean~4 codebase~\cite{alpoge2026} asserting unconditional formal proofs of the Riemann Hypothesis and the Generalized Riemann Hypothesis for Dirichlet $L$-functions developed iteratively with Claude, accompanied by a four-page note acknowledging that unfiltered prose expansion exceeded 250,000 pages. On the same day, Ravi Vakil posted a hurried announcement of Alessandro Maria Masullo's twelve-year, 940-page human \LaTeX{} manuscript proposing a spectral trace-formula proof of GRH for general Hecke $L$-functions~\cite{vakil2026}.
+On November 20, 2026, mathematical publishing confronted a sharp divergence in proof scale and human surveyability. Levent Alp{\"o}ge publicly released a compressed Lean~4 codebase~\cite{alpoge2026} asserting unconditional formal proofs of the Riemann Hypothesis and the Generalized Riemann Hypothesis for Dirichlet $L$-functions developed iteratively with Claude, accompanied by a four-page note noting that unfiltered prose expansion exceeded 250,000 pages. On the same day, Ravi Vakil posted a ``hurried announcement'' linking Alessandro Maria Masullo's twelve-year, 940-page human \LaTeX{} draft proposing a spectral trace-formula proof of GRH for general Hecke $L$-functions~\cite{vakil2026}.
 
-This juxtaposition crystallizes a central metascientific challenge articulated by Quattrociocchi, Capraro, and Perc~\cite{quattrociocchi2025} and grounded computationally by Griffiths~\cite{griffiths2026}: classical mathematical peer review implicitly assumes that \emph{deductive validity} and \emph{human surveyability} move together. A 17.37-million-line formal corpus shatters that assumption. Addressing it requires more than returning a binary compiler exit code; it demands a dual scientific contribution:
+This juxtaposition illustrates a central metascientific tension highlighted by Quattrociocchi, Capraro, and Perc~\cite{quattrociocchi2025} and grounded computationally by Griffiths~\cite{griffiths2026}: classical mathematical peer review implicitly assumes that \emph{deductive validity} and \emph{human surveyability} move together. A 17.37-million-line formal corpus breaks that assumption. Addressing it requires more than reporting a compiler exit code; it demands a dual scientific contribution:
 \begin{enumerate}
-  \item \textbf{Rigorous Multi-Stage Auditing:} Independently certifying cryptographic provenance, static soundness, statement fidelity, reference-kernel compilation, transitive fresh replay, bounded-RAM independent-kernel replay, and informal manuscript completeness under transparent resource boundaries.
-  \item \textbf{Cognitive and Conceptual Translation:} Making intelligible to mathematicians, scientists, and philosophers \emph{what} the Riemann Hypothesis signifies, \emph{how} formal verification certifies truth without requiring human inspection of millions of lines, \emph{how} the proof's core algebraic machinery works, and \emph{why} formal certification marks the beginning---not the end---of human understanding.
+  \item \textbf{Self-Contained Multi-Stage Auditing:} Independently certifying cryptographic provenance, macro-resistant kernel compilation, transitive fresh-environment replay, bounded-RAM module replay (with complete disclosure of trust boundaries and fuel escalations), literal printing of the root statement specification and axiom trace, and verifiable structural completeness checks.
+  \item \textbf{Cognitive and Conceptual Translation:} Explaining clearly \emph{what} the Riemann Hypothesis signifies, \emph{how} asymmetric formal verification anchors trust without requiring line-by-line inspection of 17.37 million lines, \emph{what} structural motifs dominate the dependency graph, and \emph{why} formal certification separates Phase~1 (machine checking) from Phase~2 (human understanding).
 \end{enumerate}
 
 \section{What the Riemann Hypothesis Means: Deterministic Cancellation and Combinatorial Necessity}
@@ -101,7 +102,7 @@ From a strictly physicalist standpoint, numerical verification has already confi
 
 This delineates a clean division of labor: \textbf{physics characterizes the finite vessel} between empirical cutoffs, whereas \textbf{mathematics characterizes the intrinsic law of the medium}, distinguishing scale-invariant structural invariants from finite-scale mirages. Confirming RH changes nothing causally inside physical bounds, yet certifies that the cancellation observed inside our computational horizon is a \textbf{necessary structural consequence} of arithmetic---rendering teleological or physicalist ``fine-tuning'' interpretations unnecessary. Given the axioms of addition and multiplication, any off-line zero entails a logical contradiction.
 
-\section{Making Machine Verification Intelligible: Anatomy of Formal Trust and Static Audit}
+\section{Making Machine Verification Intelligible: Anatomy of Formal Trust and Self-Contained Statement Audit}
 
 When a proof spans 17.37 million lines, human readers naturally ask an operational question: \emph{how can we trust a computer check we cannot read line by line, and how might a claimed formal proof deceive us?}
 
@@ -117,15 +118,15 @@ The decisive epistemic leverage of a dependent-type proof assistant like Lean~4 
 \setlength{\tabcolsep}{4pt}
 \begin{tabular}{@{}>{\raggedright\arraybackslash}p{0.18\textwidth}>{\raggedright\arraybackslash}p{0.27\textwidth}>{\raggedright\arraybackslash}p{0.19\textwidth}>{\raggedright\arraybackslash}p{0.31\textwidth}@{}}
 \toprule
-\textbf{Failure Vector} & \textbf{How a Claim Could Mislead} & \textbf{What Humans Must Read} & \textbf{Verification Outcome (v1.2)} \\
+\textbf{Failure Vector} & \textbf{How a Claim Could Mislead} & \textbf{What Humans Must Read} & \textbf{Verification Outcome (v1.3)} \\
 \midrule
-\textbf{1. Specification / Statement Hacking} & Proving a weakened, shadowed, or vacuous theorem (e.g., redefining the $L$-function locally, omitting domain guards, or exploiting Lean's total division \texttt{x / 0 = 0}). & Only the \textbf{28-line external specification} (root statement and export files) plus standard \texttt{Mathlib} symbols. & \textbf{Cleared:} Exact semantic match verified with 0 shadowing hazards; specification-to-proof ratio $1.62 \times 10^{-6}$. \\
+\textbf{1. Specification / Statement Hacking} & Proving a weakened, shadowed, or vacuous theorem (e.g., redefining the $L$-function locally, omitting domain guards, or exploiting Lean's total division \texttt{x / 0 = 0}). & Verbatim \textbf{28-line external specification} (printed in Sec.~\ref{sec:tcb_verbatim}) plus canonical \texttt{Mathlib} symbols. & \textbf{Cleared:} Literal specification reproduced below; 0 shadowing hazards; specification-to-proof ratio $1.62 \times 10^{-6}$. \\
 \addlinespace[4pt]
-\textbf{2. Proof Skipping or Axiom Smuggling} & Leaving unfinished holes (\texttt{sorry}), custom \texttt{axiom}s, unverified compiled code (\texttt{native\_decide}, \texttt{@[implemented\_by]}), or environment mutations. & Static audit summary + verbatim \texttt{\#print axioms} output. & \textbf{Cleared:} 0 holes, 0 custom axioms, 0 unsafe bypasses across 175,187 modules; strictly \texttt{[propext, Classical.choice, Quot.sound]}. \\
+\textbf{2. Proof Skipping or Axiom Smuggling} & Leaving unfinished holes (\texttt{sorry}), custom \texttt{axiom}s, unverified compiled code (\texttt{native\_decide}, \texttt{@[implemented\_by]}), or environment mutations. & Verbatim \texttt{\#print axioms} output + transitive empty-env replay (Sec.~\ref{sec:tcb_verbatim}--\ref{sec:boundaries}). & \textbf{Cleared:} 0 holes, 0 custom axioms, 0 unsafe bypasses across 175,187 modules; strictly \texttt{[propext, Classical.choice, Quot.sound]}. \\
 \addlinespace[4pt]
-\textbf{3. Verifier Bug or Binary Tampering} & Soundness bug in Lean \texttt{v4.33.1} kernel or corrupted/manipulated \texttt{.olean} environment state. & Kernel replay logs and external checker reports. & \textbf{Lean \texttt{v4.33.1} + Full \texttt{lean4lean} Cleared:} Full build (127,812\,s) + \texttt{leanchecker -{}-fresh} (26,898\,s, clean exit); bounded-RAM \texttt{lean4lean} cleared all 175,187 / 175,187 modules (1,927,488 decls, 0 failures; 175,170 default + 17 elevated-fuel modules in 204,972.82\,s); monolithic 61.57\,GB clean-room flat export stalled at 46.47\,GB on 64\,GB RAM (Sec.~\ref{sec:boundaries}). \\
+\textbf{3. Verifier Bug or Binary Tampering} & Soundness bug in Lean \texttt{v4.33.1} kernel or corrupted/manipulated \texttt{.olean} environment state. & Kernel replay logs, fuel flags, and external checker boundaries. & \textbf{Lean \texttt{v4.33.1} + Full \texttt{lean4lean} Cleared (Bounded):} Full build (127,812\,s) + \texttt{leanchecker -{}-fresh} (26,898\,s); \texttt{lean4lean} cleared all 175,187/175,187 modules (1,927,488 decls, 0 failures, 204,972.82\,s) trusting precompiled \texttt{Mathlib}; clean-room flat NDJSON (61.57\,GB externally) stalled at 46.47\,GB locally. \\
 \addlinespace[4pt]
-\textbf{4. Prose Scope Inflation} & Claiming broader theorems in prose (e.g., Extended RH) than compiled in Lean. & Comparison between accompanying prose note and formal root statements. & \textbf{Flagged:} RH and Dirichlet GRH compiled (machine-verified, human-opaque, risk 0.245); ERH extrapolation suspends judgment (risk 0.4075). \\
+\textbf{4. Prose Scope Inflation} & Claiming broader theorems in prose (e.g., Extended RH) than compiled in Lean. & Comparison between accompanying prose note and formal root statements. & \textbf{Flagged:} RH and Dirichlet GRH compiled ($E_I = 0.2450$, opaque); ERH prose extrapolation suspends judgment ($E_I = 0.4075$, Eq.~\ref{eq:epistemia}). \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -136,47 +137,90 @@ Every primary source artifact was retrieved from public origins and verified loc
 \begin{itemize}
   \item \textbf{Formal Archive (\texttt{alpo.ge/}):} 239,275,554 bytes, SHA-256 \code{9631b4f020199e58\allowbreak 0ba86178cb56c6e9\allowbreak b09f690c2369a80d\allowbreak c4334aa93f49c7fc}, bit-identical against the public mirror \url{https://github.com/jsmorph/rh}.
   \item \textbf{Accompanying Explanatory Note:} 245,114 bytes, SHA-256 \code{3fc97784b71ddd44\allowbreak ff8aa0a177e99622\allowbreak a1c61b13cfa843a0\allowbreak 989ee4a7a0cfeb8d}.
-  \item \textbf{Root Specification and Export Modules:} 16-line statement file (SHA-256 \code{79ef7ca776e42abe\allowbreak 1f46caee13ea09bd\allowbreak 19f1e2d0b1620d8d\allowbreak 5d200258f33b47bf}) and 12-line export file (SHA-256 \code{017645ca448f2fd1\allowbreak f6fd5c4c2cb2c6e9\allowbreak 6e472725be13f6e1\allowbreak 80ca6e1574360939}), verified identical between tarball and build workspace.
+  \item \textbf{Root Specification and Export Modules:} 16-line statement file \texttt{lean/src/Statements.lean} (SHA-256 \code{79ef7ca776e42abe\allowbreak 1f46caee13ea09bd\allowbreak 19f1e2d0b1620d8d\allowbreak 5d200258f33b47bf}) and 12-line export file \texttt{lean/src/Main.lean} (SHA-256 \code{017645ca448f2fd1\allowbreak f6fd5c4c2cb2c6e9\allowbreak 6e472725be13f6e1\allowbreak 80ca6e1574360939}), verified identical between tarball and build workspace.
   \item \textbf{Pinned Environment:} \texttt{leanprover/lean4:v4.33.1} with \texttt{Mathlib} revision \code{0df444a360eaa60a\allowbreak b8c11dca51a86af6\allowbreak 92955474}.
   \item \textbf{Informal Draft (\emph{The Music of the Primes}):} 6,756,996 bytes (940 pages, compiled with \texttt{pdfTeX-1.40.25}), SHA-256 \code{e039d3f6cf0a4b14\allowbreak f03c7edb85097752\allowbreak dd65c0a2fe543c76\allowbreak fe992be234f97bf}.
 \end{itemize}
 
-\subsection{Full-Archive Static Soundness Inventory}
+\subsection{Lexical Pre-Screening Versus Kernel-Level Soundness}
 
-Exhaustive streaming lexical analysis across all 175,190 archive files (175,187 \texttt{.lean} sources totaling 17,374,215 lines and 1,030,531,854 bytes) recorded:
+Before compilation, an automated streaming lexical pass over all 175,190 archive files (175,187 \texttt{.lean} sources totaling 17,374,215 lines and 1,030,531,854 bytes) indexed 784,092 \texttt{theorem}, 34,663 \texttt{lemma} (818,755 total), 212,819 \texttt{def}, 13,202 \texttt{abbrev}, 8,286 \texttt{structure}, 4,581 \texttt{instance}, 121 \texttt{inductive}, and 43 \texttt{class} declarations, with 0 missing local imports (174,767 reachable modules from \texttt{Main.lean} alongside 420 unimported deadweight files) and zero syntactic occurrences of custom \texttt{axiom}, \texttt{sorry}/\texttt{sorryAx}/\texttt{admit}, \texttt{native\_decide}, \texttt{unsafe}, \texttt{@[implemented\_by]}, \texttt{@[extern]}, \texttt{@[csimp]}, \texttt{opaque}, or kernel-bypass toggles.
+
+Crucially, however, \textbf{syntactic lexical scanning alone cannot rule out custom macros or metaprogramming elaboration hacks in Lean~4}. The binding soundness guarantee therefore comes strictly from kernel elaboration, verbatim \texttt{\#print axioms} inspection, and empty-environment transitive replay (Sec.~\ref{sec:tcb_verbatim}--\ref{sec:boundaries}), while our source audit explicitly isolates and names every non-trivial auxiliary construct flagged inside the active import cone:
 \begin{itemize}
-  \item 784,092 \texttt{theorem} declarations, 34,663 \texttt{lemma} declarations (818,755 total), 212,819 \texttt{def}, 13,202 \texttt{abbrev}, 8,286 \texttt{structure}, 4,581 \texttt{instance}, 121 \texttt{inductive}, and 43 \texttt{class} declarations.
-  \item \textbf{0} missing local imports across the full Unicode module graph, with 174,767 \texttt{.lean} files (99.76\%, 17,330,139 lines) statically reachable from the root export module and only 420 pruned deadweight files (0.24\%).
-  \item \textbf{0} custom \texttt{axiom}, \texttt{sorry}/\texttt{sorryAx}/\texttt{admit}, \texttt{native\_decide}, \texttt{unsafe}, \texttt{@[implemented\_by]}, \texttt{@[extern]}, \texttt{@[csimp]}, \texttt{opaque}, or kernel-bypass declarations.
-  \item Five environment-modification calls in build-aid modules alter only tactic search-suggestion denylists (logically inert), and three metaprogramming helpers invoke kernel-checked declaration additions. Two \texttt{partial def} declarations exist exclusively inside metaprogramming helpers, never within mathematical theorem objects.
+  \item \textbf{Five Tactic-Suggestion Denylist Entries (\texttt{BuildAid/D1.lean}--\texttt{D5.lean}):} Each file executes a single \code{run\_cmd Lean.modifyEnv fun env => Lean.LibrarySuggestions.\allowbreak nameDenyListExt.\allowbreak addEntry env ...} call restricting automated library-suggestion search strings (\texttt{"CompanionTheory"}, \code{"Crystalline\allowbreak Semistable\allowbreak Comparison"}, \texttt{"GlobalTheory"}, \texttt{"PositivityTheory"}, \texttt{"UpperTheory"}), carrying zero logical effect on theorem types or kernel proofs.
+  \item \textbf{Three Metaprogramming Helpers and Two \texttt{meta}-Only \texttt{partial def}s:} (i)~\code{Formalism/\allowbreak LocalToGlobal/\allowbreak IndefiniteReal/\allowbreak Hecke\allowbreak Nonvanishing/\allowbreak Imports.lean} defines tactic \texttt{kexactB} via standard goal assignment (\texttt{g.assign}); (ii)~\code{Formalism/\allowbreak LocalToGlobal/\allowbreak NumberField\allowbreak Families/\allowbreak OwnStruct.lean} defines \texttt{partial def copyAt} inside elaboration tactic \texttt{kcopy} and command \texttt{\#kcopy\_probe} to structurally coerce Lean record projections; and (iii)~\code{Formalism/\allowbreak Hermitian\allowbreak Curvature/\allowbreak Hermitian\allowbreak CurvatureProofs/\allowbreak CutCptCopy.lean} defines \texttt{partial def go} inside command \code{cpt\_\allowbreak copy\_thms}, invoking kernel-checked \texttt{CoreM.addDecl} (never \texttt{addDeclWithoutChecking}). None enters the logical term language.
 \end{itemize}
 
-\subsection{Statement Fidelity and Trusted Computing Base Ratio}
+\subsection{Self-Contained 28-Line Specification, Verbatim Axiom Trace, and Non-Shadowing Audit}
+\label{sec:tcb_verbatim}
 
-Auditing \emph{what} was proved---independently of the internal tactics that prove it---concentrates in a 28-line external specification comprising the public statement definitions and root theorem exports. Relative to the 17,330,139 lines of active formal code reachable from the root, this yields a trusted specification ratio of $1.62 \times 10^{-6}$. Because Lean~4 defines arithmetic operations such as division and inversion as total functions (for instance, returning $0$ on division by zero), a critical check is whether any root or intermediate theorem becomes vacuously true through unguarded denominators or degenerate prime-power bases. Inspection confirms zero unguarded total-function hazards in the 28-line public specification; throughout the intermediate critical-line and strip modules, inverses operate strictly on character-group elements and prime-power bases guarded by explicit primality hypotheses, never via unguarded field division.
+To make this audit self-contained without requiring external repository lookups, we reproduce verbatim the complete 28-line external Trusted Computing Base (\texttt{lean/src/Statements.lean}, lines~1--16; \texttt{lean/src/Main.lean}, lines~1--12):
 
-Semantic comparison against canonical \texttt{Mathlib} predicates confirms exact fidelity for both the critical-line and right-half-plane non-vanishing theorems for Dirichlet $L$-functions (\texttt{DirichletCharacter.LFunction}). Furthermore, \texttt{Mathlib}'s \texttt{RiemannHypothesis} predicate quantifies over all zeros in $\mathbb{C} \setminus \{1, -2, -4, \dots\}$---a formulation strictly stronger as a standalone statement than restricting to the critical strip $0 < \operatorname{Re}(s) < 1$, and classically equivalent via the functional equation and non-vanishing on $\operatorname{Re}(s) \ge 1$ established in the strip-reduction modules. Finally, although two auxiliary $L$-function definitions appear inside isolated local namespaces for local zeta and Hecke constructions, neither shadows or alters \texttt{DirichletCharacter.LFunction} in the exported theorem statements.
+{\scriptsize
+\begin{alltt}
+-- File: lean/src/Statements.lean (16 lines; SHA-256: 79ef7ca776e42abe...)
+import Mathlib
+
+def RiemannZetaZerosOnLine : Prop :=
+  \(\forall\) s : \(\mathbb{C}\), riemannZeta s = 0 \(\to\) (\(\neg\exists\) n : \(\mathbb{N}\), s = -2 * ((n : \(\mathbb{C}\)) + 1)) \(\to\) s \(\neq\) 1 \(\to\) s.re = 1 / 2
+
+def DirichletLNonvanishingRightOfHalf : Prop :=
+  \(\forall\) (N : \(\mathbb{N}\)) [NeZero N] (\(\chi\) : DirichletCharacter \(\mathbb{C}\) N) (s : \(\mathbb{C}\)),
+    1 / 2 < s.re \(\to\) (\(\chi\) \(\neq\) 1 \(\lor\) s \(\neq\) 1) \(\to\) DirichletCharacter.LFunction \(\chi\) s \(\neq\) 0
+
+def DirichletLZerosOnLine : Prop :=
+  \(\forall\) (N : \(\mathbb{N}\)) [NeZero N] (\(\chi\) : DirichletCharacter \(\mathbb{C}\) N) (s : \(\mathbb{C}\)),
+    0 < s.re \(\to\) s.re < 1 \(\to\) DirichletCharacter.LFunction \(\chi\) s = 0 \(\to\) s.re = 1 / 2
+
+def PrimitiveDirichletLZerosOnLine : Prop :=
+  \(\forall\) (N : \(\mathbb{N}\)) [NeZero N] (\(\chi\) : DirichletCharacter \(\mathbb{C}\) N), \(\chi\).IsPrimitive \(\to\)
+    \(\forall\) s : \(\mathbb{C}\), 0 < s.re \(\to\) s.re < 1 \(\to\) DirichletCharacter.LFunction \(\chi\) s = 0 \(\to\) s.re = 1 / 2
+
+-- File: lean/src/Main.lean (12 lines; SHA-256: 017645ca448f2fd1...)
+import Statements
+import Supplements.Kernels.MainTheoremsAll
+
+theorem riemannHypothesis : RiemannHypothesis := rhOfAll
+theorem riemannZeta\_eq\_zero\_re : RiemannZetaZerosOnLine := rhOfAll
+theorem LFunction\_ne\_zero\_of\_half\_lt\_re : DirichletLNonvanishingRightOfHalf := allChi
+theorem LFunction\_eq\_zero\_re : DirichletLZerosOnLine := claimAll.2.1
+theorem LFunction\_eq\_zero\_re\_of\_isPrimitive : PrimitiveDirichletLZerosOnLine := critAll
+\end{alltt}
+}
+
+Relative to the 17,330,139 lines of active code reachable from \texttt{Main.lean}, this 28-line external specification yields a specification-to-proof ratio of $R_{\mathrm{TCB}} = 1.62 \times 10^{-6}$. Direct inspection confirms exact fidelity against canonical \texttt{Mathlib} predicates (\texttt{RiemannHypothesis}, \texttt{riemannZeta}, and \texttt{DirichletCharacter.LFunction}) and zero total-function division hazards (\texttt{x / 0 = 0}): denominators and inverses in the intermediate strip modules act exclusively on finite-character group elements and explicitly guarded prime powers (\texttt{p.Prime}). Two local definitions sharing the identifier \texttt{LFunction} appear strictly scoped inside internal namespaces---\code{GroundTheory.\allowbreak Automorphic.\allowbreak GodementJacquet.\allowbreak LFunction} in \texttt{GJLocalZeta.lean} (local $L$-polynomial factor \texttt{((LPolynomial $\pi$).eval (qs F s))$^{-1}$}) and \code{GroundTheory.\allowbreak Global.\allowbreak LFunction} in \texttt{HeckeLFunction.lean} (\texttt{LSeries $\chi$.LCoeff s})---and neither shadows \texttt{DirichletCharacter.LFunction} in \texttt{Statements.lean} or \texttt{Main.lean}.
 
 \section{Independent Compilation, Metamathematical Axiom Reading, and Resource Boundaries}
 
-\subsection{Reference Hardware Compilation and Transitive Fresh Replay}
+\subsection{Reference Hardware Compilation, Axiom Trace, and Transitive Fresh Replay}
 
 Clean compilation and transitive replay were executed independently on an \textbf{Apple M4 Max (16-core ARM64, 64\,GB unified memory, macOS Darwin 25.5.0)} under \texttt{leanprover/lean4:v4.33.1} (\textbf{Figure~\ref{fig:verif_epistemia}A}):
 \begin{itemize}
   \item \textbf{Root Specification Compilation:} Completed with zero exit status in 31\,seconds.
   \item \textbf{Full Library Build (\texttt{lake build}):} Completed with zero exit status in \textbf{127,812\,seconds} (35\,h 30\,min 12\,s), compiling 175,187/175,187 project modules (183,889 \texttt{.olean} files total including cached \texttt{Mathlib} units; 98\,GB build directory footprint).
-  \item \textbf{Axiom-Trace Verification (\texttt{\#print axioms}, 110\,seconds, zero exit status):} Archived in the public verification dossier (SHA-256 \code{590d5252e7e5a4e6\allowbreak d9faef1895216c77\allowbreak eb103d6667037d83\allowbreak 2eaedaa34fa3186d}). All five exported root theorems---the Riemann Hypothesis, critical-line location of $\zeta(s)$ zeros, and three Dirichlet $L$-function non-vanishing and critical-line theorems (including primitive characters)---depend strictly on:
-  \begin{center}
-    \texttt{[propext, Classical.choice, Quot.sound]}
-  \end{center}
-  \item \textbf{Transitive Fresh-Environment Replay (26,898\,seconds / 7\,h 28\,min 18\,s, zero exit status):} Executed via \texttt{lake env leanchecker -{}-fresh} (2026-11-23T06:35:06Z $\to$ 2026-11-23T14:03:24Z) and archived in the public dossier (SHA-256 \code{ff8ea3d0b4db9f21\allowbreak f2a09513a5b20c1d\allowbreak 2d6d106566030aa7\allowbreak f21e50156966f95c}), independently re-elaborating every imported and exported declaration starting from an empty kernel environment.
-  \item \textbf{Full-Archive Bounded-RAM \texttt{lean4lean} Module Replay (204,972.82\,seconds / 56\,h 56\,min 13\,s, zero failures):} Completed across all 175,187 / 175,187 project modules (1,927,488 declarations checked; 2026-11-23T22:30:08Z $\to$ 2026-11-26T08:18:04Z, archived summary SHA-256 \code{2a1275314add679b\allowbreak 47ee4de7ee760138\allowbreak 8489fff7d7e074ec\allowbreak 6a18d36116f35a14}) via module-by-module \texttt{.olean} import replay (detailed in Sec.~\ref{sec:boundaries}).
+  \item \textbf{Axiom-Trace Verification (\texttt{\#print axioms}, 110\,seconds, zero exit status):} Archived in the public verification dossier (SHA-256 \code{590d5252e7e5a4e6\allowbreak d9faef1895216c77\allowbreak eb103d6667037d83\allowbreak 2eaedaa34fa3186d}). Below is the verbatim transcript across all five root theorems:
+\end{itemize}
+
+{\scriptsize
+\begin{verbatim}
+'riemannHypothesis' depends on axioms: [propext, Classical.choice, Quot.sound]
+'riemannZeta_eq_zero_re' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LFunction_ne_zero_of_half_lt_re' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LFunction_eq_zero_re' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LFunction_eq_zero_re_of_isPrimitive' depends on axioms: [propext, Classical.choice, Quot.sound]
+\end{verbatim}
+}
+
+\begin{itemize}
+  \item \textbf{Transitive Fresh-Environment Replay (26,898\,seconds / 7\,h 28\,min 18\,s, zero exit status):} Executed via \texttt{lake env leanchecker -{}-fresh} (2026-11-23T06:35:06Z $\to$ 2026-11-23T14:03:24Z; SHA-256 \code{ff8ea3d0b4db9f21\allowbreak f2a09513a5b20c1d\allowbreak 2d6d106566030aa7\allowbreak f21e50156966f95c}), independently re-elaborating every imported and exported declaration---including \texttt{Mathlib} dependencies---starting from an empty kernel environment.
+  \item \textbf{Full-Archive Bounded-RAM \texttt{lean4lean} Module Replay (204,972.82\,seconds / 56\,h 56\,min 13\,s, zero failures):} Executed sequentially module by module across all 175,187 / 175,187 project modules (1,927,488 declarations checked; 2026-11-23T22:30:08Z $\to$ 2026-11-26T08:18:04Z; SHA-256 \code{2a1275314add679b\allowbreak 47ee4de7ee760138\allowbreak 8489fff7d7e074ec\allowbreak 6a18d36116f35a14}) under the explicit architectural boundaries detailed in Sec.~\ref{sec:boundaries}.
 \end{itemize}
 
 \begin{figure}[!htb]
   \centering
   \includegraphics[width=0.98\textwidth,height=0.42\textheight,keepaspectratio]{figures/fig2_verification_and_epistemia.pdf}
-  \caption{\textbf{Independent workstation verification stages (v1.2) and comparative Epistemia risk governance.} \textbf{(A)} Wall-clock runtime (log scale) across all five completed workstation verification stages on Apple M4 Max (64\,GB unified memory), spanning Lean~\texttt{v4.33.1} statement compilation (31\,s), axiom tracing (110\,s), transitive fresh-environment replay (26,898\,s), full corpus compilation (127,812\,s), and complete 175,187-module bounded-RAM \texttt{lean4lean} replay (204,972.82\,s, 1,927,488 declarations, 0 failures), while noting the 46.47\,GB flat-export memory wall blocking local clean-room monolithic replay. \textbf{(B)} Normalized Epistemia risk scores across Alp{\"o}ge's five formalized theorems (0.245, machine-verified yet human-opaque), Alp{\"o}ge's full package including unformalized ERH prose (0.4075, judgment suspended), and Masullo's 940-page informal draft (0.850, judgment suspended).}
+  \caption{\textbf{Independent workstation verification stages (v1.3) and parametrized Epistemia governance.} \textbf{(A)} Wall-clock runtime (log scale) across all five workstation verification stages on Apple M4 Max (64\,GB unified memory), noting that module-by-module \texttt{lean4lean} replay trusts precompiled \texttt{Mathlib} \texttt{.olean} artifacts while empty-environment transitive checking is provided by \texttt{leanchecker -{}-fresh} (26,898\,s). \textbf{(B)} Parametrized Epistemia risk scores ($E_I = 0.45\,G_{\mathrm{fluency}} + 0.35\,D_{\mathrm{cost}} + 0.20\,U_{\mathrm{supp}}$, Eq.~\ref{eq:epistemia}) against the normative threshold $\tau_E = 0.35$.}
   \label{fig:verif_epistemia}
 \end{figure}
 
@@ -186,29 +230,62 @@ To readers outside type theory, the three-item log \texttt{[propext, Classical.c
 
 Lean~4's kernel implements dependent type theory augmented solely by three canonical principles: \texttt{propext} (propositional extensionality), \texttt{Classical.choice} (standard classical choice), and \texttt{Quot.sound} (quotient soundness). While this dependent type-theoretic foundation is stronger than elementary Peano Arithmetic (comparable in consistency strength to standard ZFC set theory with universe levels), it is completely standard across modern mathematics. Confirming that all five root theorems discharge strictly over \texttt{[propext, Classical.choice, Quot.sound]} certifies that RH and Dirichlet GRH require \textbf{no exotic large-cardinal hypotheses, no new physical postulates, and no unverified axioms}: their truth is already deductively contained within standard mathematical foundations.
 
-\subsection{Transparent Boundaries, Hardware Limits, and Memory-Bounded Multi-Kernel Escalation}
+\subsection{Transparent Boundaries, Hardware Limits, and Bounded-RAM Modular Replay}
 \label{sec:boundaries}
 
-Scientific honesty requires distinguishing clearly between what \emph{our} independent 64\,GB workstation run has certified end to end, how a memory-bounded execution redesign overcame monolithic export limits, and what residual verification boundaries remain open:
+Scientific honesty requires distinguishing clearly between what \emph{our} independent 64\,GB workstation run certifies end to end, what precompiled artifacts modular replay trusts, and how fuel escalation operates:
 \begin{enumerate}
-  \item \textbf{Lean \texttt{v4.33.1} Kernel Replay \& Metaprogramming Clearance (Completed):} Both default checking and full transitive replay (\texttt{lake env leanchecker -{}-fresh}, 26,898\,s, zero exit status) completed cleanly from an empty kernel environment, eliminating \texttt{.olean} corruption, environment-hacking, and metaprogramming bypass risks under Lean~\texttt{v4.33.1}. Because Lean's bundled checker shares Lean's own core kernel implementation, independent external-kernel replay constitutes a distinct verification layer.
-  \item \textbf{Flat-Export Memory Wall vs.\ Bounded-RAM Module-by-Module \texttt{lean4lean} Escalation (Full-Archive Closure \& Lineage Boundary):} We compiled independent external verification tools (\texttt{nanoda} and Lean's export serializer) against Lean~\texttt{v4.33.1}. Single-threaded flat serialization of the full proof graph (measuring 61,570,595,788 bytes, 61.57\,GB, at full completion) expanded to 46.47\,GB on our 64\,GB host and triggered virtual memory thrashing before completion. To bypass this monolithic memory wall without dropping independent kernel checking, we compiled \texttt{lean4lean} (commit \texttt{67f63b0c}, pinned to Lean~\texttt{v4.33.1})~\cite{carneiro2026} and drove its unmodified import-replay kernel verifier sequentially over exact \texttt{.olean} module lists in 3 parallel workers processing 10-module streaming chunks (with aggressive allocator purging and a $\ge 45\%$ free-memory guard, reserving heavy apex modules for single-worker serial replay). This eliminates both the 61.57\,GB monolithic serialization spike and the prefix-scanning memory spikes of directory-glob invocations (1,671 nested module-name prefix collisions in the archive), holding steady-state combined worker memory around 15.47\,GB (88\% free system memory, zero new swap growth) alongside co-resident production services.
-  \begin{itemize}
-    \item \textbf{Full-Archive \texttt{lean4lean} Closure (2026-11-26T08:18:04Z):} \textbf{175,187 / 175,187} unique project modules (100\% of the archive across all eleven library layers, from root statements, auxiliary lemmas, positivity, ground, and formalism layers through reciprocity, companion, core development, build aids, supplements, and main exports) and \textbf{1,927,488} declarations passed in \textbf{204,972.82\,seconds} (56\,h 56\,min 13\,s) with \textbf{0 failures} (archived verification summary SHA-256 \code{2a1275314add679b\allowbreak 47ee4de7ee760138\allowbreak 8489fff7d7e074ec\allowbreak 6a18d36116f35a14}). Across the complete sweep, 175,170 modules cleared under default fuel limits, while 17 modules cleared deterministically upon automatic escalation to elevated reduction and recursion fuel limits---comprising the exact \textbf{5 computationally dense kernel-decision modules} in the formalism layer (one Chebyshev prime-bound small-loop module verifying 10 declarations in 26,967\,ms, and four dyadic prime-interval modules verifying 2 declarations each in 11,574--11,721\,ms) plus 12 upper-layer modules across the reciprocity and core development layers (including one complex-point fibre divisor module that hit an initial timeout and passed cleanly on retry). Automated post-verification cleanup subsequently reclaimed temporary workspace and chunk-log directories, leaving 188\,GiB free on disk alongside the archived cryptographic completion receipts.
-    \item \textbf{Remaining Lineage Boundary:} As documented by Carneiro~\cite{carneiro2026}, \texttt{lean4lean} is an external Lean-implemented kernel port derived directly from Lean's C++ kernel architecture (backed by formal metatheory verification and explicit fuel-bounded loops); therefore, unlike clean-room Rust/C reimplementations (\texttt{nanoda}, \texttt{con-leche}), \texttt{lean4lean} provides an independent executable and fuel-audited full-archive replay while sharing design lineage with Lean's C++ kernel. Clean-room flat-export replay remains constrained by the 82.6--98.8\,GiB peak host RAM footprint reported externally for 61.57\,GB flat export processing.
-  \end{itemize}
-  \item \textbf{Parallel Institutional Multi-Kernel Reports (External Context):} Independently of our 64\,GB workstation audit, the Lean FRO and Mathlib Initiative issued a joint verification statement certifying statement fidelity and Lean compilation on November 21, 2026~\cite{leanfro2026}, and Andrew Sutherland (MIT) publicly documented high-memory independent replays using external kernels including \texttt{nanoda}, \texttt{con-leche}, and \texttt{lean4lean}~\cite{sutherland2026}---notably matching word-for-word the exact 5 kernel-decision modules that triggered elevated fuel locally. Those external high-RAM results corroborate clean-room kernel soundness while leaving \textbf{human epistemic comprehension} unresolved.
-  \item \textbf{Unformalized Extrapolation to ERH:} While the accompanying prose note anticipates extension to the Extended Riemann Hypothesis (ERH), only RH and Dirichlet GRH are formalized and verified in the root Lean modules.
+  \item \textbf{Lean \texttt{v4.33.1} Transitive Empty-Environment Replay (Completed):} Both default compilation and transitive replay (\texttt{lake env leanchecker -{}-fresh}, 26,898\,s, zero exit status) ran from \texttt{mkEmptyEnvironment}, eliminating \texttt{.olean} tampering, batch-boundary inconsistency, and metaprogramming bypass risks under Lean~\texttt{v4.33.1}.
+  \item \textbf{External High-Memory Export Size vs.\ Local 46.47\,GB OOM Wall:} While we compiled \texttt{nanoda} and Lean's flat exporter locally, single-threaded flat NDJSON export failed on our 64\,GB host when process RSS expanded to 46.47\,GB and triggered virtual-memory thrashing. External high-memory runs documented by Andrew Sutherland (MIT)~\cite{sutherland2026} establish the completed flat NDJSON export size at 61,570,595,788\,bytes (61.57\,GB), requiring 82.6--98.8\,GiB+ peak RAM for clean-room flat replay (\texttt{nanoda}, \texttt{con-leche}).
+  \item \textbf{Modular \texttt{lean4lean} (\texttt{67f63b0c}) Architecture and Precompiled-\texttt{Mathlib} Trust Boundary:} To bypass the 61.57\,GB monolithic serialization wall on 64\,GB RAM, we invoked unmodified \texttt{Lean4Lean.Replay.replayFromImports}~\cite{carneiro2026} module by module over exact \texttt{.olean} lists in 3 parallel workers processing 10-module chunks (with allocator purging \texttt{MIMALLOC\_PURGE\_DELAY=0}, a $\ge 45\%$ free-memory guard maintaining $\sim$15.47\,GB combined RSS / 88\% free RAM, and serial single-worker execution for apex modules). \textbf{Structural Scope Caveat:} Unlike monolithic flat export or \texttt{leanchecker -{}-fresh}, per-module \texttt{replayFromImports} checks each project module's exported declarations assuming the integrity of precompiled upstream \texttt{Mathlib} \texttt{.olean} files and cross-batch imported \texttt{.olean} headers built during Step~1 (\texttt{lake build}). Moreover, \texttt{lean4lean} is a Lean-implemented port sharing C++ kernel design lineage rather than an independent clean-room Rust/C kernel.
+  \item \textbf{Exact Fuel-Escalation Protocol and Full Inventory of the 17 Escalated Modules:} Across 175,187 project modules, 175,170 passed within default limits (\texttt{timeout\_s = 1800}), whereas 17 triggered automatic single-module retry (\texttt{timeout\_s = 3600}) upon hitting the batch timeout (\texttt{rc = 124}) or Lean resource exceptions (\texttt{deterministicTimeout}, \texttt{deepRecursion}, \texttt{excessiveMemory}) under escalated parameters:
+  \begin{center}
+    \texttt{-{}-config:whnf=100000000000 -{}-config:whnfEager=100000000000}\\
+    \texttt{-{}-config:lazyDelta=100000000000 -{}-config:recDepth=200000}
+  \end{center}
+  \textbf{Table~\ref{tab:elevated_fuel}} enumerates all 17 modules verbatim (5 \texttt{Formalism} \texttt{decide +kernel} modules and 12 \texttt{Development.AbelianVarietyTheory} modules, with zero escalations in \texttt{ReciprocityTheory}).
 \end{enumerate}
 
-\section{Deductive Spine Cartography and Six Barrier-Breaking Motifs}
+\begin{table}[!htb]
+\centering
+\caption{Complete inventory of all 17 modules (out of 175,187) requiring elevated reduction/recursion fuel in \texttt{lean4lean} (\texttt{67f63b0c}) modular replay (extracted verbatim from workstation execution logs).}
+\label{tab:elevated_fuel}
+{\fontsize{6.6}{8.0}\selectfont
+\setlength{\tabcolsep}{3pt}
+\begin{tabular}{@{}lrr@{}}
+\toprule
+\textbf{Module Path} & \textbf{Decls} & \textbf{Runtime (ms)} \\
+\midrule
+\texttt{Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ChebyshevPrimeBounds.SmallLoop} & 10 & 26,967 \\
+\texttt{Formalism.PeriodIntegrals.UnitaryGroupMassFormula.DyadicPrimeIntervals.Run1} & 2 & 11,676 \\
+\texttt{Formalism.PeriodIntegrals.UnitaryGroupMassFormula.DyadicPrimeIntervals.Run2} & 2 & 11,574 \\
+\texttt{Formalism.PeriodIntegrals.UnitaryGroupMassFormula.DyadicPrimeIntervals.Run3} & 2 & 11,596 \\
+\texttt{Formalism.PeriodIntegrals.UnitaryGroupMassFormula.DyadicPrimeIntervals.Run4} & 2 & 11,721 \\
+\texttt{Development.AbelianVarietyTheory.Proofs.DivisorProofs...RingHomExtensions} & 1 & 3,063,222$^\dagger$ \\
+\texttt{Development.AbelianVarietyTheory.Proofs.DivisorProofs...ExtensionsStatement} & 1 & 3,271 \\
+\texttt{Development.AbelianVarietyTheory.Proofs.DivisorProofs.EncardComplexPointsFiniteEtaleFreeEqRank} & 1 & 2,138 \\
+\texttt{Development.AbelianVarietyTheory.Proofs.DivisorProofs...FreeEqRankStatement} & 1 & 2,133 \\
+\texttt{Development.AbelianVarietyTheory.Proofs.DivisorProofs.EncardMulLeOfQuotEmbed} & 1 & 2,137 \\
+\texttt{Development.AbelianVarietyTheory.Proofs.DivisorProofs.EncardSelfDualLatticeBoundedMajorantLe} & 52 & 2,519 \\
+\texttt{Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsMovedDataStateLocalisations} & 14 & 946,106 \\
+\texttt{Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition...LocalisationsStatement} & 1 & 6,095 \\
+\texttt{Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsMovedRowLiftDataToFittingStages} & 55 & 6,132 \\
+\texttt{Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition...FittingStagesStatement} & 1 & 3,919 \\
+\texttt{Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsMovesOfSelfDual} & 41 & 3,651 \\
+\texttt{Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsMtTieCoord} & 12 & 3,064 \\
+\bottomrule
+\end{tabular}
+}
 
-To make the inner logic of 17.37 million lines of code accessible to human mathematicians, we combine a three-step conceptual bridge with full topological mining of the compiled dependency graph (detailed further in our companion mathematical architecture primer):
-\begin{itemize}
-  \item \textbf{Intuition (Why Classical Tools Stall):} Proving RH reduces via the Guinand--Weil explicit formula to certifying non-negativity of a family of spectral test functionals. Over function fields, Stepanov's auxiliary-polynomial method detects zero multiplicity by taking algebraic derivatives---an operation with no naive analog over $\mathbb{Z}$.
-  \item \textbf{Mechanism (Pure Algebraic Architecture, Not Mysticism):} Rather than invoking an exotic physical operator, Alp{\"o}ge's codebase generalizes classical divisibility ideas (Chebyshev/Stepanov) through arithmetic geometry and automorphic forms: it builds iterated chains of unitary \emph{theta lifts} $U(X_0) \to \dots \to U(X_m)$ ($m \sim \sqrt{X}$) to simulate differential multiplicity natively over $\mathbb{Z}$, transforms Gan--Gross--Prasad (GGP) periods into Bessel periods via Rallis's \emph{seesaw} identity, and controls arithmetic heights and denominators via Bost's slope inequality, Siegel mass formulas, and Galois modularity patching.
-  \item \textbf{Empirical Footprint in the Lean Dependency Graph:} Topological mining across 818,755 theorems and lemmas reconstructs the exact library stratification (\textbf{Table~\ref{tab:library_strata}} and \textbf{Figure~\ref{fig:spine_arch}}).
-\end{itemize}
+\vspace{2pt}
+\raggedright\scriptsize $^\dagger$Hit initial 1,800\,s batch timeout (\texttt{rc = 124}); passed deterministically in 3,063,222\,ms ($\approx$51.1\,min) under 3,600\,s elevated-fuel retry. Ellipses shorten repeated prefixes in adjacent divisor modules (\texttt{EncardComplexPointFibreEqEncardRingHomExtensions}, \texttt{EncardComplexPointFibreEqEncardRingHomExtensionsStatement}, \texttt{EncardComplexPointsFiniteEtaleFreeEqRankStatement}, \texttt{ExistsMovedDataStateLocalisationsStatement}, \texttt{ExistsMovedRowLiftDataToFittingStagesStatement}); zero \texttt{ReciprocityTheory} modules required fuel escalation. Automated post-verification cleanup reclaimed temporary build/driver workspaces, leaving 188\,GiB free on disk alongside archived cryptographic receipts.
+\end{table}
+
+\paragraph{External High-Memory Context and Scope Boundary.} Independently of our 64\,GB workstation audit, the Lean FRO and Mathlib Initiative certified statement fidelity and compilation on November 21, 2026~\cite{leanfro2026}, and Andrew Sutherland~\cite{sutherland2026} documented full high-RAM clean-room flat-export replays (\texttt{nanoda}, \texttt{con-leche}, \texttt{lean4lean}) noting the same five \texttt{Formalism} \texttt{decide +kernel} modules. Finally, while \texttt{remark.pdf} anticipates extension to the Extended Riemann Hypothesis (ERH), only RH and Dirichlet GRH are formalized in \texttt{Main.lean}.
+
+\section{Deductive Spine Cartography, Interface Hubs, and Keyword-Indexed Motifs}
+
+To survey the macro-architecture of 175,187 modules without reading 17.37 million lines, we extracted the transitive import DAG rooted at \texttt{Main.lean} and \texttt{Statements.lean} (818,755 \texttt{theorem}/\texttt{lemma} declarations, maximum depth~43; \textbf{Table~\ref{tab:library_strata}} and \textbf{Figure~\ref{fig:spine_arch}}).
 
 \begin{table}[!htb]
 \centering
@@ -235,60 +312,105 @@ Auxiliary Lemmas \& Build Aids & 172 & 245 & 8--25 & 0.10\% & Shared auxiliary l
 \begin{figure}[!htb]
   \centering
   \includegraphics[width=0.98\textwidth,height=0.45\textheight,keepaspectratio]{figures/fig1_epistemic_spine_architecture.pdf}
-  \caption{\textbf{Deductive spine cartography of the 175,187-module Lean~4 proof corpus.} \textbf{(A)} Module counts (log scale) and deductive depth spans across all 11 library layers, highlighting the structural chokepoint in the toroidal uniformization interface (depth~6, fan-in~2,390, 2,379 cross-layer arcs). \textbf{(B)} Active-cone module distribution across the six barrier-breaking mathematical motifs identified by empirical clustering.}
+  \caption{\textbf{Stratified architecture and non-exclusive thematic indexing of the 175,187-module Lean~4 corpus.} \textbf{(A)} Module counts (log scale) and depth spans across all 11 library layers, explicitly distinguishing the 0-theorem syntactic interface hub \texttt{UniformisationConclusion} (depth~6, fan-in~2,390) from theorem-bearing cross-layer hubs such as \texttt{ValCalc} (28 theorems, fan-in~621). \textbf{(B)} Matching module counts under our non-exclusive, case-insensitive substring matcher across six predefined mathematical keyword families (sum = 151,457 overlapping hits; percentages normalized against 175,187 total modules).}
   \label{fig:spine_arch}
 \end{figure}
 
-Rather than forming an unstructured graph, the dependency cone contracts sharply at \textbf{deductive depths 6--7} inside the reciprocity layer. The top cross-layer pivot is the toroidal uniformization conclusion interface (depth~6, fan-in~2,390, 2,379 cross-layer arcs, 0~theorems), alongside its sister extension-descent uniqueness interface (fan-in~2,284, 2,283 cross-layer arcs). Source inspection shows this hub couples CM-field involutions, group-object ring actions, semiabelian degeneration data, twisted trace-form isomorphisms, and boundary unit criteria, acting as the geometric interface tying foundational schemes to downstream positivity proofs.
+\subsection{Syntactic Interface Hubs Versus Theorem-Bearing Bottlenecks}
 
-Empirical clustering across the active cone quantifies six barrier-breaking mathematical families (\textbf{Figure~\ref{fig:spine_arch}B}):
+High fan-in in a Lean dependency graph must not be conflated uncritically with conceptual difficulty: modules with 0 exported theorems often serve as syntactic interface bundles aggregating definitions and shared structures across subtrees. Separating the two roles cleanly at depths~6--9 reveals:
+\begin{itemize}
+  \item \textbf{Zero-Theorem Syntactic Interface / Aggregator Hubs:} Led by \texttt{UniformisationConclusion} (depth~6, fan-in~2,390, 2,379 cross-layer edges, 0~theorems), \texttt{ExtensionDescent.UnifUniqSt} (depth~7, fan-in~2,284, 2,283 cross-layer edges, 0~theorems), \texttt{CTSmallCone} (depth~7, fan-in~3,088, 0~theorems), and \texttt{SiegelWeilAnisotropicHermitian} (depth~7, fan-in~2,972, 0~theorems). Direct source inspection confirms that \texttt{UniformisationConclusion.lean} packages CM-field involutions, group-object ring actions, semiabelian degeneration structures, twisted trace-form isomorphisms, and boundary unit predicates into a shared contract interface connecting foundational schemes to downstream positivity proofs.
+  \item \textbf{Theorem-Bearing Cross-Layer Bottleneck Modules:} High-fan-in modules containing substantive proved obligations include \texttt{ExistsNormLeHeightPow} (depth~7, fan-in~2,460, 11~theorems bounding rapid-decay quotient heights), \texttt{CubeVal} (depth~7, fan-in~811, 12~theorems), \texttt{ValCalc} (depth~7, fan-in~621, 28~theorems), \texttt{LocalSituation} (depth~7, fan-in~627, 15~theorems), and \texttt{RankBoundMonotoneInDimension} (depth~7, fan-in~431, 111~theorems).
+\end{itemize}
+
+\subsection{Transparent Non-Exclusive Keyword Classification of Proof Motifs}
+
+To characterize broad mathematical themes at corpus scale, we ran a deterministic, \textbf{non-exclusive case-insensitive substring matcher} over each module's dotted filesystem path and its first five syntactic \texttt{theorem}/\texttt{lemma} names across six predefined domain-concept keyword families (a single module matching multiple keyword tuples counts toward each, totaling 151,457 non-disjoint matches across 175,187 modules; ~13.5\% match none of the six lists under this heuristic). \textbf{Methodological Caveat:} Because AI-assisted module naming repeats directory templates across subtrees, these counts quantify lexical prevalence of named mathematical families rather than disjoint semantic partitions:
 \begin{enumerate}
-  \item \textbf{Galois Modularity \& Cohomological Patching (109,260 modules):} Bypasses elementary-method insufficiency via {\'e}tale/$p$-adic Hodge comparisons, discrete series congruences, and Taylor--Wiles modularity patching.
-  \item \textbf{Iterated Unitary Theta-Lift Chains (15,750 modules):} Bypasses contour convexity/parity ceilings by chaining unitary theta lifts $U(X_0) \to \dots \to U(X_m)$ ($m \sim \sqrt{X}$) to simulate differential multiplicity natively over $\mathbb{Z}$.
-  \item \textbf{Bost Slope \& Arakelov--Iwasawa Descent (13,010 modules):} Bypasses unbounded height growth via Bost's slope inequality, a Behrend-chosen Iwasawa tower, and weakened Vandiver control with global Artin reciprocity and Hermitian Hasse principles.
-  \item \textbf{Guinand--Weil Explicit Formula \& GGP/Bessel Positivity (7,011 modules):} Bypasses local sign-indefiniteness by certifying explicit test functionals $W(\cdot) \ge 0$ via determinants and Rallis \emph{seesaw} Bessel periods.
-  \item \textbf{Siegel Mass \& Chowla--Selberg Divisibility (4,618 modules):} Bypasses class-number denominator explosion via unitary Siegel mass formulas and graded Weyl module dominance.
-  \item \textbf{Stepanov Multiplicity Determinants \& Rigidity (1,808 modules):} Bypasses pointwise off-line zero bounds using cuspidal strong multiplicity-one rigidity and Gelfand--Kazhdan duality.
+  \item \textbf{Galois Modularity \& Cohomological Patching (\texttt{109,260} matching modules, 62.4\%):} Keywords \texttt{Galois}, \texttt{Etale}, \texttt{AbelianVariety}, \texttt{Shimura}, \texttt{Modularity}, \texttt{PadicHodge}, \texttt{Birational}.
+  \item \textbf{Iterated Unitary Theta-Lift Chains (\texttt{15,750} modules, 9.0\%):} Keywords \texttt{ThetaLift}, \texttt{SiegelWeil}, \texttt{Unitary}, \texttt{ThetaCorrespondence}, implementing iterated lifts $U(X_0) \to \dots \to U(X_m)$ ($m \sim \sqrt{X}$) to track multiplicity natively over $\mathbb{Z}$.
+  \item \textbf{Bost Slope \& Arakelov--Iwasawa Descent (\texttt{13,010} modules, 7.4\%):} Keywords \texttt{Bost}, \texttt{Slope}, \texttt{Iwasawa}, \texttt{Behrend}, \texttt{Hermitian}.
+  \item \textbf{Guinand--Weil \& GGP/Bessel Positivity (\texttt{7,011} modules, 4.0\%):} Keywords \texttt{GGP}, \texttt{Bessel}, \texttt{PeriodIntegral}, \texttt{Seesaw}, \texttt{Rallis}, \texttt{Positivity}.
+  \item \textbf{Siegel Mass \& Chowla--Selberg Divisibility (\texttt{4,618} modules, 2.6\%):} Keywords \texttt{SiegelMass}, \texttt{ChowlaSelberg}, \texttt{Weyl}, \texttt{MassFormula}.
+  \item \textbf{Stepanov Multiplicity Determinants \& Rigidity (\texttt{1,808} modules, 1.0\%):} Keywords \texttt{Stepanov}, \texttt{Determinant}, \texttt{Multiplicity}, \texttt{AuxiliaryPoly}.
 \end{enumerate}
 
-\section{Comparative Forensic Evaluation of Formal and Informal Proof Submissions}
+\section{Illustrative Contrast with an Incomplete Informal Draft}
 
-While the Lean corpus discharges every dependency syntactically (0~\texttt{sorry}, clean build exit, transitive \texttt{-{}-fresh} replay verified, and full 175,187-module \texttt{lean4lean} replay passed), auditing Masullo's 940-page informal manuscript~\cite{vakil2026} reveals the exact mirror-image failure mode. Although Chapters~1--12 develop Hardy--Sobolev spaces $W_I^{s,2}(G)$, periodic Schauder bases, and quotient stacks toward a trace formula (Theorem~12.5.1.1, p.\,519), structural parsing uncovers \textbf{critical incompleteness in the conclusive chapters}:
+We contrast Alp{\"o}ge's compiled formal repository with Masullo's 940-page informal manuscript~\cite{vakil2026} solely as an \textbf{illustrative contrast in deductive closure} between a complete machine-checked codebase and a human draft explicitly labeled a ``hurried announcement'' by Ravi Vakil---not as a symmetric benchmark of completed informal mathematics. Although Chapters~1--12 develop Hardy--Sobolev spaces $W_I^{s,2}(G)$, periodic Schauder bases, and quotient stacks toward a trace formula (Theorem~12.5.1.1, p.\,519), forensic parsing reveals critical incompleteness in the closing chapters:
 \begin{itemize}
-  \item In Section~12.4.1 (pp.\,514--515), author footnote~2 leaves a placeholder instruction to revise the $(\lambda, \varepsilon)$-cutoff and re-establish convergence of integral~(12.4.1.23).
-  \item \textbf{Chapter~13 (\emph{Zeros of Hecke $L$-functions}, pp.\,521--522)} has empty stub headings for Sections~13.1 and~13.2, references a nonexistent ``Theorem~??'', and leaves the core bridge---\textbf{Theorem~13.3.1.2 (Divisor of $L(s, \chi)$)}---completely empty beneath footnotes ``\emph{2 Insert statement.}'' and ``\emph{3 State and prove the Main Theorems...}''.
-  \item Across the 940 pages, forensic indexing located 19 broken \texttt{??} cross-references, 10 author draft TODO notes, and 13 empty/near-empty pages ($<400$ characters). Without rigorous closure of the Montel limit interchange deducing $L'_f / L_f$ holomorphy from the regularized trace formula, the informal proof remains analytically open (an unverified prose claim with Epistemia risk 0.850, warranting suspended judgment; \textbf{Figure~\ref{fig:verif_epistemia}B}).
+  \item Section~12.4.1 (pp.\,514--515) retains author footnote~2 instructing revision of the $(\lambda,\varepsilon)$-cutoff in integral~(12.4.1.23).
+  \item \textbf{Chapter~13 (\emph{Zeros of Hecke $L$-functions}, pp.\,521--522)} leaves Sections~13.1--13.2 as empty headings, cites a broken ``Theorem~??'', and leaves \textbf{Theorem~13.3.1.2} completely blank beneath footnotes ``\emph{2 Insert statement.}'' and ``\emph{3 State and prove the Main Theorems...}''.
+  \item Across 940 pages, parsing finds 19 broken \texttt{??} references, 10 author TODO notes, and 13 stub pages ($<400$ characters), leaving the Montel limit interchange from the regularized trace formula to $L'_f/L_f$ holomorphy open.
 \end{itemize}
 
-\section{Epistemic Governance, Understanding Versus Certification, and the Distillation Horizon}
+\section{Parametrized Epistemia Index, Calibration, and Sensitivity Analysis}
 
-Evaluated through Quattrociocchi, Capraro, and Perc~\cite{quattrociocchi2025}, William Thurston's classic essay \emph{On Proof and Progress in Mathematics}~\cite{thurston1994}, and Griffiths's resource-rational cognitive science~\cite{griffiths2026}, these results expose two complementary epistemic regimes:
-\begin{itemize}
-  \item \textbf{Machine-Without-Comprehension (Machine-Verified, Human-Opaque; Epistemia risk 0.245):} Alp{\"o}ge's five formalized RH/GRH theorems clear Lean~\texttt{v4.33.1} compilation, transitive \texttt{-{}-fresh} replay, and full-archive \texttt{lean4lean} module replay on a minimal 28-line specification (ratio $1.62 \times 10^{-6}$), yet 17.37 million lines of formal tactics vastly exceed bounded human verification budgets. Evaluated as a full package including unformalized ERH prose expectations, epistemic governance suspends judgment (Epistemia risk 0.4075).
-  \item \textbf{Intuition-Without-Convergence (Judgment Suspended; Epistemia risk 0.850):} Masullo's manuscript provides human-surveyable prose intuition while lacking conclusive theorem proofs in Chapter~13.
-\end{itemize}
+Operationalizing Quattrociocchi, Capraro, and Perc~\cite{quattrociocchi2025}, William Thurston's distinction between verification and understanding~\cite{thurston1994}, and Griffiths's resource-rational cognitive framework~\cite{griffiths2026} requires defining our governance index transparently so any reviewer can reproduce or contest every number.
 
-As Thurston~\cite{thurston1994} argued three decades before AI-scale theorem proving, mathematics does not advance merely by accumulating certified truth values; it advances through \textbf{human understanding}---compact mental schemas that explain \emph{why} a result holds and transfer across problems. In Griffiths's Marr-level framework~\cite{griffiths2026}, bounded biological minds operate under strict resource-rational constraints, reasoning over compressed conceptual abstractions (such as the six algebraic motifs and the toroidal uniformization hub) rather than millions of micro-rewrites.
+\subsection{Mathematical Specification and Worked Evaluation}
 
-Consequently, verifying a 17.37-million-line formal proof completes only \textbf{Phase~1 (Certification)} of mathematical progress. \textbf{Phase~2 (Cognitive Distillation)}---compressing millions of machine-verified lines into transparent, human-surveyable expositions---has immediately emerged as the defining challenge of the field, reflected both in early community prose-reconstruction drafts (such as preliminary third-party prose-reconstruction guides circulated by Michael Rubinstein, Jimmie Adriazola, and Robin Zhang) and in automated structural cartography. By pairing bit-exact kernel certification with stratified dependency spine extraction, interactive dependency navigation, a progressive mathematical primer, and explicit contestability criteria (naming the weakest pivot, executed refutation checks, and empirical revocation conditions), our framework provides reproducible empirical scaffolding for turning machine-verified yet opaque artifacts into genuine human comprehension.
+We define the normalized Epistemia risk index $E_I \in [0, 1]$ as a bounded convex linear combination of three sub-metrics:
+\begin{equation}
+  E_I = \operatorname{clip}_{[0,1]}\!\left(0.45\,G_{\mathrm{fluency}} + 0.35\,D_{\mathrm{cost}} + 0.20\,U_{\mathrm{supp}}\right), \qquad \tau_E = 0.35,
+  \label{eq:epistemia}
+\end{equation}
+where $\operatorname{clip}_{[0,1]}(x) = \min(1, \max(0, x))$ and each component is specified deterministically:
+\begin{align}
+  G_{\mathrm{fluency}} &= \min\!\left(1,\; \max\!\left(\frac{C_{\mathrm{total}} - \min(C_{\mathrm{anchored}}, C_{\mathrm{total}})}{C_{\mathrm{total}}},\; 0.25\,F_{\mathrm{crit}}\right)\right), \\
+  D_{\mathrm{cost}} &= \min\!\left(1,\; \max\!\left(0.70 \cdot \mathbf{1}_{[\neg H_{\mathrm{comp}}]},\; \max\!\left(0,\frac{L_{\mathrm{TCB}}-L_{\max}}{L_{\max}}\right),\; \max\!\left(0,\frac{P_{\mathrm{rev}}-P_{\max}}{P_{\max}}\right)\right)\right), \\
+  U_{\mathrm{supp}} &= \min\!\left(1,\; 0.50 \cdot \mathbf{1}_{[R_{\mathrm{ref}}=0]} + \min(0.50,\; 0.25\,O_{\mathrm{prose}})\right),
+\end{align}
+with default bounded human verification budgets $L_{\max}=200$ specification lines and $P_{\max}=50$ prose pages. \textbf{Decision Rule:} When $C_{\mathrm{anchored}} < C_{\mathrm{total}}$, $F_{\mathrm{crit}} > 0$, or $E_I > \tau_E$, epistemic governance issues \emph{judgment suspended}; when formal verification succeeds ($C_{\mathrm{anchored}} = C_{\mathrm{total}}$, $F_{\mathrm{crit}}=0$) yet $H_{\mathrm{comp}} = \mathrm{false}$, it outputs \emph{machine-verified, human-opaque}; otherwise it passes. Evaluating the three targets yields exact reproducibility (\textbf{Table~\ref{tab:epistemia_worked}}).
 
-\subsection{Methodological Lessons for Automated Scientific Auditing Systems}
+\begin{table}[!htb]
+\centering
+\caption{Exact input parameters, sub-components, and resulting Epistemia risk values under Eq.~(\ref{eq:epistemia}) ($L_{\max}=200$, $P_{\max}=50$, $\tau_E=0.35$).}
+\label{tab:epistemia_worked}
+\scriptsize
+\setlength{\tabcolsep}{3pt}
+\begin{tabular}{@{}lccccccc@{}}
+\toprule
+\textbf{Evaluated Target} & $(C_{\mathrm{tot}}, C_{\mathrm{anc}}, F_{\mathrm{crit}})$ & $H_{\mathrm{comp}}$ & $(L_{\mathrm{TCB}}, P_{\mathrm{rev}})$ & $(R_{\mathrm{ref}}, O_{\mathrm{pr}})$ & $(G_{\mathrm{fl}}, D_{\mathrm{cost}}, U_{\mathrm{sup}})$ & $E_I$ & \textbf{Governance State} \\
+\midrule
+Alp{\"o}ge Formal Cones & $(1, 1, 0)$ & $\mathrm{false}$ & $(28, 0)$ & $(3, 0)$ & $(0.00, 0.70, 0.00)$ & \textbf{0.2450} & Machine-verified, opaque \\
+Alp{\"o}ge + ERH Prose & $(4, 3, 1)$ & $\mathrm{false}$ & $(28, 4)$ & $(3, 1)$ & $(0.25, 0.70, 0.25)$ & \textbf{0.4075} & Judgment suspended \\
+Masullo 940-Page Draft & $(4, 0, 4)$ & $\mathrm{false}$ & $(0, 940)$ & $(1, 1)$ & $(1.00, 1.00, 0.25)$ & \textbf{0.8500} & Judgment suspended \\
+\bottomrule
+\end{tabular}
+\end{table}
 
-Conducting this end-to-end audit also exposed four structural failure modes in AI-assisted mathematical evaluation, yielding four reusable safeguards directly integrated into CoResearcher:
+\subsection{Normative Calibration Caveat and Rank-Order Sensitivity Check}
+
+The weights $(0.45, 0.35, 0.20)$ and cutoff $\tau_E = 0.35$ are \textbf{normative engineering parameters} reflecting epistemic priority (provenance gaps weighted slightly above comprehension cost and missing refutation checks), \emph{not} statistically calibrated probabilities estimated from a labeled corpus. Four-decimal outputs (\texttt{0.2450}, \texttt{0.4075}, \texttt{0.8500}) should therefore be read strictly as exact arithmetic evaluations of Eq.~(\ref{eq:epistemia}), not empirical risk probabilities. Crucially, however, \textbf{the ordinal ranking is invariant across weights}: because every component satisfies $(G_{\mathrm{fl}}, D_{\mathrm{cost}}, U_{\mathrm{supp}})_{\text{cones}} = (0, 0.70, 0) < (0.25, 0.70, 0.25) < (1.00, 1.00, 0.25)$ componentwise (with strict inequality on $G_{\mathrm{fl}}$ and $U_{\mathrm{supp}}$ between rows~1 and~2, and on $G_{\mathrm{fl}}$ and $D_{\mathrm{cost}}$ between rows~2 and~3), \emph{any} strictly positive weighting $(w_1, w_2, w_3)$ on the simplex preserves
+\begin{equation}
+  E_I(\text{Alp{\"o}ge formal cones}) < E_I(\text{Alp{\"o}ge + ERH prose}) < E_I(\text{Masullo draft}),
+\end{equation}
+and the suspension verdict on rows~2 and~3 triggers independently via $F_{\mathrm{crit}} > 0$ even without reference to $\tau_E$.
+
+As Thurston~\cite{thurston1994} argued, kernel verification completes only \textbf{Phase~1 (Certification)}; \textbf{Phase~2 (Cognitive Distillation)}---compressing 17.37 million machine-checked lines into human-surveyable mathematical expositions, aided by dependency cartography and emerging community prose-reconstruction efforts---remains the defining frontier challenge.
+
+\subsection{Methodological Lessons for Automated Auditing Pipelines}
+
+Conducting this end-to-end audit also revealed five generalizable engineering safeguards for automated scientific review systems:
 \begin{enumerate}
-  \item \textbf{Artifact-Bound Manuscript Provenance Gating:} When generative models draft technical summaries around complex computational outputs, unconstrained text generation risks fabricating hardware parameters, distorting declaration counts, or inverting comparative epistemic indices. Enforcing deterministic provenance checks that bind every reported metric, SHA-256 digest, and entity-risk ordering strictly to signed JSON and raw log certificates blocks unanchored claims prior to dissemination.
-  \item \textbf{Automated Public Dossier Integrity and Hygiene Sealing:} Publishing reproducible scientific evidence alongside proprietary orchestration code requires a deterministic boundary firewall: excluding internal source code, local environment paths, and private internal identifiers while automatically generating checksum manifests, enforcing citation/heading hygiene, and verifying live \texttt{HTTP 200 OK} reachability across external links.
-  \item \textbf{Memory-Aware Multi-Kernel Escalation Routing:} Naive escalation from Lean compilation to monolithic flat export (61.57\,GB) fails deterministically via memory exhaustion on 64\,GB workstations. Resource-rational verification planners must estimate serialized export pressure from active module counts and available RAM---routing workstations below clean-room replay headroom ($\sim$82.6--98.8\,GiB+) to memory-bounded module-by-module \texttt{.olean} replay (\texttt{lean4lean} with automatic elevated-fuel retries), while reserving flat-export clean-room kernels (\texttt{nanoda}, \texttt{con-leche}) for high-memory cluster nodes.
-  \item \textbf{Deductive Chapter-Bridge Auditing and Barrier-Motif Feedback:} Both informal manuscripts and AI discovery loops benefit from structural closure telemetry: verifying whether named theorems proved in intermediate sections (Theorem~12.5.1.1) connect deductively into conclusive chapters rather than terminating in broken \texttt{??} stubs, and feeding recurring barrier-breaking proof motifs mined from verified dependency cones back into early problem-formulation guidance whenever classical obstructions arise.
+  \item \textbf{Artifact-Bound Numerical Provenance:} Every hardware count, cryptographic SHA-256 digest, and metric in generated reports must be programmatically verified against signed JSON/log receipts prior to publication.
+  \item \textbf{Public Dossier Boundary Hygiene:} Separately sealing public verification dossiers with deterministic exclusion of private paths/identifiers, citation/heading hygiene checks, and live \texttt{HTTP 200 OK} URL checks prevents reproducibility failures.
+  \item \textbf{Memory-Aware Multi-Kernel Routing:} Resource-rational verification planners should estimate flat serialization pressure ($\sim$61.57\,GB) against host RAM, routing 64\,GB workstations to bounded-RAM modular \texttt{lean4lean} replay while explicitly documenting precompiled dependency boundaries and reserving clean-room flat-export kernels (\texttt{nanoda}, \texttt{con-leche}) for high-RAM nodes.
+  \item \textbf{Deductive Chapter-Bridge Auditing:} Structural parsing of informal manuscripts should automatically test whether named intermediate theorems (such as Theorem~12.5.1.1 in Masullo's draft) connect deductively into conclusive chapters rather than terminating in broken \texttt{??} placeholders.
+  \item \textbf{Self-Contained Evidence \& Equation Disclosure:} Automated peer review must reject unprinted small-TCB claims, composite indices lacking closed-form equations and sensitivity checks, unnamed ``benign'' helpers, and undisclosed graph-classification heuristics.
 \end{enumerate}
 
 \section{Data, Code Availability, and AI Transparency Disclosure}
 
-\paragraph{Data and Code Availability.} All primary cryptographic digests, reference hardware compilation records, raw axiom-trace (SHA-256 \texttt{590d5252...}), transitive fresh-replay (SHA-256 \texttt{ff8ea3d0...}), and full-archive bounded-RAM \texttt{lean4lean} module-replay receipt (175,187 / 175,187 modules, 1,927,488 declarations checked, 0 failures at 2026-11-26T08:18:04Z, SHA-256 \texttt{2a127531...}), along with static soundness counts, stratified dependency spine summaries, interactive dependency explorer, progressive mathematical primer, and comparative forensic inventories for both targets are openly archived in the public verification dossier at \url{https://github.com/Fundacion-de-Neurociencias/riemann-hypothesis-audit-dossier} (v1.2 release tag: \url{https://github.com/Fundacion-de-Neurociencias/riemann-hypothesis-audit-dossier/releases/tag/v1.2}). Automated multi-stage verification is coordinated through CoResearcher~\cite{menendez2026coresearcher} at \url{https://github.com/Fundacion-de-Neurociencias/coresearcher}. All cited repositories are publicly accessible without authentication.
+\paragraph{Data and Code Availability.} All primary cryptographic digests, reference hardware compilation records, raw \texttt{\#print axioms} trace (SHA-256 \texttt{590d5252...}), transitive fresh-replay log (SHA-256 \texttt{ff8ea3d0...}), and full-archive bounded-RAM \texttt{lean4lean} module-replay receipt (175,187 / 175,187 modules, 1,927,488 declarations checked, 0 failures at 2026-11-26T08:18:04Z, SHA-256 \texttt{2a127531...}), along with static soundness counts, stratified dependency spine summaries, interactive dependency explorer, progressive mathematical primer, and comparative forensic inventories are openly archived in the public verification dossier at \url{https://github.com/Fundacion-de-Neurociencias/riemann-hypothesis-audit-dossier} (v1.3 release tag: \url{https://github.com/Fundacion-de-Neurociencias/riemann-hypothesis-audit-dossier/releases/tag/v1.3}). Automated multi-stage execution was coordinated using CoResearcher~\cite{menendez2026coresearcher} at \url{https://github.com/Fundacion-de-Neurociencias/coresearcher}. All cited repositories are publicly accessible without authentication.
 
 \paragraph{Artificial Intelligence Disclosure.} Autonomous computational orchestration (Lean~4 build supervision, cryptographic checksum verification, bounded-RAM module-by-module kernel replay orchestration, dependency-graph extraction, and PDF structural parsing) was executed via CoResearcher~\cite{menendez2026coresearcher}, and generative AI assistants were employed for editorial polishing and \LaTeX{} typesetting. All empirical measurements were extracted verbatim from deterministic execution logs on local hardware and bound programmatically against immutable JSON certificates, all bibliographic citations and external URLs were independently verified, and the author holds full epistemic and intellectual responsibility for all content.
 
+{\small
 \bibliographystyle{unsrt}
 \bibliography{references}
+}
 
 \end{document}

@@ -1,6 +1,6 @@
 {
-  "dossier_verdicts_version": "comparative-epistemic-verdicts/v1.2",
-  "epistemic_scale_note": "Epistemia risk is normalized on [0.0, 1.0] where 0.0 denotes zero plausibility-evaluation decoupling and 1.0 denotes severe Epistemia risk.",
+  "dossier_verdicts_version": "comparative-epistemic-verdicts/v1.3",
+  "epistemic_scale_note": "Epistemia risk is normalized on [0.0, 1.0] via E_I = clip_[0,1](0.45*G_fluency + 0.35*D_cost + 0.20*U_supp) with normative threshold 0.35; ordinal ordering across targets is invariant to monotone simplex weight perturbations.",
   "targets": {
     "alpoge_formalized_cones_5_theorems": {
       "study_id": "ALPOGE-RH-2026-11-20-FORMALIZED-CONES",

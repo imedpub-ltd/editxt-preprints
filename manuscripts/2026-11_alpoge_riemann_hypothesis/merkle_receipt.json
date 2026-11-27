@@ -1,14 +1,14 @@
 {
   "manuscriptTitle": "Independent Formal Verification, Epistemic Spine Cartography, and Comparative Auditing of Riemann Hypothesis Proof Claims",
-  "dossierVersion": "v1.2",
-  "dossierReleaseUrl": "https://github.com/Fundacion-de-Neurociencias/riemann-hypothesis-audit-dossier/releases/tag/v1.2",
-  "dossierCommit": "73b4ca9",
+  "dossierVersion": "v1.3",
+  "dossierReleaseUrl": "https://github.com/Fundacion-de-Neurociencias/riemann-hypothesis-audit-dossier/releases/tag/v1.3",
+  "dossierCommit": "1807d4c",
   "authors": [
     "Manuel Menéndez-González"
   ],
   "affiliation": "Independent Researcher (No Institutional Affiliation Listed)",
   "targetVenue": "EdiTxt Preprints / International Archives (Multidisciplinary)",
-  "auditTimestamp": "2026-11-26T09:50:22.053Z",
+  "auditTimestamp": "2026-11-27T07:55:50.713Z",
   "publicationStatus": "CERTIFIED_PREPRINT",
   "formalStatus": "KERNEL_CHECKED_FRESH_REPLAYED_AND_FULL_LEAN4LEAN_V4_33_1",
   "verdict": "READY_FOR_PREPRINT",
@@ -16,7 +16,7 @@
   "isDryRunReservation": false,
   "invariantsAudit": {
     "titleHygiene": "PASSED",
-    "headingsHygiene": "PASSED (21/21 headings clean)",
+    "headingsHygiene": "PASSED (25/25 headings clean)",
     "privateRepoCitations": "PASSED (0 private repo links; public repositories only)",
     "hardwareSpecification": "PASSED (Apple M4 Max, 16-core ARM64, 64 GB unified memory, 98 GB build footprint)",
     "compilationMetricsVerified": "PASSED (127,812s, 175,187 modules, exit code 0, 183,889 .olean binaries)",
@@ -34,33 +34,33 @@
     "secondKernelCaveatsDocumented": "PASSED (leanchecker --fresh Main PASSED in 26,898s + full-archive lean4lean 175,187/175,187 PASSED in 204,972.82s noting C++ design lineage; clean-room flat-export nanoda / lean4export 46.47 GB RAM ceiling on 64 GB host documented honestly)",
     "interactiveExplorerIncluded": "PASSED (epistemic_spine_explorer.html with 6 motifs & 11 libraries)",
     "mathematicalPrimerIncluded": "PASSED (mathematical_architecture_primer.md with 3-level comprehension ladder)",
-    "comparativeAuditsIncluded": "PASSED (comparative_audit_alpoge_vs_masullo.md & epistemic_verification_protocol.md v1.2)"
+    "comparativeAuditsIncluded": "PASSED (comparative_audit_alpoge_vs_masullo.md & epistemic_verification_protocol.md v1.3)"
   },
   "fileIntegrityHashes": {
-    "preprintRhGrhEpistemicAuditSha256": "40d5785d9ee84281aa7a9b1746415a7bba7721bd5729afef89e54e52f79d22a5",
+    "preprintRhGrhEpistemicAuditSha256": "ae985030839d7734202b1b823667d02b83481b39e13fc5b8e32dccc60b3edd84",
     "mathematicalArchitecturePrimerSha256": "4445d5cc7cb8c7c9768386312afef3318804a47da338ce838391f0ba0aa806a0",
     "epistemicSpineExplorerHtmlSha256": "48762761b88530456c88e1510434cd42abc85e46238fe575f381d90cf27760bf",
-    "comparativeAuditAlpogeVsMasulloSha256": "ed8f8e9f8fb08e7d3e7ded3759dc3984d22da36ad3b30f2a6129f18afc959571",
-    "epistemicVerificationProtocolSha256": "f293521788777bf8a58719d5983b3a74aee49f205cfd7c4396923b93c586e1f1",
+    "comparativeAuditAlpogeVsMasulloSha256": "8461929f680ed8383ffe1749ba855a40bb6a32b845231aa78193d877467e068b",
+    "epistemicVerificationProtocolSha256": "aa2cece9bd190fa83cda449d162e217fc68cdc5db80c9fdfb3d7603652d50af8",
     "alpogeEpistemicSpineSummarySha256": "4ac1c7c8b7f6b5b59affad3ad764d3c4e9039b6f4a563d3cb289ebfa914c8c78",
-    "alpogeRhKernelCertificateSha256": "5756b2516de730892298dd9e70e38b971eedf4723eb88f9f7e8932c90aa879cc",
-    "comparativeEpistemicVerdictsSha256": "96e23094b7b36f88c34d49e0f55422a23941f4b8383f6196158e6ff4bda48a0f",
+    "alpogeRhKernelCertificateSha256": "11ae53305b106224bdc3e63e599fd1358af6c14317e589031717b6561e7de1d3",
+    "comparativeEpistemicVerdictsSha256": "ad553da555cfb63825d7a1f1aefad622fbe9926ea20df31dbef8a5631ad2e368",
     "alpogeStaticSoundnessSummarySha256": "6d2e7c9838b61e8970018d76dac8e81640764b06f9a871223b6e824f2bbd4393",
     "masulloForensicSummarySha256": "6af7c55b84961e221d6a6c91a1f3ebea3e0ff2c0f3960c4cef960755ace38f58",
     "alpogeRhAxiomsLogSha256": "590d5252e7e5a4e6d9faef1895216c77eb103d6667037d832eaedaa34fa3186d",
     "alpogeRhLeancheckerFreshLogSha256": "ff8ea3d0b4db9f21f2a09513a5b20c1d2d6d106566030aa7f21e50156966f95c",
     "lean4leanSummarySha256": "2a1275314add679b47ee4de7ee7601388489fff7d7e074ec6a18d36116f35a14",
-    "merkleRootSha256": "c15c2501ac460cac71caf12c8eda11adaa03f34b60622e9771a67d634bafec35"
+    "merkleRootSha256": "93b9d9ddc347e1a8d6576ffc9f74574865fb1c9bd02807f8c094352c0213bdf6"
   },
   "zenodoDeposition": {
     "status": "PUBLISHED",
-    "version": "1.2",
-    "depositionId": 24555893,
+    "version": "1.3",
+    "depositionId": 24581109,
     "conceptDoi": "10.5281/zenodo.24492309",
     "prereserveDoi": false,
-    "doi": "10.5281/zenodo.24555893",
-    "doiUrl": "https://doi.org/10.5281/zenodo.24555893",
-    "depositionUrl": "https://zenodo.org/records/24555893",
+    "doi": "10.5281/zenodo.24581109",
+    "doiUrl": "https://doi.org/10.5281/zenodo.24581109",
+    "depositionUrl": "https://zenodo.org/records/24581109",
     "permanentDoiMinted": true
   }
 }
