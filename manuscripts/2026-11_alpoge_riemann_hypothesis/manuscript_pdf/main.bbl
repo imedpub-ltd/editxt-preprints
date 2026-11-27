@@ -113,6 +113,18 @@ William~P. Thurston.
   1994.
 \newblock arXiv:math/9404236.
 
+\bibitem{adriazola2026}
+Jimmie Adriazola.
+\newblock Human-readable reconstruction of the {Alp{\"o}ge}--{Claude} {RH}
+  argument (commit \texttt{b50dae1}).
+\newblock \url{https://github.com/jimjamzola/RH-Alpoge-Reconstruction}, 2026.
+
+\bibitem{sernau2026}
+Luke Sernau, {Anthropic Colleagues}, and {Claude}.
+\newblock \texttt{grh-lean}: Readable {Lean 4} refactor of the {GRH}
+  formalization (commit \texttt{72fead1}).
+\newblock \url{https://github.com/lsernau/grh-lean}, 2026.
+
 \bibitem{menendez2026coresearcher}
 Manuel Men{\'e}ndez-Gonz{\'a}lez and {Fundaci{\'o}n de Neurociencias}.
 \newblock {CoResearcher}: An open system for coordinating scientific work

@@ -1,14 +1,14 @@
 {
   "manuscriptTitle": "Independent Formal Verification, Epistemic Spine Cartography, and Comparative Auditing of Riemann Hypothesis Proof Claims",
-  "dossierVersion": "v1.3.1",
-  "dossierReleaseUrl": "https://github.com/Fundacion-de-Neurociencias/riemann-hypothesis-audit-dossier/releases/tag/v1.3.1",
-  "dossierCommit": "f454515",
+  "dossierVersion": "v1.4",
+  "dossierReleaseUrl": "https://github.com/Fundacion-de-Neurociencias/riemann-hypothesis-audit-dossier/releases/tag/v1.4",
+  "dossierCommit": "0143de8",
   "authors": [
     "Manuel Menéndez-González"
   ],
   "affiliation": "Independent Researcher (No Institutional Affiliation Listed)",
   "targetVenue": "EdiTxt Preprints / International Archives (Multidisciplinary)",
-  "auditTimestamp": "2026-11-27T08:50:33.955Z",
+  "auditTimestamp": "2026-11-27T11:27:54.357Z",
   "publicationStatus": "CERTIFIED_PREPRINT",
   "formalStatus": "KERNEL_CHECKED_FRESH_REPLAYED_AND_FULL_LEAN4LEAN_V4_33_1",
   "verdict": "READY_FOR_PREPRINT",
@@ -16,7 +16,7 @@
   "isDryRunReservation": false,
   "invariantsAudit": {
     "titleHygiene": "PASSED",
-    "headingsHygiene": "PASSED (25/25 headings clean)",
+    "headingsHygiene": "PASSED (26/26 headings clean)",
     "privateRepoCitations": "PASSED (0 private repo links; public repositories only)",
     "hardwareSpecification": "PASSED (Apple M4 Max, 16-core ARM64, 64 GB unified memory, 98 GB build footprint)",
     "compilationMetricsVerified": "PASSED (127,812s, 175,187 modules, exit code 0, 183,889 .olean binaries)",
@@ -34,10 +34,10 @@
     "secondKernelCaveatsDocumented": "PASSED (leanchecker --fresh Main PASSED in 26,898s + full-archive lean4lean 175,187/175,187 PASSED in 204,972.82s noting C++ design lineage; clean-room flat-export nanoda / lean4export 46.47 GB RAM ceiling on 64 GB host documented honestly)",
     "interactiveExplorerIncluded": "PASSED (epistemic_spine_explorer.html with 6 motifs & 11 libraries)",
     "mathematicalPrimerIncluded": "PASSED (mathematical_architecture_primer.md with 3-level comprehension ladder)",
-    "comparativeAuditsIncluded": "PASSED (comparative_audit_alpoge_vs_masullo.md & epistemic_verification_protocol.md v1.3.1)"
+    "comparativeAuditsIncluded": "PASSED (comparative_audit_alpoge_vs_masullo.md, epistemic_verification_protocol.md & phase2_prose_reconstruction_cross_audit.json v1.4)"
   },
   "fileIntegrityHashes": {
-    "preprintRhGrhEpistemicAuditSha256": "8254147ac21339732749afab98a45aecaa02529f4185745608e4d1ef3045082c",
+    "preprintRhGrhEpistemicAuditSha256": "897631b5bfc5858ddf667f0ebf84618b5b189d27c627019052a992751a289675",
     "mathematicalArchitecturePrimerSha256": "4445d5cc7cb8c7c9768386312afef3318804a47da338ce838391f0ba0aa806a0",
     "epistemicSpineExplorerHtmlSha256": "48762761b88530456c88e1510434cd42abc85e46238fe575f381d90cf27760bf",
     "comparativeAuditAlpogeVsMasulloSha256": "9b2b935a7eb647706656ce303799639723fd3cca2d950ef470a579c3c12db885",
@@ -50,17 +50,18 @@
     "alpogeRhAxiomsLogSha256": "590d5252e7e5a4e6d9faef1895216c77eb103d6667037d832eaedaa34fa3186d",
     "alpogeRhLeancheckerFreshLogSha256": "ff8ea3d0b4db9f21f2a09513a5b20c1d2d6d106566030aa7f21e50156966f95c",
     "lean4leanSummarySha256": "2a1275314add679b47ee4de7ee7601388489fff7d7e074ec6a18d36116f35a14",
-    "merkleRootSha256": "17ecaaca00634729e32e3a9c2435bf9bfd25dbc778ce9ecce47cb056df46230e"
+    "phase2ProseReconstructionCrossAuditSha256": "1ff49f928a20ae157e2db0cf08904e2f3ae7f2b904ad765ca3fbb0672b83b2b2",
+    "merkleRootSha256": "3ccbb47cdcf60a1af71772ad55b5c86273fe9e94447257046d23127ae31779d2"
   },
   "zenodoDeposition": {
     "status": "PUBLISHED",
-    "version": "1.3.1",
-    "depositionId": 24582466,
+    "version": "1.4",
+    "depositionId": 24586394,
     "conceptDoi": "10.5281/zenodo.24492309",
     "prereserveDoi": false,
-    "doi": "10.5281/zenodo.24582466",
-    "doiUrl": "https://doi.org/10.5281/zenodo.24582466",
-    "depositionUrl": "https://zenodo.org/records/24582466",
+    "doi": "10.5281/zenodo.24586394",
+    "doiUrl": "https://doi.org/10.5281/zenodo.24586394",
+    "depositionUrl": "https://zenodo.org/records/24586394",
     "permanentDoiMinted": true
   }
 }

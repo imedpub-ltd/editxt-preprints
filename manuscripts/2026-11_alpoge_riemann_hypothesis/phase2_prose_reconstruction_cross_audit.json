@@ -1,0 +1,162 @@
+{
+  "audit_version": "phase2-prose-cross-audit/v1.4",
+  "audit_date_utc": "2026-11-27",
+  "target_repository": "https://github.com/jimjamzola/RH-Alpoge-Reconstruction",
+  "target_commit": "b50dae1",
+  "pinned_archive_commit": "40e56bab026552e089d7afcfeff08d2defb9c005",
+  "refactor_repository": "https://github.com/lsernau/grh-lean",
+  "refactor_commit": "72fead1",
+  "kernel_executed_in_phase2_repo": false,
+  "passage_ledger_audit": {
+    "verdict": "PARTIAL_COVERAGE_CLEAN_PIN",
+    "audit_sha256": "1afd43ed6cd45cc25db691ee4b6c32eb8488bd9a49411b7a42677af7f07c67dd",
+    "total_rows": 148,
+    "unique_passages": 60,
+    "unique_lean_declarations": 114,
+    "unique_lean_files": 75,
+    "declarations_per_passage": 1.9,
+    "commit_pin_mismatches": 0,
+    "missing_file_sha256_hashes": 0,
+    "fidelity_counts": {
+      "ALIGNED": 109,
+      "EXPOSITION_ONLY": 35,
+      "UNMAPPED": 3,
+      "OFF_ROUTE": 1
+    },
+    "conventional_status_counts": {
+      "CONDITIONAL": 110,
+      "VERIFIED_WITHIN_SCOPE": 35,
+      "INCOMPLETE": 3
+    },
+    "archive_layer_counts": {
+      "Formalism": 80,
+      "Development": 63,
+      "Supplements": 3,
+      "Main.lean": 2,
+      "ReciprocityTheory": 0,
+      "GroundTheory": 0,
+      "CompanionTheory": 0,
+      "PositivityTheory": 0
+    }
+  },
+  "statement_index_audit": {
+    "total_environments": 453,
+    "linked_environments": 12,
+    "linked_percentage": 2.65,
+    "pending_environments": 441,
+    "pending_percentage": 97.35,
+    "proof_bearing_environments": 345,
+    "proof_bearing_linked": 8,
+    "proof_bearing_linked_percentage": 2.32,
+    "kind_counts": {
+      "lemma": 171,
+      "proposition": 100,
+      "theorem": 53,
+      "hypothesis": 43,
+      "definition": 36,
+      "remark": 29,
+      "corollary": 20,
+      "theoremA": 1
+    },
+    "linked_kind_counts": {
+      "theorem": 3,
+      "proposition": 3,
+      "hypothesis": 2,
+      "definition": 2,
+      "theoremA": 1,
+      "lemma": 1
+    }
+  },
+  "residuals_and_omissions_audit": {
+    "verdict": "HONEST_PARTIAL_RECONSTRUCTION",
+    "audit_sha256": "2a4eff6c1f4bbce4c66e8299bf04b2869a4fe89a4e8963aadefbfdc3f601c6eb",
+    "source_artifact": "audit/Post_Closure_Internal_Residuals.md",
+    "source_date": "2026-11-21",
+    "author_clarification_date": "2026-11-23",
+    "author_clarification_note": "Dependency coverage |R_internal|=0 denotes route/mechanism packaging rather than completed conventional proof.",
+    "total_residual_packages": 12,
+    "residual_package_ids": [
+      "PC-1",
+      "PC-2",
+      "PC-3",
+      "PC-4",
+      "PC-5",
+      "PC-6",
+      "PC-7",
+      "SL-1",
+      "SL-2",
+      "SL-3",
+      "SL-4",
+      "SL-5"
+    ],
+    "mechanism_packaged_count": 12,
+    "dependency_coverage_ratio": 1.0,
+    "conventional_closure_ratio": 0.0,
+    "explicit_omissions_total": 29,
+    "explicit_omissions_by_file": {
+      "sec15_heights.tex": 12,
+      "sec12_loss.tex": 8,
+      "sec17_twisted.tex": 6,
+      "sec16_local.tex": 2,
+      "sec11_lifts.tex": 1
+    }
+  },
+  "external_boundary_v1_v20": {
+    "verdict": "BOUNDARY_GAPS_OPEN",
+    "audit_sha256": "d2684910b1111045b7f665b30b7b0ee48783bd2c82d70c64a33e97148ef0a379",
+    "source_artifact": "docs/EXTERNAL_THEOREMS.md",
+    "baseline_table_date": "2026-11-21",
+    "partial_audit_note_date": "2026-11-22",
+    "total_priority_leaves": 20,
+    "fully_reconciled_leaves": 0,
+    "reconciled_fraction": 0.0,
+    "partially_compared_ids": [
+      "V5",
+      "V8"
+    ],
+    "off_route_ids": [
+      "V17"
+    ]
+  },
+  "documented_prose_vs_formal_divergences": {
+    "source_artifact": "docs/STATUS.md",
+    "documented_date": "2026-11-26",
+    "earlier_manuscript_pages": 297,
+    "earlier_local_prose_errors_count": 3,
+    "earlier_local_prose_sections": [
+      "Section 5",
+      "Section 14",
+      "Section 17"
+    ],
+    "active_working_manuscript": "canonical/main.pdf",
+    "active_working_pages": 117,
+    "active_refactor_status": "conditional_pending_Appendix_E_inputs_and_statement_equivalence_replay"
+  },
+  "topological_convergence": [
+    {
+      "bottleneck": "Toroidal compactification & covolume hub",
+      "phase1_spine_ranks_and_motifs": "Ranks #1, #3, #4, #6, #8, #12 (ToroidalCompactification.{UniformisationConclusion, ValCalc, HeckeKer, CubeVal, IsHolPeriods, BCTools}) + #2 UnifUniqSt",
+      "phase2_reconstruction_items": "V7 (PublishedHodgeBundleTheorems, SiegelToroidalIntegral, ToroidalForFanKS) and PC-2 (exists_good_tower, SupModel.comp_bound)"
+    },
+    {
+      "bottleneck": "Siegel-Weil & Rallis constant term",
+      "phase1_spine_ranks_and_motifs": "Rank #14 SiegelWeilAnisotropicHermitian (fan-in 2,972) + RallisDM in GGP/Bessel Positivity (7,011 modules)",
+      "phase2_reconstruction_items": "V5-V6 (SiegelWeilStd, SiegelWeilUnitaryConvergent), V13 (Rallis, WeilConv), and PC-4 (finite-place seesaw)"
+    },
+    {
+      "bottleneck": "Iterated unitary theta lifts & Kato",
+      "phase1_spine_ranks_and_motifs": "Iterated Unitary Theta-Lift Chains (15,750 modules; KatoUse, SerreTate, DecoratedLatticeProofs)",
+      "phase2_reconstruction_items": "V4 (Kato), PC-1 (local integral Hodge-Tate), and PC-5 (lattice counting)"
+    },
+    {
+      "bottleneck": "Arakelov / Bost slope bounds",
+      "phase1_spine_ranks_and_motifs": "Bost Slope & Arakelov-Iwasawa Descent (13,010 modules)",
+      "phase2_reconstruction_items": "V11 (SlopeBoundSt)"
+    },
+    {
+      "bottleneck": "Galois modularity / R = T patching",
+      "phase1_spine_ranks_and_motifs": "Galois Modularity & Cohomological Patching (109,260 modules; DenseThresholdCases)",
+      "phase2_reconstruction_items": "V14-V15 (CoefWeightedLoc, Thorne R = T) and passage-ledger DenseThresholdCases/KFinal.lean"
+    }
+  ]
+}

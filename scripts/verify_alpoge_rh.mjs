@@ -17,6 +17,7 @@ const masulloForensicJsonPath = join(targetDir, 'masullo_forensic_summary.json')
 const logPath = join(targetDir, 'alpoge_rh_axioms.log');
 const freshLogPath = join(targetDir, 'alpoge_rh_leanchecker_fresh.log');
 const lean4leanSummaryPath = join(targetDir, 'lean4lean_summary.json');
+const phase2CrossAuditPath = join(targetDir, 'phase2_prose_reconstruction_cross_audit.json');
 
 const manuscriptContent = readFileSync(manuscriptPath, 'utf8');
 const hashFile = (p) => createHash('sha256').update(readFileSync(p)).digest('hex');
@@ -35,6 +36,7 @@ const masulloForensicHash = hashFile(masulloForensicJsonPath);
 const logHash = hashFile(logPath);
 const freshLogHash = hashFile(freshLogPath);
 const lean4leanSummaryHash = hashFile(lean4leanSummaryPath);
+const phase2CrossAuditHash = hashFile(phase2CrossAuditPath);
 
 const expectedFreshLogSha256 = 'ff8ea3d0b4db9f21f2a09513a5b20c1d2d6d106566030aa7f21e50156966f95c';
 if (freshLogHash !== expectedFreshLogSha256) {
@@ -53,7 +55,7 @@ const forbiddenPattern = /\b(Nature|Science|Cell|Lancet|NEJM|JAMA|medRxiv|bioRxi
 const titleClean = !forbiddenPattern.test(title);
 const badHeadings = headings.filter(h => forbiddenPattern.test(h.replace(/^#{1,6}\s+/, '')));
 
-// 3. Merkle Root Hash (v1.3 includes all 13 synchronized dossier & certificate files)
+// 3. Merkle Root Hash (v1.4 includes all 14 synchronized dossier & certificate files)
 const merkleRoot = createHash('sha256')
   .update(
     manuscriptHash +
@@ -68,15 +70,16 @@ const merkleRoot = createHash('sha256')
     masulloForensicHash +
     logHash +
     freshLogHash +
-    lean4leanSummaryHash
+    lean4leanSummaryHash +
+    phase2CrossAuditHash
   )
   .digest('hex');
 
 const receipt = {
   manuscriptTitle: title,
-  dossierVersion: 'v1.3.1',
-  dossierReleaseUrl: 'https://github.com/Fundacion-de-Neurociencias/riemann-hypothesis-audit-dossier/releases/tag/v1.3.1',
-  dossierCommit: 'f454515',
+  dossierVersion: 'v1.4',
+  dossierReleaseUrl: 'https://github.com/Fundacion-de-Neurociencias/riemann-hypothesis-audit-dossier/releases/tag/v1.4',
+  dossierCommit: '0143de8',
   authors: ['Manuel Menéndez-González'],
   affiliation: 'Independent Researcher (No Institutional Affiliation Listed)',
   targetVenue: 'EdiTxt Preprints / International Archives (Multidisciplinary)',
@@ -106,7 +109,7 @@ const receipt = {
     secondKernelCaveatsDocumented: 'PASSED (leanchecker --fresh Main PASSED in 26,898s + full-archive lean4lean 175,187/175,187 PASSED in 204,972.82s noting C++ design lineage; clean-room flat-export nanoda / lean4export 46.47 GB RAM ceiling on 64 GB host documented honestly)',
     interactiveExplorerIncluded: 'PASSED (epistemic_spine_explorer.html with 6 motifs & 11 libraries)',
     mathematicalPrimerIncluded: 'PASSED (mathematical_architecture_primer.md with 3-level comprehension ladder)',
-    comparativeAuditsIncluded: 'PASSED (comparative_audit_alpoge_vs_masullo.md & epistemic_verification_protocol.md v1.3.1)'
+    comparativeAuditsIncluded: 'PASSED (comparative_audit_alpoge_vs_masullo.md, epistemic_verification_protocol.md & phase2_prose_reconstruction_cross_audit.json v1.4)'
   },
   fileIntegrityHashes: {
     preprintRhGrhEpistemicAuditSha256: manuscriptHash,
@@ -122,17 +125,18 @@ const receipt = {
     alpogeRhAxiomsLogSha256: logHash,
     alpogeRhLeancheckerFreshLogSha256: freshLogHash,
     lean4leanSummarySha256: lean4leanSummaryHash,
+    phase2ProseReconstructionCrossAuditSha256: phase2CrossAuditHash,
     merkleRootSha256: merkleRoot
   },
   zenodoDeposition: {
     status: 'PUBLISHED',
-    version: '1.3.1',
-    depositionId: 24582466,
+    version: '1.4',
+    depositionId: 24586394,
     conceptDoi: '10.5281/zenodo.24492309',
     prereserveDoi: false,
-    doi: '10.5281/zenodo.24582466',
-    doiUrl: 'https://doi.org/10.5281/zenodo.24582466',
-    depositionUrl: 'https://zenodo.org/records/24582466',
+    doi: '10.5281/zenodo.24586394',
+    doiUrl: 'https://doi.org/10.5281/zenodo.24586394',
+    depositionUrl: 'https://zenodo.org/records/24586394',
     permanentDoiMinted: true
   }
 };
@@ -140,7 +144,7 @@ const receipt = {
 const receiptPath = join(targetDir, 'merkle_receipt.json');
 writeFileSync(receiptPath, JSON.stringify(receipt, null, 2), 'utf8');
 
-console.log('=== AUDITORIA DE INTEGRIDAD & RECEPCION EDITORIAL DEFINITIVA v1.3.1 ===');
+console.log('=== AUDITORIA DE INTEGRIDAD & RECEPCION EDITORIAL DEFINITIVA v1.4 ===');
 console.log(`Title: ${title}`);
 console.log(`Dossier Version: ${receipt.dossierVersion} (commit ${receipt.dossierCommit})`);
 console.log(`Formal Status: ${receipt.formalStatus}`);
@@ -149,6 +153,6 @@ console.log(`Headings Hygiene: ${receipt.invariantsAudit.headingsHygiene}`);
 console.log(`Fresh Log SHA-256: ${freshLogHash} (MATCHED)`);
 console.log(`lean4lean Summary SHA-256: ${lean4leanSummaryHash} (MATCHED)`);
 console.log(`Status: ${receipt.publicationStatus} (${receipt.verdict})`);
-console.log(`Zenodo DOI v1.3.1: ${receipt.zenodoDeposition.doi} (Concept DOI: ${receipt.zenodoDeposition.conceptDoi})`);
-console.log(`Merkle Root (v1.3.1): ${merkleRoot}`);
+console.log(`Zenodo DOI v1.4: ${receipt.zenodoDeposition.doi} (Concept DOI: ${receipt.zenodoDeposition.conceptDoi})`);
+console.log(`Merkle Root (v1.4): ${merkleRoot}`);
 console.log(`Receipt saved: ${receiptPath}`);
