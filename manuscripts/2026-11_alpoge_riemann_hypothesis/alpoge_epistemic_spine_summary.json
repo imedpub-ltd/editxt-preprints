@@ -4,6 +4,10 @@
   "active_cone_modules_count": 175187,
   "max_dag_depth": 43,
   "total_theorems_and_lemmas": 818755,
+  "motif_non_exclusive_hit_sum": 151457,
+  "motif_unique_covered_modules": 125723,
+  "motif_multi_hit_modules": 21082,
+  "motif_unmatched_modules": 49464,
   "library_stratification": {
     "Main": { "modules": 1, "theorems_and_lemmas": 5, "min_depth": 0, "max_depth": 0 },
     "Statements": { "modules": 1, "theorems_and_lemmas": 0, "min_depth": 0, "max_depth": 0 },

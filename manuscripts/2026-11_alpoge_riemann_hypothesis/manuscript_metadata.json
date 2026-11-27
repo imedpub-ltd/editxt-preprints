@@ -1,14 +1,14 @@
 {
   "manuscript_id": "2026-11_alpoge_riemann_hypothesis",
   "title": "Independent Formal Verification, Epistemic Spine Cartography, and Comparative Auditing of Riemann Hypothesis Proof Claims",
-  "version": "1.3",
+  "version": "1.3.1",
   "status": "CERTIFIED_PREPRINT",
   "verdict": "READY_FOR_PREPRINT",
   "is_published": true,
   "is_finished": true,
   "publication_blocked": false,
   "permanent_doi_minted": true,
-  "zenodo_doi": "10.5281/zenodo.24581109",
+  "zenodo_doi": "10.5281/zenodo.24582466",
   "zenodo_concept_doi": "10.5281/zenodo.24492309",
   "authors": [
     {
@@ -88,7 +88,7 @@
     "nanoda_lean4export": "Single-threaded monolithic NDJSON export (~61.57 GB full) stalled at 46.47 GB on 64 GB host (clean-room flat export requires 82.6-98.8 GiB+ RAM)"
   },
   "public_dossier": "https://github.com/Fundacion-de-Neurociencias/riemann-hypothesis-audit-dossier",
-  "public_dossier_release": "https://github.com/Fundacion-de-Neurociencias/riemann-hypothesis-audit-dossier/releases/tag/v1.3",
+  "public_dossier_release": "https://github.com/Fundacion-de-Neurociencias/riemann-hypothesis-audit-dossier/releases/tag/v1.3.1",
   "automated_platform": "https://github.com/Fundacion-de-Neurociencias/coresearcher",
-  "updated_at": "2026-11-27T08:53:00Z"
+  "updated_at": "2026-11-27T09:47:30Z"
 }
